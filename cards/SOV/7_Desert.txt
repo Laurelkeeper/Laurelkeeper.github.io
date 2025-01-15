@@ -1,0 +1,1 @@
+﻿Desert		special	Token Land – Desert 	7	C		T: Add C.			token	SOV		

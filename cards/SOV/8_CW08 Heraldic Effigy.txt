@@ -1,0 +1,1 @@
+﻿CW08 Heraldic Effigy	W	common	Artifact	8	W	3W	When this artifact enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter and a flying counter on it.NEWLINEWhenever a Soldier or Army you control attacks, it gets +1/+0 until end of turn.			normal	SOV		CW08,Medium Creature,4,flying ,Wax-Wane Witness

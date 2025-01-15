@@ -1,0 +1,330 @@
+14_MW01 Small Creature
+54_MU01 Small Creature
+94_MB01 Kajiwara, Spark of Sorrow
+131_MR01 MediumWall Creature
+170_MG01 Medium Creature
+15_MW02 Small Creature
+55_MU02 Medium Creature
+95_MB02 Large Creature
+132_MR02 Large Creature
+171_MG02 Noncreature
+16_MW03 Eni, Oldsteel Reforged
+56_MU03 Noncreature
+96_RB01 Small Creature
+133_MR03 Leygrid Rupture
+172_RG01 Jungle Ruin-Keeper
+17_RW01 Eni, Alabaster Gladiator
+57_RU01 Small Creature
+97_RB02 Small Creature
+134_RR01 Small Creature
+173_RG02 Than, Desolate Scavenger
+18_RW01 Small Creature
+58_RU02 Small Creature
+98_RB03 Kai'Ji, Legion Conscript
+135_RR02 Small Creature
+174_RG03 Small Creature
+19_RW02 Small Creature
+59_RU03 Small Creature
+99_RB04 Small Creature
+136_RR03 Small Creature
+175_RG04 Small Creature
+20_RW03 Medium Creature
+60_RU04 Small Creature
+100_RB05 Medium Creature
+137_RR04 Medium Creature
+176_RG05 Small Creature
+21_RW04 Medium Creature
+61_RU05 Small Creature
+101_RB06 Noncreature
+138_RR05 Cera, Skycaptain
+177_RG06 Medium Creature
+22_RW05 Medium Creature
+62_RU06 Steelflow Shoalweaver
+102_RB07 Noncreature
+139_RR06 Medium Creature
+178_RG07 Savage Sandthresher
+23_RW06 Leycharged Spirit-Drinker
+63_RU07 Noncreature
+103_RB08 Oldsteel Reclamation
+140_RR07 Large Creature
+179_RG08 Large Creature
+24_RW07 Leygrid Railracer
+64_RU08 Noncreature
+104_UB01 Ruin Scrounger
+141_RR08 Noncreature
+180_RG09 Noncreature
+25_RW08 Noncreature
+65_RU09 Noncreature
+105_UB02 Benefaction Recruiter
+142_RR09 Noncreature
+181_RG10 Noncreature
+26_RW09 Visage of the Core
+66_RU10 Noncreature
+106_UB03 Relentless Steelhound
+143_UR01 Ingenious Augmenter
+182_RG11 Noncreature
+27_UW01 Legion Instigator
+67_UU01 Scavenger Sprite
+107_UB04 Dunland Pioneer
+144_UR02 Starved Brute
+183_UG01 Dustborn Leytracer
+28_UW02 Legion Skirmisher
+68_UU02 Steelbound Protector
+108_UB05 Alloyed Devotee
+145_UR03 Sanctuary Enforcer
+184_UG02 Fetid Dunekeeper
+29_UW03 Crafty Chartwright
+69_UU03 Novice Mutalist
+109_UB06 Air-Squad Marshal
+146_UR04 Leycharged Ravager
+185_UG03 Armored Sandscraper
+30_UW04 Resolute Surveyor
+70_UU04 Flamboyant Refurbisher
+110_UB07 Rustfeeder Hulk
+147_UR05 Breachblade Gladiator
+186_UG04 Forlorn Scavenger
+31_UW05 Many-Limbed Scrapweaver
+71_UU05 Whirler Rogue
+111_UB08 Legion Commander
+148_UR06 Tunnel-Hunter Griff
+187_UG05 Dunland Trophysage
+32_UW06 Shocklance Sentinel
+72_UU06 Dune-Quartz Drake
+112_UB09 Calamity Cascade
+149_UR07 Charred Cavalry
+188_UG06 Roaming Monitor
+33_UW07 Winged Scrapseeker
+73_UU07 Ruined Animator
+113_UB10 Perilous Excavation
+150_UR08 Catastrophic Infusion
+189_UG07 Steelskin Coreguard
+34_UW08 Augmented Convoy
+74_UU08 Oldsteel Interdictor
+114_UB11 Augmented Ascent
+151_UR09 Oldsteel Terraformer
+190_UG08 Cunning Dunbreaker
+35_UW09 Dunland Maestro
+75_UU09 Forsaken Submersible
+115_UB12 Grind to Dust
+152_UR10 Market's Bustle
+191_UG09 Sanctuary Rotlurker
+36_UW10 Ketriff Valley Blockade
+76_UU10 Relentless Repurposing
+116_UB13 Skora Dunes Hunt
+153_UR11 Arcstrike Ambush
+192_UG10 Oldsteel Parasite
+37_UW11 Arcflare
+77_UU11 Tinkerer's Bracers
+117_UB14 Oldsteel Tombkeeper
+154_UR12 Scrapper Tactics
+193_UG11 Oldsteel Aberrant
+38_UW12 Oldsteel Regnant
+78_UU12 Infused Madness
+81_CB01 Enigmatic Wayfarer
+155_UR13 Sucessful Salvage
+194_UG12 Sanctuary Radiance
+39_UW13 Scrapper's Pirouette
+79_UU13 Oldsteel Foundry Expedition
+82_CB02 Canny Reserves
+156_UR14 Leygrid Mutation
+195_UG13 Awakening Site
+40_UW14 Coordinated Salvo
+80_UU14 Sap Energy
+83_CB03 Oldsteel Prophet
+118_CR01 Howling Lancer
+196_UG14 Oldsteel Terravator
+1_CW01 Waywalker
+41_CU01 Refurbished Wanderer
+84_CB04 Dunland Escort
+119_CR02 Ambling Safe
+157_CG01 Break Down
+2_CW02 Ruinguard Captain
+42_CU02 Sanctuary Brushwing
+85_CB05 Imposing Barracks
+120_CR03 Augmented Charger
+158_CG02 Curious Cactail
+3_CW03 Steelbeater Stalwart
+43_CU03 Fanatic Engineer
+86_CB06 Legion Blackguard
+121_CR04 Scrapyard Patrol
+159_CG03 Life-Crowned Caelan
+4_CW04 Quickwit Wayfarer
+44_CU04 Oldsteel Progenitor
+87_CB07 Wasteland Standard-Bearer
+122_CR05 Reckless Racers
+160_CG04 Steelclad Bruiser
+5_CW05 Ambitious Scrapglider
+45_CU05 Brightmind Raider
+88_CB08 Oldsteel Whispers
+123_CR06 Arcweld Armorer
+161_CG05 Wasteland Pathfinders
+6_CW06 Watchful Peacekeeper
+46_CU06 Scrappy Arcslinger
+89_CB09 Thread of Malice
+124_CR07 Rubblerouser
+162_CG06 Sanctuary Vizier
+7_CW07 Rumblehorn Division
+47_CU07 Unearthed Industry
+90_CB10 Legion Coordinator
+125_CR08 Voltage Surge
+163_CG07 Mandiblade Scuttler
+8_CW08 Heraldic Effigy
+48_CU08 Refurbisher Virtuoso
+91_CB11 In the Shadow of Desolation
+126_CR09 Dune Drake Ambush
+164_CG08 Oasis Tortoise
+9_CW09 Dunland Vigilante
+49_CU09 Disruption Pulse
+92_CB12 Ancient Uplink
+127_CR10 Scavenger's Spark
+165_CG09 Sandwoken Brute
+10_CW10 Timely Tune-Up
+50_CU10 Dynamic Repulsion
+93_CB13 Oldsteel Imperator
+128_CR11 Salvaged Powerbrand
+166_CG10 Oasis Derelict
+11_CW11 Steelbound Standoff
+51_CU11 Thoughtscatter
+e
+129_CR12 Oldsteel Forgemaster
+167_CG11 Sanctuary Fervor
+12_CW12 Oldsteel Judge
+52_CU12 Wasteland Beacons
+e
+130_CR13 Slag Meltdown
+168_CG12 Across the Desolate Wild
+13_CW13 Scrapper Spirit
+53_CU13 Scrapyard Detour
+e
+e
+169_CG13 Sanctuary Blessing
+er
+er
+er
+er
+er
+219_RM13 Large Creature
+197_The Enigmatic Benefactor
+201_MM04 Medium Creature
+204_MM07 Large Creature
+203_MM06 Medium Creature
+236_UMUW Augmented Scrapper
+209_RM04 Hand of the Benefactor
+210_RM05 Medium Creature
+212_RM07 Desiccate
+206_RM01 Small Creature
+237_UMUW Leygrid Anchor
+232_UMUB Benefaction Associate
+222_UMBR Kroddar, Steel-Scourge
+228_UMRG Oldsteel Kinkeeper
+226_UMGW Thessalie, Dunland Pilgrim
+247_CZ08 Hoverbike Courier
+233_UMUB Leygrid Interlink
+223_UMBR Slagborn Elemental
+229_UMRG Patch, Brutal Scavenger
+227_UMGW Wasteland Surveyor
+e
+248_CZ09 Opportunistic Vagabond
+244_CZ05 Warwaste Gladiator
+249_CZ10 Savage Scavenger
+242_CZ03 Scuttling Sandrover
+er
+er
+er
+er
+er
+198_MM01 Legion's Emissary
+205_MM08 Large Creature
+211_RM06 Medium Creature
+199_MM02 Paris, Charming Voyager
+214_RM09 TALOS, Heart of Vikaar
+207_RM02 Small Creature
+208_RM03 Small Creature
+217_RM11 Medium Creature
+202_MM05 Medium Creature
+216_RM10 Sudden Raid
+215_RM10 Medium Creature
+220_UMBG Fetid Incubator
+224_UMGU Cruin, Elder Caelan
+218_RM12 Medium Creature
+230_UMRW Alacsis, Joyful Tyrant
+238_UMWB Othar, Dunland Champion
+221_UMBG Sanctuary Renegade
+225_UMGU Oasis Guardian
+234_UMUR Estle, Leygrid Mutalist
+231_UMRW Raider's Zeal
+239_UMWB Steeltouched Frontliners
+243_CZ04 Leyrot Haunt
+240_CZ01 Oldsteel Revelation
+235_UMUR The Lost and the Damned
+246_CZ07 Alacsis's Judiciary
+245_CZ06 Legion Sky Monitor
+e
+e
+241_CZ02 Sparkmind Tinkerer
+e
+er
+er
+er
+er
+er
+200_MM03 Medium Creature
+213_RM08 Medium Creature
+e
+e
+e
+er
+er
+er
+er
+er
+253_RA01 Noncreature
+254_UA01 Alloyed Coronet
+255_UA02 Fractured Leytower
+256_UA03 Looming Steelsplinters
+257_UA04 Oldsteel Pathlighter
+258_UA05 Oldsteel Scriptstaff
+250_CA01 Anodized Pilgrim
+251_CA02 Ruined Colossus
+252_CA04 Dormant Harvester
+1_﻿Sands of Vikaar archetypes.
+er
+er
+er
+er
+er
+262_UL01 Sky-Marked Vantage
+263_UL02 Veil-Marked Ruin
+264_UL03 Grave-Marked Crag
+265_UL04 Rust-Marked Knoll
+266_UL05 Still-Marked Divide
+267_UL06 Age-Marked Shrine
+269_UL08 Roil-Marked Passage
+271_UL10 Mist-Marked Strand
+268_UL07 Steam-Marked Dune
+270_UL09 Awe-Marked Monument
+er
+er
+er
+er
+er
+272_UL11 Windswept Waystone
+259_CL01 Ancient Font
+260_CL02 Sand-Scoured Foundry
+261_CL03 Alacsis' Encampment
+273_Wayfarer's Shrine
+er
+er
+er
+er
+er
+2t_Spawn
+3t_Sand Whale
+4t_Golem
+5t_Junk
+6t_Treasure
+7t_Desert
+e
+e
+e
+e

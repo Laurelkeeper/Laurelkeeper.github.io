@@ -1,0 +1,1 @@
+﻿CR12 Oldsteel Forgemaster	R	common	Kindred Artifact – Artificer 	129	R	2R	When this artifact enters, creatures you control get +2/+0 and gain haste until end of turn.NEWLINERetrofit 5RR (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CR12,Noncreature,3,,Agate Assault

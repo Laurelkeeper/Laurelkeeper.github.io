@@ -1,0 +1,1 @@
+﻿RW01 Small Creature	W	rare	Creature	18	W	1W				normal	SOV		RW01,Small Creature,2,flying ,Essence Channeler

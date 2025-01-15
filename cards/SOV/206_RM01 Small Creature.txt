@@ -1,0 +1,1 @@
+﻿RM01 Small Creature	WG	rare	Creature	206	WG	GW				normal	SOV		RM01,Small Creature,2,GW ,Finneas, Ace Archer

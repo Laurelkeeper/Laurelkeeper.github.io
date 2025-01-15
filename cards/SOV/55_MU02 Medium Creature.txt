@@ -1,0 +1,1 @@
+﻿MU02 Medium Creature	U	mythic	Creature	55	U	3U				normal	SOV		MU02,Medium Creature,4,,Eluge, the Shoreless Sea

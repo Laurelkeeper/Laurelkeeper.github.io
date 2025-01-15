@@ -1,0 +1,1 @@
+﻿CG09 Sandwoken Brute	G	common	Creature – Shark Beast 	165	G	4GG	TrampleNEWLINEWhenever this creature attacks, put a +1/+1 counter on another target creature you control.NEWLINEDesertcycling 2 (2, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)	6/5		normal	SOV		CG09,Medium Creature,4,,Treetop Sentries

@@ -1,0 +1,1 @@
+﻿CU04 Oldsteel Progenitor	U	common	Kindred Artifact – Artificer 	44	U	2U	When this artifact enters, create a 2/2 colorless Cyborg artifact creature token.NEWLINERetrofit 3UU (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CU08,Medium Creature,5,flying ,Skyskipper Duo

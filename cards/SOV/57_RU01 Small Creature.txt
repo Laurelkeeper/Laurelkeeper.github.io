@@ -1,0 +1,1 @@
+﻿RU01 Small Creature	U	rare	Creature	57	U	U				normal	SOV		RU01,Small Creature,1,,Stormchaser's Talent

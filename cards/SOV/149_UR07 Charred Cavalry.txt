@@ -1,0 +1,1 @@
+﻿UR07 Charred Cavalry	R	uncommon	Artifact Creature – Construct Soldier 	149	R	4R	At the beginning of combat on your turn, create a 1/1 white Soldier creature token. It gains haste until end of turn.NEWLINE1R: Creature tokens you control get +1/+0 until end of turn.	4/4		normal	SOV		UR07,Medium Creature,5,,Reptilian Recruiter

@@ -1,0 +1,1 @@
+﻿CB12 Ancient Uplink	B	common	Sorcery	92	B	2B	Target player discards two cards. You may sacrifice an artifact or creature. If you do, you draw a card.			normal	SOV		CB11,Noncreature,3,,Psychic Whorl

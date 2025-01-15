@@ -1,0 +1,1 @@
+﻿CB01 Enigmatic Wayfarer	B	common	Creature – Demon Nomad 	81	B	B	Whenever this creature enters or dies, it deals 1 damage to target player or battle. You gain 1 life.	1/1		normal	SOV		CB06,Medium Creature,4,,Thornplate Intimidator

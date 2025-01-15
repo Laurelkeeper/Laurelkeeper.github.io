@@ -1,0 +1,1 @@
+﻿UB01 Ruin Scrounger	B	uncommon	Creature – Mutant Rat Dog 	104	B	B	This creature enters tapped.NEWLINEWhenever you attack, if two or more cards left your library this turn, return this creature from your graveyard to the battlefield tapped and attacking.	2/1		normal	SOV		UB01,Small Creature,1,,Bonecache Overseer

@@ -1,0 +1,1 @@
+﻿RG04 Small Creature	G	rare	Creature	175	G	1G				normal	SOV		RG04,Small Creature,2,,Tender Wildguide

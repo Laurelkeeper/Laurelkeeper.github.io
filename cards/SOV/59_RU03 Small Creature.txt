@@ -1,0 +1,1 @@
+﻿RU03 Small Creature	U	rare	Creature	59	U	1U				normal	SOV		RU03,Small Creature,2,,Azure Beastbinder

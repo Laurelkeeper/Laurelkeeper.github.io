@@ -1,0 +1,1 @@
+﻿CZ06 Legion Sky Monitor	WB	common	Creature – Harpy Soldier Scout 	245	WB	1W/BW/B	Flying, lifelinkNEWLINEThis creature gets +1/+1 as long as you control an Army or another Soldier.	1/2		normal	SOV		CZ06,Medium Creature,3,flying WB ,Moonrise Cleric

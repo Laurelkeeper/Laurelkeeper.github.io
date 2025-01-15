@@ -1,0 +1,1 @@
+﻿RW05 Medium Creature	W	rare	Creature	22	W	3W				normal	SOV		RW05,Medium Creature,4,flying flash ,Salvation Swan

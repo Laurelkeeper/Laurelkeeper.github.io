@@ -1,0 +1,1 @@
+﻿UU01 Scavenger Sprite	U	uncommon	Creature – Faerie Nomad 	67	U	U	FlyingNEWLINEWhenever the second card leaves your library each turn, target creature you control has base power 3 until end of turn.	0/3		normal	SOV		UU01,Small Creature,1,,Into the Flood Maw

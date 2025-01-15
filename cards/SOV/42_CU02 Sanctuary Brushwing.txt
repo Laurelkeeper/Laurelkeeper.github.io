@@ -1,0 +1,1 @@
+﻿CU02 Sanctuary Brushwing	U	common	Creature – Plant Bird 	42	U	1U	FlyingNEWLINEWhenever this creature attacks, if two or more cards left your library this turn, scry 1. This creature gets +1/+0 until end of turn.	1/3		normal	SOV		CU02,Small Creature,2,,Thought Shucker

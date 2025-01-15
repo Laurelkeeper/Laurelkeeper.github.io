@@ -1,0 +1,1 @@
+﻿RM05 Medium Creature	BR	rare	Creature	210	BR	BR				normal	SOV		RM05,Medium Creature,2,BR ,Gev, Scaled Scorch

@@ -1,0 +1,1 @@
+﻿UW13 Scrapper's Pirouette	W	uncommon	Instant	39	W	1W	Exile target creature or artifact you control, then return it to the battlefield under its owner’s control. It gains hexproof and indestructible until end of turn. If it’s a creature, it also gets +2/+0 until end of turn.			normal	SOV		UW11,Medium Creature,3,flash ,Mouse Trapper

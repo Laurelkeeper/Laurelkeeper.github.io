@@ -1,0 +1,1 @@
+﻿UU12 Infused Madness	U	uncommon	Instant	78	U	1UU	Choose one – NEWLINE• Counter target spell.NEWLINE• Create a tapped 3/3 red Spawn creature token.			normal	SOV		UU12,Noncreature,2,,Gossip's Talent

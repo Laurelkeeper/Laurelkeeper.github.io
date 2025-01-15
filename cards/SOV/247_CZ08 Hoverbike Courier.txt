@@ -1,0 +1,1 @@
+﻿CZ08 Hoverbike Courier	WU	common	Creature – Human Scout 	247	WU	2W/UW/U	FlyingNEWLINEWhenever this creature attacks, target artifact creature you control gains flying until end of turn.	2/4		normal	SOV		CZ08,Medium Creature,4,flying WU ,Seedpod Squire

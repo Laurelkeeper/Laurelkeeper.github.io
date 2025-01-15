@@ -1,0 +1,1 @@
+﻿RA01 Noncreature		rare	Artifact	253	C					normal	SOV		RA01,Noncreature,3,,Sword of Vengeance

@@ -1,0 +1,1 @@
+﻿CG10 Oasis Derelict	G	common	Artifact	166	G	G	When this artifact enters, put a +1/+1 counter on up to one target creature.NEWLINERetrofit 3G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CG11,Noncreature,1,,High Stride

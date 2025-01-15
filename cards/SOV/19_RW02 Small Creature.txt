@@ -1,0 +1,1 @@
+﻿RW02 Small Creature	W	rare	Creature	19	W	2W				normal	SOV		RW02,Small Creature,3,flying ,Jackdaw Savior

@@ -1,0 +1,1 @@
+﻿CL01 Ancient Font		common	Land – Desert 	259	C		T, Sacrifice this land: Add one mana of any color. Create a tapped colorless Desert land token with “T: Add C.”			normal	SOV		RL01,Small Creature,0,,Fountainport

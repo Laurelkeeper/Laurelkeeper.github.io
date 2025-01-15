@@ -1,0 +1,1 @@
+﻿CW01 Waywalker	W	common	Creature – Cyborg Scout 	1	W	W	VigilanceNEWLINEThis creature gets +1/+0 as long as you control a Desert.NEWLINEThis creature gets +0/+1 as long as you control an artifact.	1/2		normal	SOV		CW01,Small Creature,1,,Brave-Kin Duo

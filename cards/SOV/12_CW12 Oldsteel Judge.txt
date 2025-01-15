@@ -1,0 +1,1 @@
+﻿CW12 Oldsteel Judge	W	common	Kindred Artifact – Advisor 	12	W	2W	When this artifact enters, exile target nonland permanent an opponent controls until this artifact leaves the battlefield.NEWLINERetrofit 5WW (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CW12,Noncreature,3,,Banishing Light

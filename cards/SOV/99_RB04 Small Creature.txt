@@ -1,0 +1,1 @@
+﻿RB04 Small Creature	B	rare	Creature	99	B	3B				normal	SOV		RB04,Small Creature,4,,Wick, the Whorled Mind

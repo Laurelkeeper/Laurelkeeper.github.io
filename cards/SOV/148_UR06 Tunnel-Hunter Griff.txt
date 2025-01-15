@@ -1,0 +1,1 @@
+﻿UR06 Tunnel-Hunter Griff	R	uncommon	Creature – Griffin Mutant 	148	R	3R	HasteNEWLINEWhenever you sacrifice a permanent, target creature can’t block this turn.	4/3		normal	SOV		UR05,Medium Creature,4,,Brambleguard Captain

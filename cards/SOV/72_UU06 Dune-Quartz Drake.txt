@@ -1,0 +1,1 @@
+﻿UU06 Dune-Quartz Drake	U	uncommon	Creature – Elemental Drake 	72	U	3UU	FlyingNEWLINEWhen this creature enters, draw a card, then discard a card.NEWLINEWhenever the second card leaves your library each turn, creatures you don’t control get -2/-0 until end of turn.	4/4		normal	SOV		UU06,Medium Creature,3,,Long River Lurker

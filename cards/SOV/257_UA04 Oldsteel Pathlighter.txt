@@ -1,0 +1,1 @@
+﻿UA04 Oldsteel Pathlighter		uncommon	Kindred Artifact – Nomad  	257	C	3	Artifact creatures you control get +1/+1.NEWLINERetrofit 2 (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		UA01,Small Creature,4,flying ,Starforged Sword

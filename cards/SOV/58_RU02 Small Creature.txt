@@ -1,0 +1,1 @@
+﻿RU02 Small Creature	U	rare	Creature	58	U	U				normal	SOV		RU02,Small Creature,1,flying ,Mockingbird

@@ -1,0 +1,2993 @@
+﻿[CustomCards]
+	[	{
+			"name": "Sands of Vikaar archetypes.",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/1_Sands of Vikaar archetypes..png"
+			}
+		},
+		{
+			"name": "CW01 Waywalker",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cyborg Scout ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/1_CW01 Waywalker.png"
+			}
+		},
+		{
+			"name": "CW02 Ruinguard Captain",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/2_CW02 Ruinguard Captain.png"
+			}
+		},
+		{
+			"name": "CW06 Watchful Peacekeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/6_CW06 Watchful Peacekeeper.png"
+			}
+		},
+		{
+			"name": "CW04 Quickwit Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/4_CW04 Quickwit Wayfarer.png"
+			}
+		},
+		{
+			"name": "CW05 Ambitious Scrapglider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/5_CW05 Ambitious Scrapglider.png"
+			}
+		},
+		{
+			"name": "CW03 Steelbeater Stalwart",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/3_CW03 Steelbeater Stalwart.png"
+			}
+		},
+		{
+			"name": "CW07 Rumblehorn Division",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Beast Soldier ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/7_CW07 Rumblehorn Division.png"
+			}
+		},
+		{
+			"name": "CW08 Heraldic Effigy",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/8_CW08 Heraldic Effigy.png"
+			}
+		},
+		{
+			"name": "CW09 Dunland Vigilante",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/9_CW09 Dunland Vigilante.png"
+			}
+		},
+		{
+			"name": "CW10 Timely Tune-Up",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/10_CW10 Timely Tune-Up.png"
+			}
+		},
+		{
+			"name": "CW11 Steelbound Standoff",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Encounter ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/11_CW11 Steelbound Standoff.png"
+			}
+		},
+		{
+			"name": "CW12 Oldsteel Judge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Artifact — Advisor ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/12_CW12 Oldsteel Judge.png"
+			}
+		},
+		{
+			"name": "CW13 Scrapper Spirit",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/13_CW13 Scrapper Spirit.png"
+			}
+		},
+		{
+			"name": "CU01 Refurbished Wanderer",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Insect Cyborg Nomad ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/41_CU01 Refurbished Wanderer.png"
+			}
+		},
+		{
+			"name": "CU02 Sanctuary Brushwing",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Plant Bird ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/42_CU02 Sanctuary Brushwing.png"
+			}
+		},
+		{
+			"name": "CU08 Refurbisher Virtuoso",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/48_CU08 Refurbisher Virtuoso.png"
+			}
+		},
+		{
+			"name": "CU07 Unearthed Industry",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/47_CU07 Unearthed Industry.png"
+			}
+		},
+		{
+			"name": "CU06 Scrappy Arcslinger",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Wizard ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/46_CU06 Scrappy Arcslinger.png"
+			}
+		},
+		{
+			"name": "CU05 Brightmind Raider",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/45_CU05 Brightmind Raider.png"
+			}
+		},
+		{
+			"name": "CU04 Oldsteel Progenitor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Kindred Artifact — Artificer ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/44_CU04 Oldsteel Progenitor.png"
+			}
+		},
+		{
+			"name": "CU03 Fanatic Engineer",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/43_CU03 Fanatic Engineer.png"
+			}
+		},
+		{
+			"name": "CU10 Dynamic Repulsion",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/50_CU10 Dynamic Repulsion.png"
+			}
+		},
+		{
+			"name": "CU11 Thoughtscatter",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/51_CU11 Thoughtscatter.png"
+			}
+		},
+		{
+			"name": "CU12 Wasteland Beacons",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/52_CU12 Wasteland Beacons.png"
+			}
+		},
+		{
+			"name": "CU13 Scrapyard Detour",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Battle — Encounter ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/53_CU13 Scrapyard Detour.png"
+			}
+		},
+		{
+			"name": "CU09 Disruption Pulse",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/49_CU09 Disruption Pulse.png"
+			}
+		},
+		{
+			"name": "CB06 Legion Blackguard",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Soldier Rogue ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/86_CB06 Legion Blackguard.png"
+			}
+		},
+		{
+			"name": "CB02 Canny Reserves",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hyena Soldier ",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/82_CB02 Canny Reserves.png"
+			}
+		},
+		{
+			"name": "CB01 Enigmatic Wayfarer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Demon Nomad ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/81_CB01 Enigmatic Wayfarer.png"
+			}
+		},
+		{
+			"name": "CB04 Dunland Escort",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/84_CB04 Dunland Escort.png"
+			}
+		},
+		{
+			"name": "CB05 Imposing Barracks",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/85_CB05 Imposing Barracks.png"
+			}
+		},
+		{
+			"name": "CB03 Oldsteel Prophet",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Construct Cleric ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/83_CB03 Oldsteel Prophet.png"
+			}
+		},
+		{
+			"name": "CB13 Oldsteel Imperator",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Kindred Artifact — Warrior ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/93_CB13 Oldsteel Imperator.png"
+			}
+		},
+		{
+			"name": "CB08 Oldsteel Whispers",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/88_CB08 Oldsteel Whispers.png"
+			}
+		},
+		{
+			"name": "CB11 In the Shadow of Desolation",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Battle — Encounter ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/91_CB11 In the Shadow of Desolation.png"
+			}
+		},
+		{
+			"name": "CB12 Ancient Uplink",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/92_CB12 Ancient Uplink.png"
+			}
+		},
+		{
+			"name": "CB09 Thread of Malice",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/89_CB09 Thread of Malice.png"
+			}
+		},
+		{
+			"name": "CB10 Legion Coordinator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/90_CB10 Legion Coordinator.png"
+			}
+		},
+		{
+			"name": "CR01 Howling Lancer",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Hyena Warrior ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/118_CR01 Howling Lancer.png"
+			}
+		},
+		{
+			"name": "CR10 Scavenger's Spark",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/127_CR10 Scavenger's Spark.png"
+			}
+		},
+		{
+			"name": "CR02 Ambling Safe",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Construct Spider ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/119_CR02 Ambling Safe.png"
+			}
+		},
+		{
+			"name": "CR03 Augmented Charger",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cyborg Berserker ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/120_CR03 Augmented Charger.png"
+			}
+		},
+		{
+			"name": "CR04 Scrapyard Patrol",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dwarf Pilot ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/121_CR04 Scrapyard Patrol.png"
+			}
+		},
+		{
+			"name": "CR05 Reckless Racers",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Hyena Pilot ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/122_CR05 Reckless Racers.png"
+			}
+		},
+		{
+			"name": "CR06 Arcweld Armorer",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Elf Artificer ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/123_CR06 Arcweld Armorer.png"
+			}
+		},
+		{
+			"name": "CR07 Rubblerouser",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Juggernaut ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/124_CR07 Rubblerouser.png"
+			}
+		},
+		{
+			"name": "CR08 Voltage Surge",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/125_CR08 Voltage Surge.png"
+			}
+		},
+		{
+			"name": "CR09 Dune Drake Ambush",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Encounter ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/126_CR09 Dune Drake Ambush.png"
+			}
+		},
+		{
+			"name": "CR11 Salvaged Powerbrand",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/128_CR11 Salvaged Powerbrand.png"
+			}
+		},
+		{
+			"name": "CR12 Oldsteel Forgemaster",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Kindred Artifact — Artificer ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/129_CR12 Oldsteel Forgemaster.png"
+			}
+		},
+		{
+			"name": "CR13 Slag Meltdown",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/130_CR13 Slag Meltdown.png"
+			}
+		},
+		{
+			"name": "CG01 Break Down",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/157_CG01 Break Down.png"
+			}
+		},
+		{
+			"name": "CG02 Curious Cactail",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Plant Beast ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/158_CG02 Curious Cactail.png"
+			}
+		},
+		{
+			"name": "CG03 Life-Crowned Caelan",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Cat Beast ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/159_CG03 Life-Crowned Caelan.png"
+			}
+		},
+		{
+			"name": "CG04 Steelclad Bruiser",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/160_CG04 Steelclad Bruiser.png"
+			}
+		},
+		{
+			"name": "CG05 Wasteland Pathfinders",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur Nomad ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/161_CG05 Wasteland Pathfinders.png"
+			}
+		},
+		{
+			"name": "CG07 Mandiblade Scuttler",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Spider ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/163_CG07 Mandiblade Scuttler.png"
+			}
+		},
+		{
+			"name": "CG06 Sanctuary Vizier",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Elf Zombie Druid ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/162_CG06 Sanctuary Vizier.png"
+			}
+		},
+		{
+			"name": "CG08 Oasis Tortoise",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental Turtle ",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/164_CG08 Oasis Tortoise.png"
+			}
+		},
+		{
+			"name": "CG09 Sandwoken Brute",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Shark Beast ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/165_CG09 Sandwoken Brute.png"
+			}
+		},
+		{
+			"name": "CG10 Oasis Derelict",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/166_CG10 Oasis Derelict.png"
+			}
+		},
+		{
+			"name": "CG11 Sanctuary Fervor",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/167_CG11 Sanctuary Fervor.png"
+			}
+		},
+		{
+			"name": "UG12 Sanctuary Radiance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/194_UG12 Sanctuary Radiance.png"
+			}
+		},
+		{
+			"name": "CG13 Sanctuary Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/169_CG13 Sanctuary Blessing.png"
+			}
+		},
+		{
+			"name": "CZ01 Oldsteel Revelation",
+			"rarity": "common",
+			"mana_cost": "{3}{G/U}{G/U}",
+			"type": "Sorcery",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/240_CZ01 Oldsteel Revelation.png"
+			}
+		},
+		{
+			"name": "CZ02 Sparkmind Tinkerer",
+			"rarity": "common",
+			"mana_cost": "{1}{U/R}{U/R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/241_CZ02 Sparkmind Tinkerer.png"
+			}
+		},
+		{
+			"name": "CZ03 Scuttling Sandrover",
+			"rarity": "common",
+			"mana_cost": "{3}{G/W}{G/W}{G/W}",
+			"type": "Artifact Creature — Spider Scout ",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/242_CZ03 Scuttling Sandrover.png"
+			}
+		},
+		{
+			"name": "CZ04 Leyrot Haunt",
+			"rarity": "common",
+			"mana_cost": "{2}{B/G}{B/G}",
+			"type": "Creature — Skeleton Beast ",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/243_CZ04 Leyrot Haunt.png"
+			}
+		},
+		{
+			"name": "CZ05 Warwaste Gladiator",
+			"rarity": "common",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/244_CZ05 Warwaste Gladiator.png"
+			}
+		},
+		{
+			"name": "CZ06 Legion Sky Monitor",
+			"rarity": "common",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Harpy Soldier Scout ",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/245_CZ06 Legion Sky Monitor.png"
+			}
+		},
+		{
+			"name": "CZ07 Alacsis's Judiciary",
+			"rarity": "common",
+			"mana_cost": "{3}{R/W}{R/W}",
+			"type": "Creature — Human Warrior Advisor ",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/246_CZ07 Alacsis's Judiciary.png"
+			}
+		},
+		{
+			"name": "CZ08 Hoverbike Courier",
+			"rarity": "common",
+			"mana_cost": "{2}{W/U}{W/U}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/247_CZ08 Hoverbike Courier.png"
+			}
+		},
+		{
+			"name": "CZ09 Opportunistic Vagabond",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Human Cyborg Warrior ",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/248_CZ09 Opportunistic Vagabond.png"
+			}
+		},
+		{
+			"name": "CZ10 Savage Scavenger",
+			"rarity": "common",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Creature — Human Nomad ",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/249_CZ10 Savage Scavenger.png"
+			}
+		},
+		{
+			"name": "CA01 Anodized Pilgrim",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/250_CA01 Anodized Pilgrim.png"
+			}
+		},
+		{
+			"name": "CA02 Ruined Colossus",
+			"rarity": "common",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Construct Giant ",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/251_CA02 Ruined Colossus.png"
+			}
+		},
+		{
+			"name": "CA04 Dormant Harvester",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/252_CA04 Dormant Harvester.png"
+			}
+		},
+		{
+			"name": "CL02 Sand-Scoured Foundry",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/260_CL02 Sand-Scoured Foundry.png"
+			}
+		},
+		{
+			"name": "CL03 Alacsis' Encampment",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/261_CL03 Alacsis' Encampment.png"
+			}
+		},
+		{
+			"name": "RW01 Eni, Alabaster Gladiator",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Legendary Artifact Creature — Cyborg Warrior ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/17_RW01 Eni, Alabaster Gladiator.png"
+			}
+		},
+		{
+			"name": "UW02 Legion Skirmisher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cyborg Soldier ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/28_UW02 Legion Skirmisher.png"
+			}
+		},
+		{
+			"name": "UW04 Resolute Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/30_UW04 Resolute Surveyor.png"
+			}
+		},
+		{
+			"name": "UW03 Crafty Chartwright",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/29_UW03 Crafty Chartwright.png"
+			}
+		},
+		{
+			"name": "UW05 Many-Limbed Scrapweaver",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Cyborg Octopus Wizard ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/31_UW05 Many-Limbed Scrapweaver.png"
+			}
+		},
+		{
+			"name": "UW06 Shocklance Sentinel",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/32_UW06 Shocklance Sentinel.png"
+			}
+		},
+		{
+			"name": "UW07 Winged Scrapseeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Bird ",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/33_UW07 Winged Scrapseeker.png"
+			}
+		},
+		{
+			"name": "UW09 Dunland Maestro",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cyborg Bard ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/35_UW09 Dunland Maestro.png"
+			}
+		},
+		{
+			"name": "RW07 Leygrid Railracer",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/24_RW07 Leygrid Railracer.png"
+			}
+		},
+		{
+			"name": "UW11 Arcflare",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/37_UW11 Arcflare.png"
+			}
+		},
+		{
+			"name": "UW12 Oldsteel Regnant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Kindred Artifact — Noble ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/38_UW12 Oldsteel Regnant.png"
+			}
+		},
+		{
+			"name": "UW10 Ketriff Valley Blockade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Battle — Encounter ",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/36_UW10 Ketriff Valley Blockade.png"
+			}
+		},
+		{
+			"name": "UW14 Coordinated Salvo",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/40_UW14 Coordinated Salvo.png"
+			}
+		},
+		{
+			"name": "UU01 Scavenger Sprite",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Nomad ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/67_UU01 Scavenger Sprite.png"
+			}
+		},
+		{
+			"name": "UU02 Steelbound Protector",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/68_UU02 Steelbound Protector.png"
+			}
+		},
+		{
+			"name": "UU03 Novice Mutalist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Mutant Artificer ",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/69_UU03 Novice Mutalist.png"
+			}
+		},
+		{
+			"name": "UU04 Flamboyant Refurbisher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/70_UU04 Flamboyant Refurbisher.png"
+			}
+		},
+		{
+			"name": "UU05 Whirler Rogue",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Rogue Artificer ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/71_UU05 Whirler Rogue.png"
+			}
+		},
+		{
+			"name": "UU06 Dune-Quartz Drake",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental Drake ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/72_UU06 Dune-Quartz Drake.png"
+			}
+		},
+		{
+			"name": "UU07 Ruined Animator",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{U}",
+			"type": "Creature — Human Warlock Artificer ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/73_UU07 Ruined Animator.png"
+			}
+		},
+		{
+			"name": "UU08 Oldsteel Interdictor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Kindred Artifact — Cleric ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/74_UU08 Oldsteel Interdictor.png"
+			}
+		},
+		{
+			"name": "UU09 Forsaken Submersible",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/75_UU09 Forsaken Submersible.png"
+			}
+		},
+		{
+			"name": "UU10 Relentless Repurposing",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/76_UU10 Relentless Repurposing.png"
+			}
+		},
+		{
+			"name": "UU11 Tinkerer's Bracers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/77_UU11 Tinkerer's Bracers.png"
+			}
+		},
+		{
+			"name": "UU12 Infused Madness",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/78_UU12 Infused Madness.png"
+			}
+		},
+		{
+			"name": "UU13 Oldsteel Foundry Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Battle — Encounter ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/79_UU13 Oldsteel Foundry Expedition.png"
+			}
+		},
+		{
+			"name": "UU14 Sap Energy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/80_UU14 Sap Energy.png"
+			}
+		},
+		{
+			"name": "UG01 Dustborn Leytracer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Sand Druid ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/183_UG01 Dustborn Leytracer.png"
+			}
+		},
+		{
+			"name": "UG05 Dunland Trophysage",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Ranger ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/187_UG05 Dunland Trophysage.png"
+			}
+		},
+		{
+			"name": "UG04 Forlorn Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Cyborg Scout ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/186_UG04 Forlorn Scavenger.png"
+			}
+		},
+		{
+			"name": "RG02 Than, Desolate Scavenger",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Creature — Cyborg Artificer ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/173_RG02 Than, Desolate Scavenger.png"
+			}
+		},
+		{
+			"name": "UG03 Armored Sandscraper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Crab ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/185_UG03 Armored Sandscraper.png"
+			}
+		},
+		{
+			"name": "UG06 Roaming Monitor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/188_UG06 Roaming Monitor.png"
+			}
+		},
+		{
+			"name": "UG07 Steelskin Coreguard",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Cyborg Warrior ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/189_UG07 Steelskin Coreguard.png"
+			}
+		},
+		{
+			"name": "UG10 Oldsteel Parasite",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Kindred Artifact — Fungus ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/192_UG10 Oldsteel Parasite.png"
+			}
+		},
+		{
+			"name": "UG08 Cunning Dunbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Snake ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/190_UG08 Cunning Dunbreaker.png"
+			}
+		},
+		{
+			"name": "UG09 Sanctuary Rotlurker",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Crab Horror ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/191_UG09 Sanctuary Rotlurker.png"
+			}
+		},
+		{
+			"name": "UG11 Oldsteel Aberrant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Kindred Artifact — Horror ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/193_UG11 Oldsteel Aberrant.png"
+			}
+		},
+		{
+			"name": "CG12 Across the Desolate Wild",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Battle — Encounter ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/168_CG12 Across the Desolate Wild.png"
+			}
+		},
+		{
+			"name": "UG14 Oldsteel Terravator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Kindred Artifact — Druid ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/196_UG14 Oldsteel Terravator.png"
+			}
+		},
+		{
+			"name": "UMBR Kroddar, Steel-Scourge",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Elemental Crocodile ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/222_UMBR Kroddar, Steel-Scourge.png"
+			}
+		},
+		{
+			"name": "UMRG Oldsteel Kinkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Kindred Artifact — Druid ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/228_UMRG Oldsteel Kinkeeper.png"
+			}
+		},
+		{
+			"name": "UMUR Estle, Leygrid Mutalist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Mutant Wizard ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/234_UMUR Estle, Leygrid Mutalist.png"
+			}
+		},
+		{
+			"name": "UMBG Fetid Incubator",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Beast Egg ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/220_UMBG Fetid Incubator.png"
+			}
+		},
+		{
+			"name": "UMGW Wasteland Surveyor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Cyborg Scout ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/227_UMGW Wasteland Surveyor.png"
+			}
+		},
+		{
+			"name": "RM10 Sudden Raid",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/216_RM10 Sudden Raid.png"
+			}
+		},
+		{
+			"name": "RM04 Hand of the Benefactor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Rogue ",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/209_RM04 Hand of the Benefactor.png"
+			}
+		},
+		{
+			"name": "UMUW Augmented Scrapper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/236_UMUW Augmented Scrapper.png"
+			}
+		},
+		{
+			"name": "UMGU Oasis Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{U}",
+			"type": "Creature — Elemental Snake ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/225_UMGU Oasis Guardian.png"
+			}
+		},
+		{
+			"name": "UMWB Othar, Dunland Champion",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Legendary Creature — Cyborg Soldier ",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/238_UMWB Othar, Dunland Champion.png"
+			}
+		},
+		{
+			"name": "UA04 Oldsteel Pathlighter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Kindred Artifact — Nomad  ",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/257_UA04 Oldsteel Pathlighter.png"
+			}
+		},
+		{
+			"name": "UA01 Alloyed Coronet",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/254_UA01 Alloyed Coronet.png"
+			}
+		},
+		{
+			"name": "UA02 Fractured Leytower",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/255_UA02 Fractured Leytower.png"
+			}
+		},
+		{
+			"name": "UA03 Looming Steelsplinters",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/256_UA03 Looming Steelsplinters.png"
+			}
+		},
+		{
+			"name": "UA05 Oldsteel Scriptstaff",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/258_UA05 Oldsteel Scriptstaff.png"
+			}
+		},
+		{
+			"name": "UL11 Windswept Waystone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_UL11 Windswept Waystone.png"
+			}
+		},
+		{
+			"name": "UL02 Veil-Marked Ruin",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/263_UL02 Veil-Marked Ruin.png"
+			}
+		},
+		{
+			"name": "UL10 Mist-Marked Strand",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/271_UL10 Mist-Marked Strand.png"
+			}
+		},
+		{
+			"name": "RW01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/18_RW01 Small Creature.png"
+			}
+		},
+		{
+			"name": "RW02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/19_RW02 Small Creature.png"
+			}
+		},
+		{
+			"name": "RW03 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/20_RW03 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RW04 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/21_RW04 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RW05 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/22_RW05 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RW08 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/25_RW08 Noncreature.png"
+			}
+		},
+		{
+			"name": "RU01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/57_RU01 Small Creature.png"
+			}
+		},
+		{
+			"name": "RU02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/58_RU02 Small Creature.png"
+			}
+		},
+		{
+			"name": "RU03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/59_RU03 Small Creature.png"
+			}
+		},
+		{
+			"name": "RU04 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/60_RU04 Small Creature.png"
+			}
+		},
+		{
+			"name": "RU05 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/61_RU05 Small Creature.png"
+			}
+		},
+		{
+			"name": "RU06 Steelflow Shoalweaver",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}{U}",
+			"type": "Creature — Plant Merfolk Wizard ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/62_RU06 Steelflow Shoalweaver.png"
+			}
+		},
+		{
+			"name": "RU07 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/63_RU07 Noncreature.png"
+			}
+		},
+		{
+			"name": "RU08 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/64_RU08 Noncreature.png"
+			}
+		},
+		{
+			"name": "RU09 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/65_RU09 Noncreature.png"
+			}
+		},
+		{
+			"name": "RU10 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/66_RU10 Noncreature.png"
+			}
+		},
+		{
+			"name": "RB01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/96_RB01 Small Creature.png"
+			}
+		},
+		{
+			"name": "RB02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/97_RB02 Small Creature.png"
+			}
+		},
+		{
+			"name": "RB04 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/99_RB04 Small Creature.png"
+			}
+		},
+		{
+			"name": "RB05 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/100_RB05 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RB06 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/101_RB06 Noncreature.png"
+			}
+		},
+		{
+			"name": "RB07 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/102_RB07 Noncreature.png"
+			}
+		},
+		{
+			"name": "RR01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/134_RR01 Small Creature.png"
+			}
+		},
+		{
+			"name": "RR02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/135_RR02 Small Creature.png"
+			}
+		},
+		{
+			"name": "RR03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/136_RR03 Small Creature.png"
+			}
+		},
+		{
+			"name": "RR04 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/137_RR04 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RR05 Cera, Skycaptain",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Cyborg Warrior ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/138_RR05 Cera, Skycaptain.png"
+			}
+		},
+		{
+			"name": "RR06 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/139_RR06 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RR07 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/140_RR07 Large Creature.png"
+			}
+		},
+		{
+			"name": "RR08 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/141_RR08 Noncreature.png"
+			}
+		},
+		{
+			"name": "RR09 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/142_RR09 Noncreature.png"
+			}
+		},
+		{
+			"name": "UG02 Fetid Dunekeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Beast ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/184_UG02 Fetid Dunekeeper.png"
+			}
+		},
+		{
+			"name": "RG03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/174_RG03 Small Creature.png"
+			}
+		},
+		{
+			"name": "RG04 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/175_RG04 Small Creature.png"
+			}
+		},
+		{
+			"name": "RG05 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/176_RG05 Small Creature.png"
+			}
+		},
+		{
+			"name": "RG06 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/177_RG06 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RG07 Savage Sandthresher",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Wurm ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/178_RG07 Savage Sandthresher.png"
+			}
+		},
+		{
+			"name": "RG08 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/179_RG08 Large Creature.png"
+			}
+		},
+		{
+			"name": "RG09 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/180_RG09 Noncreature.png"
+			}
+		},
+		{
+			"name": "RG10 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/181_RG10 Noncreature.png"
+			}
+		},
+		{
+			"name": "RG11 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "{6}{G}",
+			"type": "",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/182_RG11 Noncreature.png"
+			}
+		},
+		{
+			"name": "RM01 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Creature",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/206_RM01 Small Creature.png"
+			}
+		},
+		{
+			"name": "RM02 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{W}{B}",
+			"type": "Creature",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/207_RM02 Small Creature.png"
+			}
+		},
+		{
+			"name": "RM03 Small Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/208_RM03 Small Creature.png"
+			}
+		},
+		{
+			"name": "UMUB Leygrid Interlink",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/233_UMUB Leygrid Interlink.png"
+			}
+		},
+		{
+			"name": "RM05 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Creature",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/210_RM05 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM06 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/211_RM06 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM07 Desiccate",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/212_RM07 Desiccate.png"
+			}
+		},
+		{
+			"name": "RM08 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/213_RM08 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM09 TALOS, Heart of Vikaar",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Kindred Artifact — God ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/214_RM09 TALOS, Heart of Vikaar.png"
+			}
+		},
+		{
+			"name": "RM10 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/215_RM10 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM11 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Creature",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/217_RM11 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM12 Medium Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Creature",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/218_RM12 Medium Creature.png"
+			}
+		},
+		{
+			"name": "RM13 Large Creature",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/219_RM13 Large Creature.png"
+			}
+		},
+		{
+			"name": "RA01 Noncreature",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/253_RA01 Noncreature.png"
+			}
+		},
+		{
+			"name": "CL01 Ancient Font",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/259_CL01 Ancient Font.png"
+			}
+		},
+		{
+			"name": "UL04 Rust-Marked Knoll",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/265_UL04 Rust-Marked Knoll.png"
+			}
+		},
+		{
+			"name": "UL05 Still-Marked Divide",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/266_UL05 Still-Marked Divide.png"
+			}
+		},
+		{
+			"name": "MW01 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/14_MW01 Small Creature.png"
+			}
+		},
+		{
+			"name": "MW02 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/15_MW02 Small Creature.png"
+			}
+		},
+		{
+			"name": "MW03 Eni, Oldsteel Reforged",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Planeswalker — Eni ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/16_MW03 Eni, Oldsteel Reforged.png"
+			}
+		},
+		{
+			"name": "MU01 Small Creature",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}",
+			"type": "Creature",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/54_MU01 Small Creature.png"
+			}
+		},
+		{
+			"name": "MU02 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Creature",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/55_MU02 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MU03 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}",
+			"type": "",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/56_MU03 Noncreature.png"
+			}
+		},
+		{
+			"name": "MB02 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}",
+			"type": "Creature",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/95_MB02 Large Creature.png"
+			}
+		},
+		{
+			"name": "The Enigmatic Benefactor",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Planeswalker — Alice ",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/197_The Enigmatic Benefactor.png"
+			}
+		},
+		{
+			"name": "MR01 MediumWall Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "Creature",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/131_MR01 MediumWall Creature.png"
+			}
+		},
+		{
+			"name": "MR02 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}",
+			"type": "Creature",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/132_MR02 Large Creature.png"
+			}
+		},
+		{
+			"name": "MR03 Leygrid Rupture",
+			"rarity": "mythic",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/133_MR03 Leygrid Rupture.png"
+			}
+		},
+		{
+			"name": "MG01 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}",
+			"type": "Creature",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/170_MG01 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MG02 Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}",
+			"type": "",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/171_MG02 Noncreature.png"
+			}
+		},
+		{
+			"name": "MM03 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Creature",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/200_MM03 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MM04 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/201_MM04 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MM05 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/202_MM05 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MM06 Medium Creature",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{W}",
+			"type": "Creature",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/203_MM06 Medium Creature.png"
+			}
+		},
+		{
+			"name": "MM07 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/204_MM07 Large Creature.png"
+			}
+		},
+		{
+			"name": "MM08 Large Creature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Creature",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/205_MM08 Large Creature.png"
+			}
+		},
+		{
+			"name": "CB07 Wasteland Standard-Bearer",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/87_CB07 Wasteland Standard-Bearer.png"
+			}
+		},
+		{
+			"name": "UG13 Awakening Site",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Battle — Encounter ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/195_UG13 Awakening Site.png"
+			}
+		},
+		{
+			"name": "Sand Whale",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Sand Whale ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/3_Sand Whale.png"
+			}
+		},
+		{
+			"name": "Desert",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Land — Desert ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/7_Desert.png"
+			}
+		},
+		{
+			"name": "UMWB Steeltouched Frontliners",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Cyborg Soldier ",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/239_UMWB Steeltouched Frontliners.png"
+			}
+		},
+		{
+			"name": "Junk",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Junk ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/5_Junk.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/6_Treasure.png"
+			}
+		},
+		{
+			"name": "UMUW Leygrid Anchor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/237_UMUW Leygrid Anchor.png"
+			}
+		},
+		{
+			"name": "UMUR The Lost and the Damned",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/235_UMUR The Lost and the Damned.png"
+			}
+		},
+		{
+			"name": "UMUB Benefaction Associate",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Mercenary ",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/232_UMUB Benefaction Associate.png"
+			}
+		},
+		{
+			"name": "UMRW Raider's Zeal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/231_UMRW Raider's Zeal.png"
+			}
+		},
+		{
+			"name": "UMRG Patch, Brutal Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Creature — Human Beast Nomad ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/229_UMRG Patch, Brutal Scavenger.png"
+			}
+		},
+		{
+			"name": "UMGW Thessalie, Dunland Pilgrim",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human Druid ",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/226_UMGW Thessalie, Dunland Pilgrim.png"
+			}
+		},
+		{
+			"name": "UMGU Cruin, Elder Caelan",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elder Beast ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/224_UMGU Cruin, Elder Caelan.png"
+			}
+		},
+		{
+			"name": "UMBR Slagborn Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Artifact Creature — Elemental Archer ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/223_UMBR Slagborn Elemental.png"
+			}
+		},
+		{
+			"name": "UMBG Sanctuary Renegade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Human Rogue Artificer ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/221_UMBG Sanctuary Renegade.png"
+			}
+		},
+		{
+			"name": "UMRW Alacsis, Joyful Tyrant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Legendary Creature — Human Noble ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/230_UMRW Alacsis, Joyful Tyrant.png"
+			}
+		},
+		{
+			"name": "MM02 Paris, Charming Voyager",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Planeswalker — Paris ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/199_MM02 Paris, Charming Voyager.png"
+			}
+		},
+		{
+			"name": "MM01 Legion's Emissary",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}",
+			"type": "Creature — Soldier Flagbearer ",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/198_MM01 Legion's Emissary.png"
+			}
+		},
+		{
+			"name": "MB01 Kajiwara, Spark of Sorrow",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Planeswalker — Ai ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/94_MB01 Kajiwara, Spark of Sorrow.png"
+			}
+		},
+		{
+			"name": "RB03 Kai'Ji, Legion Conscript",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Creature — Demon Soldier ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/98_RB03 Kai'Ji, Legion Conscript.png"
+			}
+		},
+		{
+			"name": "RB08 Oldsteel Reclamation",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/103_RB08 Oldsteel Reclamation.png"
+			}
+		},
+		{
+			"name": "Wayfarer's Shrine",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/273_Wayfarer's Shrine.png"
+			}
+		},
+		{
+			"name": "UL06 Age-Marked Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/267_UL06 Age-Marked Shrine.png"
+			}
+		},
+		{
+			"name": "UL07 Steam-Marked Dune",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/268_UL07 Steam-Marked Dune.png"
+			}
+		},
+		{
+			"name": "UL09 Awe-Marked Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_UL09 Awe-Marked Monument.png"
+			}
+		},
+		{
+			"name": "UL01 Sky-Marked Vantage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_UL01 Sky-Marked Vantage.png"
+			}
+		},
+		{
+			"name": "UL03 Grave-Marked Crag",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/264_UL03 Grave-Marked Crag.png"
+			}
+		},
+		{
+			"name": "UL08 Roil-Marked Passage",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/269_UL08 Roil-Marked Passage.png"
+			}
+		},
+		{
+			"name": "UB01 Ruin Scrounger",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Mutant Rat Dog ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/104_UB01 Ruin Scrounger.png"
+			}
+		},
+		{
+			"name": "UB02 Benefaction Recruiter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue Soldier ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/105_UB02 Benefaction Recruiter.png"
+			}
+		},
+		{
+			"name": "UB03 Relentless Steelhound",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Wolf Cyborg ",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/106_UB03 Relentless Steelhound.png"
+			}
+		},
+		{
+			"name": "UB04 Dunland Pioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Elf Nomad ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/107_UB04 Dunland Pioneer.png"
+			}
+		},
+		{
+			"name": "UB05 Alloyed Devotee",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Monk Warrior ",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/108_UB05 Alloyed Devotee.png"
+			}
+		},
+		{
+			"name": "UB06 Air-Squad Marshal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Cyborg Soldier ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/109_UB06 Air-Squad Marshal.png"
+			}
+		},
+		{
+			"name": "UB07 Rustfeeder Hulk",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Fungus Horror ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/110_UB07 Rustfeeder Hulk.png"
+			}
+		},
+		{
+			"name": "UB08 Legion Commander",
+			"rarity": "uncommon",
+			"mana_cost": "{7}{B}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/111_UB08 Legion Commander.png"
+			}
+		},
+		{
+			"name": "UB09 Calamity Cascade",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/112_UB09 Calamity Cascade.png"
+			}
+		},
+		{
+			"name": "UB10 Perilous Excavation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/113_UB10 Perilous Excavation.png"
+			}
+		},
+		{
+			"name": "UB11 Augmented Ascent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/114_UB11 Augmented Ascent.png"
+			}
+		},
+		{
+			"name": "UB12 Grind to Dust",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/115_UB12 Grind to Dust.png"
+			}
+		},
+		{
+			"name": "UB13 Skora Dunes Hunt",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Battle — Encounter ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/116_UB13 Skora Dunes Hunt.png"
+			}
+		},
+		{
+			"name": "UB14 Oldsteel Tombkeeper",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Kindred Artifact — Noble ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/117_UB14 Oldsteel Tombkeeper.png"
+			}
+		},
+		{
+			"name": "RW09 Visage of the Core",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/26_RW09 Visage of the Core.png"
+			}
+		},
+		{
+			"name": "UW01 Legion Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Cyborg Soldier Scout ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/27_UW01 Legion Instigator.png"
+			}
+		},
+		{
+			"name": "UW08 Augmented Convoy",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Cyborg Beast ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/34_UW08 Augmented Convoy.png"
+			}
+		},
+		{
+			"name": "UW13 Scrapper's Pirouette",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/39_UW13 Scrapper's Pirouette.png"
+			}
+		},
+		{
+			"name": "UR01 Ingenious Augmenter",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/143_UR01 Ingenious Augmenter.png"
+			}
+		},
+		{
+			"name": "UR02 Starved Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Lizard ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/144_UR02 Starved Brute.png"
+			}
+		},
+		{
+			"name": "UR03 Sanctuary Enforcer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/145_UR03 Sanctuary Enforcer.png"
+			}
+		},
+		{
+			"name": "UR04 Leycharged Ravager",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Cyborg Berserker ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/146_UR04 Leycharged Ravager.png"
+			}
+		},
+		{
+			"name": "UR05 Breachblade Gladiator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warrior Artificer ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/147_UR05 Breachblade Gladiator.png"
+			}
+		},
+		{
+			"name": "UR06 Tunnel-Hunter Griff",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Griffin Mutant ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/148_UR06 Tunnel-Hunter Griff.png"
+			}
+		},
+		{
+			"name": "UR07 Charred Cavalry",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Construct Soldier ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/149_UR07 Charred Cavalry.png"
+			}
+		},
+		{
+			"name": "UR08 Catastrophic Infusion",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/150_UR08 Catastrophic Infusion.png"
+			}
+		},
+		{
+			"name": "UR09 Oldsteel Terraformer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Kindred Artifact — Assembly-Worker ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/151_UR09 Oldsteel Terraformer.png"
+			}
+		},
+		{
+			"name": "UR10 Market's Bustle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/152_UR10 Market's Bustle.png"
+			}
+		},
+		{
+			"name": "UR11 Arcstrike Ambush",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Battle — Encounter ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/153_UR11 Arcstrike Ambush.png"
+			}
+		},
+		{
+			"name": "UR12 Scrapper Tactics",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/154_UR12 Scrapper Tactics.png"
+			}
+		},
+		{
+			"name": "UR13 Sucessful Salvage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/155_UR13 Sucessful Salvage.png"
+			}
+		},
+		{
+			"name": "UR14 Leygrid Mutation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/156_UR14 Leygrid Mutation.png"
+			}
+		},
+		{
+			"name": "RG01 Jungle Ruin-Keeper",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat Human Warrior ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/172_RG01 Jungle Ruin-Keeper.png"
+			}
+		},
+		{
+			"name": "RW06 Leycharged Spirit-Drinker",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Sand Spirit ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/23_RW06 Leycharged Spirit-Drinker.png"
+			}
+		},
+		{
+			"name": "Golem",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Golem ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/4_Golem.png"
+			}
+		},
+		{
+			"name": "Spawn",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Spawn ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/2_Spawn.png"
+			}
+		},
+		]
+	[UncommonSlot(6)]
+	9 UG12 Sanctuary Radiance
+		9 UW02 Legion Skirmisher
+		9 UW04 Resolute Surveyor
+		9 UW03 Crafty Chartwright
+		9 UW05 Many-Limbed Scrapweaver
+		9 UW06 Shocklance Sentinel
+		9 UW07 Winged Scrapseeker
+		9 UW09 Dunland Maestro
+		9 UW11 Arcflare
+		9 UW12 Oldsteel Regnant
+		9 UW10 Ketriff Valley Blockade
+		9 UW14 Coordinated Salvo
+		9 UU01 Scavenger Sprite
+		9 UU02 Steelbound Protector
+		9 UU03 Novice Mutalist
+		9 UU04 Flamboyant Refurbisher
+		9 UU05 Whirler Rogue
+		9 UU06 Dune-Quartz Drake
+		9 UU07 Ruined Animator
+		9 UU08 Oldsteel Interdictor
+		9 UU09 Forsaken Submersible
+		9 UU10 Relentless Repurposing
+		9 UU11 Tinkerer's Bracers
+		9 UU12 Infused Madness
+		9 UU13 Oldsteel Foundry Expedition
+		9 UU14 Sap Energy
+		9 UG01 Dustborn Leytracer
+		9 UG05 Dunland Trophysage
+		9 UG04 Forlorn Scavenger
+		9 UG03 Armored Sandscraper
+		9 UG06 Roaming Monitor
+		9 UG07 Steelskin Coreguard
+		9 UG10 Oldsteel Parasite
+		9 UG08 Cunning Dunbreaker
+		9 UG09 Sanctuary Rotlurker
+		9 UG11 Oldsteel Aberrant
+		9 UG14 Oldsteel Terravator
+		9 UMBR Kroddar, Steel-Scourge
+		9 UMRG Oldsteel Kinkeeper
+		9 UMUR Estle, Leygrid Mutalist
+		9 UMBG Fetid Incubator
+		9 UMGW Wasteland Surveyor
+		9 UMUW Augmented Scrapper
+		9 UMGU Oasis Guardian
+		9 UMWB Othar, Dunland Champion
+		9 UA04 Oldsteel Pathlighter
+		9 UA01 Alloyed Coronet
+		9 UA02 Fractured Leytower
+		9 UA03 Looming Steelsplinters
+		9 UA05 Oldsteel Scriptstaff
+		9 UL11 Windswept Waystone
+		9 UL02 Veil-Marked Ruin
+		9 UL10 Mist-Marked Strand
+		9 UG02 Fetid Dunekeeper
+		9 UMUB Leygrid Interlink
+		9 UL04 Rust-Marked Knoll
+		9 UL05 Still-Marked Divide
+		9 UG13 Awakening Site
+		9 UMWB Steeltouched Frontliners
+		9 UMUW Leygrid Anchor
+		9 UMUR The Lost and the Damned
+		9 UMUB Benefaction Associate
+		9 UMRW Raider's Zeal
+		9 UMRG Patch, Brutal Scavenger
+		9 UMGW Thessalie, Dunland Pilgrim
+		9 UMGU Cruin, Elder Caelan
+		9 UMBR Slagborn Elemental
+		9 UMBG Sanctuary Renegade
+		9 UMRW Alacsis, Joyful Tyrant
+		9 UL06 Age-Marked Shrine
+		9 UL07 Steam-Marked Dune
+		9 UL09 Awe-Marked Monument
+		9 UL01 Sky-Marked Vantage
+		9 UL03 Grave-Marked Crag
+		9 UL08 Roil-Marked Passage
+		9 UB01 Ruin Scrounger
+		9 UB02 Benefaction Recruiter
+		9 UB03 Relentless Steelhound
+		9 UB04 Dunland Pioneer
+		9 UB05 Alloyed Devotee
+		9 UB06 Air-Squad Marshal
+		9 UB07 Rustfeeder Hulk
+		9 UB08 Legion Commander
+		9 UB09 Calamity Cascade
+		9 UB10 Perilous Excavation
+		9 UB11 Augmented Ascent
+		9 UB12 Grind to Dust
+		9 UB13 Skora Dunes Hunt
+		9 UB14 Oldsteel Tombkeeper
+		9 UW01 Legion Instigator
+		9 UW08 Augmented Convoy
+		9 UW13 Scrapper's Pirouette
+		9 UR01 Ingenious Augmenter
+		9 UR02 Starved Brute
+		9 UR03 Sanctuary Enforcer
+		9 UR04 Leycharged Ravager
+		9 UR05 Breachblade Gladiator
+		9 UR06 Tunnel-Hunter Griff
+		9 UR07 Charred Cavalry
+		9 UR08 Catastrophic Infusion
+		9 UR09 Oldsteel Terraformer
+		9 UR10 Market's Bustle
+		9 UR11 Arcstrike Ambush
+		9 UR12 Scrapper Tactics
+		9 UR13 Sucessful Salvage
+		9 UR14 Leygrid Mutation
+		[CommonSlot(8)]
+	30 CW01 Waywalker
+		30 CW02 Ruinguard Captain
+		30 CW06 Watchful Peacekeeper
+		30 CW04 Quickwit Wayfarer
+		30 CW05 Ambitious Scrapglider
+		30 CW03 Steelbeater Stalwart
+		30 CW07 Rumblehorn Division
+		30 CW08 Heraldic Effigy
+		30 CW09 Dunland Vigilante
+		30 CW10 Timely Tune-Up
+		30 CW11 Steelbound Standoff
+		30 CW12 Oldsteel Judge
+		30 CW13 Scrapper Spirit
+		30 CU01 Refurbished Wanderer
+		30 CU02 Sanctuary Brushwing
+		30 CU08 Refurbisher Virtuoso
+		30 CU07 Unearthed Industry
+		30 CU06 Scrappy Arcslinger
+		30 CU05 Brightmind Raider
+		30 CU04 Oldsteel Progenitor
+		30 CU03 Fanatic Engineer
+		30 CU10 Dynamic Repulsion
+		30 CU11 Thoughtscatter
+		30 CU12 Wasteland Beacons
+		30 CU13 Scrapyard Detour
+		30 CU09 Disruption Pulse
+		30 CB06 Legion Blackguard
+		30 CB02 Canny Reserves
+		30 CB01 Enigmatic Wayfarer
+		30 CB04 Dunland Escort
+		30 CB05 Imposing Barracks
+		30 CB03 Oldsteel Prophet
+		30 CB13 Oldsteel Imperator
+		30 CB08 Oldsteel Whispers
+		30 CB11 In the Shadow of Desolation
+		30 CB12 Ancient Uplink
+		30 CB09 Thread of Malice
+		30 CB10 Legion Coordinator
+		30 CR01 Howling Lancer
+		30 CR10 Scavenger's Spark
+		30 CR02 Ambling Safe
+		30 CR03 Augmented Charger
+		30 CR04 Scrapyard Patrol
+		30 CR05 Reckless Racers
+		30 CR06 Arcweld Armorer
+		30 CR07 Rubblerouser
+		30 CR08 Voltage Surge
+		30 CR09 Dune Drake Ambush
+		30 CR11 Salvaged Powerbrand
+		30 CR12 Oldsteel Forgemaster
+		30 CR13 Slag Meltdown
+		30 CG01 Break Down
+		30 CG02 Curious Cactail
+		30 CG03 Life-Crowned Caelan
+		30 CG04 Steelclad Bruiser
+		30 CG05 Wasteland Pathfinders
+		30 CG07 Mandiblade Scuttler
+		30 CG06 Sanctuary Vizier
+		30 CG08 Oasis Tortoise
+		30 CG09 Sandwoken Brute
+		30 CG10 Oasis Derelict
+		30 CG11 Sanctuary Fervor
+		30 CG13 Sanctuary Blessing
+		30 CZ01 Oldsteel Revelation
+		30 CZ02 Sparkmind Tinkerer
+		30 CZ03 Scuttling Sandrover
+		30 CZ04 Leyrot Haunt
+		30 CZ05 Warwaste Gladiator
+		30 CZ06 Legion Sky Monitor
+		30 CZ07 Alacsis's Judiciary
+		30 CZ08 Hoverbike Courier
+		30 CZ09 Opportunistic Vagabond
+		30 CZ10 Savage Scavenger
+		30 CA01 Anodized Pilgrim
+		30 CA02 Ruined Colossus
+		30 CA04 Dormant Harvester
+		30 CL02 Sand-Scoured Foundry
+		30 CL03 Alacsis' Encampment
+		30 CG12 Across the Desolate Wild
+		30 CL01 Ancient Font
+		30 CB07 Wasteland Standard-Bearer
+		30 Wayfarer's Shrine
+		

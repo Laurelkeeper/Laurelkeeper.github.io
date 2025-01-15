@@ -1,0 +1,1 @@
+﻿RB05 Medium Creature	B	rare	Creature	100	B	2B				normal	SOV		RB05,Medium Creature,3,flying ,Darkstar Augur

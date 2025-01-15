@@ -1,0 +1,1 @@
+﻿CW04 Quickwit Wayfarer	W	common	Creature – Human Scout 	4	W	1W	3, T: Tap target creature. This ability costs 2 less to activate if you control two or more Deserts.	2/2		normal	SOV		CW04,Small Creature,2,,Warren Elder

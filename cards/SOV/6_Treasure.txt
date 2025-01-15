@@ -1,0 +1,1 @@
+﻿Treasure		special	Token Artifact – Treasure 	6	C		T: Add one mana of any color			token	SOV		

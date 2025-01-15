@@ -1,0 +1,1 @@
+﻿CB07 Wasteland Standard-Bearer	B	common	Creature – Human Soldier 	87	B	4B	When this creature enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter on it.NEWLINEDesertcycling 2 (2, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)	5/3		normal	SOV		CB07,Medium Creature,5,flying ,Glidedive Duo

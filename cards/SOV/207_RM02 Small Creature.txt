@@ -1,0 +1,1 @@
+﻿RM02 Small Creature	WB	rare	Creature	207	WB	WB				normal	SOV		RM02,Small Creature,2,flying WB ,Lunar Convocation

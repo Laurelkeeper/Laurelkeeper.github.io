@@ -1,0 +1,1 @@
+﻿MR02 Large Creature	R	mythic	Creature	132	R	4R				normal	SOV		MR02,Large Creature,5,flying ,Dragonhawk, Fate's Tempest

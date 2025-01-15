@@ -1,0 +1,1 @@
+﻿UL02 Veil-Marked Ruin		uncommon	Land – Desert 	263	UB		This land enters tapped.NEWLINET: Add U or B.NEWLINETap three untapped Deserts you control: This land becomes a 3/3 Sand Construct creature until your next end step. It’s still a land.NEWLINEWhenever Veil-Marked Ruin attacks, draw a card, then discard a card.			normal	SOV		UL04,Noncreature,0,,Oakhollow Village

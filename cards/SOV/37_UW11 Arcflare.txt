@@ -1,0 +1,1 @@
+﻿UW11 Arcflare	W	uncommon	Instant	37	W	1W	Exile target artifact or enchantment. Each player creates a Junk token. (It’s an artifact with “T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)			normal	SOV		UW11,Medium Creature,3,flash ,Mouse Trapper

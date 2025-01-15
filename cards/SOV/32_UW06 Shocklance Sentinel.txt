@@ -1,0 +1,1 @@
+﻿UW06 Shocklance Sentinel	W	uncommon	Creature – Human Soldier 	32	W	3W	Vigilance, reachNEWLINEWhen this creature enters, tap target artifact or creature. Put a stun counter on it for each other Soldier or Army you control.	4/3		normal	SOV		UW06,Small Creature,3,flying ,Shrike Force

@@ -1,0 +1,1 @@
+﻿UL08 Roil-Marked Passage		uncommon	Land – Desert 	269	BG		This land enters tapped.NEWLINET: Add B or G.NEWLINETap three untapped Deserts you control: This land becomes a 3/2 Sand Elemental creature until your next end step. It’s still a land.NEWLINEWhenever Roil-Marked Passage attacks, put a +1/+1 counter on target creature you control.			normal	SOV		CL04,Noncreature,0,,Island
