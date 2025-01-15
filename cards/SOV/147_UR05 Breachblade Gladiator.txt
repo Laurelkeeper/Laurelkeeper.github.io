@@ -1,1 +1,1 @@
-﻿UR05 Breachblade Gladiator	R	uncommon	Creature – Human Warrior Artificer 	147	R	2R	First strikeNEWLINEWhenever you attack, if you’ve sacrificed a permanent this turn, this creature deals 1 damage to any target.	3/2		normal	SOV		UR08,MediumWall Creature,3,,Harnesser of Storms
+﻿UR05 Breachblade Gladiator	R	uncommon	Creature – Human Warrior Artificer 	147	R	2R	First strikeNEWLINEWhenever this creature attacks, if you’ve sacrificed a permanent this turn, this creature deals 1 damage to any target.	3/2		normal	SOV		UR08,MediumWall Creature,3,,Harnesser of Storms

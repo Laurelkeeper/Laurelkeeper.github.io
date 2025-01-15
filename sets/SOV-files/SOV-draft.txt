@@ -193,7 +193,7 @@
 			"name": "CU05 Brightmind Raider",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Cyborg Artificer ",
 			"collector_number": "45",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/45_CU05 Brightmind Raider.png"
@@ -2700,13 +2700,13 @@
 			}
 		},
 		{
-			"name": "UR09 Oldsteel Terraformer",
+			"name": "UR09 Oldsteel Exhortationer",
 			"rarity": "uncommon",
-			"mana_cost": "{R}",
-			"type": "Kindred Artifact — Assembly-Worker ",
+			"mana_cost": "{1}{R}",
+			"type": "Kindred Artifact — Warlock ",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/151_UR09 Oldsteel Terraformer.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/151_UR09 Oldsteel Exhortationer.png"
 			}
 		},
 		{
@@ -2901,7 +2901,7 @@
 		9 UR06 Tunnel-Hunter Griff
 		9 UR07 Charred Cavalry
 		9 UR08 Catastrophic Infusion
-		9 UR09 Oldsteel Terraformer
+		9 UR09 Oldsteel Exhortationer
 		9 UR10 Market's Bustle
 		9 UR11 Arcstrike Ambush
 		9 UR12 Scrapper Tactics

@@ -101,7 +101,7 @@
 34_UW08 Augmented Convoy
 74_UU08 Oldsteel Interdictor
 114_UB11 Augmented Ascent
-151_UR09 Oldsteel Terraformer
+151_UR09 Oldsteel Exhortationer
 190_UG08 Cunning Dunbreaker
 35_UW09 Dunland Maestro
 75_UU09 Forsaken Submersible
