@@ -1,1 +1,1 @@
-﻿UR14 Leygrid Mutation	R	uncommon	Sorcery	156	R	4RR	Create two 3/3 red Spawn creature tokens.NEWLINEFlashback–2R, Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	SOV		UR14,Noncreature,2,,Rabid Gnaw
+﻿UR14 Leygrid Mutation	R	uncommon	Sorcery	156	R	4RR	Create two 3/3 red Spawn creature tokens.NEWLINEFlashback–2R, Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	SOV		!tokens Spawn<2>

@@ -1,0 +1,1 @@
+﻿Junk		special	Token Artifact – Junk 	10	C		T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.			token	SOV		

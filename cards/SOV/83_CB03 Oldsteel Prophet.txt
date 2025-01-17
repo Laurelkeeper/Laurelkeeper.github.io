@@ -1,1 +1,1 @@
-﻿CB03 Oldsteel Prophet	B	common	Artifact Creature – Construct Cleric 	83	B	1B	When this creature enters, you may sacrifice another artifact or another creature. If you do, put a +1/+1 counter on this creature and create a Treasure token.	2/2		normal	SOV		CB06,Medium Creature,4,,Thornplate Intimidator
+﻿CB03 Oldsteel Prophet	B	common	Artifact Creature – Construct Cleric 	83	B	1B	When this creature enters, you may sacrifice another creature or artifact. If you do, put a +1/+1 counter on this creature and create a Treasure token.	2/2		normal	SOV		!tokens Junk;Treasure

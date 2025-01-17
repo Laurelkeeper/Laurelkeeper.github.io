@@ -1,1 +1,1 @@
-﻿CB05 Imposing Barracks	B	common	Artifact	85	B	2B	When this artifact enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter on it.NEWLINEWhenever you attack with one or more Soldiers and/or Armies, each opponent loses 1 life.			normal	SOV		CB05,Medium Creature,3,,Daggerfang Duo
+﻿CB05 Imposing Barracks	B	common	Artifact	85	B	2B	When this artifact enters, create a 1/1 white Soldier creature token. Put a +1/+1 counter on it.NEWLINEWhenever you attack with one or more Soldiers and/or Armies, each opponent loses 1 life.			normal	SOV		!tokens Soldier

@@ -1,1 +1,0 @@
-﻿Spawn	R	special	Token Creature – Spawn 	2	R			3/3		token	SOV		

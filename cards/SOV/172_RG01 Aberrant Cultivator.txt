@@ -1,0 +1,1 @@
+﻿RG01 Aberrant Cultivator	G	rare	Creature – Fungus Cyborg Druid 	172	G	G	T: Add G. If you control a creature with power 4 or greater, add GGG instead.NEWLINERetrofit 1GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	1/1		normal	SOV		RG01,Small Creature,1,,Mistbreath Elder

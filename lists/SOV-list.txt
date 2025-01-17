@@ -12,7 +12,7 @@
 56_MU03 Noncreature
 96_RB01 Small Creature
 133_MR03 Leygrid Rupture
-172_RG01 Jungle Ruin-Keeper
+172_RG01 Aberrant Cultivator
 17_RW01 Eni, Alabaster Gladiator
 57_RU01 Small Creature
 97_RB02 Small Creature
@@ -21,16 +21,16 @@
 18_RW01 Small Creature
 58_RU02 Small Creature
 98_RB03 Kai'Ji, Legion Conscript
-135_RR02 Small Creature
+135_RR02 Oldsteel Malefactor
 174_RG03 Small Creature
 19_RW02 Small Creature
 59_RU03 Small Creature
-99_RB04 Small Creature
+99_RB04 Galix, Steelfused Ancient
 136_RR03 Small Creature
 175_RG04 Small Creature
 20_RW03 Medium Creature
 60_RU04 Small Creature
-100_RB05 Medium Creature
+100_RB05 Steelskin Magnate
 137_RR04 Medium Creature
 176_RG05 Small Creature
 21_RW04 Medium Creature
@@ -318,13 +318,18 @@ er
 er
 er
 er
-2t_Spawn
-3t_Sand Whale
-4t_Golem
-5t_Junk
-6t_Treasure
-7t_Desert
-e
+2t_Soldier
+3t_Army
+4t_Spawn
+5t_Wurm
+6t_Beast
+7t_Sand Whale
+8t_Cyborg
+9t_Golem
+10t_Junk
+11t_Thopter
+12t_Treasure
+13t_Desert
 e
 e
 e

@@ -1,0 +1,1 @@
+﻿Soldier	W	special	Token Creature – Soldier 	2	W			1/1		token	SOV		

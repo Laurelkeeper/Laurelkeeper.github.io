@@ -1,0 +1,1 @@
+﻿Cyborg		special	Token Artifact Creature – Cyborg 	8	C			2/2		token	SOV		

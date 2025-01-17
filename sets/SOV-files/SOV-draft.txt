@@ -372,7 +372,7 @@
 		{
 			"name": "CB09 Thread of Malice",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}",
 			"type": "Instant",
 			"collector_number": "89",
 			"image_uris": {
@@ -512,7 +512,7 @@
 		{
 			"name": "CR13 Slag Meltdown",
 			"rarity": "common",
-			"mana_cost": "{4}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Instant",
 			"collector_number": "130",
 			"image_uris": {
@@ -773,7 +773,7 @@
 			"name": "CA04 Dormant Harvester",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact",
+			"type": "Kindred Artifact — Wurm ",
 			"collector_number": "252",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/252_CA04 Dormant Harvester.png"
@@ -1052,7 +1052,7 @@
 		{
 			"name": "UU13 Oldsteel Foundry Expedition",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Battle — Encounter ",
 			"collector_number": "79",
 			"image_uris": {
@@ -1342,7 +1342,7 @@
 		{
 			"name": "UA05 Oldsteel Scriptstaff",
 			"rarity": "uncommon",
-			"mana_cost": "{5}",
+			"mana_cost": "{4}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "258",
 			"image_uris": {
@@ -1560,23 +1560,23 @@
 			}
 		},
 		{
-			"name": "RB04 Small Creature",
+			"name": "RB04 Galix, Steelfused Ancient",
 			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Creature",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Cyborg Dragon ",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/99_RB04 Small Creature.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/99_RB04 Galix, Steelfused Ancient.png"
 			}
 		},
 		{
-			"name": "RB05 Medium Creature",
+			"name": "RB05 Steelskin Magnate",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
+			"type": "Creature — Human Cyborg Rogue ",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/100_RB05 Medium Creature.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/100_RB05 Steelskin Magnate.png"
 			}
 		},
 		{
@@ -1610,13 +1610,13 @@
 			}
 		},
 		{
-			"name": "RR02 Small Creature",
+			"name": "RR02 Oldsteel Malefactor",
 			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"mana_cost": "{2}{R}",
+			"type": "Kindred Artifact — Demon ",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/135_RR02 Small Creature.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/135_RR02 Oldsteel Malefactor.png"
 			}
 		},
 		{
@@ -2174,9 +2174,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Sand Whale ",
-			"collector_number": "3",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/3_Sand Whale.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/7_Sand Whale.png"
 			}
 		},
 		{
@@ -2184,9 +2184,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land — Desert ",
-			"collector_number": "7",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/7_Desert.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/13_Desert.png"
 			}
 		},
 		{
@@ -2204,9 +2204,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Junk ",
-			"collector_number": "5",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/5_Junk.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/10_Junk.png"
 			}
 		},
 		{
@@ -2214,9 +2214,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "6",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/6_Treasure.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/12_Treasure.png"
 			}
 		},
 		{
@@ -2463,7 +2463,7 @@
 			"name": "UB03 Relentless Steelhound",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Artifact Creature — Wolf Cyborg ",
+			"type": "Creature — Wolf Cyborg ",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/106_UB03 Relentless Steelhound.png"
@@ -2760,13 +2760,13 @@
 			}
 		},
 		{
-			"name": "RG01 Jungle Ruin-Keeper",
+			"name": "RG01 Aberrant Cultivator",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Cat Human Warrior ",
+			"type": "Creature — Fungus Cyborg Druid ",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/172_RG01 Jungle Ruin-Keeper.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/172_RG01 Aberrant Cultivator.png"
 			}
 		},
 		{
@@ -2784,9 +2784,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Golem ",
-			"collector_number": "4",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/4_Golem.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/9_Golem.png"
 			}
 		},
 		{
@@ -2794,9 +2794,69 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Spawn ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/4_Spawn.png"
+			}
+		},
+		{
+			"name": "Army",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Army ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/3_Army.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/2_Spawn.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/2_Soldier.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Beast ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/6_Beast.png"
+			}
+		},
+		{
+			"name": "Cyborg",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Cyborg ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/8_Cyborg.png"
+			}
+		},
+		{
+			"name": "Thopter",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Thopter ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/11_Thopter.png"
+			}
+		},
+		{
+			"name": "Wurm",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Wurm ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/5_Wurm.png"
 			}
 		},
 		]

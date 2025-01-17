@@ -1,1 +1,0 @@
-﻿Golem		special	Token Artifact Creature – Golem 	4	C			3/3		token	SOV		
