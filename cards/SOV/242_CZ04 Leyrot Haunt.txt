@@ -1,0 +1,1 @@
+﻿CZ04 Leyrot Haunt	BG	common	Creature – Skeleton Beast 	242	BG	2B/GB/G	This spell costs 1 less to cast for each creature you control with a +1/+1 counter on it.NEWLINEYou may cast this spell from your graveyard by paying 4B/GB/G rather than paying its mana cost. If you do, it enters with a finality counter on it.	4/2		normal	SOV		CZ04,Medium Creature,3,BG ,Corpseberry Cultivator

@@ -1,1 +1,0 @@
-﻿UG02 Fetid Dunekeeper	G	uncommon	Creature – Beast 	184	G	1G	DeathtouchNEWLINEDeserts you control have “T: Add G.”NEWLINEWhenever this creature attacks, if you control three or more Deserts, put a +1/+1 counter on it.	1/2		normal	SOV		RG02,Small Creature,1,,Pawpatch Recruit

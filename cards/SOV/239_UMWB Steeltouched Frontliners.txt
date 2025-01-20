@@ -1,1 +1,0 @@
-﻿UMWB Steeltouched Frontliners	WB	uncommon	Creature – Cyborg Soldier 	239	WB	2WB	MenaceNEWLINEWhenever this creature attacks, exile up to one target Soldier card from your graveyard. Copy it. You may cast the copy. If you cast a creature spell this way, it enters tapped and attacking.	4/4		normal	SOV		UM10,Medium Creature,5,flying WB ,Starseer Mentor

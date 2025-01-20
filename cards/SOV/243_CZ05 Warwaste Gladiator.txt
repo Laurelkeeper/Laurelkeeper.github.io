@@ -1,0 +1,1 @@
+﻿CZ05 Warwaste Gladiator	BR	common	Creature – Human Warrior 	243	BR	2B/RB/R	When this creature enters or dies, it deals 1 damage to each player. Create a Junk token. (It’s an artifact with “T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)	3/3		normal	SOV		!tokens Junk

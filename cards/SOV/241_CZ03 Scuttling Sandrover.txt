@@ -1,0 +1,1 @@
+﻿CZ03 Scuttling Sandrover	WG	common	Artifact Creature – Spider Scout 	241	WG	3G/WG/WG/W	VigilanceNEWLINEThis creature enters with a +1/+1 counter on it for each mana from a Desert spent to cast it.	5/5		normal	SOV		CZ03,Small Creature,5,GW ,Head of the Homestead

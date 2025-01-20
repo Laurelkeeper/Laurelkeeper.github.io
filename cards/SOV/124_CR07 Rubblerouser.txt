@@ -1,1 +1,0 @@
-﻿CR07 Rubblerouser	R	common	Creature – Elemental Juggernaut 	124	R	3RR	TrampleNEWLINEWhen this creature enters, it deals 3 damage to any noncreature target.NEWLINEDesertcycling 2 (2, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)	4/3		normal	SOV		CR08,Medium Creature,4,,Frilled Sparkshooter

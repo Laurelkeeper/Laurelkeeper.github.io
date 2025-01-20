@@ -1,0 +1,1 @@
+﻿UB11 Augmented Ascent	B	uncommon	Instant	113	B	1B	Return target artifact or creature card with mana value 3 or less from your graveyard to the battlefield. If a creature enters this way, it enters with an additional +1/+1 counter on it.			normal	SOV		UB11,Noncreature,2,,Feed the Cycle

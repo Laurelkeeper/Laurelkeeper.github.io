@@ -1,0 +1,1 @@
+﻿UL09 Awe-Marked Monument		uncommon	Land – Desert 	269	WR		This land enters tapped.NEWLINET: Add W or R.NEWLINETap two untapped Deserts you control: This land becomes a 2/2 Sand Warrior creature until your next end step. It’s still a land.NEWLINEWhenever Awe-Marked Monument attacks, it gains first strike until end of turn.			normal	SOV		CL03,Noncreature,0,,Hidden Grotto

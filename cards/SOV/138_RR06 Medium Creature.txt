@@ -1,0 +1,1 @@
+﻿RR06 Medium Creature	R	rare	Creature	138	R	2R				normal	SOV		RR06,Medium Creature,3,,Valley Flamecaller

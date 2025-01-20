@@ -1,1 +1,0 @@
-﻿UW01 Legion Instigator	W	uncommon	Artifact Creature – Cyborg Soldier Scout 	27	W	W	2, Sacrifice this creature: Draw a card.NEWLINEWhen this creature dies, create a 1/1 white Soldier creature token.	1/1		normal	SOV		!tokens Soldier

@@ -1,0 +1,1 @@
+﻿CB02 Canny Reserves	B	common	Creature – Hyena Soldier 	81	B	1B	LifelinkNEWLINEWhenever this creature attacks, if two or more cards left your library this turn, it gets +1/+0 and gains deathtouch until end of turn.	2/1		normal	SOV		CB02,Small Creature,2,,Agate-Blade Assassin

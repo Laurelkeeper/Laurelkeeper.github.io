@@ -1,1 +1,0 @@
-﻿UG12 Sanctuary Radiance	G	uncommon	Instant	194	G	1G	Choose one–NEWLINE• Return target land card from your graveyard to the battlefield tapped.NEWLINE• Create a tapped token that’s a copy of target Desert you control, except it’s also a Forest. (It has T: Add G.)			normal	SOV		CG14,Noncreature,3,,Heaped Harvest

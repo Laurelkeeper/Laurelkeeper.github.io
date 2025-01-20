@@ -1,0 +1,1 @@
+﻿RG08 Large Creature	G	rare	Creature	178	G	4G				normal	SOV		RG08,Large Creature,5,,Fecund Greenshell

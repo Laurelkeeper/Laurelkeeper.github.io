@@ -1,0 +1,1 @@
+﻿RU07 Noncreature	U	rare		62	U	U				normal	SOV		RU07,Noncreature,1,,Portent of Calamity

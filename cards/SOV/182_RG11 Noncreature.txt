@@ -1,1 +1,0 @@
-﻿RG11 Noncreature	G	rare		182	G	6G				normal	SOV		RG11,Noncreature,7,,Colossification

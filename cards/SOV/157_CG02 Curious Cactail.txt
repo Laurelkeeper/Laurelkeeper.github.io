@@ -1,0 +1,1 @@
+﻿CG02 Curious Cactail	G	common	Creature – Plant Beast 	157	G	G	When this creature enters, put a +1/+1 counter on target creature.NEWLINEG, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only if you control a Desert and only as a sorcery.	0/1		normal	SOV		CG02,Small Creature,1,,Sunshower Druid

@@ -1,0 +1,1 @@
+﻿RR07 Large Creature	R	rare	Creature	139	R	3R				normal	SOV		RR07,Large Creature,4,,Sunspine Lynx

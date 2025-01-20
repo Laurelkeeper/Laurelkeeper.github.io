@@ -1,1 +1,0 @@
-﻿RR04 Medium Creature	R	rare	Creature	137	R	2R				normal	SOV		RR04,Medium Creature,3,,Byway Barterer

@@ -1,0 +1,1 @@
+﻿RW05 Sunbleached Strider	W	rare	Artifact Creature – Construct Giant 	21	W	4WW	Ward 2NEWLINEWhenever this creature enters or attacks, choose target permanent card in your graveyard with mana value 3 or less and up to one target Desert card in your graveyard. Return those cards to the battlefield.	6/6		normal	SOV		RW05,Medium Creature,4,flying flash ,Salvation Swan

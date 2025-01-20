@@ -1,1 +1,0 @@
-﻿MW01 Small Creature	W	mythic	Creature	14	W	3W				normal	SOV		MW01,Small Creature,4,,Beza, the Bounding Spring

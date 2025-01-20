@@ -1,1 +1,0 @@
-﻿RU09 Noncreature	U	rare		65	U	3U				normal	SOV		RU09,Noncreature,4,,Kitnap

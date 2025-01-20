@@ -1,0 +1,1 @@
+﻿CR05 Reckless Racers	R	common	Creature – Hyena Pilot 	121	R	2R	The first spell you cast from anywhere other than your hand each turn costs R (or 1) less to cast.	3/2		normal	SOV		CR06,Medium Creature,3,,Roughshod Duo

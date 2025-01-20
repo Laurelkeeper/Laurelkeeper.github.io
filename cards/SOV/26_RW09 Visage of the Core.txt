@@ -1,1 +1,0 @@
-﻿RW09 Visage of the Core	W	rare	Instant	26	W	W	Exile target artifact or creature. Its controller creates a tapped token that’s a copy of it, except it has no abilities.			normal	SOV		UW15,Noncreature,2,flying flash ,Feather of Flight

@@ -1,1 +1,0 @@
-﻿UB10 Perilous Excavation	B	uncommon	Sorcery	113	B	1B	As an additional cost to cast this spell, pay 2 or remove a +1/+1 counter from a permanent you control.NEWLINEYou draw three cards and lose 3 life.			normal	SOV		UB10,Noncreature,2,,Bandit's Talent

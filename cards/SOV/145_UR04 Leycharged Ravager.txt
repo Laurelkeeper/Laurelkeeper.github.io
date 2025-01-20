@@ -1,0 +1,1 @@
+﻿UR04 Leycharged Ravager	R	uncommon	Creature – Cyborg Berserker 	145	BR	1R	When this creature enters, if you sacrificed a permanent this turn, add BR.NEWLINERetrofit 3R (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	2/1		normal	SOV		UR04,Small Creature,2,,Flamecache Gecko

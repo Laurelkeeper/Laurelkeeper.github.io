@@ -1,1 +1,0 @@
-﻿CU11 Thoughtscatter	U	common	Instant	51	U	1U	Choose one–NEWLINE• Counter target spell unless its controller pays 2.NEWLINE• Create a Junk token. (It’s an artifact with “T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)			normal	SOV		!tokens Junk

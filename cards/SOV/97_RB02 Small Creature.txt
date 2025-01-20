@@ -1,1 +1,0 @@
-﻿RB02 Small Creature	B	rare	Creature	97	B	1B				normal	SOV		RB02,Small Creature,2,,Osteomancer Adept

@@ -1,1 +1,0 @@
-﻿RR01 Small Creature	R	rare	Creature	134	R	R				normal	SOV		RR01,Small Creature,1,,Hired Claw

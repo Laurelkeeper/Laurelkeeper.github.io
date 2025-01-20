@@ -1,0 +1,1 @@
+﻿RM10 Medium Creature	WB	rare	Creature	214	WB	1WB				normal	SOV		RM10,Medium Creature,3,flying WB ,Zoraline, Cosmos Caller

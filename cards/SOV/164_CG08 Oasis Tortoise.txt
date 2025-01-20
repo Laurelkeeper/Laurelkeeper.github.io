@@ -1,1 +1,0 @@
-﻿CG08 Oasis Tortoise	G	common	Creature – Elemental Turtle 	164	G	3G	TrampleNEWLINEWhen this creature enters, mill three cards. You may put a basic land card or Desert card from your graveyard onto the battlefield tapped.	4/3		normal	SOV		CG08,Medium Creature,4,,Treeguard Duo

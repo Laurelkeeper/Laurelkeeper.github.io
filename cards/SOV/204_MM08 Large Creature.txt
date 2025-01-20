@@ -1,0 +1,1 @@
+﻿MM08 Large Creature	BG	mythic	Creature	204	BG	3BG				normal	SOV		MM08,Large Creature,5,BG ,Ygra, Eater of All

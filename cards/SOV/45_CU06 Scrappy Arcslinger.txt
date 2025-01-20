@@ -1,0 +1,1 @@
+﻿CU06 Scrappy Arcslinger	U	common	Creature – Elf Wizard 	45	U	3U	VigilanceNEWLINEAs long as you’ve cast a spell from anywhere other than your hand this turn, this creature gets +2/+0. 	2/5		normal	SOV		CU06,Medium Creature,3,flying ,Waterspout Warden

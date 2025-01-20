@@ -1,1 +1,0 @@
-﻿CR11 Salvaged Powerbrand	R	common	Artifact – Equipment 	128	R	R	Equipped creature gets +1/+1 and has haste.NEWLINEWhenever a creature you control with power 4 or greater enters, you may attach this artifact to it.NEWLINEEquip 2			normal	SOV		CR11,Noncreature,2,,Take Out the Trash

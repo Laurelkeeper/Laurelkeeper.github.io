@@ -1,1 +1,0 @@
-﻿UMWB Othar, Dunland Champion	WB	uncommon	Legendary Creature – Cyborg Soldier 	238	WB	WB	VigilanceNEWLINEWhenever another Soldier or Army you control enters, each opponent loses 1 life and you gain 1 life.NEWLINET, Pay 1 life, Sacrifice an artifact or creature: Create a tapped 1/1 white Soldier creature token.	2/2		normal	SOV		!tokens Soldier

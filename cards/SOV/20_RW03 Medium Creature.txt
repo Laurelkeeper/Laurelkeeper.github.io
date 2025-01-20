@@ -1,1 +1,0 @@
-﻿RW03 Medium Creature	W	rare	Creature	20	W	1W				normal	SOV		RW03,Medium Creature,2,,Valley Questcaller

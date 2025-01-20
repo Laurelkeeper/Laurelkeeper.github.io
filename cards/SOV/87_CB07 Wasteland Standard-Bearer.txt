@@ -1,1 +1,0 @@
-﻿CB07 Wasteland Standard-Bearer	B	common	Creature – Human Soldier 	87	B	4B	Whenever the second card leaves your library each turn, this creature gets +1/+1 until end of turn. You gain 2 life.NEWLINEDesertcycling 2 (2, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)	5/3		normal	SOV		!tokens Soldier

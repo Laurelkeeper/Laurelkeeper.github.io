@@ -1,1 +1,0 @@
-﻿CG04 Steelclad Bruiser	G	common	Creature – Human Warrior 	160	G	1G	When this creature enters, if you control a creature with power 4 or greater, draw a card.NEWLINERetrofit 2GG (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	2/2		normal	SOV		CG04,Small Creature,2,,Three Tree Rootweaver

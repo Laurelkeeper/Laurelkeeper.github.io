@@ -1,0 +1,1 @@
+﻿UW02 Legion Skirmisher	W	uncommon	Creature – Cyborg Soldier 	27	W	1W	Ward 1NEWLINEWhenever another Army or Soldier you control enters, this creature gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, draw a card.	2/2		normal	SOV		UW02,Small Creature,1,,Seasoned Warrenguard

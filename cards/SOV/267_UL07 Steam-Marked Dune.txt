@@ -1,0 +1,1 @@
+﻿UL07 Steam-Marked Dune		uncommon	Land – Desert 	267	UR		This land enters tapped.NEWLINET: Add U or R.NEWLINETap three untapped Deserts you control: This land becomes a 3/2 Sand Wraith creature until your next end step. It’s still a land.NEWLINEWhenever Steam-Marked Dune attacks, exile the top card of your library. You may play it this turn.			normal	SOV		

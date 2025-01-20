@@ -1,1 +1,0 @@
-﻿UU02 Steelbound Protector	U	uncommon	Artifact Creature – Construct 	68	U	1U	As an additional cost to cast this spell, pay 3 or exile an artifact you control.NEWLINEWhen this creature leaves the battlefield, return up to one card exiled with it to the battlefield tapped under its owner’s control.	4/5		normal	SOV		UU02,Small Creature,2,,Shoreline Looter

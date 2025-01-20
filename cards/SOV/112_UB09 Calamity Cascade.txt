@@ -1,1 +1,0 @@
-﻿UB09 Calamity Cascade	B	uncommon	Sorcery	112	B	B	Each player sacrifices a creature.NEWLINEFlashback–1B, Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)			normal	SOV		UB09,Noncreature,1,flash ,Ruthless Negotiation

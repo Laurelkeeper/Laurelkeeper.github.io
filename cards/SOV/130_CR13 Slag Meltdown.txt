@@ -1,1 +1,0 @@
-﻿CR13 Slag Meltdown	R	common	Instant	130	R	3R	This spell deals 6 damage to target creature or battle. If excess damage was dealt this way, create a Junk token. (It’s an artifact with “T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)			normal	SOV		!tokens Junk

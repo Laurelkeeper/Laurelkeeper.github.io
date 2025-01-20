@@ -1,1 +1,0 @@
-﻿CU12 Wasteland Beacons	U	common	Artifact	52	U	1U	When this artifact enters, scry 1, then draw a card.NEWLINEWhenever you cast a spell from anywhere other than your hand, you may sacrifice this artifact. If you do, scry 1, then draw a card.			normal	SOV		CU12,Noncreature,2,,Run Away Together

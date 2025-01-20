@@ -1,1 +1,0 @@
-﻿UB12 Grind to Dust	B	uncommon	Instant	115	B	1BB	You may pay B rather than pay this spell’s mana cost if you’ve sacrificed a permanent this turn.NEWLINEDestroy target creature or planeswalker.			normal	SOV		UB12,Noncreature,2,,Fell

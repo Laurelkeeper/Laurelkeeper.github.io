@@ -1,0 +1,1 @@
+﻿UB14 Oldsteel Tombkeeper	B	uncommon	Kindred Artifact – Noble 	116	B	1BB	When this artifact enters, other creatures get -2/-2 until end of turn.NEWLINERetrofit 4BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		UB15,Noncreature,4,,Hazel's Nocturne

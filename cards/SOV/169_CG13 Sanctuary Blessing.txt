@@ -1,1 +1,0 @@
-﻿CG13 Sanctuary Blessing	G	common	Enchantment – Aura 	169	G	1G	Enchant artifact or creatureNEWLINEEnchanted permanent has ward 2 and gets +2/+2 as long as it’s a creature.NEWLINEYou may cast this card from your graveyard if it targets a permanent that entered this turn. If you do, it enters with a finality counter.			normal	SOV		CG15,Noncreature,4,,Polliwallop

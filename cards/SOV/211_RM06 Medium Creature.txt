@@ -1,1 +1,0 @@
-﻿RM06 Medium Creature	UG	rare	Creature	211	UG	1GU	Excavate 2 (Once each turn, as a sorcery, you may exile a card from your graveyard. When you do, if there are two or more cards exiled with this, transform it.)			normal	SOV		RM06,Medium Creature,3,GU ,Clement, the Worrywort

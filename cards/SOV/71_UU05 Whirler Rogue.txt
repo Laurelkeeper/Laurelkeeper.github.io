@@ -1,1 +1,0 @@
-﻿UU05 Whirler Rogue	U	uncommon	Creature – Human Rogue Artificer 	71	U	2UU	When this creature enters, create two 1/1 colorless Thopter artifact creature tokens with flying.NEWLINETap two untapped artifacts you control: Target creature can’t be blocked this turn.	2/2		normal	SOV		!tokens Thopter<2>

@@ -1,1 +1,0 @@
-﻿UMUW Leygrid Anchor	WU	uncommon	Artifact	237	WU	1WU	FlashNEWLINEWhen this artifact enters, exile target nonland permanent until this artifact leaves the battlefield.NEWLINE2, T, Put a card exiled with this artifact into its owner’s graveyard: Each player draws a card. Activate only if you control another artifact.			normal	SOV		UM08,Medium Creature,3,flying WU ,Plumecreed Mentor

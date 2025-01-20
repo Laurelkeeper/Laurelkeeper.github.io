@@ -1,1 +1,0 @@
-﻿RU05 Small Creature	U	rare	Creature	61	U	1U				normal	SOV		RU05,Small Creature,2,,Thundertrap Trainer

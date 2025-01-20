@@ -1,1 +1,0 @@
-﻿RB06 Noncreature	B	rare		101	B	B				normal	SOV		RB06,Noncreature,1,,Scavenger's Talent

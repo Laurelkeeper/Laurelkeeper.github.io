@@ -1,0 +1,1 @@
+﻿UG09 Sanctuary Rotlurker	G	uncommon	Creature – Crab Horror 	190	G	4GG	Vigilance, trampleNEWLINEWhen this creature enters, creatures you control with +1/+1 counters on them get +2/+2 and gain trample and haste until end of turn.	6/6		normal	SOV		UG10,Large Creature,6,flash ,Galewind Moose

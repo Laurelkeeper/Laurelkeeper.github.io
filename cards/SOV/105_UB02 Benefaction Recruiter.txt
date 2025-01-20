@@ -1,1 +1,0 @@
-﻿UB02 Benefaction Recruiter	B	uncommon	Creature – Human Rogue Soldier 	105	B	1B	When this creature enters, create a 1/1 white Soldier creature token.NEWLINEWhenever a Soldier or Army you control attacks, defending player loses 1 life.	1/2		normal	SOV		!tokens Soldier

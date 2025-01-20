@@ -1,1 +1,0 @@
-﻿CR03 Augmented Charger	R	common	Creature – Cyborg Berserker 	120	R	1R	MenaceNEWLINERetrofit 2RR (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	2/2		normal	SOV		CR04,Small Creature,2,,Whiskerquill Scribe

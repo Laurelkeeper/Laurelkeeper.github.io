@@ -1,1 +1,0 @@
-﻿UU03 Novice Mutalist	U	uncommon	Creature – Human Mutant Artificer 	69	U	1U	Whenever you cast a spell from anywhere other than your hand, choose one –NEWLINE• Put a +1/+1 counter on this creature.NEWLINE• Tap target artifact or creature.NEWLINE• Put a stun counter on target artifact or creature.	1/2		normal	SOV		UU03,Small Creature,2,flash ,Otterball Antics

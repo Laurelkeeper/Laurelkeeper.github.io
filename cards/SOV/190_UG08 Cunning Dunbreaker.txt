@@ -1,1 +1,0 @@
-﻿UG08 Cunning Dunbreaker	G	uncommon	Creature – Snake 	190	G	4G	FlashNEWLINETrampleNEWLINEWhen this creature enters, choose one–NEWLINE• Destroy target artifact or enchantment.NEWLINE• Target creature gains hexproof until end of turn.	4/3		normal	SOV		UG09,Large Creature,5,,Hivespine Wolverine

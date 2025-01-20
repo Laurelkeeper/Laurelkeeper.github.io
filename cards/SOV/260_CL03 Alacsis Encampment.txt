@@ -1,0 +1,1 @@
+﻿CL03 Alacsis' Encampment		common	Land – Desert 	260	C		T: Add C.NEWLINET, Tap an untapped artifact, creature, or land you control: Add one mana of any color.			normal	SOV		CL09,Noncreature,0,,Uncharted Haven

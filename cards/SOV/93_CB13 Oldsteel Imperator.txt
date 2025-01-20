@@ -1,1 +1,0 @@
-﻿CB13 Oldsteel Imperator	B	common	Kindred Artifact – Warrior 	93	B	1B	When this artifact enters, each opponent sacrifices a creature.NEWLINERetrofit 5BB (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CB08,Noncreature,2,,Savor

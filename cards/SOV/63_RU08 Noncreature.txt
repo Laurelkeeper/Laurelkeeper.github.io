@@ -1,0 +1,1 @@
+﻿RU08 Noncreature	U	rare		63	U	1U				normal	SOV		RU08,Noncreature,2,,Mind Spring

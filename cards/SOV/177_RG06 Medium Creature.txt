@@ -1,1 +1,0 @@
-﻿RG06 Medium Creature	G	rare	Creature	177	G	1G				normal	SOV		RG06,Medium Creature,2,,Keen-Eyed Curator

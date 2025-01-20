@@ -1,0 +1,1 @@
+﻿UG01 Dustborn Leytracer	G	uncommon	Creature – Sand Druid 	182	G	G	As long as this creature is on the battlefield, it’s a Desert land in addition to its other types.NEWLINET: Add G.NEWLINET: Add one mana of any type a Desert you control could produce.	1/1		normal	SOV		UG01,Small Creature,2,,Bushy Bodyguard

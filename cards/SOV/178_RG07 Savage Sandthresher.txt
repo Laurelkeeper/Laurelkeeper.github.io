@@ -1,1 +1,0 @@
-﻿RG07 Savage Sandthresher	G	rare	Creature – Wurm 	178	G	2GG	This creature has protection from mana values less than the number of Deserts you control.NEWLINEWhenever a creature an opponent controls dies, create a tapped colorless Desert land token with “T: Add C.” This ability triggers only once each turn.	5/3		normal	SOV		RG07,Medium Creature,3,,Scrapshooter

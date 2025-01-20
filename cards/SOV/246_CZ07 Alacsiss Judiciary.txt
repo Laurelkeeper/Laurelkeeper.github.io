@@ -1,1 +1,0 @@
-﻿CZ07 Alacsis's Judiciary	WR	common	Creature – Human Warrior Advisor 	246	WR	3R/WR/W	At the beginning of combat on your turn, up to one target token you control becomes a 3/3 Warrior creature with haste in addition to its other types until end of turn.	4/3		normal	SOV		CZ07,Medium Creature,4,RW ,Veteran Guardmouse

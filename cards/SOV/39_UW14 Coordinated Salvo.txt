@@ -1,0 +1,1 @@
+﻿UW14 Coordinated Salvo	W	uncommon	Instant	39	W	W	This spell deals X damage to target attacking, blocking, or artifact creature, where X is 2 plus the number of creatures you control. If you control two or more Soldiers or Armies, scry 2.			normal	SOV		UW15,Noncreature,2,flying flash ,Feather of Flight

@@ -1,1 +1,0 @@
-﻿RM04 Hand of the Benefactor	UB	rare	Legendary Creature – Human Rogue 	209	UB	1UB	FlashNEWLINEYou may cast Hand of the Benefactor from exile. If cast this way, it enters tapped.NEWLINEU/B, Pay 1 life: Exile Hand of the Benefactor. Draw a card, then discard a card.	3/2		normal	SOV		RM04,Small Creature,4,UB ,Vren, the Relentless

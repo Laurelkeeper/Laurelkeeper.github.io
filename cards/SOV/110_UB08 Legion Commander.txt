@@ -1,0 +1,1 @@
+﻿UB08 Legion Commander	B	uncommon	Creature – Human Soldier 	110	B	7B	This spell costs 1 less to cast for each Soldier or Army you control.NEWLINEWhen this creature enters, create two 1/1 white Soldier creature tokens, then put a +1/+1 counter on each other Soldier or Army you control.	2/3		normal	SOV		!tokens Soldier<2>

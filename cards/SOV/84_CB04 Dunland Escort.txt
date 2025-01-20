@@ -1,1 +1,0 @@
-﻿CB04 Dunland Escort	B	common	Creature – Human Soldier 	84	B	2B	You may cast this spell from your graveyard by paying 3BB rather than paying its mana cost. If you do, it enters with an additional +1/+1 counter and finality counter on it. (If a creature with a finality counter on it would die, exile it instead.)	3/2		normal	SOV		CB04,Small Creature,3,flying ,Starlit Soothsayer

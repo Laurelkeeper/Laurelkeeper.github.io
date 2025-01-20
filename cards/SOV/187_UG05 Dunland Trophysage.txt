@@ -1,1 +1,0 @@
-﻿UG05 Dunland Trophysage	G	uncommon	Creature – Human Ranger 	187	G	3G	When this creature enters, distribute three +1/+1 counters among up to three target creatures you control.NEWLINEWhenever you attack, target attacking creature with a +1/+1 counter on it gains deathtouch until end of turn.	2/1		normal	SOV		UG02,Small Creature,3,,Clifftop Lookout

@@ -1,0 +1,1 @@
+﻿RU04 Small Creature	U	rare	Creature	59	U	1U				normal	SOV		RU04,Small Creature,2,,Dour Port-Mage

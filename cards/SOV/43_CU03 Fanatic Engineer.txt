@@ -1,1 +1,0 @@
-﻿CU03 Fanatic Engineer	U	common	Creature – Human Artificer 	43	U	1U	1, T: Draw a card, then exile a card from your hand. If you control an artifact, you may play the exiled card this turn.	2/1		normal	SOV		CU09,MediumWall Creature,3,,Nightwhorl Hermit

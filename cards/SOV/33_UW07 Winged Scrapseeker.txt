@@ -1,1 +1,0 @@
-﻿UW07 Winged Scrapseeker	W	uncommon	Creature – Bird 	33	W	3W	FlyingNEWLINEWhenever this creature attacks, create a token that’s a copy of target token you control.	3/4		normal	SOV		UW07,Small Creature,4,flying ,Star Charter

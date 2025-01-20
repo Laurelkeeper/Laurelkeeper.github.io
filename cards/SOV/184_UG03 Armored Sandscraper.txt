@@ -1,0 +1,1 @@
+﻿UG03 Armored Sandscraper	G	uncommon	Creature – Crab 	184	G	1G	This creature enters with a +1/+1 counter on it.NEWLINEWhenever a creature you control with a +1/+1 counter on it becomes the target of a spell or ability you don’t control, counter that spell or ability unless its controller pays 1. You gain 2 life.	1/2		normal	SOV		UG05,Medium Creature,2,,Three Tree Scribe

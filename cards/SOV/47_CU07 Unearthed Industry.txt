@@ -1,1 +1,0 @@
-﻿CU07 Unearthed Industry	U	common	Instant	47	U	U	Draw a card. If you’ve cast a spell from anywhere other than your hand this turn, draw two cards instead.			normal	SOV		CU05,FISH 5,,Mind Spiral

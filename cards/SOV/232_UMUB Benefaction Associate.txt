@@ -1,1 +1,0 @@
-﻿UMUB Benefaction Associate	UB	uncommon	Creature – Human Mercenary 	232	UB	UB	Ward 2NEWLINEWhen this creature enters, draw a card, then discard a card.NEWLINEAs long as two or more cards left your library this turn, this creature gets +2/+2 and has menace.	1/1		normal	SOV		NEWLINEUM07,Medium Creature,3,UB ,Tidecaller Mentor

@@ -1,1 +1,0 @@
-﻿RW08 Noncreature	W	rare		25	W	2W				normal	SOV		RW08,Noncreature,3,,Caretaker's Talent

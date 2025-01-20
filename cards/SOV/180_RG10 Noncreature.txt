@@ -1,0 +1,1 @@
+﻿RG10 Noncreature	G	rare		180	G	1G				normal	SOV		RG10,Noncreature,2,,Innkeeper's Talent

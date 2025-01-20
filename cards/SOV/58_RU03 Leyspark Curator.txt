@@ -1,0 +1,1 @@
+﻿RU03 Leyspark Curator	U	rare	Artifact Creature – Cyborg Artificer 	58	U	3U	The first spell you cast from anywhere other than your hand each turn costs UU (or up to 2) less to cast.NEWLINEWhenever you cast a spell, if no mana was spent to cast it, copy that spell. You may choose new targets for the copy.	3/4		normal	SOV		RU03,Small Creature,2,,Azure Beastbinder

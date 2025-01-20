@@ -1,0 +1,1 @@
+﻿UR02 Starved Brute	R	uncommon	Creature – Lizard 	143	R	1R	Trample, hasteNEWLINEWhenever this creature attacks or blocks while you don’t control another creature with power 4 or greater, sacrifice it at end of combat.	4/4		normal	SOV		UR02,Small Creature,2,,Brazen Collector

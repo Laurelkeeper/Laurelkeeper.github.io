@@ -1,0 +1,1 @@
+﻿CA04 Dormant Harvester		common	Kindred Artifact – Wurm 	251	C	3	T: Add one mana of any color.NEWLINERetrofit 5 (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		CA04,Noncreature,2,,Bumbleflower's Sharepot

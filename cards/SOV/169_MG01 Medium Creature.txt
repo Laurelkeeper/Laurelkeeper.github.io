@@ -1,0 +1,1 @@
+﻿MG01 Medium Creature	G	mythic	Creature	169	G	5G				normal	SOV		MG01,Medium Creature,6,,Lumra, Bellow of the Woods

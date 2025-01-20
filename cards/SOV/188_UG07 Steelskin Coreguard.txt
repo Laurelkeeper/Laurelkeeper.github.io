@@ -1,0 +1,1 @@
+﻿UG07 Steelskin Coreguard	G	uncommon	Creature – Cyborg Warrior 	188	G	2G	HasteNEWLINERetrofit G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	3/2		normal	SOV		UG07,Medium Creature,3,,Curious Forager

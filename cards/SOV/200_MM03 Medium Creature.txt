@@ -1,1 +1,0 @@
-﻿MM03 Medium Creature	UBG	mythic	Creature	200	UBG	BGU				normal	SOV		MM03,Medium Creature,3,BGU ,Glarb, Calamity's Augur

@@ -1,1 +1,0 @@
-﻿UW04 Resolute Surveyor	W	uncommon	Creature – Human Scout 	30	W	2W	When this creature enters, create a tapped colorless Desert land token with “T: Add C.” Then if each opponent controls fewer lands than you, sacrifice a land.NEWLINEDeserts you control have “T: Add W.”	3/4		normal	SOV		!tokens Desert

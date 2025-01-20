@@ -1,0 +1,1 @@
+﻿MB02 Large Creature	B	mythic	Creature	94	B	5B				normal	SOV		MB02,Large Creature,6,,Rottenmouth Viper

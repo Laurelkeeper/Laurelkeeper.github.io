@@ -1,1 +1,0 @@
-﻿CG03 Life-Crowned Caelan	G	common	Creature – Cat Beast 	159	G	1G	This creature enters with a +1/+1 counter on it.NEWLINERemove a counter from this creature: Add one mana of any color. You gain 1 life. Activate only once each turn.	1/1		normal	SOV		CG03,Small Creature,2,,Bakersbane Duo
