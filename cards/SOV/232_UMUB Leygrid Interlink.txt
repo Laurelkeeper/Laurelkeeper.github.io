@@ -1,1 +1,0 @@
-﻿UMUB Leygrid Interlink	UB	uncommon	Artifact	232	UB	1UB	Whenever the second card leaves your library each turn, exile the top card of your library face down.NEWLINEYou may look at and play cards exiled with this artifact. Spells cast this way cost 1 less to cast.NEWLINE2UB: Draw a card, then discard a card.			normal	SOV		NEWLINEUM07,Medium Creature,3,UB ,Tidecaller Mentor

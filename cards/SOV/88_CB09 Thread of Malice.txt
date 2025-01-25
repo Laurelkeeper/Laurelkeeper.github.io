@@ -1,1 +1,0 @@
-﻿CB09 Thread of Malice	B	common	Instant	88	B	B	Target creature gains indestructible until end of turn. If that creature has a +1/+1 counter on it, draw a card. Otherwise, it gets +1/+0 until end of turn.			normal	SOV		CB12,Noncreature,3,,Scales of Shale

@@ -1,1 +1,0 @@
-﻿UB03 Relentless Steelhound	B	uncommon	Creature – Wolf Cyborg 	105	B	1B	MenaceNEWLINEWhenever the second card leaves your library each turn, put a +1/+1 counter on this creature.	2/1		normal	SOV		UB03,Small Creature,2,flying ,Starscape Cleric

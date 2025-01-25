@@ -1,1 +1,0 @@
-﻿CZ02 Sparkmind Tinkerer	UR	common	Creature – Human Artificer 	240	UR	1U/RU/R	Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.	3/2		normal	SOV		CZ02,Small Creature,3,UR ,Tempest Angler

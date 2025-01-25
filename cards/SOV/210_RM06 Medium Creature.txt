@@ -1,1 +1,0 @@
-﻿RM06 Medium Creature	UG	rare	Creature	210	UG	1GU				normal	SOV		RM06,Medium Creature,3,GU ,Clement, the Worrywort

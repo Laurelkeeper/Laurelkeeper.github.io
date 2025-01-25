@@ -1,1 +1,0 @@
-﻿RM13 Large Creature	WU	rare	Creature	218	WU	3WU				normal	SOV		RM13,Large Creature,5,flying WU ,Kastral, the Windcrested

@@ -1,1 +1,0 @@
-﻿CA02 Ruined Colossus		common	Artifact Creature – Construct Giant 	250	C	7	Trample NEWLINEThis spell costs 1 less to cast for each Desert you control.NEWLINEDesertcycling 2 (2, Discard this card: Search your library for a Desert card, reveal it, put it into your hand, then shuffle.)	7/5		normal	SOV		CA02,Medium Creature,3,,Barkform Harvester

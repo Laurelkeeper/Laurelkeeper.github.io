@@ -1,1 +1,0 @@
-﻿RB01 Small Creature	B	rare	Creature	95	B	B				normal	SOV		RB01,Small Creature,1,,Iridescent Vinelasher

@@ -1,1 +1,0 @@
-﻿MW02 Small Creature	W	mythic	Creature	15	W	3W				normal	SOV		MW02,Small Creature,4,,Warren Warleader

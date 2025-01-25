@@ -1,1 +1,0 @@
-﻿UR12 Scrapper Tactics	R	uncommon	Instant	153	R	2R	Choose one – NEWLINE• This spell deals 2 damage to each creature.NEWLINE• Destroy each artifact with mana value 2 or less.			normal	SOV		UR15,Noncreature,3,,Valley Rally

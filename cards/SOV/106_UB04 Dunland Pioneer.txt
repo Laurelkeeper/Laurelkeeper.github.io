@@ -1,1 +1,0 @@
-﻿UB04 Dunland Pioneer	B	uncommon	Creature – Elf Nomad 	106	B	2B	Whenever a creature you control with a +1/+1 counter on it attacks, that creature can’t be blocked this turn unless defending player pays 2 life.NEWLINEB, T: Put a +1/+1 counter on target creature without a +1/+1 counter on it.	3/2		normal	SOV		UB04,Small Creature,3,,Thought-Stalker Warlock

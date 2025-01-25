@@ -1,1 +1,0 @@
-﻿UR08 Catastrophic Infusion	R	uncommon	Instant	149	R	4R	This spell costs 3 less to cast if you control a creature with power 4 or greater or if you reveal a creature card with power 4 or greater from your hand as an additional cost to cast it.NEWLINEThis spell deals 5 damage to any nonplayer target.			normal	SOV		UR10,Noncreature,1,,Blacksmith's Talent

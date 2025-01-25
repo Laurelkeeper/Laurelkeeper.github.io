@@ -32,6 +32,7 @@
 		.sidebar-container {
 			width: 80%;
 			max-width: 375px;
+			position: relative;
 		}
 		.sidebar img {
 			vertical-align: middle;
@@ -99,21 +100,15 @@
 			cursor: pointer;
 			border: none;
 			position: absolute;
-			top: 6.5%;
-			left: 8.5%;
+			left: 50%;
+			top: 48%;
 			transform: translate(-50%, -50%);
+			opacity: 0.5;
 		}
 		.flip-btn:hover {
 			background: url('img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
-		}
-		.sidebar .flip-btn {
-			right: 80%;
-			left: 7.8%;
-			top: -4%;
-			transform: none;
-
 		}
 		.icon-bar {
 			display: grid;
@@ -162,6 +157,7 @@
 			<img class="sg-icon" src="/img/search.png">
 			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
 			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -192,7 +188,7 @@
 			<div class="container"><img alt="sets\SOV-files\img\171_RG01 Aberrant Cultivator.png" id="171" data-flag="@X" onclick="openSidebar('171')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\17_RW01 Eni, Alabaster Gladiator.png" id="17" data-flag="@X" onclick="openSidebar('17')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\56_RU01 Small Creature.png" id="56" data-flag="@X" onclick="openSidebar('56')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\96_RB02 Small Creature.png" id="96" data-flag="@X" onclick="openSidebar('96')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\96_RB02 Legion Potentate.png" id="96" data-flag="@X" onclick="openSidebar('96')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\133_RR01 Bloodring Novice.png" id="133" data-flag="@X" onclick="openSidebar('133')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\172_RG02 Than, Desolate Scavenger.png" id="172" data-flag="@X" onclick="openSidebar('172')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\18_RW02 Weathered Wayfarer.png" id="18" data-flag="@X" onclick="openSidebar('18')"></div>
@@ -203,16 +199,16 @@
 			<div class="container"><img alt="sets\SOV-files\img\19_RW03 Oldsteel Exarch.png" id="19" data-flag="@X" onclick="openSidebar('19')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\58_RU03 Leyspark Curator.png" id="58" data-flag="@X" onclick="openSidebar('58')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\98_RB04 Galix, Steelfused Ancient.png" id="98" data-flag="@X" onclick="openSidebar('98')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\135_RR03 Small Creature.png" id="135" data-flag="@X" onclick="openSidebar('135')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\174_RG04 Small Creature.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\135_RR03 Katesh, Savage Show-Off.png" id="135" data-flag="@X" onclick="openSidebar('135')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\174_RG04 Sanctuary Dreamer.png" id="174" data-flag="@X" onclick="openSidebar('174')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\20_RW04 Medium Creature.png" id="20" data-flag="@X" onclick="openSidebar('20')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\59_RU04 Small Creature.png" id="59" data-flag="@X" onclick="openSidebar('59')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\99_RB05 Steelskin Magnate.png" id="99" data-flag="@X" onclick="openSidebar('99')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\136_RR04 Medium Creature.png" id="136" data-flag="@X" onclick="openSidebar('136')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\175_RG05 Small Creature.png" id="175" data-flag="@X" onclick="openSidebar('175')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\21_RW05 Sunbleached Strider.png" id="21" data-flag="@X" onclick="openSidebar('21')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\60_RU05 Small Creature.png" id="60" data-flag="@X" onclick="openSidebar('60')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\100_RB06 Noncreature.png" id="100" data-flag="@X" onclick="openSidebar('100')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\60_RU05 Oldsteel Originant.png" id="60" data-flag="@X" onclick="openSidebar('60')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\100_RB06 Persistent Expeditioner.png" id="100" data-flag="@X" onclick="openSidebar('100')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\137_RR05 Cera, Skycaptain.png" id="137" data-flag="@X" onclick="openSidebar('137')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\176_RG06 Medium Creature.png" id="176" data-flag="@X" onclick="openSidebar('176')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\22_RW06 Leycharged Spirit-Drinker.png" id="22" data-flag="@X" onclick="openSidebar('22')"></div>
@@ -228,15 +224,15 @@
 			<div class="container"><img alt="sets\SOV-files\img\24_RW08 Noncreature.png" id="24" data-flag="@X" onclick="openSidebar('24')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\63_RU08 Noncreature.png" id="63" data-flag="@X" onclick="openSidebar('63')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\103_UB01 Ruin Scrounger.png" id="103" data-flag="@X" onclick="openSidebar('103')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\140_RR08 Noncreature.png" id="140" data-flag="@X" onclick="openSidebar('140')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\140_RR08 Chaotic Entrance.png" id="140" data-flag="@X" onclick="openSidebar('140')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\179_RG09 Noncreature.png" id="179" data-flag="@X" onclick="openSidebar('179')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\25_RW09 Visage of the Core.png" id="25" data-flag="@X" onclick="openSidebar('25')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\64_RU09 Corebound Journey.png" id="64" data-flag="@X" onclick="openSidebar('64')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\104_UB02 Benefaction Recruiter.png" id="104" data-flag="@X" onclick="openSidebar('104')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\141_RR09 Noncreature.png" id="141" data-flag="@X" onclick="openSidebar('141')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\141_RR09 Raider's Lesson.png" id="141" data-flag="@X" onclick="openSidebar('141')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\180_RG10 Noncreature.png" id="180" data-flag="@X" onclick="openSidebar('180')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\26_UW01 Legion Instigator.png" id="26" data-flag="@X" onclick="openSidebar('26')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\65_RU10 Noncreature.png" id="65" data-flag="@X" onclick="openSidebar('65')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\65_RU10 Era Window.png" id="65" data-flag="@X" onclick="openSidebar('65')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\105_UB03 Relentless Steelhound.png" id="105" data-flag="@X" onclick="openSidebar('105')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\142_UR01 Ingenious Augmenter.png" id="142" data-flag="@X" onclick="openSidebar('142')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\181_RG11 Noncreature.png" id="181" data-flag="@X" onclick="openSidebar('181')"></div>
@@ -265,7 +261,7 @@
 			<div class="container"><img alt="sets\SOV-files\img\110_UB08 Legion Commander.png" id="110" data-flag="@X" onclick="openSidebar('110')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\147_UR06 Tunnel-Hunter Griff.png" id="147" data-flag="@X" onclick="openSidebar('147')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\186_UG05 Dunland Trophysage.png" id="186" data-flag="@X" onclick="openSidebar('186')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\32_UW07 Winged Scrapseeker.png" id="32" data-flag="@X" onclick="openSidebar('32')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\32_UW07 Winged Retriever.png" id="32" data-flag="@X" onclick="openSidebar('32')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\71_UU06 Dune-Quartz Drake.png" id="71" data-flag="@X" onclick="openSidebar('71')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\111_UB09 Calamity Cascade.png" id="111" data-flag="@X" onclick="openSidebar('111')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\148_UR07 Charred Cavalry.png" id="148" data-flag="@X" onclick="openSidebar('148')"></div>
@@ -334,17 +330,17 @@
 			<div class="container"><img alt="sets\SOV-files\img\44_CU05 Brightmind Raider.png" id="44" data-flag="@X" onclick="openSidebar('44')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\87_CB08 Oldsteel Whispers.png" id="87" data-flag="@X" onclick="openSidebar('87')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\122_CR06 Arcweld Armorer.png" id="122" data-flag="@X" onclick="openSidebar('122')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\160_CG05 Wasteland Pathfinders.png" id="160" data-flag="@X" onclick="openSidebar('160')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\160_CG05 Sanctuary Sanctifier.png" id="160" data-flag="@X" onclick="openSidebar('160')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\7_CW07 Rumblehorn Division.png" id="7" data-flag="@X" onclick="openSidebar('7')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\45_CU06 Scrappy Arcslinger.png" id="45" data-flag="@X" onclick="openSidebar('45')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\88_CB09 Thread of Malice.png" id="88" data-flag="@X" onclick="openSidebar('88')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\123_CR07 Rubblerouser.png" id="123" data-flag="@X" onclick="openSidebar('123')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\161_CG06 Sanctuary Vizier.png" id="161" data-flag="@X" onclick="openSidebar('161')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\161_CG06 Mutalist Vizier.png" id="161" data-flag="@X" onclick="openSidebar('161')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\8_CW08 Heraldic Effigy.png" id="8" data-flag="@X" onclick="openSidebar('8')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\46_CU07 Unearthed Industry.png" id="46" data-flag="@X" onclick="openSidebar('46')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\89_CB10 Legion Coordinator.png" id="89" data-flag="@X" onclick="openSidebar('89')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\124_CR08 Voltage Surge.png" id="124" data-flag="@X" onclick="openSidebar('124')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\162_CG07 Mandiblade Scuttler.png" id="162" data-flag="@X" onclick="openSidebar('162')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\162_CG07 Wasteland Pathfinders.png" id="162" data-flag="@X" onclick="openSidebar('162')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\9_CW09 Dunland Vigilante.png" id="9" data-flag="@X" onclick="openSidebar('9')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\47_CU08 Refurbisher Virtuoso.png" id="47" data-flag="@X" onclick="openSidebar('47')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\90_CB11 In the Shadow of Desolation.png" id="90" data-flag="@X" onclick="openSidebar('90')"></div>
@@ -354,112 +350,112 @@
 			<div class="container"><img alt="sets\SOV-files\img\48_CU09 Disruption Pulse.png" id="48" data-flag="@X" onclick="openSidebar('48')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\91_CB12 Ancient Uplink.png" id="91" data-flag="@X" onclick="openSidebar('91')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\126_CR10 Scavenger's Spark.png" id="126" data-flag="@X" onclick="openSidebar('126')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\164_CG09 Sandwoken Brute.png" id="164" data-flag="@X" onclick="openSidebar('164')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\164_CG09 Mandiblade Scuttler.png" id="164" data-flag="@X" onclick="openSidebar('164')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\11_CW11 Steelbound Standoff.png" id="11" data-flag="@X" onclick="openSidebar('11')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\49_CU10 Dynamic Repulsion.png" id="49" data-flag="@X" onclick="openSidebar('49')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\92_CB13 Oldsteel Imperator.png" id="92" data-flag="@X" onclick="openSidebar('92')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\127_CR11 Salvaged Powerbrand.png" id="127" data-flag="@X" onclick="openSidebar('127')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\165_CG10 Oasis Derelict.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\165_CG09 Sandwoken Brute.png" id="165" data-flag="@X" onclick="openSidebar('165')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\12_CW12 Oldsteel Judge.png" id="12" data-flag="@X" onclick="openSidebar('12')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\50_CU11 Thoughtscatter.png" id="50" data-flag="@X" onclick="openSidebar('50')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\128_CR12 Oldsteel Forgemaster.png" id="128" data-flag="@X" onclick="openSidebar('128')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\166_CG11 Sanctuary Fervor.png" id="166" data-flag="@X" onclick="openSidebar('166')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\13_CW13 Scrapper Spirit.png" id="13" data-flag="@X" onclick="openSidebar('13')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\51_CU12 Wasteland Beacons.png" id="51" data-flag="@X" onclick="openSidebar('51')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\129_CR13 Slag Meltdown.png" id="129" data-flag="@X" onclick="openSidebar('129')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\167_CG12 Across the Desolate Wild.png" id="167" data-flag="@X" onclick="openSidebar('167')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\52_CU13 Scrapyard Detour.png" id="52" data-flag="@X" onclick="openSidebar('52')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\168_CG13 Sanctuary Blessing.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\218_RM13 Large Creature.png" id="218" data-flag="@X" onclick="openSidebar('218')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\168_CG13 Oasis Derelict.png" id="168" data-flag="@X" onclick="openSidebar('168')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\218_RM13 Ana, Heroic Scavenger.png" id="218" data-flag="@X" onclick="openSidebar('218')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\196_The Enigmatic Benefactor.png" id="196" data-flag="@X" onclick="openSidebar('196')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\200_MM04 Medium Creature.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\200_MM04 Foundry Aperture.png" id="200" data-flag="@X" onclick="openSidebar('200')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\203_MM07 Large Creature.png" id="203" data-flag="@X" onclick="openSidebar('203')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\202_MM06 Medium Creature.png" id="202" data-flag="@X" onclick="openSidebar('202')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\206_RM01 Nameless Dunesong.png" id="206" data-flag="@X" onclick="openSidebar('206')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\235_UMUW Augmented Scrapper.png" id="235" data-flag="@X" onclick="openSidebar('235')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\208_RM04 Hand of the Benefactor.png" id="208" data-flag="@X" onclick="openSidebar('208')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\209_RM05 Medium Creature.png" id="209" data-flag="@X" onclick="openSidebar('209')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\211_RM07 Desiccate.png" id="211" data-flag="@X" onclick="openSidebar('211')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\205_RM01 Small Creature.png" id="205" data-flag="@X" onclick="openSidebar('205')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\209_RM04 Hand of the Benefactor.png" id="209" data-flag="@X" onclick="openSidebar('209')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\210_RM05 Ruin-Raid Skycraft.png" id="210" data-flag="@X" onclick="openSidebar('210')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\212_RM07 Desiccate.png" id="212" data-flag="@X" onclick="openSidebar('212')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\225_UMGW Thessalie, Dunland Pilgrim.png" id="225" data-flag="@X" onclick="openSidebar('225')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\236_UMUW Leygrid Anchor.png" id="236" data-flag="@X" onclick="openSidebar('236')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\231_UMUB Benefaction Associate.png" id="231" data-flag="@X" onclick="openSidebar('231')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\221_UMBR Kroddar, Steel-Scourge.png" id="221" data-flag="@X" onclick="openSidebar('221')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\227_UMRG Oldsteel Kinkeeper.png" id="227" data-flag="@X" onclick="openSidebar('227')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\225_UMGW Thessalie, Dunland Pilgrim.png" id="225" data-flag="@X" onclick="openSidebar('225')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\226_UMGW Wasteland Surveyor.png" id="226" data-flag="@X" onclick="openSidebar('226')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\246_CZ08 Hoverbike Courier.png" id="246" data-flag="@X" onclick="openSidebar('246')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\232_UMUB Leygrid Interlink.png" id="232" data-flag="@X" onclick="openSidebar('232')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\222_UMBR Slagborn Elemental.png" id="222" data-flag="@X" onclick="openSidebar('222')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\228_UMRG Patch, Brutal Scavenger.png" id="228" data-flag="@X" onclick="openSidebar('228')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\226_UMGW Wasteland Surveyor.png" id="226" data-flag="@X" onclick="openSidebar('226')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\241_CZ03 Scuttling Sandrover.png" id="241" data-flag="@X" onclick="openSidebar('241')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\247_CZ09 Opportunistic Vagabond.png" id="247" data-flag="@X" onclick="openSidebar('247')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\243_CZ05 Warwaste Gladiator.png" id="243" data-flag="@X" onclick="openSidebar('243')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\248_CZ10 Savage Scavenger.png" id="248" data-flag="@X" onclick="openSidebar('248')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\241_CZ03 Scuttling Sandrover.png" id="241" data-flag="@X" onclick="openSidebar('241')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\197_MM01 Legion's Emissary.png" id="197" data-flag="@X" onclick="openSidebar('197')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\204_MM08 Large Creature.png" id="204" data-flag="@X" onclick="openSidebar('204')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\210_RM06 Medium Creature.png" id="210" data-flag="@X" onclick="openSidebar('210')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\211_RM06 Mirage Strider.png" id="211" data-flag="@X" onclick="openSidebar('211')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\198_MM02 Paris, Charming Voyager.png" id="198" data-flag="@X" onclick="openSidebar('198')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\213_RM09 TALOS, Heart of Vikaar.png" id="213" data-flag="@X" onclick="openSidebar('213')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\206_RM02 Jacinth, Legion Commissioner.png" id="206" data-flag="@X" onclick="openSidebar('206')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\207_RM03 Small Creature.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\213_RM08 Ravaging Prizewurm.png" id="213" data-flag="@X" onclick="openSidebar('213')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\207_RM02 Jacinth, Legion Commissioner.png" id="207" data-flag="@X" onclick="openSidebar('207')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\208_RM03 Steelbone Sproutcutter.png" id="208" data-flag="@X" onclick="openSidebar('208')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\223_UMGU Cruin, Elder Caelan.png" id="223" data-flag="@X" onclick="openSidebar('223')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\201_MM05 Medium Creature.png" id="201" data-flag="@X" onclick="openSidebar('201')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\215_RM10 Sudden Raid.png" id="215" data-flag="@X" onclick="openSidebar('215')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\214_RM10 Medium Creature.png" id="214" data-flag="@X" onclick="openSidebar('214')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\219_UMBG Fetid Incubator.png" id="219" data-flag="@X" onclick="openSidebar('219')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\224_UMGU Oasis Guardian.png" id="224" data-flag="@X" onclick="openSidebar('224')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\217_RM12 Medium Creature.png" id="217" data-flag="@X" onclick="openSidebar('217')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\217_RM12 Energized Synth.png" id="217" data-flag="@X" onclick="openSidebar('217')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\229_UMRW Alacsis, Joyful Tyrant.png" id="229" data-flag="@X" onclick="openSidebar('229')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\216_RM11 Medium Creature.png" id="216" data-flag="@X" onclick="openSidebar('216')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\216_RM11 Shock Squad.png" id="216" data-flag="@X" onclick="openSidebar('216')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\220_UMBG Sanctuary Renegade.png" id="220" data-flag="@X" onclick="openSidebar('220')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\239_CZ01 Oldsteel Revelation.png" id="239" data-flag="@X" onclick="openSidebar('239')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\233_UMUR Estle, Leygrid Mutalist.png" id="233" data-flag="@X" onclick="openSidebar('233')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\230_UMRW Raider's Zeal.png" id="230" data-flag="@X" onclick="openSidebar('230')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\237_UMWB Othar, Dunland Champion.png" id="237" data-flag="@X" onclick="openSidebar('237')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\242_CZ04 Leyrot Haunt.png" id="242" data-flag="@X" onclick="openSidebar('242')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\234_UMUR The Lost and the Damned.png" id="234" data-flag="@X" onclick="openSidebar('234')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\245_CZ07 Alacsis's Judiciary.png" id="245" data-flag="@X" onclick="openSidebar('245')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\238_UMWB Steeltouched Frontliners.png" id="238" data-flag="@X" onclick="openSidebar('238')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\240_CZ02 Sparkmind Tinkerer.png" id="240" data-flag="@X" onclick="openSidebar('240')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\244_CZ06 Legion Sky Monitor.png" id="244" data-flag="@X" onclick="openSidebar('244')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\199_MM03 Medium Creature.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\212_RM08 Medium Creature.png" id="212" data-flag="@X" onclick="openSidebar('212')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\199_MM03 Steelstitch Paragon.png" id="199" data-flag="@X" onclick="openSidebar('199')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\202_MM06 Core Collapse.png" id="202" data-flag="@X" onclick="openSidebar('202')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\205_MM09 Aluin, Oldsteel Divinity.png" id="205" data-flag="@X" onclick="openSidebar('205')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\252_RA01 Noncreature.png" id="252" data-flag="@X" onclick="openSidebar('252')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\253_UA01 Alloyed Coronet.png" id="253" data-flag="@X" onclick="openSidebar('253')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\254_UA02 Fractured Leytower.png" id="254" data-flag="@X" onclick="openSidebar('254')"></div>
@@ -469,37 +465,48 @@
 			<div class="container"><img alt="sets\SOV-files\img\249_CA01 Anodized Pilgrim.png" id="249" data-flag="@X" onclick="openSidebar('249')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\250_CA02 Ruined Colossus.png" id="250" data-flag="@X" onclick="openSidebar('250')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\251_CA04 Dormant Harvester.png" id="251" data-flag="@X" onclick="openSidebar('251')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\1_Sands of Vikaar archetypes..png" id="1" data-flag="@X" onclick="openSidebar('1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\261_UL01 Sky-Marked Vantage.png" id="261" data-flag="@X" onclick="openSidebar('261')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\262_UL02 Veil-Marked Ruin.png" id="262" data-flag="@X" onclick="openSidebar('262')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\263_UL03 Grave-Marked Crag.png" id="263" data-flag="@X" onclick="openSidebar('263')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\264_UL04 Rust-Marked Knoll.png" id="264" data-flag="@X" onclick="openSidebar('264')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\265_UL05 Still-Marked Divide.png" id="265" data-flag="@X" onclick="openSidebar('265')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\266_UL06 Age-Marked Shrine.png" id="266" data-flag="@X" onclick="openSidebar('266')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\268_UL08 Roil-Marked Passage.png" id="268" data-flag="@X" onclick="openSidebar('268')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\270_UL10 Mist-Marked Strand.png" id="270" data-flag="@X" onclick="openSidebar('270')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\267_UL07 Steam-Marked Dune.png" id="267" data-flag="@X" onclick="openSidebar('267')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\269_UL09 Awe-Marked Monument.png" id="269" data-flag="@X" onclick="openSidebar('269')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\271_UL11 Windswept Waystone.png" id="271" data-flag="@X" onclick="openSidebar('271')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\258_CL01 Ancient Font.png" id="258" data-flag="@X" onclick="openSidebar('258')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\259_CL02 Sand-Scoured Foundry.png" id="259" data-flag="@X" onclick="openSidebar('259')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\260_CL03 Alacsis' Encampment.png" id="260" data-flag="@X" onclick="openSidebar('260')"></div>
-			<div class="container"><img alt="sets\SOV-files\img\271_UL11 Windswept Waystone.png" id="271" data-flag="@X" onclick="openSidebar('271')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\272_Wayfarer's Shrine.png" id="272" data-flag="@X" onclick="openSidebar('272')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\er.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\er.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="sets\SOV-files\img\1t_Sands of Vikaar archetypes..png" id="1t" data-flag="@X" onclick="openSidebar('1t')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\2t_Soldier.png" id="2t" data-flag="@X" onclick="openSidebar('2t')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\3t_Army.png" id="3t" data-flag="@X" onclick="openSidebar('3t')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\4t_Spawn.png" id="4t" data-flag="@X" onclick="openSidebar('4t')"></div>
@@ -512,13 +519,15 @@
 			<div class="container"><img alt="sets\SOV-files\img\11t_Thopter.png" id="11t" data-flag="@X" onclick="openSidebar('11t')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\12t_Treasure.png" id="12t" data-flag="@X" onclick="openSidebar('12t')"></div>
 			<div class="container"><img alt="sets\SOV-files\img\13t_Desert.png" id="13t" data-flag="@X" onclick="openSidebar('13t')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
-			<div class="container"><img alt="img\e.png" id="-1" data-flag="@E" onclick="openSidebar('-1')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
+			<div class="container"><img alt="img\e.png" id="" data-flag="@E" onclick="openSidebar('')"></div>
 	</div>
 </div>
 	<div class="sidebar" id="sidebar">
-		<div class="sidebar-container"><img id="sidebar_img" src="img/er.png"><button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button></div>
+		<div class="sidebar-container">
+			<img id="sidebar_img" src="img/er.png">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
 		<button class="close-btn" onclick="closeSidebar()"></button>
 	</div>
 	<div class="footer"></div>
@@ -528,10 +537,10 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.txt')
-					.then(response => response.text())
-					.then(text => {
-						card_list_stringified = text;
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
 				await fetch('/resources/replacechars.txt')
@@ -540,12 +549,7 @@
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
-				card_list_arrayified = card_list_stringified.split('\\n');
-
-				for (let i = 0; i < card_list_arrayified.length; i++)
-				{
-					card_list_arrayified[i] = card_list_arrayified[i].split('\t');
-				}
+				card_list_arrayified = card_list.cards;
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 		
@@ -661,13 +665,13 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i][0];
+				let card_name = card_list_arrayified[i].card_name;
 				for (const char of specialchars)
 				{
 					card_name = card_name.replaceAll(char, "");
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i][11] + '/' + card_list_arrayified[i][4] + '_' + card_name);
+				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
 			}
 	</script>
 </body>

@@ -1,1 +1,0 @@
-﻿UB06 Air-Squad Marshal	B	uncommon	Creature – Cyborg Soldier 	108	B	2BB	FlashNEWLINEFlying, lifelinkNEWLINEWhen this creature enters, destroy up to one target creature if it was dealt damage this turn or if you control another Soldier or Army.	2/2		normal	SOV		UB06,Medium Creature,4,flash ,Downwind Ambusher

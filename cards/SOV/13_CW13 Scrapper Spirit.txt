@@ -1,1 +1,0 @@
-﻿CW13 Scrapper Spirit	W	common	Instant	13	W	3W	Creatures you control get +2/+1 until end of turn.NEWLINECreature tokens you control get an additional +1/+1 and gain first strike until end of turn.			normal	SOV		CW13,Noncreature,4,,Rabbit Response

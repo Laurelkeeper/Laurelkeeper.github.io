@@ -1,1 +1,0 @@
-﻿MR01 MediumWall Creature	R	mythic	Creature	130	R	3R				normal	SOV		MR01,MediumWall Creature,4,,Stormsplitter

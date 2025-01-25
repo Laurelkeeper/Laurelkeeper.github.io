@@ -1,1 +1,0 @@
-﻿UMGW Thessalie, Dunland Pilgrim	WG	uncommon	Legendary Creature – Human Druid 	225	WG	GW	T: Untap target land.NEWLINE1GW, Sacrifice Thessalie: Create a 6/6 red Wurm creature token with trample. Tap it if it’s not your turn. Activate only if you control three or more Deserts.	2/2		normal	SOV		!tokens Wurm

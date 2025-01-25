@@ -1,1 +1,0 @@
-﻿RR08 Noncreature	R	rare		140	R	1R				normal	SOV		RR08,Noncreature,2,,Artist's Talent

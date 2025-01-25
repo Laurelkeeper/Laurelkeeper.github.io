@@ -1,1 +1,0 @@
-﻿CW07 Rumblehorn Division	W	common	Creature – Beast Soldier 	7	W	2W	When this creature enters or dies, create a 1/1 white Soldier creature token.	2/2		normal	SOV		!tokens Soldier

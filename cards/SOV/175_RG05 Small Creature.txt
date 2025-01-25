@@ -1,1 +1,0 @@
-﻿RG05 Small Creature	G	rare	Creature	175	G	1G				normal	SOV		RG05,Small Creature,2,,Thornvault Forager

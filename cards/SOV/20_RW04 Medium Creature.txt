@@ -1,1 +1,0 @@
-﻿RW04 Medium Creature	W	rare	Creature	20	W	3W				normal	SOV		RW04,Medium Creature,4,,Whiskervale Forerunner

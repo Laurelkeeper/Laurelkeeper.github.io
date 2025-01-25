@@ -1,1 +1,0 @@
-﻿CG06 Sanctuary Vizier	G	common	Creature – Elf Zombie Druid 	161	G	2G	Whenever this creature attacks while you control a creature with power 4 or greater, it gets +2/+1 and gains trample until end of turn.	2/3		normal	SOV		CG07,Medium Creature,4,,Rust-Shield Rampager

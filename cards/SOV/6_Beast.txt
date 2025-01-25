@@ -1,1 +1,0 @@
-﻿Beast	G	special	Token Creature – Beast 	6	G			4/4		token	SOV		

@@ -1,1 +1,0 @@
-﻿UA01 Alloyed Coronet		uncommon	Artifact – Equipment 	253	C	1	Equipped creature gets +1/+1 and has vigilance and ward 1.NEWLINEEquip 3NEWLINEEquip creature that entered this turn 1			normal	SOV		UA02,Noncreature,1,,Heirloom Epic

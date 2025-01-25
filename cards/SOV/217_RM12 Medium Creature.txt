@@ -1,1 +1,0 @@
-﻿RM12 Medium Creature	UR	rare	Creature	217	UR	3UR				normal	SOV		RM12,Medium Creature,5,UR ,Alania, Divergent Storm

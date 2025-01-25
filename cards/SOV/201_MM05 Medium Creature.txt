@@ -1,1 +1,0 @@
-﻿MM05 Medium Creature	UR	mythic	Creature	201	UR	2UR				normal	SOV		MM05,Medium Creature,4,UR ,Bria, Riptide Rogue

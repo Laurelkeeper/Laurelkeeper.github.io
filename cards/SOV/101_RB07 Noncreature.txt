@@ -1,1 +1,0 @@
-﻿RB07 Noncreature	B	rare		101	B	1B				normal	SOV		RB07,Noncreature,2,,Cruelclaw's Heist

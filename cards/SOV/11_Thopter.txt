@@ -1,1 +1,0 @@
-﻿Thopter		special	Token Artifact Creature – Thopter 	11	C		Flying	1/1		token	SOV		

@@ -1,1 +1,0 @@
-﻿RU10 Noncreature	U	rare		65	U	3U				normal	SOV		RU10,Noncreature,4,,Wishing Well

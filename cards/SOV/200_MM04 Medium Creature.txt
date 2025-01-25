@@ -1,1 +1,0 @@
-﻿MM04 Medium Creature	BR	mythic	Creature	200	BR	1BR				normal	SOV		MM04,Medium Creature,3,BR ,The Infamous Cruelclaw

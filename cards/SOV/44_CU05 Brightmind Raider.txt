@@ -1,1 +1,0 @@
-﻿CU05 Brightmind Raider	U	common	Creature – Human Cyborg Artificer 	44	U	2U	When this creature enters, choose one–NEWLINE• Draw a card, then discard a card.NEWLINE• Exile target nontoken artifact you control, then return it to the battlefield under its owner’s control.	2/3		normal	SOV		CU07,Medium Creature,4,,Lightshell Duo

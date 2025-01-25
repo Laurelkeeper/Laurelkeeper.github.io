@@ -1,1 +1,0 @@
-﻿CZ10 Savage Scavenger	RG	common	Creature – Human Nomad 	248	RG	R/GR/G	Whenever this creature attacks while you control a creature with power 4 or greater, put a +1/+1 counter on it.NEWLINERetrofit 4R/GR/G (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	2/1		normal	SOV		CZ10,Large Creature,5,RG ,Junkblade Bruiser

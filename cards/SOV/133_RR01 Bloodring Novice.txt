@@ -1,1 +1,0 @@
-﻿RR01 Bloodring Novice	R	rare	Creature – Human Warrior 	133	R	1R	Ward–Pay 2 life.NEWLINEDuring your turn, this creature has first strike.NEWLINEWhenever a token you control enters, this creature gets +1/+0 until end of turn. It deals 1 damage to up to one target player, planeswalker, or battle.	2/1		normal	SOV		RR01,Small Creature,1,,Hired Claw

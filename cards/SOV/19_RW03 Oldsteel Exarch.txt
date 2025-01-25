@@ -1,1 +1,0 @@
-﻿RW03 Oldsteel Exarch	W	rare	Kindred Artifact – Angel 	19	W	1W	Each player can’t cast more than one spell from their hand each turn.NEWLINE2, T: Tap target nonland permanent.NEWLINERetrofit 1WW (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)			normal	SOV		RW03,Medium Creature,2,,Valley Questcaller

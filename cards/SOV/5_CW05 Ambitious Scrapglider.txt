@@ -1,1 +1,0 @@
-﻿CW05 Ambitious Scrapglider	W	common	Creature – Human Cyborg Artificer 	5	W	1W	As long as you control two or more artifacts, this creature has flying.NEWLINERetrofit 3W (You may cast this from the battlefield for its retrofit cost. It’s a 4/4 artifact creature and loses retrofit.)	2/2		normal	SOV		CW05,Small Creature,2,flying ,Lifecreed Duo

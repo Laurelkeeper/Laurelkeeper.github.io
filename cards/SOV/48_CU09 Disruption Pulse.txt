@@ -1,1 +1,0 @@
-﻿CU09 Disruption Pulse	U	common	Instant	48	U	3U	The owner of target creature or creature spell puts it on the top or bottom of their library.			normal	SOV		CU15,Noncreature,4,,Dire Downdraft

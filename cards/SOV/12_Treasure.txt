@@ -1,1 +1,0 @@
-﻿Treasure		special	Token Artifact – Treasure 	12	C		T, Sacrifice this artifact: Add one mana of any color.			token	SOV		

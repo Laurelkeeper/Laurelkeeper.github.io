@@ -1,1 +1,0 @@
-﻿UU07 Ruined Animator	U	uncommon	Creature – Human Warlock Artificer 	72	U	6U	This spell costs X less to cast, where X is the number of artifacts you control or the greatest mana value among artifacts you control, whichever is greater.NEWLINEWhen this creature enters, tap up to one target creature and put a stun counter on it.	5/5		normal	SOV		UU07,Medium Creature,3,,Mindwhisker

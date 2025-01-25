@@ -1,1 +1,0 @@
-﻿UW05 Many-Limbed Scrapweaver	W	uncommon	Artifact Creature – Cyborg Octopus Wizard 	30	W	2W	Whenever another nontoken artifact you control enters, you gain life equal to its mana value.NEWLINEAt the beginning of your end step, if you gained 3 or more life this turn, draw a card.	3/2		normal	SOV		UW05,Small Creature,3,,Hop to It

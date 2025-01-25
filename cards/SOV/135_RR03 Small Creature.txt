@@ -1,1 +1,0 @@
-﻿RR03 Small Creature	R	rare	Creature	135	R	1R				normal	SOV		RR03,Small Creature,2,,Manifold Mouse

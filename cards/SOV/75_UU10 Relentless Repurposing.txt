@@ -1,1 +1,0 @@
-﻿UU10 Relentless Repurposing	U	uncommon	Instant	75	U	3UU	Choose one –NEWLINE• Draw four cards, then discard two cards unless you discard an artifact card.NEWLINE• Return target artifact card from your graveyard to the battlefield tapped.			normal	SOV		UU10,Large Creature,7,flash ,Eddymurk Crab

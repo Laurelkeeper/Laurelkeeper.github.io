@@ -1,1 +1,0 @@
-﻿UR03 Sanctuary Enforcer	R	uncommon	Creature – Human Warrior 	144	R	1R	MenaceNEWLINEWhenever an artifact enters under an opponent’s control, this creature deals 2 damage to them.	2/2		normal	SOV		UR03,Small Creature,2,,Coruscation Mage

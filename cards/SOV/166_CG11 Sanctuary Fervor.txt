@@ -1,1 +1,0 @@
-﻿CG11 Sanctuary Fervor	G	common	Sorcery	166	G	1G	This spell costs 1 less to cast if it targets a creature you control with a +1/+1 counter on it.NEWLINETarget creature you control deals damage equal to its power to another target creature, planeswalker, or battle.			normal	SOV		CG12,Noncreature,2,,Cache Grab

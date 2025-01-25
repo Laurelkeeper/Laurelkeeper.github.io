@@ -1,1 +1,0 @@
-﻿CB08 Oldsteel Whispers	B	common	Sorcery	87	B	1B	Scry 1.NEWLINEYou create two Junk tokens and you lose 2 life. (They’re artifacts with “T, Sacrifice this artifact: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)			normal	SOV		!tokens Junk<2>

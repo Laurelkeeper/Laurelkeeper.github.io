@@ -1,1 +1,0 @@
-﻿Wurm	R	special	Token Creature – Wurm 	5	R		Trample	6/6		token	SOV		

@@ -1,1 +1,0 @@
-﻿Army	B	special	Token Creature – Army 	3	B			0/0		token	SOV		

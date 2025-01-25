@@ -1,1 +1,0 @@
-﻿UL03 Grave-Marked Crag		uncommon	Land – Desert 	263	BR		This land enters tapped.NEWLINET: Add B or R.NEWLINETap two untapped Deserts you control: This land becomes a 2/1 Sand Rogue creature until your next end step. It’s still a land.NEWLINEWhenever Veil-Marked Ruin attacks, you may sacrifice a permanent. If you do, draw a card.			normal	SOV		CL02,Noncreature,0,,Forest

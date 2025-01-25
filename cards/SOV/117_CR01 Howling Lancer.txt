@@ -1,1 +1,0 @@
-﻿CR01 Howling Lancer	R	common	Creature – Hyena Warrior 	117	R	R	First strike, hasteNEWLINEThis creature gets +2/+0 as long as you’ve sacrificed a permanent this turn.	1/2		normal	SOV		CR01,Small Creature,2,,Raccoon Rallier
