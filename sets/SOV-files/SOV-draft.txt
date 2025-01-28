@@ -54,9 +54,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/30_Steelbeater Stalwart.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/29_Steelbeater Stalwart.png"
 			}
 		},
 		{
@@ -94,9 +94,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/34_Timely Tune-Up.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/33_Timely Tune-Up.png"
 			}
 		},
 		{
@@ -104,9 +104,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Battle — Encounter ",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/31_Steelbound Standoff.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/30_Steelbound Standoff.png"
 			}
 		},
 		{
@@ -124,9 +124,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/26_Scrapper Spirit.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/25_Scrapper Spirit.png"
 			}
 		},
 		{
@@ -780,13 +780,13 @@
 			}
 		},
 		{
-			"name": "CL03 Alacsis' Encampment",
+			"name": "Alacsis' Encampment",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "262",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_CL03 Alacsis' Encampment.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/260_Alacsis' Encampment.png"
 			}
 		},
 		{
@@ -844,9 +844,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Soldier ",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/29_Shocklance Sentinel.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/28_Shocklance Sentinel.png"
 			}
 		},
 		{
@@ -1404,9 +1404,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Artifact Creature — Construct Giant ",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/32_Sunbleached Strider.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/31_Sunbleached Strider.png"
 			}
 		},
 		{
@@ -1414,9 +1414,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact Creature — Cyborg Demon ",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/28_Shadowed Steelgiver.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/27_Shadowed Steelgiver.png"
 			}
 		},
 		{
@@ -1864,9 +1864,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/260_Ancient Font.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/261_Ancient Font.png"
 			}
 		},
 		{
@@ -1894,9 +1894,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Construct Bard Warrior ",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/33_Timeless Steeldancer.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/32_Timeless Steeldancer.png"
 			}
 		},
 		{
@@ -2274,9 +2274,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "261",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/261_Awe-Marked Monument.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_Awe-Marked Monument.png"
 			}
 		},
 		{
@@ -2450,13 +2450,13 @@
 			}
 		},
 		{
-			"name": "RW09 Visage of the Core",
+			"name": "Visage of the Core",
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "25",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/25_RW09 Visage of the Core.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/34_Visage of the Core.png"
 			}
 		},
 		{
@@ -2484,9 +2484,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/27_Scrapper's Pirouette.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/26_Scrapper's Pirouette.png"
 			}
 		},
 		{
@@ -2632,7 +2632,7 @@
 		{
 			"name": "Aberrant Cultivator",
 			"rarity": "rare",
-			"mana_cost": "{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Fungus Cyborg Druid ",
 			"collector_number": "157",
 			"image_uris": {
@@ -2943,7 +2943,7 @@
 		2 Subsurface Campaign
 		2 Kai'Ji, Legion Conscript
 		2 Oldsteel Reclamation
-		2 RW09 Visage of the Core
+		2 Visage of the Core
 		2 Aberrant Cultivator
 		2 Leycharged Spirit-Drinker
 		2 Spinner of Lost Souls
@@ -3161,7 +3161,7 @@
 		30 Ruined Colossus
 		30 Dormant Harvester
 		30 Sand-Scoured Foundry
-		30 CL03 Alacsis' Encampment
+		30 Alacsis' Encampment
 		30 Across the Desolate Wild
 		30 Ancient Font
 		30 Wasteland Standard-Bearer
