@@ -2890,7 +2890,93 @@
 			}
 		},
 		]
-	[UncommonSlot(6)]
+	[RareSlot(2)]
+	2 Eni, Alabaster Gladiator
+		2 Leygrid Railracer
+		2 Than, Desolate Scavenger
+		2 Sudden Raid
+		2 Hand of the Benefactor
+		2 Weathered Wayfarer
+		2 Oldsteel Exarch
+		2 Dunland Campaign
+		2 Sunbleached Strider
+		2 Shadowed Steelgiver
+		2 Matchless Scavenger
+		2 Leyspark Curator
+		2 Adroit Scrapjacker
+		2 Oldsteel Originant
+		2 Steelflow Shoalweaver
+		2 Aloysius Qin, Master Merchant
+		2 Corebound Journey
+		2 Era Window
+		2 Blanched Steelblade
+		2 Legion Potentate
+		2 Galix, Steelfused Ancient
+		2 Steelskin Magnate
+		2 Persistent Expeditioner
+		2 Flash of Steel
+		2 Bloodring Novice
+		2 Oldsteel Malefactor
+		2 Katesh, Savage Show-Off
+		2 Foundry Campaign
+		2 Cera, Skycaptain
+		2 Gun Down
+		2 Chaotic Entrance
+		2 Raider's Lesson
+		2 Sanctuary Manacyte
+		2 Sanctuary Dreamer
+		2 Dunland Absolver
+		2 Sanctuary Campaign
+		2 Savage Sandthresher
+		2 Acidgout Dracosaur
+		2 Verdant Rupture
+		2 Oldsteel Deepguard
+		2 Jacinth, Legion Commissioner
+		2 Steelbone Sproutcutter
+		2 Ruin-Raid Skycraft
+		2 Mirage Strider
+		2 Desiccate
+		2 Huntrevel Hellion
+		2 Shock Squad
+		2 Energized Synth
+		2 Ana, Heroic Scavenger
+		2 Subsurface Campaign
+		2 Kai'Ji, Legion Conscript
+		2 Oldsteel Reclamation
+		2 RW09 Visage of the Core
+		2 Aberrant Cultivator
+		2 Leycharged Spirit-Drinker
+		2 Spinner of Lost Souls
+		2 Ley-Touched Courser
+		2 Sanctuary Flowbreaker
+		2 Titanic Pathbreaker
+		2 Ruins Campaign
+		2 Coremuncher Whelp
+		2 Nameless Dunesong
+		1 Ruinous Uplink
+		1 Aluin, Core Monitor
+		1 The Regulator Orrery
+		1 Timeless Steeldancer
+		1 Eni, Oldsteel Reforged
+		1 Leysurge Conduit
+		1 X'Ain, Azure Leykeeper
+		1 The Enigmatic Benefactor
+		1 X'Teth, Crimson Leykeeper
+		1 Leygrid Rupture
+		1 Tempered Wurm
+		1 Steelstitch Paragon
+		1 Foundry Aperture
+		1 Core Collapse
+		1 Harji the Ageless
+		1 Parity, Charming Voyager
+		1 Legion's Emissary
+		1 Kajiwara, Spark of Sorrow
+		1 Cutthroat Scrapper
+		1 X'Vel, Alabaster Leykeeper
+		1 X'Vol, Violet Leykeeper
+		1 X'Mor, Viridian Leykeeper
+		1 Sandshaper Hydra
+		[UncommonSlot(4)]
 	9 Sanctuary Radiance
 		9 Legion Skirmisher
 		9 Resolute Surveyor
