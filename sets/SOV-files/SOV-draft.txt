@@ -663,7 +663,7 @@
 			"name": "Scuttling Sandrover",
 			"rarity": "common",
 			"mana_cost": "{3}{G/W}{G/W}{G/W}",
-			"type": "Artifact Creature — Spider Scout ",
+			"type": "Artifact Creature — Spider Construct ",
 			"collector_number": "247",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/247_Scuttling Sandrover.png"
@@ -723,7 +723,7 @@
 			"name": "Opportunistic Vagabond",
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}{U/B}",
-			"type": "Creature — Human Cyborg Warrior ",
+			"type": "Creature — Human Cyborg Soldier ",
 			"collector_number": "245",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/245_Opportunistic Vagabond.png"
@@ -743,7 +743,7 @@
 			"name": "Anodized Pilgrim",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Nomad Construct  ",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/251_Anodized Pilgrim.png"
@@ -753,7 +753,7 @@
 			"name": "Ruined Colossus",
 			"rarity": "common",
 			"mana_cost": "{7}",
-			"type": "Artifact Creature — Construct Giant ",
+			"type": "Artifact Creature — Giant Construct ",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/258_Ruined Colossus.png"
@@ -774,9 +774,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "276",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/276_Sand-Scoured Foundry.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/267_Sand-Scoured Foundry.png"
 			}
 		},
 		{
@@ -823,7 +823,7 @@
 			"name": "Crafty Chartwright",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Artificer Scout ",
 			"collector_number": "5",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/5_Crafty Chartwright.png"
@@ -833,7 +833,7 @@
 			"name": "Many-Limbed Scrapweaver",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Artifact Creature — Cyborg Octopus Wizard ",
+			"type": "Artifact Creature — Octopus Cyborg Wizard ",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/17_Many-Limbed Scrapweaver.png"
@@ -1194,9 +1194,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Elemental Crocodile ",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/213_Kroddar, Steel-Scourge.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/212_Kroddar, Steel-Scourge.png"
 			}
 		},
 		{
@@ -1204,16 +1204,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Kindred Artifact — Druid ",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/222_Oldsteel Kinkeeper.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/221_Oldsteel Kinkeeper.png"
 			}
 		},
 		{
 			"name": "Estle, Leygrid Mutalist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
-			"type": "Legendary Creature — Mutant Wizard ",
+			"type": "Legendary Creature — Mutant Shaman ",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/206_Estle, Leygrid Mutalist.png"
@@ -1263,7 +1263,7 @@
 			"name": "Augmented Scrapper",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Human Artificer ",
+			"type": "Creature — Human Cyborg Artificer ",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/199_Augmented Scrapper.png"
@@ -1274,19 +1274,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Elemental Snake ",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/221_Oasis Guardian.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/220_Oasis Guardian.png"
 			}
 		},
 		{
 			"name": "Othar, Dunland Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Legendary Creature — Cyborg Soldier ",
-			"collector_number": "223",
+			"type": "Legendary Creature — Human Cyborg Soldier ",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/223_Othar, Dunland Champion.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/222_Othar, Dunland Champion.png"
 			}
 		},
 		{
@@ -1344,9 +1344,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "283",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/283_Windswept Waystone.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/273_Windswept Waystone.png"
 			}
 		},
 		{
@@ -1354,9 +1354,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "281",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/281_Veil-Marked Ruin.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/271_Veil-Marked Ruin.png"
 			}
 		},
 		{
@@ -1364,9 +1364,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "271",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/271_Mist-Marked Strand.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/264_Mist-Marked Strand.png"
 			}
 		},
 		{
@@ -1403,7 +1403,7 @@
 			"name": "Sunbleached Strider",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Construct Giant ",
+			"type": "Artifact Creature — Giant Construct ",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/31_Sunbleached Strider.png"
@@ -1673,7 +1673,7 @@
 			"name": "Sanctuary Dreamer",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Mutant Advisor ",
+			"type": "Creature — Dryad Mutant Advisor ",
 			"collector_number": "181",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/181_Sanctuary Dreamer.png"
@@ -1744,9 +1744,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Soldier Advisor ",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/212_Jacinth, Legion Commissioner.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/211_Jacinth, Legion Commissioner.png"
 			}
 		},
 		{
@@ -1764,9 +1764,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Artifact",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/217_Leygrid Interlink.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/216_Leygrid Interlink.png"
 			}
 		},
 		{
@@ -1784,9 +1784,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Creature — Illusion Spider ",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/219_Mirage Strider.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/218_Mirage Strider.png"
 			}
 		},
 		{
@@ -1800,13 +1800,13 @@
 			}
 		},
 		{
-			"name": "Huntrevel Hellion",
+			"name": "Prized Hellion",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Creature — Hellion ",
-			"collector_number": "211",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/211_Huntrevel Hellion.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/225_Prized Hellion.png"
 			}
 		},
 		{
@@ -1874,9 +1874,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "275",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/275_Rust-Marked Knoll.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/266_Rust-Marked Knoll.png"
 			}
 		},
 		{
@@ -1884,9 +1884,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "279",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/279_Still-Marked Divide.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Still-Marked Divide.png"
 			}
 		},
 		{
@@ -2094,9 +2094,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/216_Leygrid Anchor.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/215_Leygrid Anchor.png"
 			}
 		},
 		{
@@ -2104,9 +2104,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/218_The Lost and the Damned.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/217_The Lost and the Damned.png"
 			}
 		},
 		{
@@ -2134,9 +2134,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Human Beast Nomad ",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/225_Patch, Brutal Scavenger.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/224_Patch, Brutal Scavenger.png"
 			}
 		},
 		{
@@ -2194,19 +2194,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{R}",
 			"type": "Legendary Planeswalker — Parity ",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/224_Parity, Charming Voyager.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/223_Parity, Charming Voyager.png"
 			}
 		},
 		{
 			"name": "Legion's Emissary",
 			"rarity": "mythic",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Soldier Flagbearer ",
-			"collector_number": "214",
+			"type": "Creature — Human Cyborg Soldier ",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/214_Legion's Emissary.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/213_Legion's Emissary.png"
 			}
 		},
 		{
@@ -2244,9 +2244,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/282_Wayfarer's Shrine.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Wayfarer's Shrine.png"
 			}
 		},
 		{
@@ -2264,9 +2264,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "278",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/278_Steam-Marked Dune.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/269_Steam-Marked Dune.png"
 			}
 		},
 		{
@@ -2274,9 +2274,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "264",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/264_Awe-Marked Monument.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_Awe-Marked Monument.png"
 			}
 		},
 		{
@@ -2284,9 +2284,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "277",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/277_Sky-Marked Vantage.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/268_Sky-Marked Vantage.png"
 			}
 		},
 		{
@@ -2294,9 +2294,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "270",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Grave-Marked Crag.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/263_Grave-Marked Crag.png"
 			}
 		},
 		{
@@ -2304,9 +2304,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "273",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/273_Roil-Marked Passage.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/265_Roil-Marked Passage.png"
 			}
 		},
 		{
@@ -2753,10 +2753,10 @@
 			"name": "Ley-Touched Courser",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Cyborg Centaur Shaman ",
-			"collector_number": "215",
+			"type": "Creature — Centaur Cyborg Shaman ",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/215_Ley-Touched Courser.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/214_Ley-Touched Courser.png"
 			}
 		},
 		{
@@ -2874,9 +2874,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Sand Spirit Bard ",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/220_Nameless Dunesong.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/219_Nameless Dunesong.png"
 			}
 		},
 		{
@@ -2887,106 +2887,6 @@
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/0_A Delicate Deal.png"
-			}
-		},
-		{
-			"name": "Arcane Oasis",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "262",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_Arcane Oasis.png"
-			}
-		},
-		{
-			"name": "Arid Causeway",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/263_Arid Causeway.png"
-			}
-		},
-		{
-			"name": "Bloodsand Gulch",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "265",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/265_Bloodsand Gulch.png"
-			}
-		},
-		{
-			"name": "Blooming Needles",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "266",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/266_Blooming Needles.png"
-			}
-		},
-		{
-			"name": "Crumbling Aqueduct",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/267_Crumbling Aqueduct.png"
-			}
-		},
-		{
-			"name": "Desiccated Trail",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/268_Desiccated Trail.png"
-			}
-		},
-		{
-			"name": "Dunesea Expanse",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "269",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/269_Dunesea Expanse.png"
-			}
-		},
-		{
-			"name": "Nestled Delta",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "272",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Nestled Delta.png"
-			}
-		},
-		{
-			"name": "Rot-Sand Ruins",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "274",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/274_Rot-Sand Ruins.png"
-			}
-		},
-		{
-			"name": "Sundappled Scrub",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land — Desert ",
-			"collector_number": "280",
-			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/280_Sundappled Scrub.png"
 			}
 		},
 		]
@@ -3036,7 +2936,7 @@
 		2 Ruin-Raid Skycraft
 		2 Mirage Strider
 		2 Desiccate
-		2 Huntrevel Hellion
+		2 Prized Hellion
 		2 Shock Squad
 		2 Energized Synth
 		2 Ana, Heroic Scavenger
@@ -3266,14 +3166,4 @@
 		30 Ancient Font
 		30 Wasteland Standard-Bearer
 		30 Wayfarer's Shrine
-		30 Arcane Oasis
-		30 Arid Causeway
-		30 Bloodsand Gulch
-		30 Blooming Needles
-		30 Crumbling Aqueduct
-		30 Desiccated Trail
-		30 Dunesea Expanse
-		30 Nestled Delta
-		30 Rot-Sand Ruins
-		30 Sundappled Scrub
 		
