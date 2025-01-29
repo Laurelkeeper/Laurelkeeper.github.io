@@ -774,9 +774,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "267",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/267_Sand-Scoured Foundry.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/276_Sand-Scoured Foundry.png"
 			}
 		},
 		{
@@ -1344,9 +1344,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "273",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/273_Windswept Waystone.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/283_Windswept Waystone.png"
 			}
 		},
 		{
@@ -1354,9 +1354,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "271",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/271_Veil-Marked Ruin.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/281_Veil-Marked Ruin.png"
 			}
 		},
 		{
@@ -1364,9 +1364,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "264",
+			"collector_number": "271",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/264_Mist-Marked Strand.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/271_Mist-Marked Strand.png"
 			}
 		},
 		{
@@ -1710,13 +1710,13 @@
 			}
 		},
 		{
-			"name": "Acidgout Dracosaur",
+			"name": "Acidtongue Rhonix",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Dinosaur Dragon ",
+			"type": "Creature — Lizard ",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/158_Acidgout Dracosaur.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/158_Acidtongue Rhonix.png"
 			}
 		},
 		{
@@ -1874,9 +1874,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "266",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/266_Rust-Marked Knoll.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/275_Rust-Marked Knoll.png"
 			}
 		},
 		{
@@ -1884,9 +1884,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "270",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Still-Marked Divide.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/279_Still-Marked Divide.png"
 			}
 		},
 		{
@@ -2244,9 +2244,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "282",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Wayfarer's Shrine.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/282_Wayfarer's Shrine.png"
 			}
 		},
 		{
@@ -2264,9 +2264,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "269",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/269_Steam-Marked Dune.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/278_Steam-Marked Dune.png"
 			}
 		},
 		{
@@ -2274,9 +2274,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "262",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_Awe-Marked Monument.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/264_Awe-Marked Monument.png"
 			}
 		},
 		{
@@ -2284,9 +2284,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "268",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/268_Sky-Marked Vantage.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/277_Sky-Marked Vantage.png"
 			}
 		},
 		{
@@ -2294,9 +2294,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "263",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/263_Grave-Marked Crag.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Grave-Marked Crag.png"
 			}
 		},
 		{
@@ -2304,9 +2304,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
-			"collector_number": "265",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/265_Roil-Marked Passage.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/273_Roil-Marked Passage.png"
 			}
 		},
 		{
@@ -2889,6 +2889,106 @@
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/0_A Delicate Deal.png"
 			}
 		},
+		{
+			"name": "Arcane Oasis",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/262_Arcane Oasis.png"
+			}
+		},
+		{
+			"name": "Arid Causeway",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/263_Arid Causeway.png"
+			}
+		},
+		{
+			"name": "Bloodsand Gulch",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/265_Bloodsand Gulch.png"
+			}
+		},
+		{
+			"name": "Blooming Needles",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/266_Blooming Needles.png"
+			}
+		},
+		{
+			"name": "Crumbling Aqueduct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/267_Crumbling Aqueduct.png"
+			}
+		},
+		{
+			"name": "Desiccated Trail",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/268_Desiccated Trail.png"
+			}
+		},
+		{
+			"name": "Dunesea Expanse",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/269_Dunesea Expanse.png"
+			}
+		},
+		{
+			"name": "Nestled Delta",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Nestled Delta.png"
+			}
+		},
+		{
+			"name": "Rot-Sand Ruins",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/274_Rot-Sand Ruins.png"
+			}
+		},
+		{
+			"name": "Sundappled Scrub",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land — Desert ",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/280_Sundappled Scrub.png"
+			}
+		},
 		]
 	[RareSlot(2)]
 	2 Eni, Alabaster Gladiator
@@ -2928,7 +3028,7 @@
 		2 Dunland Absolver
 		2 Sanctuary Campaign
 		2 Savage Sandthresher
-		2 Acidgout Dracosaur
+		2 Acidtongue Rhonix
 		2 Verdant Rupture
 		2 Oldsteel Deepguard
 		2 Jacinth, Legion Commissioner
@@ -3166,4 +3266,14 @@
 		30 Ancient Font
 		30 Wasteland Standard-Bearer
 		30 Wayfarer's Shrine
+		30 Arcane Oasis
+		30 Arid Causeway
+		30 Bloodsand Gulch
+		30 Blooming Needles
+		30 Crumbling Aqueduct
+		30 Desiccated Trail
+		30 Dunesea Expanse
+		30 Nestled Delta
+		30 Rot-Sand Ruins
+		30 Sundappled Scrub
 		
