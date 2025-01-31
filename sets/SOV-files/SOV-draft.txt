@@ -1512,7 +1512,7 @@
 		{
 			"name": "Blanched Steelblade",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Zombie Construct ",
 			"collector_number": "85",
 			"image_uris": {
@@ -1543,7 +1543,7 @@
 			"name": "Steelskin Magnate",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Cyborg Rogue ",
+			"type": "Creature — Human Cyborg Noble ",
 			"collector_number": "115",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/115_Steelskin Magnate.png"
@@ -1552,7 +1552,7 @@
 		{
 			"name": "Persistent Expeditioner",
 			"rarity": "rare",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Zombie Cyborg ",
 			"collector_number": "109",
 			"image_uris": {
@@ -2990,69 +2990,69 @@
 			}
 		},
 		]
-	[RareSlot(2)]
-	2 Eni, Alabaster Gladiator
-		2 Leygrid Railracer
-		2 Than, Desolate Scavenger
-		2 Sudden Raid
-		2 Hand of the Benefactor
-		2 Weathered Wayfarer
-		2 Oldsteel Exarch
-		2 Dunland Campaign
-		2 Sunbleached Strider
-		2 Shadowed Steelgiver
-		2 Matchless Scavenger
-		2 Leyspark Curator
-		2 Adroit Scrapjacker
-		2 Oldsteel Originant
-		2 Steelflow Shoalweaver
-		2 Aloysius Qin, Master Merchant
-		2 Corebound Journey
-		2 Era Window
-		2 Blanched Steelblade
-		2 Legion Potentate
-		2 Galix, Steelfused Ancient
-		2 Steelskin Magnate
-		2 Persistent Expeditioner
-		2 Flash of Steel
-		2 Bloodring Novice
-		2 Oldsteel Malefactor
-		2 Katesh, Savage Show-Off
-		2 Foundry Campaign
-		2 Cera, Skycaptain
-		2 Gun Down
-		2 Chaotic Entrance
-		2 Raider's Lesson
-		2 Sanctuary Manacyte
-		2 Sanctuary Dreamer
-		2 Dunland Absolver
-		2 Sanctuary Campaign
-		2 Savage Sandthresher
-		2 Acidtongue Rhonix
-		2 Verdant Rupture
-		2 Oldsteel Deepguard
-		2 Jacinth, Legion Commissioner
-		2 Steelbone Sproutcutter
-		2 Ruin-Raid Skycraft
-		2 Mirage Strider
-		2 Desiccate
-		2 Prized Hellion
-		2 Shock Squad
-		2 Energized Synth
-		2 Ana, Heroic Scavenger
-		2 Subsurface Campaign
-		2 Kai'Ji, Legion Conscript
-		2 Oldsteel Reclamation
-		2 Visage of the Core
-		2 Aberrant Cultivator
-		2 Leycharged Spirit-Drinker
-		2 Spinner of Lost Souls
-		2 Ley-Touched Courser
-		2 Sanctuary Flowbreaker
-		2 Titanic Pathbreaker
-		2 Ruins Campaign
-		2 Coremuncher Whelp
-		2 Nameless Dunesong
+	[RareSlot(1)]
+	3 Eni, Alabaster Gladiator
+		3 Leygrid Railracer
+		3 Than, Desolate Scavenger
+		3 Sudden Raid
+		3 Hand of the Benefactor
+		3 Weathered Wayfarer
+		3 Oldsteel Exarch
+		3 Dunland Campaign
+		3 Sunbleached Strider
+		3 Shadowed Steelgiver
+		3 Matchless Scavenger
+		3 Leyspark Curator
+		3 Adroit Scrapjacker
+		3 Oldsteel Originant
+		3 Steelflow Shoalweaver
+		3 Aloysius Qin, Master Merchant
+		3 Corebound Journey
+		3 Era Window
+		3 Blanched Steelblade
+		3 Legion Potentate
+		3 Galix, Steelfused Ancient
+		3 Steelskin Magnate
+		3 Persistent Expeditioner
+		3 Flash of Steel
+		3 Bloodring Novice
+		3 Oldsteel Malefactor
+		3 Katesh, Savage Show-Off
+		3 Foundry Campaign
+		3 Cera, Skycaptain
+		3 Gun Down
+		3 Chaotic Entrance
+		3 Raider's Lesson
+		3 Sanctuary Manacyte
+		3 Sanctuary Dreamer
+		3 Dunland Absolver
+		3 Sanctuary Campaign
+		3 Savage Sandthresher
+		3 Acidtongue Rhonix
+		3 Verdant Rupture
+		3 Oldsteel Deepguard
+		3 Jacinth, Legion Commissioner
+		3 Steelbone Sproutcutter
+		3 Ruin-Raid Skycraft
+		3 Mirage Strider
+		3 Desiccate
+		3 Prized Hellion
+		3 Shock Squad
+		3 Energized Synth
+		3 Ana, Heroic Scavenger
+		3 Subsurface Campaign
+		3 Kai'Ji, Legion Conscript
+		3 Oldsteel Reclamation
+		3 Visage of the Core
+		3 Aberrant Cultivator
+		3 Leycharged Spirit-Drinker
+		3 Spinner of Lost Souls
+		3 Ley-Touched Courser
+		3 Sanctuary Flowbreaker
+		3 Titanic Pathbreaker
+		3 Ruins Campaign
+		3 Coremuncher Whelp
+		3 Nameless Dunesong
 		1 Ruinous Uplink
 		1 Aluin, Core Monitor
 		1 The Regulator Orrery
@@ -3076,7 +3076,281 @@
 		1 X'Vol, Violet Leykeeper
 		1 X'Mor, Viridian Leykeeper
 		1 Sandshaper Hydra
-		[UncommonSlot(4)]
+		[WildSlot(2)]
+3 Eni, Alabaster Gladiator
+3 Leygrid Railracer
+3 Than, Desolate Scavenger
+3 Sudden Raid
+3 Hand of the Benefactor
+3 Weathered Wayfarer
+3 Oldsteel Exarch
+3 Dunland Campaign
+3 Sunbleached Strider
+3 Shadowed Steelgiver
+3 Matchless Scavenger
+3 Leyspark Curator
+3 Adroit Scrapjacker
+3 Oldsteel Originant
+3 Steelflow Shoalweaver
+3 Aloysius Qin, Master Merchant
+3 Corebound Journey
+3 Era Window
+3 Blanched Steelblade
+3 Legion Potentate
+3 Galix, Steelfused Ancient
+3 Steelskin Magnate
+3 Persistent Expeditioner
+3 Flash of Steel
+3 Bloodring Novice
+3 Oldsteel Malefactor
+3 Katesh, Savage Show-Off
+3 Foundry Campaign
+3 Cera, Skycaptain
+3 Gun Down
+3 Chaotic Entrance
+3 Raider's Lesson
+3 Sanctuary Manacyte
+3 Sanctuary Dreamer
+3 Dunland Absolver
+3 Sanctuary Campaign
+3 Savage Sandthresher
+3 Acidtongue Rhonix
+3 Verdant Rupture
+3 Oldsteel Deepguard
+3 Jacinth, Legion Commissioner
+3 Steelbone Sproutcutter
+3 Ruin-Raid Skycraft
+3 Mirage Strider
+3 Desiccate
+3 Prized Hellion
+3 Shock Squad
+3 Energized Synth
+3 Ana, Heroic Scavenger
+3 Subsurface Campaign
+3 Kai'Ji, Legion Conscript
+3 Oldsteel Reclamation
+3 Visage of the Core
+3 Aberrant Cultivator
+3 Leycharged Spirit-Drinker
+3 Spinner of Lost Souls
+3 Ley-Touched Courser
+3 Sanctuary Flowbreaker
+3 Titanic Pathbreaker
+3 Ruins Campaign
+3 Coremuncher Whelp
+3 Nameless Dunesong
+1 Ruinous Uplink
+1 Aluin, Core Monitor
+1 The Regulator Orrery
+1 Timeless Steeldancer
+1 Eni, Oldsteel Reforged
+1 Leysurge Conduit
+1 X'Ain, Azure Leykeeper
+1 The Enigmatic Benefactor
+1 X'Teth, Crimson Leykeeper
+1 Leygrid Rupture
+1 Tempered Wurm
+1 Steelstitch Paragon
+1 Foundry Aperture
+1 Core Collapse
+1 Harji the Ageless
+1 Parity, Charming Voyager
+1 Legion's Emissary
+1 Kajiwara, Spark of Sorrow
+1 Cutthroat Scrapper
+1 X'Vel, Alabaster Leykeeper
+1 X'Vol, Violet Leykeeper
+1 X'Mor, Viridian Leykeeper
+1 Sandshaper Hydra
+3 Sanctuary Radiance
+3 Legion Skirmisher
+3 Resolute Surveyor
+3 Crafty Chartwright
+3 Many-Limbed Scrapweaver
+3 Shocklance Sentinel
+3 Winged Retriever
+3 Dunland Maestro
+3 Arcflare
+3 Oldsteel Regnant
+3 Ketriff Valley Blockade
+3 Coordinated Salvo
+3 Scavenger Sprite
+3 Steelbound Protector
+3 Leyscoured Aberrant
+3 Flamboyant Refurbisher
+3 Whirler Rogue
+3 Dune-Quartz Drake
+3 Leywire Witch
+3 Oldsteel Interdictor
+3 Forsaken Submersible
+3 Relentless Repurposing
+3 Tinkerer's Bracers
+3 Infused Madness
+3 Oldsteel Foundry Expedition
+3 Sap Energy
+3 Dustborn Leytracer
+3 Dunland Trophysage
+3 Forlorn Scavenger
+3 Armored Sandscraper
+3 Roaming Monitor
+3 Steelskin Coreguard
+3 Oldsteel Parasite
+3 Cunning Dunbreaker
+3 Sanctuary Rotlurker
+3 Oldsteel Aberrant
+3 Oldsteel Terravator
+3 Kroddar, Steel-Scourge
+3 Oldsteel Kinkeeper
+3 Estle, Leygrid Mutalist
+3 Fetid Incubator
+3 Wasteland Surveyor
+3 Augmented Scrapper
+3 Oasis Guardian
+3 Othar, Dunland Champion
+3 Oldsteel Pathlighter
+3 Alloyed Coronet
+3 Fractured Leytower
+3 Looming Steelsplinters
+3 Oldsteel Scriptstaff
+3 Windswept Waystone
+3 Veil-Marked Ruin
+3 Mist-Marked Strand
+3 Fetid Dunekeeper
+3 Leygrid Interlink
+3 Rust-Marked Knoll
+3 Still-Marked Divide
+3 Awakening Site
+3 Steeltouched Frontliners
+3 Leygrid Anchor
+3 The Lost and the Damned
+3 Benefaction Associate
+3 Raider's Zeal
+3 Patch, Brutal Scavenger
+3 Thessalie, Dunland Pilgrim
+3 Cruin, Elder Caelan
+3 Slagborn Elemental
+3 Sanctuary Renegade
+3 Alacsis, Joyful Tyrant
+3 Age-Marked Shrine
+3 Steam-Marked Dune
+3 Awe-Marked Monument
+3 Sky-Marked Vantage
+3 Grave-Marked Crag
+3 Roil-Marked Passage
+3 Ruin Scrounger
+3 Benefaction Recruiter
+3 Relentless Steelhound
+3 Dunland Pioneer
+3 Alloyed Devotee
+3 Air-Squad Marshal
+3 Rustfeeder Hulk
+3 Legion Commander
+3 Calamity Cascade
+3 Perilous Excavation
+3 Augmented Ascent
+3 Grind to Dust
+3 Skora Dunes Hunt
+3 Oldsteel Tombkeeper
+3 Legion Instigator
+3 Augmented Convoy
+3 Scrapper's Pirouette
+3 Ingenious Augmenter
+3 Starved Brute
+3 Sanctuary Enforcer
+3 Leycharged Ravager
+3 Breachblade Gladiator
+3 Tunnel-Hunter Griff
+3 Charred Cavalry
+3 Catastrophic Infusion
+3 Oldsteel Exhortationer
+3 Market's Bustle
+3 Arcstrike Ambush
+3 Scrapper Tactics
+3 Sucessful Salvage
+3 Leygrid Mutation
+3 Waywalker
+3 Ruinguard Captain
+3 Watchful Peacekeeper
+3 Quickwit Wayfarer
+3 Ambitious Scrapglider
+3 Steelbeater Stalwart
+3 Rumblehorn Division
+3 Heraldic Effigy
+3 Dunland Vigilante
+3 Timely Tune-Up
+3 Steelbound Standoff
+3 Oldsteel Judge
+3 Scrapper Spirit
+3 Refurbished Wanderer
+3 Sanctuary Brushwing
+3 Refurbisher Virtuoso
+3 Unearthed Industry
+3 Scrappy Arcslinger
+3 Brightmind Raider
+3 Oldsteel Progenitor
+3 Fanatic Engineer
+3 Dynamic Repulsion
+3 Thoughtscatter
+3 Wasteland Beacons
+3 Scrapyard Detour
+3 Disruption Pulse
+3 Legion Blackguard
+3 Canny Auxiliary
+3 Enigmatic Wayfarer
+3 Dunland Escort
+3 Imposing Barracks
+3 Oldsteel Prophet
+3 Oldsteel Imperator
+3 Oldsteel Whispers
+3 In the Shadow of Desolation
+3 Ancient Uplink
+3 Thread of Malice
+3 Legion Coordinator
+3 Howling Lancer
+3 Scavenger's Spark
+3 Ambling Safe
+3 Augmented Charger
+3 Scrapyard Patrol
+3 Reckless Racers
+3 Arcweld Armorer
+3 Rubblerouser
+3 Voltage Surge
+3 Dune Drake Ambush
+3 Salvaged Powerbrand
+3 Oldsteel Forgemaster
+3 Slag Meltdown
+3 Break Down
+3 Curious Cactail
+3 Life-Crowned Caelan
+3 Steelclad Bruiser
+3 Wasteland Pathfinders
+3 Mandiblade Scuttler
+3 Mutalist Vizier
+3 Oasis Tortoise
+3 Sandwoken Brute
+3 Oasis Derelict
+3 Sanctuary Fervor
+3 Sanctuary Sanctifier
+3 Oldsteel Revelation
+3 Sparkmind Tinkerer
+3 Scuttling Sandrover
+3 Leyrot Haunt
+3 Warwaste Gladiator
+3 Legion Sky Monitor
+3 Alacsis's Judiciary
+3 Hoverbike Courier
+3 Opportunistic Deserter
+3 Savage Scavenger
+3 Anodized Pilgrim
+3 Ruined Colossus
+3 Dormant Harvester
+3 Sand-Scoured Foundry
+3 Alacsis' Encampment
+3 Across the Desolate Wild
+3 Ancient Font
+3 Wasteland Standard-Bearer
+3 Wayfarer's Shrine
+		[UncommonSlot(3)]
 	9 Sanctuary Radiance
 		9 Legion Skirmisher
 		9 Resolute Surveyor
@@ -3266,14 +3540,5 @@
 		30 Ancient Font
 		30 Wasteland Standard-Bearer
 		30 Wayfarer's Shrine
-		30 Arcane Oasis
-		30 Arid Causeway
-		30 Bloodsand Gulch
-		30 Blooming Needles
-		30 Crumbling Aqueduct
-		30 Desiccated Trail
-		30 Dunesea Expanse
-		30 Nestled Delta
-		30 Rot-Sand Ruins
-		30 Sundappled Scrub
+		
 		
