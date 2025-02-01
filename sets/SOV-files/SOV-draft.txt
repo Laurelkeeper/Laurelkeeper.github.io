@@ -153,7 +153,7 @@
 			"name": "Refurbisher Virtuoso",
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
-			"type": "Creature — Elf Artificer ",
+			"type": "Creature — Elf Cyborg Artificer ",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/62_Refurbisher Virtuoso.png"
@@ -523,7 +523,7 @@
 			"name": "Curious Cactail",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Plant Beast ",
+			"type": "Creature — Plant Mouse ",
 			"collector_number": "164",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/164_Curious Cactail.png"
@@ -563,7 +563,7 @@
 			"name": "Mandiblade Scuttler",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Artifact Creature — Spider ",
+			"type": "Artifact Creature — Spider Construct ",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/171_Mandiblade Scuttler.png"
@@ -733,7 +733,7 @@
 			"name": "Savage Scavenger",
 			"rarity": "common",
 			"mana_cost": "{R/G}{R/G}",
-			"type": "Creature — Human Nomad Berserker ",
+			"type": "Creature — Human Cyborg Berserker ",
 			"collector_number": "246",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/246_Savage Scavenger.png"
@@ -743,7 +743,7 @@
 			"name": "Anodized Pilgrim",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Nomad Construct  ",
+			"type": "Artifact Creature — Construct Nomad ",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/251_Anodized Pilgrim.png"
@@ -1093,7 +1093,7 @@
 			"name": "Than, Desolate Scavenger",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Legendary Creature — Cyborg Artificer ",
+			"type": "Legendary Creature — Human Cyborg Rogue ",
 			"collector_number": "192",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/192_Than, Desolate Scavenger.png"
@@ -1153,7 +1153,7 @@
 			"name": "Sanctuary Rotlurker",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Crab Horror ",
+			"type": "Creature — Crab Mutant ",
 			"collector_number": "185",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/185_Sanctuary Rotlurker.png"
@@ -1473,7 +1473,7 @@
 			"name": "Steelflow Shoalweaver",
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{U}",
-			"type": "Creature — Plant Merfolk Wizard ",
+			"type": "Creature — Merfolk Wizard ",
 			"collector_number": "72",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/72_Steelflow Shoalweaver.png"
@@ -1613,7 +1613,7 @@
 			"name": "Cera, Skycaptain",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Legendary Creature — Cyborg Warrior ",
+			"type": "Legendary Creature — Human Cyborg Warrior ",
 			"collector_number": "126",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/126_Cera, Skycaptain.png"
@@ -1753,7 +1753,7 @@
 			"name": "Steelbone Sproutcutter",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{G}",
-			"type": "Artifact Creature — Skeleton Wizard ",
+			"type": "Artifact Creature — Skeleton Cyborg Druid ",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/233_Steelbone Sproutcutter.png"
@@ -2130,13 +2130,13 @@
 			}
 		},
 		{
-			"name": "Patch, Brutal Scavenger",
+			"name": "Patch and Harion, Scavengers",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}{G}",
 			"type": "Legendary Creature — Human Beast Nomad ",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/224_Patch, Brutal Scavenger.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/224_Patch and Harion, Scavengers.png"
 			}
 		},
 		{
@@ -2250,13 +2250,13 @@
 			}
 		},
 		{
-			"name": "Age-Marked Shrine",
+			"name": "Age-Marked Bastion",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land — Desert ",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/259_Age-Marked Shrine.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/259_Age-Marked Bastion.png"
 			}
 		},
 		{
@@ -2323,7 +2323,7 @@
 			"name": "Benefaction Recruiter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue Soldier ",
+			"type": "Creature — Human Soldier Rogue ",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/84_Benefaction Recruiter.png"
@@ -2353,7 +2353,7 @@
 			"name": "Alloyed Devotee",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Monk Warrior ",
+			"type": "Creature — Human Cyborg Monk ",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/81_Alloyed Devotee.png"
@@ -3140,13 +3140,13 @@
 		9 The Lost and the Damned
 		9 Benefaction Associate
 		9 Raider's Zeal
-		9 Patch, Brutal Scavenger
+		9 Patch and Harion, Scavengers
 		9 Thessalie, Dunland Pilgrim
 		9 Cruin, Elder Caelan
 		9 Slagborn Elemental
 		9 Sanctuary Renegade
 		9 Alacsis, Joyful Tyrant
-		9 Age-Marked Shrine
+		9 Age-Marked Bastion
 		9 Steam-Marked Dune
 		9 Awe-Marked Monument
 		9 Sky-Marked Vantage
