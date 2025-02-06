@@ -1902,7 +1902,7 @@
 		{
 			"name": "Eni, Oldsteel Reforged",
 			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Planeswalker — Eni ",
 			"collector_number": "10",
 			"image_uris": {
@@ -2054,9 +2054,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Land — Desert ",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/15_Desert.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/16_Desert.png"
 			}
 		},
 		{
@@ -2084,9 +2084,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/14_Treasure.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/15_Treasure.png"
 			}
 		},
 		{
@@ -2714,9 +2714,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Thopter ",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/13_Thopter.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/14_Thopter.png"
 			}
 		},
 		{
@@ -3037,6 +3037,26 @@
 			"collector_number": "285",
 			"image_uris": {
 				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/285_Swamp.png"
+			}
+		},
+		{
+			"name": "Steel Phantasm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Cyborg Illusion ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/13_Steel Phantasm.png"
+			}
+		},
+		{
+			"name": "The Enigmatic Benefactor",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/17_The Enigmatic Benefactor.png"
 			}
 		},
 		]
