@@ -2990,53 +2990,53 @@
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Forest SOV",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Forest.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/270_Forest SOV.png"
 			}
 		},
 		{
-			"name": "Plains",
+			"name": "Plains SOV",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/276_Plains.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/276_Plains SOV.png"
 			}
 		},
 		{
-			"name": "Island",
+			"name": "Island SOV",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island ",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Island.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/272_Island SOV.png"
 			}
 		},
 		{
-			"name": "Mountain",
+			"name": "Mountain SOV",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/274_Mountain.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/274_Mountain SOV.png"
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Swamp SOV",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp ",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/285_Swamp.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/285_Swamp SOV.png"
 			}
 		},
 		{
@@ -3050,13 +3050,13 @@
 			}
 		},
 		{
-			"name": "The Enigmatic Benefactor",
+			"name": "The Enigmatic Benefactor Emblem",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Emblem",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/17_The Enigmatic Benefactor.png"
+				"en": "https://Laurelkeeper.github.io/sets/SOV-files/img/17_The Enigmatic Benefactor Emblem.png"
 			}
 		},
 		]
@@ -3346,9 +3346,9 @@
 		30 Nestled Delta
 		30 Rot-Sand Ruins
 		30 Sundappled Scrub
-		30 Forest
-		30 Plains
-		30 Island
-		30 Mountain
-		30 Swamp
+		30 Forest SOV
+		30 Plains SOV
+		30 Island SOV
+		30 Mountain SOV
+		30 Swamp SOV
 		
