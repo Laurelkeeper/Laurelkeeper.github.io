@@ -1,1 +1,14 @@
-﻿{"sets": [{"set_code": "SOV", "set_name": "Sands of Vikaar", "formats": ""}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "AJY",
+            "set_name": "Alder Jane in: The Prince of Years",
+            "formats": ""
+        },
+        {
+            "set_code": "SOV",
+            "set_name": "Sands of Vikaar",
+            "formats": ""
+        }
+    ]
+}

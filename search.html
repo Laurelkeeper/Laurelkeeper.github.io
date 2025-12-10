@@ -4,6 +4,7 @@
 	<link rel="icon" type="image/x-icon" href="/img/search.png">
 	<link rel="stylesheet" href="resources/mana.css">
 	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="stylesheet" href="/resources/card-text.css">
 </head>
 <style>
 	@font-face {
@@ -137,30 +138,6 @@
 		min-height: 75%;
 		margin-top: 3%;
 	}
-	.card-text div {
-		white-space: normal;
-		font-size: 15px;
-		padding-bottom: 10px;
-		padding-left: 12px;
-		padding-right: 12px;
-		line-height: 155%;
-	}
-	.card-text .name-cost {
-		font-weight: bold;
-		font-size: 20px;
-		white-space: pre-wrap;
-	}
-	.card-text .type {
-		font-size: 16px;
-	}
-	.card-text .pt {
-		font-weight: bold;
-	}
-	.card-text br {
-		content: "";
-		display: block;
-		margin-bottom: 5px;
-	}
 	.img-container {
 		position: relative;
 		width: 100%;
@@ -212,7 +189,7 @@
 		</div>
 	</div>
 	<div class="button-grid">
-		<div class="select-text"><div class="results-text" id="results-text">Loading ...</div>Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="name">Name</option><option value="set-code">Set / Number</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>		
+		<div class="select-text"><div class="results-text" id="results-text">Loading ...</div>Cards displayed as<select name="display" id="display"><option value="cards-only">Cards Only</option><option value="cards-text">Cards + Text</option></select>sorted by<select name="sort-by" id="sort-by"><option value="name">Name</option><option value="set-code">Set / Number</option><option value="mv">Mana Value</option><option value="color">Color</option><option value="rarity">Rarity</option><option value="cube">Cube</option></select> : <select name="sort-order" id="sort-order"><option value="ascending">Asc</option><option value="descending">Desc</option></select></div>		
 		<div class="prev-next-btns">
 			<button type="submit" onclick="previousPage()" id="prevBtn" disabled>< Previous</button>
 			<button type="submit" onclick="nextPage()" id="nextBtn">Next 30 ></button>
@@ -276,11 +253,11 @@
 
 			card_list_arrayified.sort(compareFunction);
 
-			page = window.location.href.indexOf("page=") == -1 ? 0 : parseInt(window.location.href.substring(window.location.href.indexOf("page=") + 5)) - 1;
-
 			// refresh page values
-			let params = decodeURIComponent(window.location.href.indexOf("?search") == -1 ? "" : window.location.href.substring(window.location.href.indexOf("?search") + 8));
-			document.getElementById("search").value = (params.indexOf("&page=") == -1 ? params.replaceAll("+", " ") : params.substring(0, params.indexOf("&page=")).replaceAll("+", " "));
+			const params = new URLSearchParams(window.location.search);
+			page = params.get("page") ? params.get("page") : 0;
+			document.getElementById("search").value = params.get("search") ? decodeURIComponent(params.get("search")) : "";
+
 			if (sessionStorage.getItem("sortMethod"))
 			{
 				document.getElementById("sort-by").value = sessionStorage.getItem("sortMethod");				
@@ -326,6 +303,17 @@
 
 		function compareFunction(a, b) {
 			const sortMode = document.getElementById("sort-by").value;
+			color_sort_order = ["W", "U", "B", "R", "G", "WU", "UB", "BR", "RG", "GW", "WB", "UR", "BG", "RW", "GU", "WUB", "UBR", "BRG", "RGW", "GWU", "RWB", "GUR", "WBG", "URW", "BGU", "WUBR", "UBRG", "BRGW", "RGWU", "GWUB", "WUBRG", ""];
+
+			if (a.rarity.includes("masterpiece") && !b.rarity.includes("masterpiece"))
+			{
+				return 1;
+			}
+
+			if (!a.rarity.includes("masterpiece") && b.rarity.includes("masterpiece"))
+			{
+				return -1;
+			}
 
 			if (a.shape.includes("token") && !b.shape.includes("token"))
 			{
@@ -385,7 +373,6 @@
 			}
 			if (sortMode == 'color')
 			{
-				color_sort_order = ["W", "U", "B", "R", "G", "WU", "UB", "BR", "RG", "GW", "WB", "UR", "BG", "RW", "GU", "WUB", "UBR", "BRG", "RGW", "GWU", "RWB", "GUR", "WBG", "URW", "BGU", "WUBR", "UBRG", "BRGW", "RGWU", "GWUB", "WUBRG", ""];
 				a_color_index = -1;
 				b_color_index = -1;
 
@@ -435,7 +422,6 @@
 
 				if (a_rarity_index === b_rarity_index)
 				{
-					color_sort_order = ["W", "U", "B", "R", "G", "WU", "UB", "BR", "RG", "GW", "WB", "UR", "BG", "RW", "GU", "WUB", "UBR", "BRG", "RGW", "GWU", "RWB", "GUR", "WBG", "URW", "BGU", "WUBR", "UBRG", "BRGW", "RGWU", "GWUB", "WUBRG", ""];
 					a_color_index = -1;
 					b_color_index = -1;
 
@@ -467,6 +453,68 @@
 				}
 				else {
 					return (a_rarity_index < b_rarity_index) ? -1 : 1;
+				}
+			}
+			if (sortMode == 'cube')
+			{
+				type_sort_order = [ 'Creature', 'Planeswalker', 'Instant', 'Sorcery', 'Artifact', 'Enchantment', 'Battle' ];
+				// color, type, MV
+				a_color_index = -1;
+				b_color_index = -1;
+
+				for (let i = 0; i < color_sort_order.length; i++)
+				{
+					if (a.color.toLowerCase().split('').sort().join('') == color_sort_order[i].toLowerCase().split('').sort().join(''))
+					{
+						a_color_index = i;
+					}
+					if (b.color.toLowerCase().split('').sort().join('') == color_sort_order[i].toLowerCase().split('').sort().join(''))
+					{
+						b_color_index = i;
+					}
+				}
+
+				if (a_color_index === b_color_index)
+				{
+					a_type_index = -1;
+					b_type_index = -1;
+
+					for (let i = type_sort_order.length - 1; i >= 0; i--)
+					{
+						if (a.type.includes(type_sort_order[i]))
+						{
+							a_type_index = i;
+						}
+						if (b.type.includes(type_sort_order[i]))
+						{
+							b_type_index = i;
+						}
+					}
+
+					if (a_type_index === b_type_index)
+					{
+						a_mv = isDecimal(a.cost.charAt(1)) ? parseInt(a.cost.substring(1, a.cost.indexOf('}'))) + a.cost.replaceAll('x','').split('{').length - 2 : a.cost.replaceAll('x','').split('{').length - 1;
+						b_mv = isDecimal(b.cost.charAt(1)) ? parseInt(b.cost.substring(1, b.cost.indexOf('}'))) + b.cost.replaceAll('x','').split('{').length - 2 : b.cost.replaceAll('x','').split('{').length - 1;
+						if (a_mv === b_mv)
+						{
+							if (a.card_name === b.card_name)
+							{
+								return 0;
+							}
+							else {
+								return (a.card_name < b.card_name) ? -1 : 1;
+							}
+						}
+						else {
+							return (a_mv < b_mv) ? -1 : 1;
+						}
+					}
+					else {
+						return (a_type_index < b_type_index) ? -1 : 1;
+					}
+				}
+				else {
+					return (a_color_index < b_color_index) ? -1 : 1;
 				}
 			}
 		}
@@ -518,12 +566,17 @@
 			cardGrid.innerHTML = "";
 
 			for (const card of card_list_arrayified) {
-				if (card.shape.includes("token") && !searchTerms.includes("*t:token") && !searchTerms.includes("t:token"))
+				if (card.shape.includes("token") && !searchTerms.includes("+t:token") && !searchTerms.includes("t:token"))
 				{
 					continue;
 				}
 
-				if (card.type.includes("Basic") && !searchTerms.includes("*t:basic") && !searchTerms.includes("t:basic"))
+				if (card.type.includes("Basic") && !searchTerms.includes("+t:basic") && !searchTerms.includes("t:basic"))
+				{
+					continue;
+				}
+
+				if (card.rarity.includes("masterpiece") && !searchTerms.includes("+r:masterpiece") && !searchTerms.includes("+r:mp") && !searchTerms.includes("t:basic"))
 				{
 					continue;
 				}
@@ -569,7 +622,7 @@
 
 					let url = (window.location.href.indexOf("page=") == -1 ? new URL(window.location.href) : new URL(window.location.href.substring(0, window.location.href.indexOf("page="))));
 				let params = new URLSearchParams(url.search);
-				params.append("page", page+1);
+				params.append("page", page + 1);
 				history.replaceState({}, '', url.pathname + '?' + params.toString());
 				}
 
@@ -594,7 +647,7 @@
 		{
 			for (const li of list)
 			{
-				if (li.card_name == card.card_name && li.type == card.type)
+				if (li.card_name == card.card_name && li.type == card.type && li.rules_text == card.rules_text)
 				{
 					return true;
 				}
@@ -605,51 +658,21 @@
 
 		function tokenizeTerms(searchTerms)
 		{
-			let searchTokens = [];
-			let key = 0;
-			let inParens = false;
-			let inQuotes = false;
-			for (let i = 0; i < searchTerms.length; i++)
-			{
-				if (searchTerms.charAt(i) == '(')
-				{
-					inParens = true;
-				}
-				if (searchTerms.charAt(i) == ')')
-				{
-					inParens = false;
-				}
-				if (!inParens && !inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == '“' || searchTerms.charAt(i) == '/'))
-				{
-					inQuotes = true;
-				}
-				else if (!inParens && inQuotes && (searchTerms.charAt(i) == '"' || searchTerms.charAt(i) == '”' || searchTerms.charAt(i) == '/'))
-				{
-					inQuotes = false;
-				}
-				if (searchTerms.charAt(i) == ' ' && !inParens && !inQuotes)
-				{
-					searchTokens.push(searchTerms.substring(key, i));
-					key = i + 1;
-				}
-				if (i == searchTerms.length - 1)
-				{
-					searchTokens.push(searchTerms.substring(key));
-				}
-			}
+			let tokenRegex = /-?\w*[!:<>=]?(([^ "\(\)\/“”]+)|(\".+?\")|(\(.+?\))|(\/.+?\/)|(\“.+?\”))/g;
+			let searchTokens = searchTerms.match(tokenRegex);
 
 			return searchTokens;
 		}
 
 		function searchAllTokens(card, tokens)
 		{
-			if (tokens.length < 1)
+			if (tokens == null || tokens == '')
 			{
 				return true;
 			}
 			for (let i = 0; i < tokens.length; i++)
 			{
-				if (tokens[i].charAt(0) == '*')
+				if (tokens[i].charAt(0) == '+')
 				{
 					return searchAllTokens(card, tokens.slice(0, i)) && searchAllTokens(card, tokens.slice(i + 1));
 				}
@@ -691,6 +714,31 @@
 			return ret_str;
 		}
 
+		function convertToMV(cost)
+		{
+			let mv = 0;
+			
+			costTokens = cost.substring(1, cost.length - 1).replaceAll("}{"," ").split(' ');
+			for (const token of costTokens)
+			{
+				if (isDecimal(token))
+				{
+					mv += parseInt(token);
+				}
+				// 2brid
+				else if (token.includes('2'))
+				{
+					mv += 2;
+				}
+				else if (token != "x" && token != "")
+				{
+					mv += 1;
+				}
+			}
+
+			return mv;
+		}
+
 		function searchToken(card, token)
 		{
 			let card_stats = [];
@@ -708,13 +756,13 @@
 			}
 
 			let card_name = card_stats.card_name;
-			let card_color = card_stats.color != "" ? card_stats.color : "c";
+			let card_color = card_stats.color;
 			let card_rarity = card_stats.rarity;
 			let card_type = card_stats.type;
 			// 4: collector number
 			let card_ci = removeDuplicateChars(card_stats.color_identity);
 			let card_cost = card_stats.cost;
-			let card_mv = isDecimal(card_cost.charAt(1)) ? parseInt(card_cost.substring(1, card_cost.indexOf('}'))) + card_cost.replaceAll('x','').split('{').length - 2 : card_cost.replaceAll('x','').split('{').length - 1;
+			let card_mv = convertToMV(card_cost);
 			//Strip out the lingering [i][/i] and [b][/b] tags while we're searching just in case someone decided to bold something in the
 			//middle of their rules text for some reason
 			let card_oracle_text = card_stats.rules_text != "" ? card_stats.rules_text.replace(/\[(\/)?([ib])\]/g, "") : card_stats.special_text.replace(/\[(\/)?([ib])\]/g, "");
@@ -724,11 +772,14 @@
 			let card_set = card_stats.set;
 			let card_loyalty = card_stats.loyalty;
 			let card_notes = card_stats.notes;
+			let card_artist = card_stats.artist;
+			let card_alias = card_stats.alias ? card_stats.alias : ""; // do this so that we have backwards compatibility
+			let card_ft = card_stats.flavor_text ? card_stats.flavor_text : "";
 			let card_color_2 = "";
 			let card_cost_2 = "";
 			let card_power_2 = "";
 			let card_toughness_2 = "";
-			let card_loyalty_2 = ""
+			let card_loyalty_2 = "";
 
 			let color_map = new Map([
 				["azorius", "wu"],
@@ -759,16 +810,20 @@
 				card_name = card_name + "	" + card_stats.card_name2;
 				card_type = card_type + "	" + card_stats.type2;
 				card_oracle_text = card_oracle_text + "	" + (card_stats.rules_text2 != "" ? card_stats.rules_text2.replace(/\[(\/)?([ib])\]/g, "") : card_stats.special_text2.replace(/\[(\/)?([ib])\]/g, ""));
-				card_color_2 = card_stats.color2 != "" ? card_stats.color2 : "c";
+				if (card_stats.flavor_text2)
+				{
+					card_ft = card_ft + "\n" + card_stats.flavor_text2;
+				}
+				card_color_2 = card_stats.color2;
 				card_cost_2 = card_stats.cost2;
 				card_power_2 = card_stats.pt2.substring(0,card_stats.pt2.indexOf('/'));
 				card_toughness_2 = card_stats.pt.substring(card_stats.pt.indexOf('/')+1);
 				card_loyalty_2 = card_stats.loyalty2;
 			}
 
-			token = token.replaceAll("~", card_name).replaceAll("cardname", card_name).replaceAll('"','').replaceAll('/','').replaceAll('“','').replaceAll('”','');
+			token = token.replaceAll("~", card_name).replaceAll("cardname", card_name).replaceAll('"','').replaceAll('“','').replaceAll('”','');
 
-			const modifierRegex = /[!:<>=]+/g;
+			const modifierRegex = /[!:<>=][=]*/g;
 			const match = token.match(modifierRegex);
 
 			if (match)
@@ -776,11 +831,6 @@
 				const modifier = match[0];
 				const term = token.substring(0, token.indexOf(modifier));
 				let check = token.substring(token.indexOf(modifier) + modifier.length);
-
-				if (color_map.has(check))
-				{
-					check = color_map.get(check);
-				}
 
 				// availableTokens = ["mv", "c", "ci", "t", "o", "pow", "tou", "r", "is"]
 
@@ -804,7 +854,7 @@
 
 					}
 				} */
-				if (term == "mv")
+				if (term == "mv" || term == "cmc")
 				{
 					if (modifier == "!" || modifier == "=")
 					{
@@ -833,57 +883,83 @@
 				}
 				if (term == "c" || term == "color")
 				{
-					if (modifier == "!" || modifier == "=")
+					if (color_map.has(check))
 					{
-						if (!isNaN(check))
+						check = color_map.get(check);
+					}
+					if (!isNaN(check))
+					{
+						if (modifier == "!" || modifier == "=")
 						{
 							return card_color.length == parseInt(check);
 						}
-						return (card_color.split("").sort().join("") == check.split("").sort().join(""));
-					}
-					else if (modifier == ":")
-					{
-						if (!isNaN(check))
+						else if (modifier == ":")
 						{
 							return card_color.length == parseInt(check);
 						}
-						return hasAllChars(card_color, check);
-					}
-					else if (modifier == "<")
-					{
-						if (!isNaN(check))
+						else if (modifier == "<")
 						{
 							return card_color.length < parseInt(check);
 						}
-						return card_color == "c" || (check.length > card_color.length && hasAllChars(check, card_color));
-					}
-					else if (modifier == ">")
-					{
-						if (!isNaN(check))
+						else if (modifier == ">")
 						{
 							return card_color.length > parseInt(check);
 						}
-						return card_color.length > check.length && hasAllChars(card_color, check);
-					}
-					else if (modifier == "<=")
-					{
-						if (!isNaN(check))
+						else if (modifier == "<=")
 						{
 							return card_color.length <= parseInt(check);
 						}
-						return card_color == "c" || hasAllChars(check, card_color);
-					}
-					else if (modifier == ">=")
-					{
-						if (!isNaN(check))
+						else if (modifier == ">=")
 						{
 							return card_color.length >= parseInt(check);
 						}
-						return hasAllChars(card_color, check);
+					}
+					else
+					{
+						card_color = card_color == "" ? "c" : card_color;
+						if (check == "m")
+						{
+							if (modifier == "<")
+							{
+								return card_color.length < 2;
+							}
+							else
+							{
+								return card_color.length > 1;							
+							}
+						}
+						else if (modifier == "!" || modifier == "=")
+						{
+							return (card_color.split("").sort().join("") == check.split("").sort().join(""));
+						}
+						else if (modifier == ":")
+						{
+							return hasAllChars(card_color, check);
+						}
+						else if (modifier == "<")
+						{
+							return card_color == "c" || (check.length > card_color.length && hasAllChars(check, card_color));
+						}
+						else if (modifier == ">")
+						{
+							return card_color.length > check.length && hasAllChars(card_color, check);
+						}
+						else if (modifier == "<=")
+						{
+							return card_color == "c" || hasAllChars(check, card_color);
+						}
+						else if (modifier == ">=")
+						{
+							return hasAllChars(card_color, check);
+						}
 					}
 				}
 				if (term == "cost" || term == "mana")
 				{
+					if (color_map.has(check))
+					{
+						check = color_map.get(check);
+					}
 					if (modifier == "!" || modifier == "=" || modifier == ":")
 					{
 						card_cost_cleaned = card_cost.replaceAll('{', '').replaceAll('}', '');
@@ -892,62 +968,68 @@
 				}
 				if (term == "ci" || term == "id")
 				{
-					if (modifier == "!" || modifier == "=")
+					if (color_map.has(check))
 					{
-						// why is this the best way to do this?
-						if (!isNaN(check))
+						check = color_map.get(check);
+					}
+					if (!isNaN(check))
+					{
+						card_ci = card_ci == "c" ? "" : card_ci;
+						if (modifier == "!" || modifier == "=")
 						{
 							return card_ci.length == parseInt(check);
 						}
-						return (card_ci.split("").sort().join("") == check.split("").sort().join(""));
-					}
-					else if (modifier == ":")
-					{
-						if (!isNaN(check))
+						else if (modifier == ":")
 						{
 							return card_ci.length == parseInt(check);
 						}
-						return hasAllChars(card_ci, check);
-					}
-					else if (modifier == "<")
-					{
-						if (!isNaN(check))
+						else if (modifier == "<")
 						{
 							return card_ci.length < parseInt(check);
 						}
-						return card_ci == "c" || (check.length > card_ci.length && hasAllChars(check, card_ci));
-					}
-					else if (modifier == ">")
-					{
-
-						if (!isNaN(check))
+						else if (modifier == ">")
 						{
 							return card_ci.length > parseInt(check);
 						}
-						return card_ci.length > check.length && hasAllChars(card_ci, check);
-					}
-					else if (modifier == "<=")
-					{
-						if (!isNaN(check))
+						else if (modifier == "<=")
 						{
 							return card_ci.length <= parseInt(check);
 						}
-						return card_ci == "c" || hasAllChars(check, card_ci);
-					}
-					else if (modifier == ">=")
-					{
-						if (!isNaN(check))
+						else if (modifier == ">=")
 						{
 							return card_ci.length >= parseInt(check);
 						}
-						return hasAllChars(card_ci, check);
+					}
+					else
+					{
+						if (modifier == "!" || modifier == "=")
+						{
+							return (card_ci.split("").sort().join("") == check.split("").sort().join(""));
+						}
+						else if (modifier == "<")
+						{
+							return card_ci == "c" || (check.length > card_ci.length && hasAllChars(check, card_ci));
+						}
+						else if (modifier == ">")
+						{
+							return card_ci.length > check.length && hasAllChars(card_ci, check);
+						}
+						else if (modifier == ":" || modifier == "<=")
+						{
+							return card_ci == "c" || hasAllChars(check, card_ci);
+						}
+						else if (modifier == ">=")
+						{
+							return hasAllChars(card_ci, check);
+						}
 					}
 				}
 				if (term == "t" || term == "type")
 				{
 					if (modifier == ":")
 					{
-						return card_type.includes(check);
+						regex = new RegExp("\\b" + check + "\\b");
+						return regex.test(card_type);
 					}
 					/* unsupported flows
 					if (modifier == "!" || modifier == "=")
@@ -967,8 +1049,17 @@
 				{
 					if (modifier == ":")
 					{
-						regex = new RegExp(check);
-						return regex.test(card_oracle_text);
+						if (check.startsWith("/") && check.endsWith("/"))
+						{
+							check = check.substring(1, check.length - 1);
+
+							regex = new RegExp(check.replaceAll("+","\\+"));
+							return regex.test(card_oracle_text);
+						}
+						else
+						{
+							return card_oracle_text.includes(check);
+						}
 					}
 					/* unsupported flows
 					if (modifier == "!" || modifier == "=")
@@ -1111,11 +1202,32 @@
 						{
 							if (set.set_code.toLowerCase() == card_set)
 							{
-								return set.formats.toLowerCase().includes(check);
+								formats = [ "standard", "modern", "legacy" ];
+								set_formats = set.formats.toLowerCase().replace(' ','').split(',');
+
+								for (const format of set_formats)
+								{
+									if (formats.includes(format) && formats.includes(check))
+									{
+										if (formats.indexOf(format) < formats.indexOf(check))
+										{
+											return true;
+										}
+									}
+								}
+
+								return set_formats.includes(check);
 							}
 						}
 					}
 					return false;
+				}
+				if (term == "lore")
+				{
+					if (modifier == ":")
+					{
+						return card_name.includes(check) || card_ft.includes(check);
+					}
 				}
 				if (term == "is")
 				{
@@ -1156,13 +1268,54 @@
 
 					} */
 				}
+				if (term == "not")
+				{
+					return !searchToken(card, token.replace("not:", "is:"));
+				}
 				if (term == "tag")
 				{
 					if (modifier == ":" || modifier == "=" || modifier == "!")
 					{
-						return card_notes.includes("!tag " + check);
+						regex = new RegExp("!tag " + check + "\\b");
+						return regex.test(card_notes);
 					}
 				}
+				if (term == "a" || term == "art" || term == "artist")
+				{
+					if (modifier == ":" || modifier == "=" || modifier == "!")
+					{
+						return card_artist.includes(check);
+					}
+				}
+				if (term == "ft" || term == "flavor" || term == "flavortext")
+				{
+					if (modifier == ":")
+					{
+						return card_ft.includes(check);
+					}
+				}
+				if (term == "godzilla" || term == "alias") {
+					if (modifier == "!" || modifier == "=")
+					{
+						return card_alias == check;
+					}
+					else if (modifier == ":")
+					{
+						return card_alias.includes(check);
+					}
+					else if (modifier == "<")
+					{
+						return card_alias < check;
+					}
+					else if (modifier == ">")
+					{
+						return card_alias > check;
+					}
+				}
+				if (modifier == ":" || modifier == "=" || modifier == "!") {
+                    let regex = new RegExp(`!tag<${term}> ${check}\\b`);
+                    return regex.test(card_notes);
+                }
 			}
 
 			return card_name.includes(token);
@@ -1223,18 +1376,18 @@
 			return str;
 		}
 
-		function gridifyCard(card_stats) {
+		function gridifyCard(card_stats, card_text = false, rotate_card = false, designer_notes = false) {
 			const card_name = card_stats.card_name;
 
 			if (displayStyle == "cards-only")
 			{
-				return buildImgContainer(card_stats, true);
+				return buildImgContainer(card_stats, true, rotate_card);
 			}
 
 			const grid = document.createElement("div");
 			grid.className = "image-grid";
 
-			grid.appendChild(buildImgContainer(card_stats));
+			grid.appendChild(buildImgContainer(card_stats, false, rotate_card));
 			
 			const text = document.createElement("div");
 			text.className = "card-text";
@@ -1255,11 +1408,13 @@
 			let card_effects = "";
 			if (card_stats.rules_text != "")
 			{
-				card_effects = card_stats.rules_text.split("\n");
+				card_effects = card_stats.rules_text + (card_stats.flavor_text != "[i][/i]" ? "\n" + "<hr class=\"ft-divider text-bg\">" + "\n" + card_stats.flavor_text.replace('\n','<br>') : ""); // this expression looks cursed but what it does is check if the ft is empty, and if it isn't, insert a divider + the ft
+			} else {
+				card_effects = "";
 			}
-			else
+			if ("v_mana" in card_stats)
 			{
-				card_effects = card_stats.special_text.split("\n");
+				card_effects = card_effects.replaceAll('{V}', '<img style="vertical-align: middle; padding: 0px 2px; display: inline; width: 15px;" src="/img/' + card_stats.v_mana + '">');
 			}
 			effect.innerHTML += prettifyEffects(card_effects);
 			text.appendChild(effect);
@@ -1277,6 +1432,15 @@
 				loyalty.className = "pt";
 				loyalty.textContent = "[" + card_stats.loyalty + "]";
 				text.appendChild(loyalty);
+			}
+
+			if(designer_notes && card_stats.designer_notes != null)
+			{
+				const dnotes = document.createElement("div");
+				dnotes.className = "designer-notes";
+				dnotes.innerHTML = "<u><b>Designer Notes</b></u>";
+				dnotes.innerHTML = dnotes.innerHTML + card_stats.designer_notes;
+				text.appendChild(dnotes);
 			}
 
 			// 13-name	14-color	15-type	16-ci	17-cost	18-ability	19-pt	20-special-text	21-loyalty
@@ -1297,11 +1461,13 @@
 				let card_effects_2 = "";
 				if (card_stats.rules_text2 != "")
 				{
-					card_effects_2 = card_stats.rules_text2.split("\n");
+					card_effects_2 = card_stats.rules_text2 + (card_stats.flavor_text2 != "[i][/i]" ? "\n" + "<hr class=\"ft-divider text-bg\">" + "\n" + card_stats.flavor_text2.replace('\n','<br>') : "");
+				} else {
+					card_effects_2 = "";
 				}
-				else
+				if ("v_mana" in card_stats)
 				{
-					card_effects_2 = card_stats.special_text2.split("\n");
+					card_effects_2 = card_effects_2.replaceAll('{V}', '<img width="15px;" style="vertical-align: middle; padding: 0px 2px;" src="/img/' + card_stats.v_mana + '">');
 				}
 				effect_2.innerHTML += prettifyEffects(card_effects_2);
 				text.appendChild(effect_2);
@@ -1327,7 +1493,7 @@
 			return grid;
 		}
 
-		function buildImgContainer(card_stats, hidden_title=false) {
+		function buildImgContainer(card_stats, hidden_title = false, rotate_card = false) {
 			const imgContainer = document.createElement("div");
 			imgContainer.className = "img-container";
 			const id = card_stats.set + "-" + card_stats.number + "-" + document.getElementById("display").value;
@@ -1335,24 +1501,50 @@
 			const img = document.createElement("img");
 			img.className = "card-image";
 			img.id = id;
-			// (card_stats[13].includes("_") ? card_stats[13] : card_stats[0]) for posterity
-			img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + ".png";
+			img.loading = "lazy";
+
+			if ("position" in card_stats) {
+				img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.position + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+			}
+			else {
+				img.src = "/sets/" + card_stats.set + "-files/img/" + card_stats.number + (card_stats.shape.includes("token") ? "t_" : "_") + card_stats.card_name + ((card_stats.shape.includes("double")) ? "_front" : "") + "." + card_stats.image_type;
+			}
 			
 			const link = document.createElement("a");
-			let card_name = card_stats.card_name;
-			for (const char of specialchars)
-			{
-				card_name = card_name.replaceAll(char, "");
+			
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: card_stats.set,
+				num: card_stats.number,
+				name: card_stats.card_name
 			}
-			link.href = "/cards/" + card_stats.set + "/" + card_stats.number + "_" + card_name;
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+			link.href = url;
+
 			link.appendChild(img);
+
+			rotate_card = (card_stats.shape.includes("spli") || card_stats.type.includes("Battle")) && rotate_card;
+			if (rotate_card)
+			{
+				const rotated_img = document.createElement("img");
+				rotated_img.className = "h-img";
+				rotated_img.id = "h-img";
+				rotated_img.src = img.src;
+				rotated_img.style.display = "block";
+				img.style.filter = "blur(2px) brightness(0.7)";
+
+				link.appendChild(rotated_img);
+			}
+
 			imgContainer.appendChild(link);
 
 			if (card_stats.shape.includes("double"))
 			{
 				const imgFlipBtn = document.createElement("button");
 				imgFlipBtn.className = "btn";
-				imgFlipBtn.onclick = function() { imgFlip(id); };
+				imgFlipBtn.onclick = function() { imgFlip(id, rotate_card); };
 				imgContainer.appendChild(imgFlipBtn);
 			}
 
@@ -1367,30 +1559,77 @@
 			return imgContainer;
 		}
 
-		function imgFlip(id) {
-			cardToFlip = document.getElementById(id);
-			cardName = cardToFlip.src;
-			
-			cardToFlip.src = cardName.includes("_front") ? cardName.replace("_front", "_back") : cardName.replace("_back", "_front");
-		}
+		function imgFlip(id, rotate_card = false) { // comments in here by aanginer
+            const img = document.getElementById(id);
+            const seconds = 0.2;
 
-		function prettifyEffects(card_effects) {
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(90deg)"; // rotate 90 degrees
+
+            const rotated_img = document.getElementById("h-img");
+            if (rotated_img)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotate_card && rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+
+            setTimeout(function() { // wait for the rotation, then set the image's src correctly
+                const rotated_img = document.getElementById("h-img");
+
+                const cardName = img.src;
+                
+                if (cardName.includes("_front"))
+                {
+                    img.src = cardName.replace("_front", "_back");
+
+                    if (rotate_card)
+                    {
+                        rotated_img.style.opacity = "0";
+                        img.style.filter = "";
+                    }
+                }
+                else if (cardName.includes("_back"))
+                {
+                    img.src = cardName.replace("_back", "_front");
+
+                    if (rotate_card)
+                    {
+                        rotated_img.style.opacity = "1";
+                        img.style.filter = "blur(2px) brightness(0.7)";
+                    }
+                }
+
+                img.style.transition = seconds.toString() + "s";
+                img.style.transform = "rotateY(0deg)";
+
+                if (rotated_img)
+	            {
+	            	rotated_img.style.transition = seconds.toString() + "s";
+	           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+	            }
+            }, seconds * 1000);
+        }
+
+		function prettifyEffects(card_effect) {
 			let HTML = "";
+
+			let styled_effect = card_effect.replace(/(\[i\])+(.+?)(\[\/i\])+/gs, function(matched, _1, _2) {
+				return '<i>' + _2 + '</i>'
+			}).replaceAll(/(\[b\])+(.+?)(\[\/b\])+/gs, function(matched, _1, _2) {
+				return '<b>' + _2 + '</b>'
+			});
+
+			let card_effects = styled_effect.split("\n");
 
 			for (let i = 0; i < card_effects.length; i++)
 			{
-				let styled_effect = card_effects[i].replace(/\[i\]([^\]]+)\[\/i\]/g, function(matched, _1) {
-					return '<i>' + _1 + '</i>'
-				}).replace(/\[b\]([^\]]+)\[\/b\]/g, function(matched, _1) {
-					return '<b>' + _1 + '</b>'
-				})
-				
-				HTML += styled_effect;
-
-				if (i != card_effects.length - 1)
-				{
-					HTML += "<br>"
-				}
+				HTML += "<p>" + card_effects[i] + "</p>";
 			}
 			
 			let regexHTML = symbolize(HTML);
@@ -1455,7 +1694,7 @@
 			let params = new URLSearchParams(url.search);
 			if (page != 0)
 			{
-				params.append("page", page+1);
+				params.append("page", page + 1);
 			}
 			history.pushState({}, '', url.pathname + '?' + params.toString());
 
@@ -1481,7 +1720,7 @@
 			
 			let url = (window.location.href.indexOf("page=") == -1 ? new URL(window.location.href) : new URL(window.location.href.substring(0, window.location.href.indexOf("page="))));
 			let params = new URLSearchParams(url.search);
-			params.append("page", page+1);
+			params.append("page", page + 1);
 			history.pushState({}, '', url.pathname + '?' + params.toString());
 
 			cardGrid.innerHTML = "";
@@ -1505,13 +1744,19 @@
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
-				let card_name = card_list_arrayified[i].card_name;
-				for (const char of specialchars)
-				{
-					card_name = card_name.replaceAll(char, "");
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
 				}
 
-				window.location = ('/cards/' + card_list_arrayified[i].set + '/' + card_list_arrayified[i].number + '_' + card_name);
+				window.location.href = url;
 			}
 	</script>
 </body>
