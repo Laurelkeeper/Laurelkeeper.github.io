@@ -87,7 +87,7 @@ def generateHTML():
 	<body>
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'header.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'header.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -95,6 +95,8 @@ def generateHTML():
 		so_json = json.load(j)
 
 	for key in so_json:
+		if (so_json[key][0] == ""):
+			continue
 		html_content += '''			<div class="set-group">''' + key + '''</div>
 		'''
 
@@ -110,12 +112,14 @@ def generateHTML():
 
 		set_codes = so_json[key]
 		for code in set_codes:
+			set_name = 'MISSING'
 			with open(os.path.join('lists', 'all-sets.json'), encoding='utf-8-sig') as f:
 				data = json.load(f)
 				for s in data['sets']:
 					if s['set_code'] == code:
 						set_name = s['set_name']
 						break
+					set_name = 'MISSING'
 
 			with open(os.path.join('sets', code + '-files', code + '.json'), encoding='utf-8-sig') as f:
 				data = json.load(f)
@@ -145,7 +149,7 @@ def generateHTML():
 		document.addEventListener("DOMContentLoaded", async function () {
 			'''
 
-	with open(os.path.join('resources', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'load-files.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
@@ -164,12 +168,14 @@ def generateHTML():
 		});
 
 		function search() {
-			window.location = ("/search?search=" + document.getElementById("search").value);
+			const url = new URL('search', window.location.origin);
+			url.searchParams.append('search', document.getElementById("search").value);
+			window.location.href = url;
 		}
 
 		'''
 
-	with open(os.path.join('resources', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
+	with open(os.path.join('scripts', 'snippets', 'random-card.txt'), encoding='utf-8-sig') as f:
 		snippet = f.read()
 		html_content += snippet
 
