@@ -796,19 +796,19 @@
 			}
 		},
 		{
-			"name": "CA01 Small Creature",
+			"name": "CA01 Vested Script",
 			"rarity": "common",
-			"mana_cost": "",
-			"type": "Artifact Creature",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/76.png"
 			}
 		},
 		{
-			"name": "CA02 Noncreature",
+			"name": "CA02 Earthspike Annals",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "266",
 			"image_uris": {
@@ -816,9 +816,9 @@
 			}
 		},
 		{
-			"name": "CA03 Noncreature",
+			"name": "CA03 Omenstones",
 			"rarity": "common",
-			"mana_cost": "",
+			"mana_cost": "{6}",
 			"type": "Artifact",
 			"collector_number": "267",
 			"image_uris": {
@@ -3330,9 +3330,9 @@
 	8 CZ08 Choir of Restoration
 	8 CZ09 Glamorous Herald
 	8 CZ10 Solemn Standby
-	8 CA01 Small Creature
-	8 CA02 Noncreature
-	8 CA03 Noncreature
+	8 CA01 Vested Script
+	8 CA02 Earthspike Annals
+	8 CA03 Omenstones
 	8 CL01 Pallid Causeway
 	8 CL02 Effaced Cove
 	8 CL03 Flayed Horizon
@@ -3433,9 +3433,9 @@
 	12 CZ08 Choir of Restoration
 	12 CZ09 Glamorous Herald
 	12 CZ10 Solemn Standby
-	12 CA01 Small Creature
-	12 CA02 Noncreature
-	12 CA03 Noncreature
+	12 CA01 Vested Script
+	12 CA02 Earthspike Annals
+	12 CA03 Omenstones
 	12 CL01 Pallid Causeway
 	12 CL02 Effaced Cove
 	12 CL03 Flayed Horizon
@@ -3731,9 +3731,9 @@
 	6 CZ08 Choir of Restoration
 	6 CZ09 Glamorous Herald
 	6 CZ10 Solemn Standby
-	6 CA01 Small Creature
-	6 CA02 Noncreature
-	6 CA03 Noncreature
+	6 CA01 Vested Script
+	6 CA02 Earthspike Annals
+	6 CA03 Omenstones
 	6 CL01 Pallid Causeway
 	6 CL02 Effaced Cove
 	6 CL03 Flayed Horizon

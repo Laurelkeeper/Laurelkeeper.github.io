@@ -1,4 +1,21 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
+====================
+
+CA01 Vested Script added.
+CA02 Earthspike Annals added.
+CA03 Omenstones added.
+
+CA01 Small Creature removed.
+CA02 Noncreature removed.
+CA03 Noncreature removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 CU01 Entranced Villagers added.
