@@ -1,4 +1,291 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+CU01 Entranced Villagers added.
+CU02 Lost Ascendant added.
+CU04 Iridium Muse added.
+CU05 Raywater Falconer added.
+CU07 Erudite Watcher added.
+CU08 Ascendant Talekeeper added.
+CU10 Runic Grip added.
+CU13 Outer Court Communion added.
+Magnificent Rothorn added.
+Audacious Auditioner added.
+Bantrel Vale added.
+Inquisitor Tacen Flint added.
+Eni, Company Champion added.
+The Eternal Manse added.
+Sorrowgaunt added.
+CG02 Splintergaunt added.
+
+CU01 Small Creature removed.
+CU02 Small Creature removed.
+CU04 Small Creature removed.
+CU05 Small Creature removed.
+CU07 MediumWall Creature removed.
+CU08 Large Creature removed.
+CU10 Noncreature removed.
+CU13 Noncreature removed.
+UB05 Medium Creature removed.
+CB05 Audacious Auditioner removed.
+UB15 Bantrel Vale removed.
+UM02 Inquisitor Tacen Flint removed.
+UM09 Eni, Company Champion removed.
+RU07 The Eternal Manse removed.
+MB02 Sorrowgaunt removed.
+
+ARCHETYPES
+rules_text: {W}{U}: Second Draw // [i]Utopian Sci-fi.[/i]
+{U}{B}: Ritual Discard Self // [i]Noir.[/i]
+{B}{R}: Double Burn // [i]Poetry.[/i]
+{R}{G}: Enchantments // [i]Artwork.[/i]
+{G}{W}: Three Creatures // [i]Classic Fantasy[/i]
+{W}{B}: Ritual Sacrifice // [i]Grimdark[/i]
+{U}{R}: Counters // [i]Metafiction[/i]
+{B}{G}: Ritual Disturb // [i]Horror[/i]
+{R}{W}: Chronicle // [i]Hero Fantasy[/i]
+{G}{U}: Synthesis // [i]Biopunk Sci-fi.
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend
+
+CW12 On the Horizon
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+
+CU03 Silverwing Companion
+pt: 1/2 => 1/1
+
+CU12 Boreal Interdiction
+rules_text: As an additional cost to cast this spell, discard a card or pay {2}.
+The owner of target creature puts it into their library second from the top or on the bottom. => As an additional cost to cast this spell, discard a card or pay {2}.
+The owner of target creature or planeswalker puts it into their library second from the top or on the bottom.
+
+CB08 Bantrel Wood Stalker
+pt: 6/4 => 5/5
+
+CB10 Long Road Home
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​
+
+CB12 Bottom of the Inkwell
+
+CR10 A Brilliant Entrance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​
+
+CG06 Solemn Gladekeeper
+rules_text: When this creature enters, choose one—
+• Destroy target enchantment.
+• Put two +1/+1 counters on target enchantment. If it's not a creature, it becomes a 0/0 creature in addition to its other types. => When this creature enters, choose one—
+• Destroy target noncreature enchantment.
+• Put two +1/+1 counters on target enchantment. If it's not a creature, it becomes a 0/0 creature in addition to its other types.
+pt: 2/3 => 3/3
+
+CG07 Untroubled Vagabond
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, put a +1/+1 counter on each of up to three target creatures with different powers. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When this creature enters, put a +1/+1 counter on each of up to three target creatures.
+
+CG11 A Cold Voice
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+
+CZ08 Choir of Restoration
+rules_text: [i]Coven[/i] — Whenever this creature attacks, if you control three or more creatures with different powers, it gets +0/+2 until end of turn. => Vigilance
+[i]Coven[/i] — Whenever this creature attacks, if you control three or more creatures with different powers, it gets +0/+2 until end of turn.
+
+UW12 Greyvale Township
+rules_text: [i](As a Stage enters, choose an opponent to protect it. Attacking creatures deal 1 damage to Stages and the rest to their protector.)[/i]
+Whenever a creature attacks this Stage, put a +1/+1 counter on that creature.
+When this Stage is defeated, draw a card. => [i](An opponent protects this. You can't attack it with more creatures than it has defense. Each attacker assigns 1 damage to it and the rest to its protector.)[/i]
+Whenever one or more creatures attack this Stage, put a +1/+1 counter on each of those creatures. Untap one of them.
+When this Stage is defeated, draw a card.
+
+UB11 Master Essence
+rules_text: Target creature gets -2/-2 until end of turn. Then if it has toughness 0 or less, hallow Master Essence. [i](Exile it. While exiled this way, you may put it into your graveyard as an additional cost to cast creature spells.)[/i]
+Whenever you hat creature enters with two additional +1/+1 counters on it. => 
+
+UR13 Summer's Crimson End
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+I — Discard a card, then draw a card.
+II — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+Discard a card, then draw a card.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+I — Discard a card, then draw a card.
+II — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+Discard a card, then draw a card.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+
+UG12 Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+
+UM01 Lord Malcolm Amantii
+pt: 2/2 => 2/3
+
+UM04 Carmine the Brilliant
+pt: 4/3 => 4/4
+
+UM05 Mishet, the Escapee
+
+UM07 The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+II — Draw a card for each creature you control with a counter on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Draw a card for each creature you control with a counter on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+II — Draw a card for each creature you control with a counter on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Draw a card for each creature you control with a counter on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+
+UM08 Chaniel, Lost in Rot
+rules_text: Deathtouch
+Whenever Chaniel attacks, surveil 1. Then if her power is 4 or greater, draw a card.
+At the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i] => Deathtouch
+Whenever Chaniel attacks, surveil 1. Then if its power is 4 or greater, draw a card.
+At the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]
+
+RW02 Small Creature
+rules_text: First strike, reach
+At the beginning of your end step, if you control three or more creatures, this creature transcends. [i](Exile it. While exiled this way, its {V} ability is active.)[/i]
+{V} — => 
+
+The Hallowing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+
+RR03 Alder Jane, Leading Lady
+type: Legendary Creature — Human Hero => Legendary Creature — Human Performer Hero
+
+RMWU Tyto's Abjurance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II — Exile target creature you control.
+III — ​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II — Exile target creature you control.
+III — ​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​
+
+Tuolor, Steel Commander
+rules_text: Vigilance, trample
+Whenever you cast a valorous spell with mana value 3 or less, copy it. You may choose new targets for the copy. [i](Knights, Heroes, and spells that target creatures you control are valorous.)[/i]
+Whenever you cast a valorous spell with mana value 4 or greater, draw two cards and put a +1/+1 counter on each creature you control. => 
+
+MR01 Albert, Lord Geometer
+rules_text: As this creature enters, choose Loop cut, Extrude, or Bevel.
+• Loop cut — Whenever this creature attacks, creat 
+• Extrude —
+• Bevel — => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
