@@ -1,4 +1,9 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+No changes.
+
+VERSION 6 CHANGELOG
 ====================
 
 CW13 Binding Serenade added.
