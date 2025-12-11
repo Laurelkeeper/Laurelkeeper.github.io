@@ -138,7 +138,7 @@
 			}
 		},
 		{
-			"name": "CW13 Grove Serenade",
+			"name": "CW13 Binding Serenade",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
@@ -3271,7 +3271,7 @@
 	8 CW10 Imperious Boon
 	8 CW11 Sudden Silence
 	8 CW12 On the Horizon
-	8 CW13 Grove Serenade
+	8 CW13 Binding Serenade
 	8 CU01 Entranced Villagers
 	8 CU02 Lost Ascendant
 	8 CU03 Silverwing Companion
@@ -3370,7 +3370,7 @@
 	12 CW10 Imperious Boon
 	12 CW11 Sudden Silence
 	12 CW12 On the Horizon
-	12 CW13 Grove Serenade
+	12 CW13 Binding Serenade
 	12 CU01 Entranced Villagers
 	12 CU02 Lost Ascendant
 	12 CU03 Silverwing Companion
@@ -3668,7 +3668,7 @@
 	6 CW10 Imperious Boon
 	6 CW11 Sudden Silence
 	6 CW12 On the Horizon
-	6 CW13 Grove Serenade
+	6 CW13 Binding Serenade
 	6 CU01 Entranced Villagers
 	6 CU02 Lost Ascendant
 	6 CU03 Silverwing Companion
