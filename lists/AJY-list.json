@@ -196,11 +196,11 @@
         "position": "226"
     },
     {
-        "card_name": "RR01 Small Creature",
+        "card_name": "RR01 Mosa, Renegade Star",
         "number": 148,
         "shape": "normal",
         "set": "AJY",
-        "position": "232"
+        "position": "148"
     },
     {
         "card_name": "RG04 Medium Creature",
@@ -378,7 +378,7 @@
         "position": "237"
     },
     {
-        "card_name": "UG01 Small Creature",
+        "card_name": "UG01",
         "number": 196,
         "shape": "normal",
         "set": "AJY",
@@ -445,7 +445,7 @@
         "number": 155,
         "shape": "normal",
         "set": "AJY",
-        "position": "148"
+        "position": "232"
     },
     {
         "card_name": "UG03 Small Creature",
@@ -812,7 +812,7 @@
         "position": "101"
     },
     {
-        "card_name": "UU12 Noncreature",
+        "card_name": "UU12 Stick to the Script!",
         "number": 83,
         "shape": "normal",
         "set": "AJY",
@@ -868,9 +868,9 @@
         "position": "160"
     },
     {
-        "card_name": "UG15 Noncreature",
+        "card_name": "UG15 Timeless Reaches",
         "number": 210,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "AJY",
         "position": "180"
     },
@@ -1592,9 +1592,9 @@
         "position": "192"
     },
     {
-        "card_name": "UZ01 Small Creature",
+        "card_name": "UZ01 Transfixed by Fate",
         "number": 255,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "AJY",
         "position": "193"
     },
@@ -1620,7 +1620,7 @@
         "position": "199"
     },
     {
-        "card_name": "UZ05 Medium Creature",
+        "card_name": "UZ05 Cinderhorn Vestige",
         "number": 259,
         "shape": "normal",
         "set": "AJY",
@@ -1732,7 +1732,7 @@
         "position": "196"
     },
     {
-        "card_name": "UM03 Orrin of the Golden Feast",
+        "card_name": "UM03 Call the Champions",
         "number": 238,
         "shape": "normal",
         "set": "AJY",
@@ -1767,7 +1767,7 @@
         "position": "67"
     },
     {
-        "card_name": "UZ02 Small Creature",
+        "card_name": "UZ02 Orrin of the Golden Feast",
         "number": 256,
         "shape": "normal",
         "set": "AJY",
@@ -1788,7 +1788,7 @@
         "position": "66"
     },
     {
-        "card_name": "UZ03 Inverted Archetype",
+        "card_name": "UZ03 Hard-Eyed Matron",
         "number": 257,
         "shape": "normal",
         "set": "AJY",
@@ -2272,6 +2272,25 @@
         "shape": "token",
         "set": "AJY",
         "position": "299"
+    },
+    {
+        "card_name": "Spirit Ogre",
+        "number": 6,
+        "shape": "token",
+        "set": "AJY",
+        "position": "302"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
