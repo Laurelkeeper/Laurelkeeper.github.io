@@ -1,4 +1,740 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+UB05 Magnificent Rothorn added.
+UU12 Preserve the Script added.
+UB01 Severgaunt added.
+UB03 Wintercarver added.
+UB04 Chained Flensefang added.
+UB08 Senior Archaetrix added.
+UB11 Turn to Ink added.
+UG01 Courtbound Impudent added.
+Relics of the Future added.
+Golem Wizard added.
+
+Magnificent Rothorn removed.
+UU12 Stick to the Script! removed.
+UB01 Small Creature removed.
+UB03 Small Creature removed.
+UB04 Small Creature removed.
+UB08 Medium Creature removed.
+UB11 Master Essence removed.
+UG01 removed.
+UZ06 Medium Creature removed.
+CG02 Splintergaunt removed.
+
+CW01 Greyvale Protector
+rules_text: When this creature dies, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CW04 Set the Stage
+rules_text: Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CW06 Troubled Auditioner
+rules_text: [i]Coven[/i] — When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => [i]Coven[/i] — When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CW12 On the Horizon
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​
+
+CU04 Iridium Muse
+rules_text: When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Vigilance
+When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CU11 Out of the Puzzlebox
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+
+UB02 Blossoming Thing
+rules_text: Lifelink
+{3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {2} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i] => Lifelink
+{3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]
+
+UB07 Unrelenting Pursuer
+rules_text: When this creature enters, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Exile this card from your graveyard, Sacrifice two creatures: Create a tapped token that's a copy of this creature. => When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Exile this card from your graveyard, Sacrifice two creatures: Create a tapped token that's a copy of this creature.
+
+CB04 Decadent Scriptwriter
+rules_text: Flying
+When this creature enters, you may exile a creature card from your graveyard. If you do, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Flying
+When this creature enters, you may exile a creature card from your graveyard. If you do, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CB08 Bantrel Wood Stalker
+rules_text: Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+{2}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+{2}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CB10 Long Road Home
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​
+
+CR03 Scriptkeeper
+rules_text: This creature gets +1/+0 as long as you control at least two other Heroes.
+When this creature enters, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => This creature gets +1/+0 as long as you control at least two other Heroes.
+When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CR10 A Brilliant Entrance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+II, III — This Episode deals 1 damage to target player.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+II, III — This Episode deals 1 damage to target player.
+​
+
+CG03 Innercourt Matron
+
+CG04 Auspicious Mushroom
+rules_text: When this creature enters, you gain 2 life.
+{1}{G}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => When this creature enters, you gain 2 life.
+{1}{G}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CG05 Lorn-Road Falconer
+
+CG06 Solemn Gladekeeper
+
+CG07 Untroubled Vagabond
+
+CG08 Pallid Glistener
+
+CG09 Festering Shell
+
+CG10 Night's Clarity
+rules_text: Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Chronicle. You gain 2 life. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Choose one —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Chronicle. You gain 2 life. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CG11 A Cold Voice
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+
+CG12 Court the Corrupt
+
+CG13 Burst of Mettle
+
+CZ01 Witherlínd
+
+UZ04 Feastkeeper
+
+CZ03 Winterbreath Cantor
+
+CZ04 Mutilated Strider
+
+CZ05 Fated Figures
+
+CZ06 Innercourt Mendress
+
+CZ07 Palecast Bishop
+
+CZ08 Choir of Restoration
+
+CZ09 Glamorous Herald
+rules_text: When this creature enters or dies, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => When this creature enters or dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CZ10 Solemn Standby
+
+CA01 Vested Script
+
+CA02 Earthspike Annals
+
+CA03 Omenstones
+
+CL01 Pallid Causeway
+
+CL02 Effaced Cove
+
+CL03 Flayed Horizon
+
+CL04 Riven Glade
+
+CL05 Untethered Pasture
+
+CL06 Trammeled Dale
+
+CL07 Tarnished Cascade
+
+CL08 Unbidden Bog
+
+CL09 Excoriated Swathe
+
+CL10 Silenced Promontory
+
+CL11 Noncreature
+
+CL12 Noncreature
+
+CL13 Noncreature
+
+CL14 Noncreature
+
+CL15 Noncreature
+
+CL16 Noncreature
+
+CX01 Noncreature
+
+CX02 Noncreature
+
+UW01 Small Creature
+
+UW02 Small Creature
+
+UW03 Small Creature
+
+UW04 Small Creature
+
+UW11 Second Chances
+
+UW06 Medium Creature
+
+UW07 Medium Creature
+
+UW08 Medium Creature
+
+UW09 Medium Creature
+
+UW10 Medium Creature
+
+UW05 Noncreature
+
+UW12 Greyvale Township
+
+UW13 Noncreature
+
+UW14 Noncreature
+
+UW15 Noncreature
+
+UW16 Noncreature
+
+UW17 Noncreature
+
+UU01 Small Creature
+
+UU02 Small Creature
+
+UU03 Small Creature
+
+UU04 Medium Creature
+
+UU05 Medium Creature
+
+UU06 MediumWall Creature
+
+UU07 Large Creature
+
+UU08 Large Creature
+
+UU09 Noncreature
+
+UU10 Noncreature
+
+UU11 Noncreature
+
+UU13 Noncreature
+
+UU14 Noncreature
+
+UU15 Noncreature
+
+UU16 Noncreature
+
+UU17 Noncreature
+
+CB02 Smelted Wight
+
+Audacious Auditioner
+
+UB06 Small Creature
+
+CB07 Outer Court Marksman
+
+UB09 Medium Creature
+
+UB10 Mouldering Hour
+
+UB12 Noncreature
+
+UB13 Noncreature
+
+UB14 Noncreature
+
+Bantrel Vale
+
+UB16 Noncreature
+
+UB17 Noncreature
+
+RR01 Mosa, Renegade Star
+pt: 3/3 => 3/4
+
+UR02 Small Creature
+
+UR03 Small Creature
+
+UR04 Small Creature
+
+UR05 Small Creature
+
+UR06 Medium Creature
+
+UR07 Medium Creature
+
+UR08 Medium Creature
+
+UR09 Medium Creature
+
+UR10 Medium Creature
+
+UR11 Large Creature
+
+UR12 Noncreature
+
+UR13 Summer's Crimson End
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+Discard a card, then draw a card.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+I — Discard a card, then draw a card.
+II — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+Discard a card, then draw a card.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a tapped Treasure token.
+I — Discard a card, then draw a card.
+II — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+
+UR14 Noncreature
+
+UR15 Noncreature
+
+UR16 Noncreature
+
+UR17 Noncreature
+
+UR18 Noncreature
+
+UG02 Small Creature
+
+UG03 Small Creature
+
+UG04 Small Creature
+
+UG05 Medium Creature
+
+UG06 Medium Creature
+
+UG07 Medium Creature
+
+UG08 Medium Creature
+
+UG09 Noncreature
+
+UG10 Noncreature
+
+UG11 Noncreature
+
+UG12 Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+
+UG13 Noncreature
+
+UG14 Noncreature
+
+UG15 Timeless Reaches
+
+UG16 Noncreature
+
+UG17 Noncreature
+
+UM01 Lord Malcolm Amantii
+rules_text: As long as you've performed a rite this turn, Lord Malcolm Amantii has flying and lifelink. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]
+As an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and enters with an additional +1/+1 counter on it. => As long as you've performed a rite this turn, Lord Malcolm Amantii has flying and lifelink. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]
+As an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and that creature enters with an additional +1/+1 counter on it.
+
+Inquisitor Tacen Flint
+
+UM03 Call the Champions
+rules_text: When this enchantment enters, chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Creatures you control get +1/+0 and have haste.
+At the beginning of combat on your turn, untap a Hero you control. It gains vigilance until end of turn. => Whenever this enchantment enters or you attack, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+At the beginning of combat on your turn, untap target Hero you control. It gets +1/+1 and gains trample and haste until end of turn.
+
+UM04 Carmine the Brilliant
+
+UM05 Mishet, the Escapee
+
+UM06 Sostak, Whimsical Voice
+
+UM07 The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Draw a card for each creature you control with a counter on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Draw a card for each creature you control with a counter on it.
+II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+Draw a card for each creature you control with a counter on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Draw a card for each creature you control with a counter on it.
+II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+
+CZ02 Autumn's Emissary
+
+Eni, Company Champion
+
+UM10 Septus Jane
+
+UZ01 Transfixed by Fate
+
+UZ02 Orrin of the Golden Feast
+
+UZ03 Hard-Eyed Matron
+rules_text: Each creature you control with a counter on it has prowess. [i](Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i] => Each creature you control with a counter on it has prowess. [i](Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+UM08 Chaniel, Lost in Rot
+
+UZ05 Cinderhorn Vestige
+
+UZ07 Medium Creature
+cost: {3}{BR} => {BR}{BR}
+rules_text: When this creature dies, hallow it. [i](Exile it. While exiled this way, you may put it into your graveyard as an additional cost to cast creature spells.)[/i] => Whenever this creature enters or attacks, it deals 1 damage to each player.
+pt:  => 2/2
+
+UZ08 Medium Creature
+
+UZ09 Medium Creature
+
+UZ10 Recast Revenant
+
+UA01 Noncreature
+
+UA02 Noncreature
+
+UA03 Noncreature
+
+UL01 Noncreature
+
+UX01 Noncreature
+
+RW01 Small Creature
+
+RW02 Small Creature
+
+RW03 Beziel, Soul of Greyvale
+
+RW04 Medium Creature
+
+RW05 Medium Creature
+
+RW06 Write Out
+
+RW07 Perfect Prediction
+
+RW08 Noncreature
+
+RW09 Noncreature
+
+RU01 Small Creature
+
+RU02 Small Creature
+
+RU03 Medium Creature
+
+RU04 Medium Creature
+
+RU05 Large Creature
+
+RU06 Large Creature
+
+The Eternal Manse
+
+RU08 Noncreature
+
+RB01 Small Creature
+rules_text:  => Whenever this creature enters or attacks, mill a card. Put a +1/+1 counter on this creature if a creature card was milled this way. Each opponent loses 2 life if a land card was milled this way. Creatures you control gain menace until end of turn a noncreature, nonland card was milled this way.
+pt:  => 2/2
+
+RB02 Medium Creature
+rules_text:  => Menace
+Whenever a player loses life during your turn, they mill that many cards.
+At the beginning of your end step, you may cast a spell with mana value 2 or less from among cards in graveyards that were put there from libraries this turn without paying its mana cost.
+
+RB03 Medium Creature
+
+The Hallowing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 4 life unless you sacrifice a creature.
+III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 4 life unless you sacrifice a creature.
+III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+
+RB05 Noncreature
+
+RB06 Noncreature
+
+RB07 Noncreature
+
+UR01 Small Creature
+
+RR02 Small Creature
+
+RR03 Alder Jane, Leading Lady
+
+RR04 Medium Creature
+
+RR05 Medium Creature
+
+RR06 Noncreature
+
+RR07 Noncreature
+
+RG01 Small Creature
+
+RG02 Medium Creature
+
+RG03 Medium Creature
+
+RG04 Medium Creature
+
+RG05 Medium Creature
+
+RG06 Noncreature
+
+RG07 Noncreature
+
+RG08 Noncreature
+
+RMGW Lord Tyto Bonsíc
+
+RMUR Small Creature
+
+Kniles, Chancellor of Thorns
+
+RMRW Greyvale Prodigy
+
+RM11 Small Creature
+
+RMWU Tyto's Abjurance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+Exile target creature you control.
+II — ​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+Exile target creature you control.
+II — ​
+
+RMBR Medium Creature
+
+The Everfree Thespian
+
+RM13 Medium Creature
+
+RM15 Medium Creature
+
+RMBG Medium Creature
+
+RMRG Medium Creature
+
+RM13 Medium Creature
+
+RM14 Tariet, Unhallowed Chorus
+
+RMUB Medium Creature
+
+Tuolor, Steel Commander
+
+RM17 Large Creature
+
+RMUG LargeWall Creature
+
+RL01 Small Creature
+
+RL02 Small Creature
+
+RL03 Noncreature
+
+RL04 Noncreature
+
+RL05 Noncreature
+
+RL06 Noncreature
+
+RL07 Noncreature
+
+MW01 Small Creature
+
+MW02 Small Creature
+
+MW03 Noncreature
+
+Prince of Years
+
+MU01 Small Creature
+
+MU02 Noncreature
+
+MU03 Noncreature
+
+Kindly Winter
+
+MB01 Large Creature
+
+Sorrowgaunt
+
+MB03 Noncreature
+
+Hollow Autumn
+
+MR01 Albert, Lord Geometer
+
+MR02 Noncreature
+
+Fair Summer
+
+MR04 Noncreature
+
+MR05 Noncreature
+
+MG01 Small Creature
+
+Vile Spring
+
+Alder Jane, Talewright
+rules_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.”
+special_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.”
+
+MM02 Large Creature
+
+MM03 Large Creature
+
+MA01 LargeWall Creature
+
+MA02 Noncreature
+
+MA03 Noncreature
+
+Daughter of Bantrel
+
+Wraith
+
+Rose
+
+Human Horror
+
+CG02 Splintergaunt
+
+Spirit Ogre
+
+
+VERSION 8 CHANGELOG
 ====================
 
 UU12 Stick to the Script! added.

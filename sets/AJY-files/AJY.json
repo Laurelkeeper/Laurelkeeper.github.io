@@ -36,7 +36,7 @@
             "number": 4,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When this creature dies, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]Mentor, guide, and selfless friend.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -96,7 +96,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]Many of the Tale's actors came to Intria with the Company, but many more were recruits from the populace.[/i]",
             "pt": "",
             "special_text": "",
@@ -136,7 +136,7 @@
             "number": 9,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "[i]Coven[/i] \u2014 When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "[i]Coven[/i] \u2014 When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]\u201cI don't know if I want this role.\u201d[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -267,10 +267,10 @@
             "number": 15,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card.\nCreatures you control get +1/+1 until end of turn.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Draw a card.\nII, III \u2014 Creatures you control get +1/+1 until end of turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card.\nCreatures you control get +1/+1 until end of turn.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Draw a card.\nII, III \u2014 Creatures you control get +1/+1 until end of turn.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
@@ -367,7 +367,7 @@
             "number": 50,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Vigilance\nWhen this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -518,10 +518,10 @@
             "number": 57,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nPut a flying counter on target creature.\nDraw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Put a flying counter on target creature.\nII, III \u2014 Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nPut a flying counter on target creature.\nDraw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Put a flying counter on target creature.\nII, III \u2014 Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
@@ -595,10 +595,10 @@
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Spirit",
-            "number": 116,
+            "number": 115,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "Lifelink\n{3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {2} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
+            "rules_text": "Lifelink\n{3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -638,7 +638,7 @@
             "number": 120,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "When this creature enters, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\nExile this card from your graveyard, Sacrifice two creatures: Create a tapped token that's a copy of this creature.",
+            "rules_text": "When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nExile this card from your graveyard, Sacrifice two creatures: Create a tapped token that's a copy of this creature.",
             "flavor_text": "[i]Such determination is precious rare.[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -651,11 +651,11 @@
             "notes": "CB04,Small Creature,3,,Pirate Peddlers"
         },
         {
-            "card_name": "Magnificent Rothorn",
+            "card_name": "UB05 Magnificent Rothorn",
             "color": "B",
             "rarity": "uncommon",
             "type": "Creature \u2014 Skeleton Stag",
-            "number": 104,
+            "number": 118,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Lifelink\nOnce during each of your turns, when you perform a rite, you may put a +1/+1 counter on this creature. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]\nWhen this creature dies, each player loses life equal to its power.",
@@ -698,7 +698,7 @@
             "number": 94,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\nWhen this creature enters, you may exile a creature card from your graveyard. If you do, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Flying\nWhen this creature enters, you may exile a creature card from your graveyard. If you do, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]\u201cI can arrange you a position with the Company... for a price.\u201d[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -718,7 +718,7 @@
             "number": 97,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]\n{2}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]\n{2}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -758,10 +758,10 @@
             "number": 99,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSurveil 1. You lose 1 life unless you attacked this turn.\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Surveil 1. You lose 1 life unless you attacked this turn.\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSurveil 1. You lose 1 life unless you attacked this turn.\nReturn target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Surveil 1. You lose 1 life unless you attacked this turn.\nIII \u2014 Return target creature card with mana value 3 or less from your graveyard to the battlefield.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
@@ -889,7 +889,7 @@
             "number": 132,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "This creature gets +1/+0 as long as you control at least two other Heroes.\nWhen this creature enters, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "This creature gets +1/+0 as long as you control at least two other Heroes.\nWhen this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]The coveted script of a story's climax is far too precious to be committed to mere paper.[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1029,10 +1029,10 @@
             "number": 139,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a 1/1 colorless Hero creature token.\nThis Episode deals 1 damage to target player.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Create a 1/1 colorless Hero creature token.\nII, III \u2014 This Episode deals 1 damage to target player.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a 1/1 colorless Hero creature token.\nThis Episode deals 1 damage to target player.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Create a 1/1 colorless Hero creature token.\nII, III \u2014 This Episode deals 1 damage to target player.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
@@ -1133,31 +1133,11 @@
             "notes": "CG01,Small Creature,2,,Raucous Audience"
         },
         {
-            "card_name": "CG02 Splintergaunt",
-            "color": "G",
-            "rarity": "common",
-            "type": "Enchantment Creature \u2014 Treefolk Spirit",
-            "number": 175,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "Whenever this creature attacks, up to one other target artifact creature or enchantment creature gets +1/+1 until end of turn.",
-            "flavor_text": "[i]Eager servants of Spring.[/i]",
-            "pt": "2/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "Antonio J. Manzanedo",
-            "alias": "",
-            "position": "54",
-            "notes": "CG02,Small Creature,2,,Rebellious Captives"
-        },
-        {
             "card_name": "CG03 Innercourt Matron",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Warlock",
-            "number": 176,
+            "number": 175,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i]Coven[/i] \u2014 Whenever this creature enters or attacks, if you control three or more creatures with different powers, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -1169,7 +1149,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "notes": "CG03,Small Creature,3,,Ostrich-Horse"
         },
         {
@@ -1177,10 +1157,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Fungus",
-            "number": 177,
+            "number": 176,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When this creature enters, you gain 2 life.\n{1}{G}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "When this creature enters, you gain 2 life.\n{1}{G}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -1189,7 +1169,7 @@
             "loyalty": "",
             "artist": "Bruno Jacob",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "notes": "CG04,SmallWall Creature,1,,Turtle-Duck"
         },
         {
@@ -1197,7 +1177,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Ranger Hero",
-            "number": 178,
+            "number": 177,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Reach\nWhenever this creature attacks, it gets +2/+1 until end of turn if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
@@ -1209,7 +1189,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "notes": "CG05,Medium Creature,3,,Walltop Sentries"
         },
         {
@@ -1217,7 +1197,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Druid",
-            "number": 179,
+            "number": 178,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "When this creature enters, choose one\u2014\n\u2022 Destroy target noncreature enchantment.\n\u2022 Put two +1/+1 counters on target enchantment. If it's not a creature, it becomes a 0/0 creature in addition to its other types.",
@@ -1229,7 +1209,7 @@
             "loyalty": "",
             "artist": "Tomas Duchek",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "notes": "CG06,Medium Creature,4,,Foggy Swamp Vinebender"
         },
         {
@@ -1237,7 +1217,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Human Warrior Hero",
-            "number": 180,
+            "number": 179,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nWhen this creature enters, put a +1/+1 counter on each of up to three target creatures.",
@@ -1249,7 +1229,7 @@
             "loyalty": "",
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "notes": "CG07,Medium Creature,5,,Badgermole"
         },
         {
@@ -1257,7 +1237,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Spirit Crab",
-            "number": 181,
+            "number": 180,
             "color_identity": "G",
             "cost": "{5}{G}",
             "rules_text": "Vigilance, trample\nForestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]",
@@ -1269,7 +1249,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "notes": "CG08,Large Creature,6,,Saber-Tooth Moose-Lion"
         },
         {
@@ -1277,7 +1257,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 182,
+            "number": 181,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Target creature gets +2/+2 and gains reach and trample until end of turn.\nDisturb\u2014{2}{G}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]",
@@ -1289,7 +1269,7 @@
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "card_name2": "Festering Wrackbeast",
             "color2": "G",
             "type2": "Enchantment Creature \u2014 Spirit Demon",
@@ -1308,10 +1288,10 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 183,
+            "number": 182,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Chronicle. You gain 2 life. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target enchantment.\n\u2022 Chronicle. You gain 2 life. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1320,7 +1300,7 @@
             "loyalty": "",
             "artist": "Ismail Inceoglu",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "notes": "CG10,Noncreature,2,,Origin of Metalbending"
         },
         {
@@ -1328,19 +1308,19 @@
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Episode",
-            "number": 184,
+            "number": 183,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.\nTarget creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII, III \u2014 Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSearch your library for a basic land card, reveal it, put it into your hand, then shuffle.\nTarget creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Search your library for a basic land card, reveal it, put it into your hand, then shuffle.\nII, III \u2014 Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "notes": "CG11,Noncreature,2,,Rocky Rebuke"
         },
         {
@@ -1348,7 +1328,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 185,
+            "number": 184,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Surveil 2. Return a creature card and/or a land card from your graveyard to your hand. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
@@ -1360,7 +1340,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "notes": "CG12,Noncreature,3,,Cycle of Renewal"
         },
         {
@@ -1368,7 +1348,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 186,
+            "number": 185,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Put a +1/+1 counter on target creature you control if it's an artifact or an enchantment. Then it fights target creature you don't control.",
@@ -1380,7 +1360,7 @@
             "loyalty": "",
             "artist": "Sebastian Lotero",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "notes": "CG13,Noncreature,4,,Earthbending Lesson"
         },
         {
@@ -1388,7 +1368,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Creature \u2014 Wurm",
-            "number": 245,
+            "number": 244,
             "color_identity": "WB",
             "cost": "{2}{WB}{WB}",
             "rules_text": "As an additional cost to cast this spell, sacrifice a creature or enchantment.\nWhen this creature enters, if it's not a token, create two tokens that are copies of it.",
@@ -1400,7 +1380,7 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "notes": "CZ01,Small Creature,2,WB ,Pretending Poxbearers"
         },
         {
@@ -1420,7 +1400,7 @@
             "loyalty": "",
             "artist": "Federico (IKO) Cimini",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "notes": "CZ02,Small Creature,3,BG ,Earth Village Ruffians"
         },
         {
@@ -1428,7 +1408,7 @@
             "color": "UB",
             "rarity": "common",
             "type": "Creature \u2014 Spirit Bard",
-            "number": 247,
+            "number": 246,
             "color_identity": "UB",
             "cost": "{1}{UB}{UB}",
             "rules_text": "At the beginning of your end step, surveil 1 if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]\n{3}{UB}, Discard this card, Pay 2 life: Draw two cards.",
@@ -1440,7 +1420,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "notes": "CZ03,Small Creature,3,flying UB ,Messenger Hawk"
         },
         {
@@ -1448,7 +1428,7 @@
             "color": "UG",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 248,
+            "number": 247,
             "color_identity": "UG",
             "cost": "{1}{GU}{GU}",
             "rules_text": "Vigilance\nWhenever this creature attacks, if there are two or more card types among spells you've cast this turn, put a +1/+1 counter on it.",
@@ -1460,7 +1440,7 @@
             "loyalty": "",
             "artist": "Aaron Nakahara",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "notes": "CZ04,Medium Creature,2,GU ,Platypus-Bear"
         },
         {
@@ -1468,7 +1448,7 @@
             "color": "BR",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Spirit",
-            "number": 249,
+            "number": 248,
             "color_identity": "BR",
             "cost": "{1}{BR}{BR}",
             "rules_text": "As an additional cost to cast this spell, pay 2 life or sacrifice a creature.\nFlying\nWhenever you attack, this creature deals 1 damage to each opponent.",
@@ -1480,7 +1460,7 @@
             "loyalty": "",
             "artist": "Daniel Ignacio",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "notes": "CZ05,Medium Creature,3,BR ,Vindictive Warden"
         },
         {
@@ -1488,7 +1468,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Creature \u2014 Dryad",
-            "number": 250,
+            "number": 249,
             "color_identity": "RG",
             "cost": "{1}{RG}",
             "rules_text": "{T}: Add {R} or {G}. When you spend this mana to cast an enchantment spell or activate an ability of an enchantment, put a +1/+1 counter on this creature.",
@@ -1500,7 +1480,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "notes": "CZ06,Medium Creature,4,RG ,Earth Rumble Wrestlers"
         },
         {
@@ -1508,7 +1488,7 @@
             "color": "WU",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Golem Skeleton",
-            "number": 251,
+            "number": 250,
             "color_identity": "WU",
             "cost": "{2}{WU}{WU}",
             "rules_text": "Whenever you draw your second card each turn, target creature gets +1/+1 and gains vigilance until end of turn. Untap it.",
@@ -1520,7 +1500,7 @@
             "loyalty": "",
             "artist": "peng lu",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "notes": "CZ07,Medium Creature,4,flying WU ,Cat-Owl"
         },
         {
@@ -1528,7 +1508,7 @@
             "color": "WG",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Spirit",
-            "number": 252,
+            "number": 251,
             "color_identity": "WG",
             "cost": "{GW}{GW}",
             "rules_text": "Vigilance\n[i]Coven[/i] \u2014 Whenever this creature attacks, if you control three or more creatures with different powers, it gets +0/+2 until end of turn.",
@@ -1540,7 +1520,7 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "notes": "CZ08,Medium Creature,5,GW ,Earth Kingdom Soldier"
         },
         {
@@ -1548,10 +1528,10 @@
             "color": "WR",
             "rarity": "common",
             "type": "Creature \u2014 Elf Soldier Hero",
-            "number": 253,
+            "number": 252,
             "color_identity": "WR",
             "cost": "{2}{RW}{RW}",
-            "rules_text": "When this creature enters or dies, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "When this creature enters or dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]\u201cI need see no more. Send this one to the front lines!\u201d\n\u2014Alder Jane[/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1560,7 +1540,7 @@
             "loyalty": "",
             "artist": "Tomas Duchek",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "notes": "CZ09,MediumWall Creature,4,RW ,Wandering Musicians"
         },
         {
@@ -1568,7 +1548,7 @@
             "color": "UR",
             "rarity": "common",
             "type": "Creature \u2014 Human Bat Hero",
-            "number": 254,
+            "number": 253,
             "color_identity": "UR",
             "cost": "{1}{UR}",
             "rules_text": "This creature enters with a flying counter on it if you control another creature or enchantment with a counter on it.",
@@ -1580,7 +1560,7 @@
             "loyalty": "",
             "artist": "Lane Brown",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "notes": "CZ10,Noncreature,2,UR ,Abandon Attachments"
         },
         {
@@ -1588,7 +1568,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 265,
+            "number": 264,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "Equipped creature gets +1/+1 and is a Hero in addition to its other types.\nWhenever this Equipment enters or you put a lore counter on a permanent you control, you may attach this Equipment to target creature you control.\nEquip {3}",
@@ -1600,7 +1580,7 @@
             "loyalty": "",
             "artist": "Brian Sirith",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "notes": "CA01,Small Creature,2,,Kyoshi Battle Fan"
         },
         {
@@ -1608,7 +1588,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 266,
+            "number": 265,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "{T}: Add one mana of any color.\nAt the beginning of your end step, if you control seven or more lands, this artifact becomes a 0/0 Hero creature in addition to its other types. Put four +1/+1 counters on it. This ability triggers only once.",
@@ -1620,7 +1600,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "notes": "CA02,Noncreature,1,,Barrels of Blasting Jelly"
         },
         {
@@ -1628,7 +1608,7 @@
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 267,
+            "number": 266,
             "color_identity": "C",
             "cost": "{6}",
             "rules_text": "When this artifact enters, destroy up to one target nonland permanent.\n{2}, Sacrifice this artifact or discard this card: Draw a card.",
@@ -1640,7 +1620,7 @@
             "loyalty": "",
             "artist": "Alexandr Elichev",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "notes": "CA03,Noncreature,3,,Bender's Waterskin"
         },
         {
@@ -1648,7 +1628,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 274,
+            "number": 273,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Plains or Island card, put it onto the battlefield tapped, then shuffle.\n{2}{WU}{WU}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1660,7 +1640,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "notes": "CL01,Noncreature,0,,Airship Engine Room"
         },
         {
@@ -1668,7 +1648,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 275,
+            "number": 274,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Island or Swamp card, put it onto the battlefield tapped, then shuffle.\n{2}{UB}{UB}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1680,7 +1660,7 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "notes": "CL02,Noncreature,0,,Boiling Rock Prison"
         },
         {
@@ -1688,7 +1668,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 276,
+            "number": 275,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Swamp or Mountain card, put it onto the battlefield tapped, then shuffle.\n{2}{BR}{BR}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1700,7 +1680,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "notes": "CL03,Noncreature,0,,Foggy Bottom Swamp"
         },
         {
@@ -1708,7 +1688,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 277,
+            "number": 276,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Mountain or Forest card, put it onto the battlefield tapped, then shuffle.\n{2}{RG}{RG}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1720,7 +1700,7 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "notes": "CL04,Noncreature,0,,Forest"
         },
         {
@@ -1728,7 +1708,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 278,
+            "number": 277,
             "color_identity": "WG",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Forest or Plains card, put it onto the battlefield tapped, then shuffle.\n{2}{GW}{GW}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1740,7 +1720,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "notes": "CL05,Noncreature,0,,Island"
         },
         {
@@ -1748,7 +1728,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 279,
+            "number": 278,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Plains or Swamp card, put it onto the battlefield tapped, then shuffle.\n{2}{WB}{WB}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1760,7 +1740,7 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "notes": "CL06,Noncreature,0,,Kyoshi Village"
         },
         {
@@ -1768,7 +1748,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 280,
+            "number": 279,
             "color_identity": "UR",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.\n{2}{UR}{UR}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1780,7 +1760,7 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "notes": "CL07,Noncreature,0,,Meditation Pools"
         },
         {
@@ -1788,7 +1768,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 281,
+            "number": 280,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Swamp or Forest card, put it onto the battlefield tapped, then shuffle.\n{2}{BG}{BG}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1800,7 +1780,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "notes": "CL08,Noncreature,0,,Misty Palms Oasis"
         },
         {
@@ -1808,7 +1788,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 282,
+            "number": 281,
             "color_identity": "WR",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Mountain or Plains card, put it onto the battlefield tapped, then shuffle.\n{2}{RW}{RW}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1820,7 +1800,7 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "notes": "CL09,Noncreature,0,,Mountain"
         },
         {
@@ -1828,7 +1808,7 @@
             "color": "",
             "rarity": "common",
             "type": "Land",
-            "number": 283,
+            "number": 282,
             "color_identity": "UG",
             "cost": "",
             "rules_text": "When this land enters, sacrifice it. When you do, search your library for a basic Forest or Island card, put it onto the battlefield tapped, then shuffle.\n{2}{GU}{GU}, Exile this card from your graveyard, Sacrifice a basic land: Draw a card.",
@@ -1840,11 +1820,31 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "notes": "CL10,Noncreature,0,,North Pole Gates"
         },
         {
             "card_name": "CL11 Noncreature",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 283,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "88",
+            "notes": "CL11,Noncreature,0,,Omashu City"
+        },
+        {
+            "card_name": "CL12 Noncreature",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1861,10 +1861,10 @@
             "artist": "",
             "alias": "",
             "position": "89",
-            "notes": "CL11,Noncreature,0,,Omashu City"
+            "notes": "CL12,Noncreature,0,,Plains"
         },
         {
-            "card_name": "CL12 Noncreature",
+            "card_name": "CL13 Noncreature",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1881,10 +1881,10 @@
             "artist": "",
             "alias": "",
             "position": "90",
-            "notes": "CL12,Noncreature,0,,Plains"
+            "notes": "CL13,Noncreature,0,,Rumble Arena"
         },
         {
-            "card_name": "CL13 Noncreature",
+            "card_name": "CL14 Noncreature",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1901,10 +1901,10 @@
             "artist": "",
             "alias": "",
             "position": "91",
-            "notes": "CL13,Noncreature,0,,Rumble Arena"
+            "notes": "CL14,Noncreature,0,,Serpent's Pass"
         },
         {
-            "card_name": "CL14 Noncreature",
+            "card_name": "CL15 Noncreature",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1921,10 +1921,10 @@
             "artist": "",
             "alias": "",
             "position": "92",
-            "notes": "CL14,Noncreature,0,,Serpent's Pass"
+            "notes": "CL15,Noncreature,0,,Sun-Blessed Peak"
         },
         {
-            "card_name": "CL15 Noncreature",
+            "card_name": "CL16 Noncreature",
             "color": "",
             "rarity": "common",
             "type": "Land",
@@ -1941,26 +1941,6 @@
             "artist": "",
             "alias": "",
             "position": "93",
-            "notes": "CL15,Noncreature,0,,Sun-Blessed Peak"
-        },
-        {
-            "card_name": "CL16 Noncreature",
-            "color": "",
-            "rarity": "common",
-            "type": "Land",
-            "number": 289,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "94",
             "notes": "CL16,Noncreature,0,,Swamp"
         },
         {
@@ -1980,7 +1960,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "notes": "CX01,Noncreature,2,,Aang's Journey"
         },
         {
@@ -2000,7 +1980,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "notes": "CX02,Noncreature,5,,Zuko's Exile"
         },
         {
@@ -2020,7 +2000,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "notes": "UW01,Small Creature,1,,Earth Kingdom Protectors"
         },
         {
@@ -2040,7 +2020,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "notes": "UW02,Small Creature,1,flying ,Momo, Playful Pet"
         },
         {
@@ -2060,7 +2040,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "notes": "UW03,Small Creature,2,,Water Tribe Rallier"
         },
         {
@@ -2080,7 +2060,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "notes": "UW04,Small Creature,2,flash ,Invasion Reinforcements"
         },
         {
@@ -2100,7 +2080,7 @@
             "loyalty": "",
             "artist": "David Astruga",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "notes": "UW05,Small Creature,5,,Gather the White Lotus"
         },
         {
@@ -2120,7 +2100,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "notes": "UW06,Medium Creature,3,,Earth Kingdom Jailer"
         },
         {
@@ -2140,7 +2120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "notes": "UW07,Medium Creature,4,,Vengeful Villagers"
         },
         {
@@ -2160,7 +2140,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "notes": "UW08,Medium Creature,4,flying ,Aang, the Last Airbender"
         },
         {
@@ -2180,7 +2160,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "notes": "UW09,Medium Creature,5,,Master Piandao"
         },
         {
@@ -2200,7 +2180,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "notes": "UW10,Medium Creature,6,flying ,Appa, Loyal Sky Bison"
         },
         {
@@ -2220,7 +2200,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "notes": "UW11,Noncreature,1,flying ,Enter the Avatar State"
         },
         {
@@ -2240,7 +2220,7 @@
             "loyalty": "3",
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "notes": "UW12,Noncreature,2,,Airbender's Reversal"
         },
         {
@@ -2260,7 +2240,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "notes": "UW13,Noncreature,3,,Fancy Footwork"
         },
         {
@@ -2280,7 +2260,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "notes": "UW14,Noncreature,3,,Team Avatar"
         },
         {
@@ -2300,7 +2280,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "notes": "UW15,Noncreature,3,flying ,Glider Staff"
         },
         {
@@ -2320,7 +2300,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "notes": "UW16,Noncreature,4,,Destined Confrontation"
         },
         {
@@ -2340,7 +2320,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "notes": "UW17,Noncreature,4,,Southern Air Temple"
         },
         {
@@ -2360,7 +2340,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "notes": "UU01,Small Creature,1,,Gran-Gran"
         },
         {
@@ -2380,7 +2360,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "notes": "UU02,Small Creature,2,,Knowledge Seeker"
         },
         {
@@ -2400,7 +2380,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "notes": "UU03,Small Creature,2,,Master Pakku"
         },
         {
@@ -2420,7 +2400,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "notes": "UU04,Medium Creature,3,,Katara, Bending Prodigy"
         },
         {
@@ -2440,7 +2420,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "notes": "UU05,Medium Creature,3,,North Pole Patrol"
         },
         {
@@ -2460,7 +2440,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "notes": "UU06,MediumWall Creature,4,flying ,Teo, Spirited Glider"
         },
         {
@@ -2480,7 +2460,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "notes": "UU07,Large Creature,2,flying ,Benevolent River Spirit"
         },
         {
@@ -2500,7 +2480,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "notes": "UU08,Large Creature,7,flash ,Serpent of the Pass"
         },
         {
@@ -2520,7 +2500,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "notes": "UU09,Noncreature,1,,Boomerang Basics"
         },
         {
@@ -2540,7 +2520,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "notes": "UU10,Noncreature,1,,Honest Work"
         },
         {
@@ -2560,27 +2540,27 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "notes": "UU11,Noncreature,2,,Accumulate Wisdom"
         },
         {
-            "card_name": "UU12 Stick to the Script!",
+            "card_name": "UU12 Preserve the Script",
             "color": "U",
             "rarity": "uncommon",
             "type": "Instant",
             "number": 83,
-            "color_identity": "U",
+            "color_identity": "WU",
             "cost": "{1}{U}",
-            "rules_text": "Choose one \u2014\n\u2022 Counter target spell unless its controller pays {2}.\n\u2022 Exile target spell that wasn't cast from its controller's hand.",
+            "rules_text": "Kicker {W} [i](You may pay an additional {W} as you cast this spell.)[/i]\nIf this spell was kicked, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nCounter target spell unless its controller pays {1} for each creature you control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
-            "artist": "",
+            "artist": "Giulio D'Amico",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "notes": "UU12,Noncreature,2,,Crashing Wave"
         },
         {
@@ -2600,7 +2580,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "notes": "UU13,Noncreature,2,,Waterbending Scroll"
         },
         {
@@ -2620,7 +2600,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "notes": "UU14,Noncreature,3,,Invasion Submersible"
         },
         {
@@ -2640,7 +2620,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "notes": "UU15,Noncreature,3,,The Spirit Oasis"
         },
         {
@@ -2660,7 +2640,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "notes": "UU16,Noncreature,5,,Ember Island Production"
         },
         {
@@ -2680,27 +2660,27 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "notes": "UU17,Noncreature,5,,Sokka's Haiku"
         },
         {
-            "card_name": "UB01 Small Creature",
+            "card_name": "UB01 Severgaunt",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 115,
+            "type": "Creature \u2014 Treefolk Golem",
+            "number": 114,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
+            "rules_text": "When this creature enters, target opponent loses 1 life and you gain 1 life.\n{4}{B}, Discard this card: Create two tokens that are copies of it.",
+            "flavor_text": "[i]\u201cI find the broken things much more interesting, don't you? The stories are richer by far.\u201d\n\u2014Perennia, Prince of Years[/i]",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
-            "artist": "",
+            "artist": "Tomas Duchek",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "notes": "UB01,Small Creature,2,,Joo Dee, One of Many"
         },
         {
@@ -2720,47 +2700,47 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "notes": "UB02,Small Creature,2,,June, Bounty Hunter"
         },
         {
-            "card_name": "UB03 Small Creature",
+            "card_name": "UB03 Wintercarver",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 117,
+            "type": "Creature \u2014 Orc Warrior",
+            "number": 116,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "",
+            "rules_text": "Menace\nWhen this creature dies, if you performed a rite this turn, return it to the battlefield with a finality counter on it. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "4/2",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
-            "artist": "",
+            "artist": "Vladimir Matyukhin",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "notes": "UB03,Small Creature,3,flying ,Fire Navy Trebuchet"
         },
         {
-            "card_name": "UB04 Small Creature",
+            "card_name": "UB04 Chained Flensefang",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 118,
+            "type": "Creature \u2014 Horror Dog",
+            "number": 117,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "",
+            "rules_text": "This creature has deathtouch during your turn.\nWhenever this creature deals combat damage to an opponent, mill two cards. You may put a card from among them into your hand unless that player pays 2 life.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/3",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
-            "artist": "Ilya Popov",
+            "artist": "Dimitrije Miljus",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "notes": "UB04,Small Creature,3,flying ,Wolfbat"
         },
         {
@@ -2780,7 +2760,7 @@
             "loyalty": "",
             "artist": "KILART",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "notes": "UB05,Small Creature,4,flying ,Buzzard-Wasp Colony"
         },
         {
@@ -2800,7 +2780,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "notes": "UB06,Small Creature,5,,Lo and Li, Twin Tutors"
         },
         {
@@ -2820,27 +2800,27 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "notes": "UB07,Medium Creature,3,,Fire Nation Engineer"
         },
         {
-            "card_name": "UB08 Medium Creature",
+            "card_name": "UB08 Senior Archaetrix",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature",
+            "type": "Creature \u2014 Vampire Advisor",
             "number": 121,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
+            "rules_text": "Menace\nWhenever a player loses life during your turn, they mill that many cards.\nWhen this creature dies, put target creature card with mana value 3 or less from a graveyard onto the battlefield under your control.",
+            "flavor_text": "[i]\u201cLovely draft, but it needs work.\u201d[/i]",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "notes": "UB08,Medium Creature,4,,Azula, On the Hunt"
         },
         {
@@ -2860,7 +2840,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "notes": "UB09,Medium Creature,7,,Cat-Gator"
         },
         {
@@ -2880,19 +2860,19 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "notes": "UB10,Noncreature,1,,Northern Air Temple"
         },
         {
-            "card_name": "UB11 Master Essence",
+            "card_name": "UB11 Turn to Ink",
             "color": "B",
             "rarity": "uncommon",
             "type": "Instant",
             "number": 124,
             "color_identity": "B",
-            "cost": "{B}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
+            "cost": "{1}{B}",
+            "rules_text": "Exile target creature or planeswalker. For as long as it remains exiled, its controller may cast it by paying life equal to its mana value in addition to its mana cost. When they do, you gain that much life.",
+            "flavor_text": "[i]The pen may not be mightier than the sword, but it can be infinitely crueler.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -2900,7 +2880,7 @@
             "loyalty": "",
             "artist": "Erskine Designs",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "notes": "UB11,Noncreature,1,,Zuko's Conviction"
         },
         {
@@ -2920,7 +2900,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "notes": "UB12,Noncreature,2,,Epic Downfall"
         },
         {
@@ -2940,7 +2920,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "notes": "UB13,Noncreature,2,,Fatal Fissure"
         },
         {
@@ -2960,7 +2940,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "notes": "UB14,Noncreature,2,,Heartless Act"
         },
         {
@@ -2980,7 +2960,7 @@
             "loyalty": "4",
             "artist": "Zp Zhang",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "notes": "UB15,Noncreature,3,,Ozai's Cruelty"
         },
         {
@@ -3000,7 +2980,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "notes": "UB16,Noncreature,3,,Ruinous Waterbending"
         },
         {
@@ -3020,7 +3000,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "notes": "UB17,Noncreature,3,,Tundra Tank"
         },
         {
@@ -3032,15 +3012,15 @@
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Creatures blocking or blocked by Mosa have double strike.\nIf Mosa would take damage for the first time each turn, prevent that damage unless an opponent has you draw a card.",
-            "flavor_text": "[i]All her life, Mosa was a favored servant of Spring\u2014but a taste of applause can break even the deepest loyalties. [/i]",
-            "pt": "3/3",
+            "flavor_text": "[i]Once, Mosa was a favored servant of Spring\u2014but a taste of applause can break even the deepest loyalties.[/i]",
+            "pt": "3/4",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
             "artist": "Dan Robinett",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "notes": "UR01,Small Creature,2,,Fire Sages"
         },
         {
@@ -3060,7 +3040,7 @@
             "loyalty": "",
             "artist": "Tomas Duchek",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "notes": "UR02,Small Creature,2,,Mai, Jaded Edge"
         },
         {
@@ -3080,7 +3060,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "notes": "UR03,Small Creature,4,,Crescent Island Temple"
         },
         {
@@ -3100,7 +3080,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "notes": "UR04,Small Creature,4,,The Cave of Two Lovers"
         },
         {
@@ -3120,7 +3100,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "notes": "UR05,Small Creature,5,flash ,Fire Nation Attacks"
         },
         {
@@ -3140,7 +3120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "notes": "UR06,Medium Creature,2,,Tiger-Dillo"
         },
         {
@@ -3160,7 +3140,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "notes": "UR07,Medium Creature,3,,\"Flaming Hot Jazz Hands\""
         },
         {
@@ -3180,7 +3160,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "notes": "UR08,Medium Creature,3,,Jeong Jeong, the Deserter"
         },
         {
@@ -3200,7 +3180,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "notes": "UR09,Medium Creature,3,,Ty Lee, Artful Acrobat"
         },
         {
@@ -3220,7 +3200,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "notes": "UR10,Medium Creature,4,,Zuko, Exiled Prince"
         },
         {
@@ -3240,7 +3220,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "notes": "UR11,Large Creature,5,,Combustion Man"
         },
         {
@@ -3260,7 +3240,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "notes": "UR12,Noncreature,1,,Jet's Brainwashing"
         },
         {
@@ -3271,16 +3251,16 @@
             "number": 167,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a tapped Treasure token.\nDiscard a card, then draw a card.\nIf a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a tapped Treasure token.\nI \u2014 Discard a card, then draw a card.\nII \u2014 If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a tapped Treasure token.\nDiscard a card, then draw a card.\nIf a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nCreate a tapped Treasure token.\nI \u2014 Discard a card, then draw a card.\nII \u2014 If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "notes": "UR13,Noncreature,2,,Combustion Technique"
         },
         {
@@ -3300,7 +3280,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "notes": "UR14,Noncreature,2,,Iroh's Demonstration"
         },
         {
@@ -3320,7 +3300,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "notes": "UR15,Noncreature,2,,Price of Freedom"
         },
         {
@@ -3340,7 +3320,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "notes": "UR16,Noncreature,3,flash ,Solstice Revelations"
         },
         {
@@ -3360,7 +3340,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "notes": "UR17,Noncreature,3,flash ,Twin Blades"
         },
         {
@@ -3380,11 +3360,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "notes": "UR18,Noncreature,3,flying ,War Balloon"
         },
         {
-            "card_name": "UG01",
+            "card_name": "UG01 Courtbound Impudent",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Creature \u2014 Orc Shaman",
+            "number": 195,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "Trample\n[i]Coven[/i] \u2014 Whenever this creature attacks, mill three cards. If you control three or more creatures with different powers, you may put a creature card or a land card from among them into your hand.",
+            "flavor_text": "[i][/i]",
+            "pt": "3/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "I Demo Games",
+            "alias": "",
+            "position": "165",
+            "notes": "UG01,Small Creature,2,,Haru, Hidden Talent"
+        },
+        {
+            "card_name": "UG02 Small Creature",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
@@ -3393,7 +3393,7 @@
             "cost": "{1}{G}",
             "rules_text": "",
             "flavor_text": "[i][/i]",
-            "pt": "3/2",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
@@ -3401,10 +3401,10 @@
             "artist": "",
             "alias": "",
             "position": "166",
-            "notes": "UG01,Small Creature,2,,Haru, Hidden Talent"
+            "notes": "UG02,Small Creature,2,,Sparring Dummy"
         },
         {
-            "card_name": "UG02 Small Creature",
+            "card_name": "UG03 Small Creature",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
@@ -3421,26 +3421,6 @@
             "artist": "",
             "alias": "",
             "position": "167",
-            "notes": "UG02,Small Creature,2,,Sparring Dummy"
-        },
-        {
-            "card_name": "UG03 Small Creature",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Creature",
-            "number": 198,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "168",
             "notes": "UG03,Small Creature,2,,Unlucky Cabbage Merchant"
         },
         {
@@ -3448,7 +3428,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 199,
+            "number": 198,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "",
@@ -3460,7 +3440,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "notes": "UG04,Small Creature,4,,Earth Kingdom General"
         },
         {
@@ -3468,7 +3448,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 200,
+            "number": 199,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Whenever this creature attacks, if there are two or more card types among spells you've cast this turn, creatures you control get +1/+1 until end of turn.",
@@ -3480,7 +3460,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "notes": "UG05,Medium Creature,3,,Toph, the Blind Bandit"
         },
         {
@@ -3488,7 +3468,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 201,
+            "number": 200,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "",
@@ -3500,11 +3480,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "notes": "UG06,Medium Creature,4,,The Boulder, Ready to Rumble"
         },
         {
             "card_name": "UG07 Medium Creature",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Creature",
+            "number": 201,
+            "color_identity": "G",
+            "cost": "{5}{G}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "171",
+            "notes": "UG07,Medium Creature,6,,Bumi, King of Three Trials"
+        },
+        {
+            "card_name": "UG08 Medium Creature",
             "color": "G",
             "rarity": "uncommon",
             "type": "Creature",
@@ -3521,26 +3521,6 @@
             "artist": "",
             "alias": "",
             "position": "172",
-            "notes": "UG07,Medium Creature,6,,Bumi, King of Three Trials"
-        },
-        {
-            "card_name": "UG08 Medium Creature",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Creature",
-            "number": 203,
-            "color_identity": "G",
-            "cost": "{5}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "173",
             "notes": "UG08,Medium Creature,6,,Flopsie, Bumi's Buddy"
         },
         {
@@ -3548,7 +3528,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "",
-            "number": 204,
+            "number": 203,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "",
@@ -3560,11 +3540,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "notes": "UG09,Noncreature,1,,Seismic Sense"
         },
         {
             "card_name": "UG10 Noncreature",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "",
+            "number": 204,
+            "color_identity": "G",
+            "cost": "{1}{G}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "174",
+            "notes": "UG10,Noncreature,2,,Leaves from the Vine"
+        },
+        {
+            "card_name": "UG11 Noncreature",
             "color": "G",
             "rarity": "uncommon",
             "type": "",
@@ -3581,16 +3581,36 @@
             "artist": "",
             "alias": "",
             "position": "175",
-            "notes": "UG10,Noncreature,2,,Leaves from the Vine"
+            "notes": "UG11,Noncreature,2,,Shared Roots"
         },
         {
-            "card_name": "UG11 Noncreature",
+            "card_name": "UG12 Taking the Plunge",
             "color": "G",
             "rarity": "uncommon",
-            "type": "",
+            "type": "Enchantment \u2014 Episode",
             "number": 206,
             "color_identity": "G",
             "cost": "{1}{G}",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Surveil 2. You gain 4 life.\nYou may play lands from your graveyard this turn.\nII \u2014 You may pay {X}. When you do, put X +1/+1 counters on target creature you control.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Surveil 2. You gain 4 life.\nYou may play lands from your graveyard this turn.\nII \u2014 You may pay {X}. When you do, put X +1/+1 counters on target creature you control.",
+            "shape": "saga",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "Wenjun Lin",
+            "alias": "",
+            "position": "176",
+            "notes": "UG12,Noncreature,2,,True Ancestry"
+        },
+        {
+            "card_name": "UG13 Noncreature",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "",
+            "number": 207,
+            "color_identity": "G",
+            "cost": "{2}{G}",
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -3600,31 +3620,11 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "176",
-            "notes": "UG11,Noncreature,2,,Shared Roots"
-        },
-        {
-            "card_name": "UG12 Taking the Plunge",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "Enchantment \u2014 Episode",
-            "number": 207,
-            "color_identity": "G",
-            "cost": "{1}{G}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSurveil 2. You gain 4 life.\nYou may play lands from your graveyard this turn.\nYou may pay {X}. When you do, put X +1/+1 counters on target creature you control.",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nSurveil 2. You gain 4 life.\nYou may play lands from your graveyard this turn.\nYou may pay {X}. When you do, put X +1/+1 counters on target creature you control.",
-            "shape": "saga",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "Wenjun Lin",
-            "alias": "",
             "position": "177",
-            "notes": "UG12,Noncreature,2,,True Ancestry"
+            "notes": "UG13,Noncreature,3,,Allies at Last"
         },
         {
-            "card_name": "UG13 Noncreature",
+            "card_name": "UG14 Noncreature",
             "color": "G",
             "rarity": "uncommon",
             "type": "",
@@ -3641,26 +3641,6 @@
             "artist": "",
             "alias": "",
             "position": "178",
-            "notes": "UG13,Noncreature,3,,Allies at Last"
-        },
-        {
-            "card_name": "UG14 Noncreature",
-            "color": "G",
-            "rarity": "uncommon",
-            "type": "",
-            "number": 209,
-            "color_identity": "G",
-            "cost": "{2}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "179",
             "notes": "UG14,Noncreature,3,flash ,Rockalanche"
         },
         {
@@ -3668,7 +3648,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Artifact Battle \u2014 Stage",
-            "number": 210,
+            "number": 209,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "[i](An opponent protects this. It can't be attacked with more creatures than it has defense. Each attacker deals 1 damage to it and the rest to its protector.)[/i]\nWhenever you attack this Stage with one or more creatures, untap them. They get +1/+1 and gain \u201c{T}: Add one mana of any color.\u201d until end of turn. \nWhen this Stage is defeated, draw a card.",
@@ -3680,7 +3660,7 @@
             "loyalty": "5",
             "artist": "Zp Zhang",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "notes": "UG15,Noncreature,4,,Earth Rumble"
         },
         {
@@ -3688,7 +3668,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "",
-            "number": 211,
+            "number": 210,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "",
@@ -3700,7 +3680,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "notes": "UG16,Noncreature,4,,Kyoshi Island Plaza"
         },
         {
@@ -3708,7 +3688,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "",
-            "number": 212,
+            "number": 211,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "",
@@ -3720,7 +3700,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "notes": "UG17,Noncreature,5,,Invasion Tactics"
         },
         {
@@ -3728,10 +3708,10 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Bird Noble Hero",
-            "number": 237,
+            "number": 236,
             "color_identity": "WB",
             "cost": "{W}{B}",
-            "rules_text": "As long as you've performed a rite this turn, Lord Malcolm Amantii has flying and lifelink. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]\nAs an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and enters with an additional +1/+1 counter on it.",
+            "rules_text": "As long as you've performed a rite this turn, Lord Malcolm Amantii has flying and lifelink. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]\nAs an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and that creature enters with an additional +1/+1 counter on it.",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -3740,7 +3720,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "notes": "UM01,Small Creature,2,WB ,Tolls of War"
         },
         {
@@ -3748,7 +3728,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Detective Hero",
-            "number": 217,
+            "number": 216,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "{2}, Discard a card: Create a 2/1 blue Detective creature token with \u201cWhenever this creature attacks, target nontoken creature can't be blocked this turn.\u201d\nAt the beginning of your end step, draw a card if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
@@ -3760,7 +3740,7 @@
             "loyalty": "",
             "artist": "Roman Bashkatov",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "notes": "UM02,Small Creature,3,UB ,Foggy Swamp Spirit Keeper"
         },
         {
@@ -3768,10 +3748,10 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 238,
+            "number": 237,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
-            "rules_text": "When this enchantment enters, chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\nCreatures you control get +1/+0 and have haste.\nAt the beginning of combat on your turn, untap a Hero you control. It gains vigilance until end of turn.",
+            "rules_text": "Whenever this enchantment enters or you attack, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nAt the beginning of combat on your turn, untap target Hero you control. It gets +1/+1 and gains trample and haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3780,7 +3760,7 @@
             "loyalty": "",
             "artist": "David Jones",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "notes": "UM03,Small Creature,4,RW ,Sun Warriors"
         },
         {
@@ -3788,7 +3768,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Skeleton Hero",
-            "number": 239,
+            "number": 238,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Menace, ward\u2014Pay 2 life.\n{1}{R}, Discard this card: It deals 2 damage to any target.\n{1}{B}{R}, Exile this card from your graveyard: Create a tapped token that's a copy of it. Activate only if two or more players lost life this turn.",
@@ -3800,7 +3780,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "notes": "UM04,Small Creature,5,BR ,Cruel Administrator"
         },
         {
@@ -3808,7 +3788,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2014 Robot Hero",
-            "number": 240,
+            "number": 239,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Vigilance, trample, ward {1}\nAs long as there are two or more card types among spells you've cast this turn, this creature gets +2/+2 and has \u201cAt the beginning of your end step, draw a card.\u201d",
@@ -3820,7 +3800,7 @@
             "loyalty": "",
             "artist": "Last Level",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "notes": "UM05,Medium Creature,2,GU ,Hermitic Herbalist"
         },
         {
@@ -3828,7 +3808,7 @@
             "color": "WG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Performer Hero",
-            "number": 241,
+            "number": 240,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "[i]Coven[/i] \u2014 At the beginning of your end step, if you control three or more creatures with different powers, mill two cards. You may put a permanent card from among them into your hand. If it has mana value 1 or less, you may put it onto the battlefield tapped instead.",
@@ -3840,7 +3820,7 @@
             "loyalty": "",
             "artist": "Sylvain Sarrailh",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "notes": "UM06,Medium Creature,3,GW ,White Lotus Reinforcements"
         },
         {
@@ -3848,19 +3828,19 @@
             "color": "UR",
             "rarity": "uncommon",
             "type": "Enchantment \u2014 Episode",
-            "number": 242,
+            "number": 241,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nChronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\nDraw a card for each creature you control with a counter on it.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nDraw a card for each creature you control with a counter on it.\nII \u2014 You may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nChronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\nDraw a card for each creature you control with a counter on it.\nYou may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nDraw a card for each creature you control with a counter on it.\nII \u2014 You may cast a spell with mana value 3 or less from your hand without paying its mana cost.",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
             "artist": "Timi Honkanen",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "notes": "UM07,Medium Creature,3,flying UR ,Dragonfly Swarm"
         },
         {
@@ -3868,7 +3848,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Creature \u2014 Elk Spirit Horror",
-            "number": 246,
+            "number": 245,
             "color_identity": "BG",
             "cost": "{BG}{BG}",
             "rules_text": "Trample\n{1}{BG}, Exile two other cards from your graveyard: Return this card from your graveyard to your hand.",
@@ -3880,7 +3860,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "notes": "UM08,Medium Creature,5,BG ,Dai Li Agents"
         },
         {
@@ -3888,7 +3868,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2014 Cyborg Hero",
-            "number": 215,
+            "number": 214,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "First strike\nAs long as you've drawn two or more cards this turn, creatures you control get +1/+1.\nWhenever Eni deals combat damage to a player, draw a card, then discard a card.",
@@ -3900,7 +3880,7 @@
             "loyalty": "",
             "artist": "Kevin Glint",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "notes": "UM09,Noncreature,2,flying WU ,Air Nomad Legacy"
         },
         {
@@ -3908,7 +3888,7 @@
             "color": "RG",
             "rarity": "uncommon",
             "type": "Legendary Enchantment Creature \u2014 Golem Hero",
-            "number": 244,
+            "number": 243,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Enchantment creatures you control have trample.\nAt the beginning of your first main phase, you may add {R}{G}. If you do, Septus Jane attacks each combat this turn if able. Spend this mana only to cast enchantment spells or activate abilities of enchantments.",
@@ -3920,7 +3900,7 @@
             "loyalty": "",
             "artist": "Nikolai Gorishnii",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "notes": "UM10,Noncreature,3,RG ,Bitter Work"
         },
         {
@@ -3940,7 +3920,7 @@
             "loyalty": "",
             "artist": "Anna LAKISOVA",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "card_name2": "Stara\u00eb, Lost Companion",
             "color2": "WG",
             "type2": "Legendary Enchantment Creature \u2014 Spirit Hero",
@@ -3971,7 +3951,7 @@
             "loyalty": "",
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "notes": "UZ02,Small Creature,5,RW ,Jet, Freedom Fighter"
         },
         {
@@ -3982,7 +3962,7 @@
             "number": 257,
             "color_identity": "UR",
             "cost": "{2}{UR}{UR}",
-            "rules_text": "Each creature you control with a counter on it has prowess. [i](Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)[/i]\nWhenever you cast a noncreature spell, chronicle. [i](Put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]",
+            "rules_text": "Each creature you control with a counter on it has prowess. [i](Whenever you cast a noncreature spell, it gets +1/+1 until end of turn.)[/i]\nWhenever you cast a noncreature spell, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]",
             "flavor_text": "[i]She prefers the tragic roles.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -3991,7 +3971,7 @@
             "loyalty": "",
             "artist": "Sophie Medvedeva",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "notes": "UZ03,SmallWall Creature,2,UR ,Professor Zei, Anthropologist"
         },
         {
@@ -3999,7 +3979,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Horror Dryad Hero",
-            "number": 243,
+            "number": 242,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Deathtouch\nWhenever Chaniel attacks, surveil 1. Then if its power is 4 or greater, draw a card.\nAt the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
@@ -4011,7 +3991,7 @@
             "loyalty": "",
             "artist": "F3LC4T",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "notes": "UZ04,Medium Creature,3,BG ,Long Feng, Grand Secretariat"
         },
         {
@@ -4031,27 +4011,27 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "notes": "UZ05,Medium Creature,3,RG ,Uncle Iroh"
         },
         {
-            "card_name": "UZ06 Medium Creature",
+            "card_name": "Relics of the Future",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature",
-            "number": 260,
+            "type": "Enchantment \u2014 Episode",
+            "number": 254,
             "color_identity": "WU",
-            "cost": "{2}{WU}",
-            "rules_text": "",
+            "cost": "{1}{WU}{WU}",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and \u201cThis creature gets +1/+1 for each card you've drawn this turn.\u201d\nIII \u2014 If an opponent has more cards in hand than you, draw a card.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "",
-            "shape": "normal",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and \u201cThis creature gets +1/+1 for each card you've drawn this turn.\u201d\nIII \u2014 If an opponent has more cards in hand than you, draw a card.\n\u200b",
+            "shape": "saga",
             "set": "AJY",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yury Solntsev",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "notes": "UZ06,Medium Creature,3,WU ,Sokka, Lateral Strategist"
         },
         {
@@ -4059,19 +4039,19 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 261,
+            "number": 260,
             "color_identity": "BR",
-            "cost": "{3}{BR}",
-            "rules_text": "When this creature dies, hallow it. [i](Exile it. While exiled this way, you may put it into your graveyard as an additional cost to cast creature spells.)[/i]",
+            "cost": "{BR}{BR}",
+            "rules_text": "Whenever this creature enters or attacks, it deals 1 damage to each player.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "notes": "UZ07,Medium Creature,4,BR ,Zhao, Ruthless Admiral"
         },
         {
@@ -4079,7 +4059,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 262,
+            "number": 261,
             "color_identity": "UG",
             "cost": "{3}{GU}",
             "rules_text": "",
@@ -4091,7 +4071,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "notes": "UZ08,Medium Creature,4,GU ,Guru Pathik"
         },
         {
@@ -4099,7 +4079,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature",
-            "number": 263,
+            "number": 262,
             "color_identity": "WB",
             "cost": "{3}{WB}",
             "rules_text": "",
@@ -4111,7 +4091,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "notes": "UZ09,Medium Creature,4,WB ,Hei Bai, Spirit of Balance"
         },
         {
@@ -4119,7 +4099,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Performer",
-            "number": 264,
+            "number": 263,
             "color_identity": "UB",
             "cost": "{2}{UB}{UB}",
             "rules_text": "When this creature enters, you draw a card and you lose 1 life.\n{3}{UB}{UB}: Return this card from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery and only if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]",
@@ -4131,11 +4111,31 @@
             "loyalty": "",
             "artist": "Chris Cold",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "notes": "UZ10,Medium Creature,5,UB ,Hama, the Bloodbender"
         },
         {
             "card_name": "UA01 Noncreature",
+            "color": "",
+            "rarity": "uncommon",
+            "type": "Artifact",
+            "number": 270,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "202",
+            "notes": "UA01,Noncreature,1,,Trusty Boomerang"
+        },
+        {
+            "card_name": "UA02 Noncreature",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
@@ -4152,10 +4152,10 @@
             "artist": "",
             "alias": "",
             "position": "203",
-            "notes": "UA01,Noncreature,1,,Trusty Boomerang"
+            "notes": "UA02,Noncreature,3,,Fire Nation Warship"
         },
         {
-            "card_name": "UA02 Noncreature",
+            "card_name": "UA03 Noncreature",
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
@@ -4172,14 +4172,14 @@
             "artist": "",
             "alias": "",
             "position": "204",
-            "notes": "UA02,Noncreature,3,,Fire Nation Warship"
+            "notes": "UA03,Noncreature,7,,Meteor Sword"
         },
         {
-            "card_name": "UA03 Noncreature",
+            "card_name": "UL01 Noncreature",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact",
-            "number": 273,
+            "type": "Land",
+            "number": 296,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -4192,26 +4192,6 @@
             "artist": "",
             "alias": "",
             "position": "205",
-            "notes": "UA03,Noncreature,7,,Meteor Sword"
-        },
-        {
-            "card_name": "UL01 Noncreature",
-            "color": "",
-            "rarity": "uncommon",
-            "type": "Land",
-            "number": 297,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "206",
             "notes": "UL01,Noncreature,0,,White Lotus Hideout"
         },
         {
@@ -4231,7 +4211,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "notes": "UX01,Noncreature,2,,Energybending"
         },
         {
@@ -4251,7 +4231,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "notes": "RW01,Small Creature,1,flying ,Momo, Friendly Flier"
         },
         {
@@ -4271,7 +4251,7 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "notes": "RW02,Small Creature,2,,South Pole Voyager"
         },
         {
@@ -4291,7 +4271,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "notes": "RW03,Small Creature,3,,Suki, Courageous Rescuer"
         },
         {
@@ -4311,7 +4291,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "notes": "RW04,Medium Creature,3,flying flash ,Aang, Swift Savior"
         },
         {
@@ -4331,7 +4311,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "notes": "RW05,Medium Creature,4,,Hakoda, Selfless Commander"
         },
         {
@@ -4351,7 +4331,7 @@
             "loyalty": "",
             "artist": "\u5b50\u7fce",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "notes": "RW06,Noncreature,2,,Airbender Ascension"
         },
         {
@@ -4371,7 +4351,7 @@
             "loyalty": "",
             "artist": "Bruno Jacob",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "notes": "RW07,Noncreature,3,flash ,Aang's Iceberg"
         },
         {
@@ -4391,7 +4371,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "notes": "RW08,Noncreature,4,,\"Sandy Downvote\""
         },
         {
@@ -4411,7 +4391,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "notes": "RW09,Noncreature,4,,Avatar's Wrath"
         },
         {
@@ -4431,7 +4411,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "217",
+            "position": "216",
             "notes": "RU01,Small Creature,3,flash ,Ty Lee, Chi Blocker"
         },
         {
@@ -4451,7 +4431,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "notes": "RU02,Small Creature,3,flying ,The Mechanist, Aerial Artisan"
         },
         {
@@ -4471,7 +4451,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "219",
+            "position": "218",
             "notes": "RU03,Medium Creature,1,,Tiger-Seal"
         },
         {
@@ -4491,7 +4471,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "notes": "RU04,Medium Creature,4,flying ,Yue, the Moon Spirit"
         },
         {
@@ -4511,7 +4491,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "221",
+            "position": "220",
             "notes": "RU05,Large Creature,5,flash ,\"Slippery Eel\""
         },
         {
@@ -4531,7 +4511,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "notes": "RU06,Large Creature,5,flash ,The Unagi of Kyoshi Island"
         },
         {
@@ -4551,7 +4531,7 @@
             "loyalty": "3",
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
-            "position": "223",
+            "position": "222",
             "notes": "RU07,Noncreature,2,,Waterbender Ascension"
         },
         {
@@ -4571,7 +4551,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "notes": "RU08,Noncreature,3,,Spirit Water Revival"
         },
         {
@@ -4579,10 +4559,30 @@
             "color": "B",
             "rarity": "rare",
             "type": "Creature",
-            "number": 107,
+            "number": 106,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "",
+            "rules_text": "Whenever this creature enters or attacks, mill a card. Put a +1/+1 counter on this creature if a creature card was milled this way. Each opponent loses 2 life if a land card was milled this way. Creatures you control gain menace until end of turn a noncreature, nonland card was milled this way.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "224",
+            "notes": "RB01,Small Creature,2,,Mai, Scornful Striker"
+        },
+        {
+            "card_name": "RB02 Medium Creature",
+            "color": "B",
+            "rarity": "rare",
+            "type": "Creature",
+            "number": 107,
+            "color_identity": "B",
+            "cost": "{2}{B}",
+            "rules_text": "Menace\nWhenever a player loses life during your turn, they mill that many cards.\nAt the beginning of your end step, you may cast a spell with mana value 2 or less from among cards in graveyards that were put there from libraries this turn without paying its mana cost.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4592,10 +4592,10 @@
             "artist": "",
             "alias": "",
             "position": "225",
-            "notes": "RB01,Small Creature,2,,Mai, Scornful Striker"
+            "notes": "RB02,Medium Creature,3,,Boiling Rock Rioter"
         },
         {
-            "card_name": "RB02 Medium Creature",
+            "card_name": "RB03 Medium Creature",
             "color": "B",
             "rarity": "rare",
             "type": "Creature",
@@ -4612,26 +4612,6 @@
             "artist": "",
             "alias": "",
             "position": "226",
-            "notes": "RB02,Medium Creature,3,,Boiling Rock Rioter"
-        },
-        {
-            "card_name": "RB03 Medium Creature",
-            "color": "B",
-            "rarity": "rare",
-            "type": "Creature",
-            "number": 109,
-            "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "227",
             "notes": "RB03,Medium Creature,3,flying ,Raven Eagle"
         },
         {
@@ -4639,19 +4619,19 @@
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment \u2014 Episode",
-            "number": 114,
+            "number": 113,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card. You lose 4 life unless you sacrifice a creature.\nCreate a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 4 life unless you sacrifice a creature.\nIII \u2014 Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.\n\u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card. You lose 4 life unless you sacrifice a creature.\nCreate a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 4 life unless you sacrifice a creature.\nIII \u2014 Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.\n\u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "notes": "RB04,Noncreature,2,,Day of Black Sun"
         },
         {
@@ -4659,7 +4639,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "",
-            "number": 110,
+            "number": 109,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "",
@@ -4671,7 +4651,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "229",
+            "position": "228",
             "notes": "RB05,Noncreature,2,,Obsessive Pursuit"
         },
         {
@@ -4679,7 +4659,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "",
-            "number": 111,
+            "number": 110,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "",
@@ -4691,7 +4671,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "notes": "RB06,Noncreature,3,,Foggy Swamp Visions"
         },
         {
@@ -4699,7 +4679,7 @@
             "color": "B",
             "rarity": "rare",
             "type": "",
-            "number": 112,
+            "number": 111,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "",
@@ -4711,7 +4691,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "231",
+            "position": "230",
             "notes": "RB07,Noncreature,4,,The Fire Nation Drill"
         },
         {
@@ -4731,7 +4711,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "notes": "RR01,Small Creature,2,,Firebender Ascension"
         },
         {
@@ -4751,7 +4731,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "233",
+            "position": "232",
             "notes": "RR02,Small Creature,2,,Firebending Student"
         },
         {
@@ -4771,7 +4751,7 @@
             "loyalty": "",
             "artist": "Miles Johnston",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "notes": "RR03,Small Creature,2,,Zhao, the Moon Slayer"
         },
         {
@@ -4791,7 +4771,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "235",
+            "position": "234",
             "notes": "RR04,Medium Creature,4,,Wartime Protestors"
         },
         {
@@ -4811,7 +4791,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "notes": "RR05,Medium Creature,5,flying ,Ran and Shaw"
         },
         {
@@ -4831,7 +4811,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "237",
+            "position": "236",
             "notes": "RR06,Noncreature,1,,Redirect Lightning"
         },
         {
@@ -4851,7 +4831,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "notes": "RR07,Noncreature,2,,The Last Agni Kai"
         },
         {
@@ -4859,7 +4839,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature",
-            "number": 188,
+            "number": 187,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "",
@@ -4871,7 +4851,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "239",
+            "position": "238",
             "notes": "RG01,Small Creature,1,,Earthen Ally"
         },
         {
@@ -4879,7 +4859,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature",
-            "number": 189,
+            "number": 188,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "",
@@ -4891,11 +4871,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "notes": "RG02,Medium Creature,2,,Great Divide Guide"
         },
         {
             "card_name": "RG03 Medium Creature",
+            "color": "G",
+            "rarity": "rare",
+            "type": "Creature",
+            "number": 189,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "240",
+            "notes": "RG03,Medium Creature,4,,Diligent Zookeeper"
+        },
+        {
+            "card_name": "RG04 Medium Creature",
             "color": "G",
             "rarity": "rare",
             "type": "Creature",
@@ -4912,26 +4912,6 @@
             "artist": "",
             "alias": "",
             "position": "241",
-            "notes": "RG03,Medium Creature,4,,Diligent Zookeeper"
-        },
-        {
-            "card_name": "RG04 Medium Creature",
-            "color": "G",
-            "rarity": "rare",
-            "type": "Creature",
-            "number": 191,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "242",
             "notes": "RG04,Medium Creature,4,,The Earth King"
         },
         {
@@ -4939,7 +4919,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "Creature",
-            "number": 192,
+            "number": 191,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "",
@@ -4951,7 +4931,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "243",
+            "position": "242",
             "notes": "RG05,Medium Creature,5,flying ,Aang, at the Crossroads"
         },
         {
@@ -4959,7 +4939,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "",
-            "number": 193,
+            "number": 192,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "",
@@ -4971,7 +4951,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "notes": "RG06,Noncreature,3,,Earthbender Ascension"
         },
         {
@@ -4979,7 +4959,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "",
-            "number": 194,
+            "number": 193,
             "color_identity": "G",
             "cost": "{3}{G}",
             "rules_text": "",
@@ -4991,7 +4971,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "245",
+            "position": "244",
             "notes": "RG07,Noncreature,4,,Avatar Destiny"
         },
         {
@@ -4999,7 +4979,7 @@
             "color": "G",
             "rarity": "rare",
             "type": "",
-            "number": 195,
+            "number": 194,
             "color_identity": "G",
             "cost": "{4}{G}",
             "rules_text": "",
@@ -5011,7 +4991,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "notes": "RG08,Noncreature,5,,Elemental Teachings"
         },
         {
@@ -5019,7 +4999,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Goblin Noble",
-            "number": 229,
+            "number": 228,
             "color_identity": "WG",
             "cost": "{1}{G}{W}",
             "rules_text": "Whenever this creature enters or attacks, if you control three or more creatures, create a token that's a copy of target creature you control with mana value 2 or less that doesn't share a name with another creature you control.",
@@ -5031,7 +5011,7 @@
             "loyalty": "",
             "artist": "Victor Hugo Harmatiuk",
             "alias": "",
-            "position": "247",
+            "position": "246",
             "notes": "RM01,Small Creature,2,GW ,Earth King's Lieutenant"
         },
         {
@@ -5039,7 +5019,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Creature",
-            "number": 234,
+            "number": 233,
             "color_identity": "UR",
             "cost": "{U}{R}",
             "rules_text": "",
@@ -5051,7 +5031,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "notes": "RM02,Small Creature,2,UR ,Sokka, Bold Boomeranger"
         },
         {
@@ -5059,7 +5039,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Noble",
-            "number": 218,
+            "number": 217,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "When Kniles enters, create two red artifact tokens named Rose. They have \u201c{2}, Sacrifice this artifact: You draw a card and each opponent loses 1 life.\u201d\nDuring your turn, tokens you control have lifelink and are 3/1 Plant creatures in addition to their other types.",
@@ -5071,7 +5051,7 @@
             "loyalty": "",
             "artist": "F3LC4T",
             "alias": "",
-            "position": "249",
+            "position": "248",
             "notes": "RM03,Small Creature,2,WB ,Sandbender Scavengers"
         },
         {
@@ -5079,7 +5059,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2014 Human Archer Hero",
-            "number": 231,
+            "number": 230,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "First strike, reach\nAt the beginning of your end step, if you control three or more creatures, you may hallow this creature. [i](Exile it. While exiled this way, you may put it into your graveyard as an additional cost to cast creature spells.)[/i]\n{V} \u2014 Whenever you attack, return this card to the battlefield tapped and attacking with two +1/+1 counters on it.",
@@ -5091,7 +5071,7 @@
             "loyalty": "",
             "artist": "Wenjun Lin",
             "alias": "",
-            "position": "250",
+            "position": "249",
             "notes": "RM04,Small Creature,3,RW ,Iroh, Tea Master"
         },
         {
@@ -5099,7 +5079,7 @@
             "color": "WUR",
             "rarity": "rare",
             "type": "Creature",
-            "number": 221,
+            "number": 220,
             "color_identity": "WUR",
             "cost": "{1}{U}{R}{W}",
             "rules_text": "",
@@ -5111,7 +5091,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "251",
+            "position": "250",
             "notes": "RM05,Small Creature,4,URW ,Sokka, Tenacious Tactician"
         },
         {
@@ -5119,19 +5099,19 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Creature",
-            "number": 235,
+            "number": 234,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card.\nExile target creature you control.\n\u200b",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Draw a card.\nExile target creature you control.\nII \u2014 \u200b",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nDraw a card.\nExile target creature you control.\n\u200b",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI \u2014 Draw a card.\nExile target creature you control.\nII \u2014 \u200b",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "252",
+            "position": "251",
             "notes": "RM06,Small Creature,5,WU ,Katara, Water Tribe's Hope"
         },
         {
@@ -5139,7 +5119,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Creature",
-            "number": 228,
+            "number": 227,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "",
@@ -5151,7 +5131,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "253",
+            "position": "252",
             "notes": "RM07,Medium Creature,2,BR ,Zuko, Conflicted"
         },
         {
@@ -5159,7 +5139,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Advisor Performer",
-            "number": 216,
+            "number": 215,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
             "rules_text": "Creature spells you cast have demonstrate. [i](Whenever you cast a creature spell, you may copy it. If you do, choose an opponent to also copy it. Each copy becomes a token.)[/i]\nEach creature you control has protection from its own name.",
@@ -5171,7 +5151,7 @@
             "loyalty": "",
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
-            "position": "254",
+            "position": "253",
             "notes": "RM08,Medium Creature,3,GWU ,Katara, the Fearless"
         },
         {
@@ -5179,7 +5159,7 @@
             "color": "WBR",
             "rarity": "rare",
             "type": "Creature",
-            "number": 223,
+            "number": 222,
             "color_identity": "WBR",
             "cost": "{R}{W}{B}",
             "rules_text": "",
@@ -5191,7 +5171,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "255",
+            "position": "254",
             "notes": "RM09,Medium Creature,3,RWB ,Fire Lord Zuko"
         },
         {
@@ -5199,7 +5179,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Creature",
-            "number": 225,
+            "number": 224,
             "color_identity": "WU",
             "cost": "{1}{W}{U}",
             "rules_text": "",
@@ -5211,7 +5191,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "256",
+            "position": "255",
             "notes": "RM10,Medium Creature,3,flying flash WU ,Aang, Swift Savior"
         },
         {
@@ -5219,7 +5199,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature",
-            "number": 227,
+            "number": 226,
             "color_identity": "BG",
             "cost": "{2}{B}{G}",
             "rules_text": "",
@@ -5231,7 +5211,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "257",
+            "position": "256",
             "notes": "RM11,Medium Creature,4,BG ,Beifong's Bounty Hunters"
         },
         {
@@ -5239,7 +5219,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Creature",
-            "number": 230,
+            "number": 229,
             "color_identity": "RG",
             "cost": "{2}{R}{G}",
             "rules_text": "",
@@ -5251,7 +5231,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "258",
+            "position": "257",
             "notes": "RM12,Medium Creature,4,RG ,Toph, Hardheaded Teacher"
         },
         {
@@ -5259,7 +5239,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Creature",
-            "number": 222,
+            "number": 221,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
             "rules_text": "",
@@ -5271,7 +5251,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "259",
+            "position": "258",
             "notes": "RM13,Medium Creature,4,RGW ,Toph, the First Metalbender"
         },
         {
@@ -5279,7 +5259,7 @@
             "color": "UBR",
             "rarity": "rare",
             "type": "Creature",
-            "number": 224,
+            "number": 223,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
             "rules_text": "Ward\u2014Discard a card.\nWhenever you cast a spell or activate an ability, if you performed a rite as part of its cost, copy that spell or ability. You may choose new targets for the copy.",
@@ -5291,7 +5271,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "260",
+            "position": "259",
             "notes": "RM14,Medium Creature,4,UBR ,Fire Lord Azula"
         },
         {
@@ -5299,7 +5279,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Creature",
-            "number": 232,
+            "number": 231,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
             "rules_text": "",
@@ -5311,7 +5291,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "261",
+            "position": "260",
             "notes": "RM15,Medium Creature,5,flash UB ,Azula, Cunning Usurper"
         },
         {
@@ -5319,7 +5299,7 @@
             "color": "WUR",
             "rarity": "rare",
             "type": "Legendary Creature \u2014 Dwarf Knight",
-            "number": 236,
+            "number": 235,
             "color_identity": "WUR",
             "cost": "{2}{U}{R}{W}",
             "rules_text": "",
@@ -5331,7 +5311,7 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
-            "position": "262",
+            "position": "261",
             "notes": "RM16,Medium Creature,5,flying GWU ,Aang, at the Crossroads"
         },
         {
@@ -5339,7 +5319,7 @@
             "color": "URG",
             "rarity": "rare",
             "type": "Creature",
-            "number": 226,
+            "number": 225,
             "color_identity": "URG",
             "cost": "{3}{G}{U}{R}",
             "rules_text": "",
@@ -5351,7 +5331,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "263",
+            "position": "262",
             "notes": "RM17,Large Creature,6,flash GUR ,Iroh, Grand Lotus"
         },
         {
@@ -5359,7 +5339,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Creature",
-            "number": 233,
+            "number": 232,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "",
@@ -5371,11 +5351,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "264",
+            "position": "263",
             "notes": "RM18,LargeWall Creature,3,GU ,The Lion-Turtle"
         },
         {
             "card_name": "RL01 Small Creature",
+            "color": "",
+            "rarity": "rare",
+            "type": "Land Creature",
+            "number": 289,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "264",
+            "notes": "RL01,Small Creature,0,,Jasmine Dragon Tea Shop"
+        },
+        {
+            "card_name": "RL02 Small Creature",
             "color": "",
             "rarity": "rare",
             "type": "Land Creature",
@@ -5392,13 +5392,13 @@
             "artist": "",
             "alias": "",
             "position": "265",
-            "notes": "RL01,Small Creature,0,,Jasmine Dragon Tea Shop"
+            "notes": "RL02,Small Creature,0,,Realm of Koh"
         },
         {
-            "card_name": "RL02 Small Creature",
+            "card_name": "RL03 Noncreature",
             "color": "",
             "rarity": "rare",
-            "type": "Land Creature",
+            "type": "Land",
             "number": 291,
             "color_identity": "C",
             "cost": "",
@@ -5412,10 +5412,10 @@
             "artist": "",
             "alias": "",
             "position": "266",
-            "notes": "RL02,Small Creature,0,,Realm of Koh"
+            "notes": "RL03,Noncreature,0,,Abandoned Air Temple"
         },
         {
-            "card_name": "RL03 Noncreature",
+            "card_name": "RL04 Noncreature",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -5432,10 +5432,10 @@
             "artist": "",
             "alias": "",
             "position": "267",
-            "notes": "RL03,Noncreature,0,,Abandoned Air Temple"
+            "notes": "RL04,Noncreature,0,,Agna Qel'a"
         },
         {
-            "card_name": "RL04 Noncreature",
+            "card_name": "RL05 Noncreature",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -5452,10 +5452,10 @@
             "artist": "",
             "alias": "",
             "position": "268",
-            "notes": "RL04,Noncreature,0,,Agna Qel'a"
+            "notes": "RL05,Noncreature,0,,Ba Sing Se"
         },
         {
-            "card_name": "RL05 Noncreature",
+            "card_name": "RL06 Noncreature",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -5472,10 +5472,10 @@
             "artist": "",
             "alias": "",
             "position": "269",
-            "notes": "RL05,Noncreature,0,,Ba Sing Se"
+            "notes": "RL06,Noncreature,0,,Fire Nation Palace"
         },
         {
-            "card_name": "RL06 Noncreature",
+            "card_name": "RL07 Noncreature",
             "color": "",
             "rarity": "rare",
             "type": "Land",
@@ -5492,26 +5492,6 @@
             "artist": "",
             "alias": "",
             "position": "270",
-            "notes": "RL06,Noncreature,0,,Fire Nation Palace"
-        },
-        {
-            "card_name": "RL07 Noncreature",
-            "color": "",
-            "rarity": "rare",
-            "type": "Land",
-            "number": 296,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "271",
             "notes": "RL07,Noncreature,0,,Secret Tunnel"
         },
         {
@@ -5531,7 +5511,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "272",
+            "position": "271",
             "notes": "MW01,Small Creature,2,,United Front"
         },
         {
@@ -5551,7 +5531,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "273",
+            "position": "272",
             "notes": "MW02,Small Creature,4,flying flash ,Appa, Steadfast Guardian"
         },
         {
@@ -5571,7 +5551,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "274",
+            "position": "273",
             "notes": "MW03,Noncreature,5,,The Legend of Yangchen"
         },
         {
@@ -5591,7 +5571,7 @@
             "loyalty": "7",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "275",
+            "position": "274",
             "notes": "MW04,Noncreature,5,,The Legend of Yangchen"
         },
         {
@@ -5611,7 +5591,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "276",
+            "position": "275",
             "notes": "MU01,Small Creature,2,flying flash ,Wan Shi Tong, Librarian"
         },
         {
@@ -5631,7 +5611,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "277",
+            "position": "276",
             "notes": "MU02,Noncreature,4,,Secret of Bloodbending"
         },
         {
@@ -5651,7 +5631,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "278",
+            "position": "277",
             "notes": "MU03,Noncreature,4,,The Legend of Kuruk"
         },
         {
@@ -5671,7 +5651,7 @@
             "loyalty": "5",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "279",
+            "position": "278",
             "notes": "MU04,Noncreature,4,,The Legend of Kuruk"
         },
         {
@@ -5679,6 +5659,46 @@
             "color": "B",
             "rarity": "mythic",
             "type": "Creature",
+            "number": 104,
+            "color_identity": "B",
+            "cost": "{5}{B}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "279",
+            "notes": "MB01,Large Creature,6,,Koh, the Face Stealer"
+        },
+        {
+            "card_name": "Sorrowgaunt",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "Creature \u2014 Human Treefolk Horror",
+            "number": 112,
+            "color_identity": "B",
+            "cost": "{2}{B}",
+            "rules_text": "Lifelink\nThis creature has protection from each opponent who lost life this turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything those players control.)[/i]",
+            "flavor_text": "[i]\u201cGo on, tell her story. I [/i]dare [i]you.\u201d\n\u2014Perennia, Prince of Years[/i]",
+            "pt": "4/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "Asya Yordanova",
+            "alias": "",
+            "position": "280",
+            "notes": "MB02,Noncreature,4,flying ,Phoenix Fleet Airship"
+        },
+        {
+            "card_name": "MB03 Noncreature",
+            "color": "B",
+            "rarity": "mythic",
+            "type": "",
             "number": 105,
             "color_identity": "B",
             "cost": "{5}{B}",
@@ -5691,47 +5711,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "280",
-            "notes": "MB01,Large Creature,6,,Koh, the Face Stealer"
-        },
-        {
-            "card_name": "Sorrowgaunt",
-            "color": "B",
-            "rarity": "mythic",
-            "type": "Creature \u2014 Human Treefolk Horror",
-            "number": 113,
-            "color_identity": "B",
-            "cost": "{2}{B}",
-            "rules_text": "Lifelink\nThis creature has protection from each opponent who lost life this turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything those players control.)[/i]",
-            "flavor_text": "[i]\u201cGo on, tell her story. I [/i]dare [i]you.\u201d\n\u2014Perennia, Prince of Years[/i]",
-            "pt": "4/2",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "Asya Yordanova",
-            "alias": "",
             "position": "281",
-            "notes": "MB02,Noncreature,4,flying ,Phoenix Fleet Airship"
-        },
-        {
-            "card_name": "MB03 Noncreature",
-            "color": "B",
-            "rarity": "mythic",
-            "type": "",
-            "number": 106,
-            "color_identity": "B",
-            "cost": "{5}{B}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "282",
             "notes": "MB03,Noncreature,6,,The Rise of Sozin"
         },
         {
@@ -5751,7 +5731,7 @@
             "loyalty": "3",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "283",
+            "position": "282",
             "notes": "MB04,Noncreature,6,,The Rise of Sozin"
         },
         {
@@ -5771,7 +5751,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "284",
+            "position": "283",
             "notes": "MR01,Medium Creature,4,flying ,Avatar Aang"
         },
         {
@@ -5791,7 +5771,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "285",
+            "position": "284",
             "notes": "MR02,Noncreature,3,flash ,Fated Firepower"
         },
         {
@@ -5811,7 +5791,7 @@
             "loyalty": "4",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "286",
+            "position": "285",
             "notes": "MR03,Noncreature,4,,The Legend of Roku"
         },
         {
@@ -5831,7 +5811,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "287",
+            "position": "286",
             "notes": "MR04,Noncreature,4,,The Legend of Roku"
         },
         {
@@ -5851,7 +5831,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "288",
+            "position": "287",
             "notes": "MR05,Noncreature,5,,Sozin's Comet"
         },
         {
@@ -5859,7 +5839,7 @@
             "color": "G",
             "rarity": "mythic",
             "type": "Creature",
-            "number": 187,
+            "number": 186,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "",
@@ -5871,7 +5851,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "289",
+            "position": "288",
             "notes": "MG01,Small Creature,2,,Badgermole Cub"
         },
         {
@@ -5879,7 +5859,7 @@
             "color": "G",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Spring",
-            "number": 213,
+            "number": 212,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "Whenever one or more land cards are put into graveyards from anywhere, you may put them onto the battlefield tapped under your control. Do this only once each turn.\n[+1]: Mill three cards. When you do, create an X/X green Elk creature token with reach and deathtouch, where X is the number of lands you control.\n[-2]: Each opponent sacrifices an artifact or enchantment, then each opponent sacrifices a land.",
@@ -5891,7 +5871,7 @@
             "loyalty": "6",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "290",
+            "position": "289",
             "notes": "MG02,Noncreature,6,,The Legend of Kyoshi"
         },
         {
@@ -5899,19 +5879,19 @@
             "color": "UR",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2014 Jane",
-            "number": 214,
+            "number": 213,
             "color_identity": "UR",
             "cost": "{2}{U}{R}",
-            "rules_text": "If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.\n[0]: Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\n[-1]: Create a red Saga token named Havoc Cry with \u201cr{3} \u2014 Draw two cards. Creatures you control get +2/+0 until end of turn.\u201d\n[-7]: Create a blue Saga token named Alder's Apologue with hexproof and \u201cr{3} \u2014 Take an extra turn after this one.\u201d",
+            "rules_text": "If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.\n[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\n[-1]: Create a red Saga token named Havoc Cry with \u201cr{3} \u2014 Draw two cards. Creatures you control get +2/+0 until end of turn.\u201d\n[-7]: Create a blue Saga token named Alder's Apologue with hexproof and \u201cr{3} \u2014 Take an extra turn after this one.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.\n[0]: Chronicle twice. [i](To chronicle, put a +1/+1 counter on a Hero you control, or create a tapped 1/1 Hero creature token.)[/i]\n[-1]: Create a red Saga token named Havoc Cry with \u201cr{3} \u2014 Draw two cards. Creatures you control get +2/+0 until end of turn.\u201d\n[-7]: Create a blue Saga token named Alder's Apologue with hexproof and \u201cr{3} \u2014 Take an extra turn after this one.\u201d",
+            "special_text": "If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.\n[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\n[-1]: Create a red Saga token named Havoc Cry with \u201cr{3} \u2014 Draw two cards. Creatures you control get +2/+0 until end of turn.\u201d\n[-7]: Create a blue Saga token named Alder's Apologue with hexproof and \u201cr{3} \u2014 Take an extra turn after this one.\u201d",
             "shape": "planeswalker",
             "set": "AJY",
             "loyalty": "4",
             "artist": "Miles Johnston",
             "alias": "",
-            "position": "291",
+            "position": "290",
             "notes": "MM01,Medium Creature,4,flying GRWU ,Avatar Aang"
         },
         {
@@ -5919,7 +5899,7 @@
             "color": "RG",
             "rarity": "mythic",
             "type": "Creature",
-            "number": 219,
+            "number": 218,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
             "rules_text": "",
@@ -5931,7 +5911,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "292",
+            "position": "291",
             "notes": "MM02,Large Creature,5,RG ,Bumi, Unleashed"
         },
         {
@@ -5939,7 +5919,7 @@
             "color": "BR",
             "rarity": "mythic",
             "type": "Creature",
-            "number": 220,
+            "number": 219,
             "color_identity": "BR",
             "cost": "{4}{B}{R}",
             "rules_text": "",
@@ -5951,7 +5931,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "293",
+            "position": "292",
             "notes": "MM03,Large Creature,6,flying BR ,Ozai, the Phoenix King"
         },
         {
@@ -5959,6 +5939,26 @@
             "color": "",
             "rarity": "mythic",
             "type": "Artifact Creature",
+            "number": 267,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "293",
+            "notes": "MA01,LargeWall Creature,8,,The Walls of Ba Sing Se"
+        },
+        {
+            "card_name": "MA02 Noncreature",
+            "color": "",
+            "rarity": "mythic",
+            "type": "Artifact",
             "number": 268,
             "color_identity": "C",
             "cost": "",
@@ -5972,10 +5972,10 @@
             "artist": "",
             "alias": "",
             "position": "294",
-            "notes": "MA01,LargeWall Creature,8,,The Walls of Ba Sing Se"
+            "notes": "MA02,Noncreature,4,,White Lotus Tile"
         },
         {
-            "card_name": "MA02 Noncreature",
+            "card_name": "MA03 Noncreature",
             "color": "",
             "rarity": "mythic",
             "type": "Artifact",
@@ -5992,26 +5992,6 @@
             "artist": "",
             "alias": "",
             "position": "295",
-            "notes": "MA02,Noncreature,4,,White Lotus Tile"
-        },
-        {
-            "card_name": "MA03 Noncreature",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Artifact",
-            "number": 270,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "296",
             "notes": "MA03,Noncreature,6,,Planetarium of Wan Shi Tong"
         },
         {
@@ -6031,7 +6011,7 @@
             "loyalty": "",
             "artist": "Asya Yordanova",
             "alias": "",
-            "position": "297",
+            "position": "296",
             "notes": ""
         },
         {
@@ -6051,7 +6031,7 @@
             "loyalty": "",
             "artist": "Lane Brown",
             "alias": "",
-            "position": "298",
+            "position": "297",
             "notes": ""
         },
         {
@@ -6071,7 +6051,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "299",
+            "position": "298",
             "notes": ""
         },
         {
@@ -6091,7 +6071,7 @@
             "loyalty": "",
             "artist": "Gaboleps",
             "alias": "",
-            "position": "300",
+            "position": "299",
             "notes": ""
         },
         {
@@ -6111,7 +6091,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "301",
+            "position": "300",
             "notes": "CG02,Small Creature,2,,Rebellious Captives"
         },
         {
@@ -6119,7 +6099,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Token Enchantment Creature \u2014 Spirit Ogre",
-            "number": 6,
+            "number": 7,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "",
@@ -6131,9 +6111,29 @@
             "loyalty": "",
             "artist": "Anthony Catillaz",
             "alias": "",
+            "position": "301",
+            "notes": ""
+        },
+        {
+            "card_name": "Golem Wizard",
+            "color": "WU",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Golem Wizard",
+            "number": 6,
+            "color_identity": "WU",
+            "cost": "",
+            "rules_text": "Vigilance\nThis creature gets +1/+1 for each card you've drawn this turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "Jordan Van Der Merwe",
+            "alias": "",
             "position": "302",
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }
