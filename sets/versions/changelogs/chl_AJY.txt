@@ -1,4 +1,638 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+CW01 Protector of the Ordinary added.
+CW11 Word of Unraveling added.
+CW12 Light Through the Veil added.
+CU10 Refusal of the Call added.
+CB03 Spire Echo added.
+UB05 Bounty of Bantrel added.
+CR12 Memory Blossom added.
+Feastkeeper added.
+Mutilated Strider added.
+UW01 Captain of Ceremony added.
+UW03 Brooding Star added.
+Greyvale Township added.
+UW13 Timely Resurrection added.
+UW12 Meeting the Mentor added.
+UU01 Kingslayer Sisters added.
+UG02 Shadow on the Stage added.
+The Road Back added.
+UB03 Defiant Dreamer added.
+UG06 Light-Eater Servant added.
+UB08 Senior Editor added.
+UB09 Archive Rook added.
+UB12 Cut the Curtain added.
+UB13 Return with the Elixir added.
+UB14 Festering Secrets added.
+UB15 Bantrel Vale added.
+UB16 Consumed by Branches added.
+Unlikely Compatriots added.
+UR02 Eager Deathless added.
+UR03 Wild Lights added.
+UB06 Steeltouched Star added.
+A Champion's Reward added.
+UR13 Tamatar's Last Hunt added.
+UR15 Orrin's Ordeal added.
+UR16 The Final Campaign added.
+UR09 Noncreature added.
+UR06 Stagehand Trainers added.
+UG14 Crossing the Threshold added.
+UG15 Elder Reaches added.
+Lord Malcolm Amantii added.
+Premiere Night added.
+Carmine the Brilliant added.
+Mishet, the Escapee added.
+Sostak, Whimsical Voice added.
+The Wakeup Call added.
+Septus Jane, Turncoat added.
+A Change in Fate added.
+Orrin of the Golden Feast added.
+Hard-Eyed Starlet added.
+Chaniel, Lost in Rot added.
+Cinderhorn Vestige added.
+Meismos, Thundergaunt added.
+Eldmetal Congregant added.
+Mastergaunts added.
+Revised Revenant added.
+UA01 Poster Child added.
+Bringer of a New World added.
+RB05 Medium Creature added.
+RW07 Call the Plot added.
+Bringer of a New Winter added.
+RU06 Harried Proofreader added.
+The Myriad Manse added.
+RB02 Tormented Ghostwriter added.
+UB17 Climactic Moment added.
+RB07 Vision of Manque added.
+UR01 Scoremaster added.
+Alder Jane, Leading Lady added.
+Bringer of a New Summer added.
+UR07 Caller of Adventure added.
+Bringer of a New Spring added.
+RG06 Strange Beginnings added.
+Rally the Understudies added.
+Weftheart, Vibrant Star added.
+Splendid Inspiration added.
+The Inmost Cave added.
+Eni, Reforged Paragon added.
+Manque Obscura added.
+MM02 Caetel, Old Mother added.
+CG02 Splintereater added.
+Elemental Horror added.
+The Itinerant Weft added.
+Bringer of a New Autumn added.
+
+CW01 Greyvale Protector removed.
+CW11 Sudden Silence removed.
+CW12 On the Horizon removed.
+CU10 Runic Grip removed.
+CB03 Spiregaunt removed.
+UB05 Magnificent Rothorn removed.
+CR12 Spark of Revelation removed.
+CG09 Festering Shell removed.
+UZ04 Feastkeeper removed.
+CZ04 Mutilated Strider removed.
+UW01 Small Creature removed.
+UW03 Small Creature removed.
+UW12 Greyvale Township removed.
+UW13 Noncreature removed.
+UW14 Noncreature removed.
+UU01 Small Creature removed.
+UU11 Noncreature removed.
+UB03 Wintercarver removed.
+UB06 Small Creature removed.
+UB08 Senior Archaetrix removed.
+UB09 Medium Creature removed.
+UB12 Noncreature removed.
+UB13 Noncreature removed.
+UB14 Noncreature removed.
+Bantrel Vale removed.
+UB16 Noncreature removed.
+UB17 Noncreature removed.
+UR02 Small Creature removed.
+UR03 Small Creature removed.
+UR06 Medium Creature removed.
+UR07 Medium Creature removed.
+UR09 Medium Creature removed.
+UR13 Summer's Crimson End removed.
+UR15 Noncreature removed.
+UR16 Noncreature removed.
+UR18 Noncreature removed.
+UG02 Small Creature removed.
+UG06 Medium Creature removed.
+UG14 Noncreature removed.
+UG15 Timeless Reaches removed.
+UM01 Lord Malcolm Amantii removed.
+UM03 Call the Champions removed.
+UM04 Carmine the Brilliant removed.
+UM05 Mishet, the Escapee removed.
+UM06 Sostak, Whimsical Voice removed.
+UM07 The Wakeup Call removed.
+UM10 Septus Jane removed.
+UZ01 Transfixed by Fate removed.
+UZ02 Orrin of the Golden Feast removed.
+UZ03 Hard-Eyed Matron removed.
+UM08 Chaniel, Lost in Rot removed.
+UZ05 Cinderhorn Vestige removed.
+UZ07 Medium Creature removed.
+UZ08 Medium Creature removed.
+UZ09 Medium Creature removed.
+UZ10 Recast Revenant removed.
+UA01 Noncreature removed.
+RW04 Medium Creature removed.
+RW05 Medium Creature removed.
+RW07 Perfect Prediction removed.
+RU05 Large Creature removed.
+RU06 Large Creature removed.
+The Eternal Manse removed.
+RB02 Medium Creature removed.
+RB05 Noncreature removed.
+RB06 Noncreature removed.
+RB07 Noncreature removed.
+UR01 Small Creature removed.
+RR03 Alder Jane, Leading Lady removed.
+RR05 Medium Creature removed.
+RR07 Noncreature removed.
+RG05 Medium Creature removed.
+RG06 Noncreature removed.
+RMBR Medium Creature removed.
+RMRG Medium Creature removed.
+RM17 Large Creature removed.
+RL01 Small Creature removed.
+MW03 Noncreature removed.
+MB01 Large Creature removed.
+MM02 Large Creature removed.
+MM03 Large Creature removed.
+CG02 Splintergaunt removed.
+
+CW02 Blindseer
+rules_text: Once during each of your turns, when you perform a rite, you gain 2 life. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i] => Once during each of your turns, when you perform a rite, you may surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+CW05 Doppelgaunt
+type: Creature — Human Horror => Creature — Dryad Rogue
+
+CW07 Sorrowed Cavalier
+rules_text: {2}, Sacrifice this creature: Destroy target artifact or enchantment. This ability costs {2} less to activate if this creature entered this turn. Activate only as a sorcery. => {2}, Sacrifice this creature: Destroy target artifact or enchantment. You gain 2 life. This ability costs {2} less to activate if this creature entered this turn. Activate only as a sorcery.
+pt: 2/3 => 3/3
+
+CW10 Imperious Boon
+rules_text: Target creature gains hexproof and indestructible until end of turn.
+Disturb—{2}{W}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Target creature gets +1/+1 and gains indestructible until end of turn.
+Disturb—{2}{W}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+CU07 Erudite Watcher
+
+CU08 Ascendant Talekeeper
+rules_text: This spell costs {1} less to cast for each permanent you control with one or more counters on it.
+When this creature enters, draw a card. => This spell costs {1} less to cast for each nonland permanent you control with counters on it.
+When this creature enters, draw a card.
+
+UB02 Blossoming Thing
+rules_text: Lifelink
+{3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i] => {3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and exiling cards from your graveyard are rites.)[/i]
+pt: 2/1 => 2/3
+
+UB07 Unrelenting Pursuer
+rules_text: When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Exile this card from your graveyard, Sacrifice two creatures: Create a tapped token that's a copy of this creature. => When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Sacrifice a creature: Put a +1/+1 counter on this creature. It can't be blocked by creatures that share a creature type with the sacrificed creature this turn.
+pt: 4/2 => 4/3
+
+CR04 Rotwinder
+type: Creature — Elemental Wurm => Enchantment Creature — Spirit Wurm
+rules_text: Menace
+Whenever an enchantment you control enters, put a +1/+1 counter on this creature. => Menace
+Whenever another enchantment you control enters, put a +1/+1 counter on this creature.
+
+CR07 Flenser Mob
+pt: 3/3 => 3/2
+
+CR11 Wreath of Malevolence
+cost: {1}{R} => {R}
+rules_text: Target creature gets +2/+0 and gains first strike and trample until end of turn.
+Disturb—{2}{R}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Put a +1/+1 counter on target creature. It gains first strike and trample until end of turn.
+Disturb—{2}{R}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+CG10 Night's Clarity
+
+CG11 A Cold Voice
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+
+CG12 Court the Corrupt
+
+CG13 Burst of Mettle
+
+CZ01 Witherlínd
+rules_text: As an additional cost to cast this spell, sacrifice a creature or enchantment.
+When this creature enters, if it's not a token, create two tokens that are copies of it. => As an additional cost to cast this spell, sacrifice a creature or pay {2}.
+When this creature enters, if it's not a token, create two tokens that are copies of it.
+
+CZ03 Winterbreath Cantor
+
+CZ05 Fated Figures
+rules_text: As an additional cost to cast this spell, pay 2 life or sacrifice a creature.
+Flying
+Whenever you attack, this creature deals 1 damage to each opponent. => As an additional cost to cast this spell, pay {1} or 2 life.
+Flying
+Whenever this creature attacks, it deals 1 damage to target opponent.
+
+CZ06 Innercourt Mendress
+
+CZ07 Palecast Bishop
+
+CZ08 Choir of Restoration
+
+CZ09 Glamorous Herald
+
+CZ10 Solemn Standby
+rules_text: This creature enters with a flying counter on it if you control another creature or enchantment with a counter on it. => This creature enters with a flying counter on it if you control another permanent with a counter on it.
+
+CA01 Vested Script
+
+CA02 Earthspike Annals
+
+CA03 Omenstones
+
+CL01 Pallid Causeway
+
+CL02 Effaced Cove
+
+CL03 Flayed Horizon
+
+CL04 Riven Glade
+
+CL05 Untethered Pasture
+
+CL06 Trammeled Dale
+
+CL07 Tarnished Cascade
+
+CL08 Unbidden Bog
+
+CL09 Excoriated Swathe
+
+CL10 Silenced Promontory
+
+CL11 Noncreature
+
+CL12 Noncreature
+
+CL13 Noncreature
+
+CL14 Noncreature
+
+CL15 Noncreature
+
+CL16 Noncreature
+
+CX01 Noncreature
+
+CX02 Noncreature
+
+UW02 Small Creature
+
+UW04 Small Creature
+
+UW11 Second Chances
+type: Sorcery => Instant
+rules_text: Return up to one target creature card and up to one target enchantment card with total mana value 6 or less from your graveyard to the battlefield. Put a lifelink counter on a permanent returned this way. => Return up to two target nonland permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+
+UW06 Medium Creature
+
+UW07 Medium Creature
+
+UW08 Medium Creature
+
+UW09 Medium Creature
+
+UW10 Medium Creature
+
+UW05 Noncreature
+
+UW15 Noncreature
+
+UW16 Noncreature
+
+UW17 Noncreature
+
+UU03 Small Creature
+
+UU04 Medium Creature
+
+UU05 Medium Creature
+
+UU06 MediumWall Creature
+
+UU07 Large Creature
+
+UU08 Large Creature
+
+UU09 Noncreature
+
+UU10 Noncreature
+
+UU12 Preserve the Script
+
+UU13 Noncreature
+
+UU14 Noncreature
+
+UU15 Noncreature
+
+UU16 Noncreature
+
+UU17 Noncreature
+
+UB01 Severgaunt
+type: Creature — Treefolk Golem => Creature — Dryad Golem
+
+CB02 Smelted Wight
+
+UB04 Chained Flensefang
+pt: 2/3 => 2/4
+
+Audacious Auditioner
+
+CB07 Outer Court Marksman
+
+UB10 Mouldering Hour
+rules_text: Choose one —
+• Target creature gets -2/-2 until end of turn.
+• Two target creatures each get -1/-1 until end of turn.
+• Exile up to one target card from a graveyard. You gain 2 life. => Choose one —
+• Target creature gets -2/-2 until end of turn.
+• Two target creatures each get -1/-1 until end of turn.
+• Exile target card from a graveyard. Draw a card.
+
+UB11 Turn to Ink
+rules_text: Exile target creature or planeswalker. For as long as it remains exiled, its controller may cast it by paying life equal to its mana value in addition to its mana cost. When they do, you gain that much life. => Exile target creature or planeswalker. For as long as it remains exiled, its owner may cast it by paying life equal to its mana value in addition to its mana cost. When they do, you gain that much life.
+
+RR01 Mosa, Renegade Star
+rules_text: Creatures blocking or blocked by Mosa have double strike.
+If Mosa would take damage for the first time each turn, prevent that damage unless an opponent has you draw a card. => Creatures blocking or blocked by Mosa have double strike.
+If Mosa would take damage during the first combat damage step of each turn, prevent that damage unless an opponent has you draw a card.
+
+UR04 Small Creature
+
+UR05 Small Creature
+
+UR08 Medium Creature
+
+UR10 Medium Creature
+
+UR11 Large Creature
+
+UR12 Noncreature
+
+UR14 Noncreature
+
+UR17 Noncreature
+
+UG01 Courtbound Impudent
+
+UU02 Small Creature
+
+UG03 Small Creature
+
+UG04 Small Creature
+
+UG05 Medium Creature
+
+UG07 Medium Creature
+
+UG08 Medium Creature
+
+UG09 Noncreature
+
+UG10 Noncreature
+
+UG11 Noncreature
+
+UG12 Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+II — You may play lands from your graveyard this turn.
+III — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Surveil 2. You gain 4 life.
+II — You may play lands from your graveyard this turn.
+III — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+
+UG13 Noncreature
+
+UG16 Noncreature
+type:  => Instant
+cost: {3}{G} => {1}{G}
+rules_text:  => Target creature you control deals damage equal to its power to target creature you don't control.
+{1}{G}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+UG17 Noncreature
+
+Inquisitor Tacen Flint
+
+CZ02 Autumn's Emissary
+
+Eni, Company Champion
+
+Relics of the Future
+
+UA02 Noncreature
+
+UA03 Noncreature
+
+UL01 Noncreature
+
+UX01 Noncreature
+
+RW01 Small Creature
+
+RW02 Small Creature
+
+RW03 Beziel, Soul of Greyvale
+
+RW06 Write Out
+
+RW08 Noncreature
+
+RW09 Noncreature
+
+RU01 Small Creature
+
+RU02 Small Creature
+
+RU03 Medium Creature
+
+RU04 Medium Creature
+
+RU08 Noncreature
+
+RB01 Small Creature
+
+RB03 Medium Creature
+
+The Hallowing of Bantrel Grove
+
+RR02 Small Creature
+
+RR04 Medium Creature
+
+RR06 Noncreature
+
+RG01 Small Creature
+
+RG02 Medium Creature
+
+RG03 Medium Creature
+
+RG04 Medium Creature
+
+RG07 Noncreature
+
+RG08 Noncreature
+
+RMGW Lord Tyto Bonsíc
+rules_text: Whenever this creature enters or attacks, if you control three or more creatures, create a token that's a copy of target creature you control with mana value 2 or less that doesn't share a name with another creature you control. => Whenever RMGW Lord Tyto Bonsíc enters or attacks, if you control three or more creatures, create a token that's a copy of target creature you control with mana value 2 or less that doesn't share a name with another creature you control.
+
+RMUR Small Creature
+
+Kniles, Chancellor of Thorns
+rules_text: When Kniles enters, create two red artifact tokens named Rose. They have “{2}, Sacrifice this artifact: You draw a card and each opponent loses 1 life.”
+During your turn, tokens you control have lifelink and are 3/1 Plant creatures in addition to their other types. => When Kniles enters, create two red artifact tokens named Rose. They have “{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.”
+During your turn, tokens you control have lifelink and are 3/1 Plant creatures in addition to their other types.
+
+RMRW Greyvale Prodigy
+rules_text: First strike, reach
+At the beginning of your end step, if you control three or more creatures, you may hallow this creature. [i](Exile it. While exiled this way, you may put it into your graveyard as an additional cost to cast creature spells.)[/i]
+{V} — Whenever you attack, return this card to the battlefield tapped and attacking with two +1/+1 counters on it. => 
+
+RM11 Small Creature
+
+RMWU Tyto's Abjurance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+Exile target creature you control.
+II — ​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+Exile target creature you control.
+II — ​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Exile target creature you control.
+​
+
+The Everfree Thespian
+
+RM13 Medium Creature
+type: Creature => Sorcery
+cost: {R}{W}{B} => {W}{U}{B}
+
+RM15 Medium Creature
+
+RMBG Medium Creature
+
+RM13 Medium Creature
+
+RM14 Tariet, Unhallowed Chorus
+
+RMUB Medium Creature
+
+Tuolor, Steel Commander
+
+RMUG LargeWall Creature
+
+RL02 Small Creature
+
+RL03 Noncreature
+
+RL04 Noncreature
+
+RL05 Noncreature
+
+RL06 Noncreature
+
+RL07 Noncreature
+
+MW01 Small Creature
+
+MW02 Small Creature
+
+Prince of Years
+
+MU01 Small Creature
+
+MU02 Noncreature
+
+MU03 Noncreature
+
+Kindly Winter
+
+Sorrowgaunt
+type: Creature — Human Treefolk Horror => Creature — Dryad Horror
+
+MB03 Noncreature
+
+Hollow Autumn
+
+MR01 Albert, Lord Geometer
+
+MR02 Noncreature
+
+Fair Summer
+
+MR04 Noncreature
+
+MR05 Noncreature
+
+MG01 Small Creature
+
+Vile Spring
+
+Alder Jane, Talewright
+
+MA01 LargeWall Creature
+
+MA02 Noncreature
+
+MA03 Noncreature
+
+Daughter of Bantrel
+
+Wraith
+
+Rose
+rules_text: {2}, Sacrifice this artifact: You draw a card and each opponent loses 1 life. => {2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.
+
+Human Horror
+
+Spirit Ogre
+
+Golem Wizard
+
+
+VERSION 9 CHANGELOG
 ====================
 
 UB05 Magnificent Rothorn added.
