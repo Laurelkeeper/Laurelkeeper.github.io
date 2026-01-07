@@ -81,7 +81,7 @@
 			}
 		},
 		{
-			"name": "CW08 Company Courier",
+			"name": "CW08 Ancient Eyes",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Construct Bird",
@@ -231,7 +231,7 @@
 			"name": "CU09 Cryptic Omen",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "56",
 			"back": {
 				"name": "",
@@ -255,11 +255,11 @@
 			}
 		},
 		{
-			"name": "CU11 Out of the Puzzlebox",
-			"rarity": "common",
+			"name": "UU13 Out of the Puzzlebox",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Episode",
-			"collector_number": "58",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/24.png"
 			}
@@ -541,7 +541,7 @@
 		{
 			"name": "CR12 Memory Blossom",
 			"rarity": "common",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{3}{R}",
 			"type": "Instant",
 			"collector_number": "144",
 			"image_uris": {
@@ -549,9 +549,9 @@
 			}
 		},
 		{
-			"name": "CR13 Seething Scouring",
+			"name": "CR13 A Fateful Journey",
 			"rarity": "common",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{R}",
 			"type": "Sorcery",
 			"collector_number": "145",
 			"image_uris": {
@@ -662,7 +662,7 @@
 			"name": "CG13 Burst of Mettle",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "184",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/63.png"
@@ -983,7 +983,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Performer Cleric",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/95.png"
 			}
@@ -993,7 +993,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/96.png"
 			}
@@ -1003,17 +1003,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Merfolk Hero",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/97.png"
 			}
 		},
 		{
-			"name": "UW04 Small Creature",
+			"name": "UW04 Spotlight Soul",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature",
-			"collector_number": "34",
+			"type": "Enchantment Creature — Spirit Performer",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/98.png"
 			}
@@ -1023,7 +1023,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/99.png"
 			}
@@ -1033,7 +1033,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/100.png"
 			}
@@ -1043,7 +1043,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/101.png"
 			}
@@ -1053,7 +1053,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature",
-			"collector_number": "38",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/102.png"
 			}
@@ -1063,17 +1063,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature",
-			"collector_number": "39",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/103.png"
 			}
 		},
 		{
-			"name": "UW10 Medium Creature",
+			"name": "UW10 Archon of Fettered Fate",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{W}",
-			"type": "Creature",
-			"collector_number": "40",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Archon",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/104.png"
 			}
@@ -1083,7 +1083,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/105.png"
 			}
@@ -1103,7 +1103,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/107.png"
 			}
@@ -1113,7 +1113,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/108.png"
 			}
@@ -1123,7 +1123,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/109.png"
 			}
@@ -1133,7 +1133,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/110.png"
 			}
@@ -1143,7 +1143,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/111.png"
 			}
@@ -1153,7 +1153,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Faerie Rogue Hero",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/112.png"
 			}
@@ -1173,7 +1173,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/114.png"
 			}
@@ -1183,7 +1183,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/115.png"
 			}
@@ -1193,7 +1193,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/116.png"
 			}
@@ -1203,7 +1203,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/117.png"
 			}
@@ -1213,17 +1213,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/118.png"
 			}
 		},
 		{
-			"name": "UU08 Large Creature",
+			"name": "UU08 Denouement",
 			"rarity": "uncommon",
-			"mana_cost": "{6}{U}",
-			"type": "Creature",
-			"collector_number": "80",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Legendary Creature — Leviathan Hero",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/119.png"
 			}
@@ -1233,7 +1233,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/120.png"
 			}
@@ -1243,17 +1243,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/121.png"
 			}
 		},
 		{
-			"name": "The Road Back",
+			"name": "UU11 The Road Back",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/122.png"
 			}
@@ -1269,11 +1269,11 @@
 			}
 		},
 		{
-			"name": "UU13 Noncreature",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "",
-			"collector_number": "84",
+			"name": "CU11 An Unexpected Journey",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/124.png"
 			}
@@ -1490,7 +1490,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Skeleton Hero Villain",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/145.png"
 			}
@@ -1526,10 +1526,10 @@
 			}
 		},
 		{
-			"name": "UR04 Small Creature",
+			"name": "UR04 Anima Wight",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment Creature — Spirit Ogre",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/149.png"
@@ -1596,10 +1596,10 @@
 			}
 		},
 		{
-			"name": "UR12 Noncreature",
+			"name": "UR12 Fields Stained Crimson",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "",
+			"type": "Battle — Stage",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/156.png"
@@ -1616,10 +1616,10 @@
 			}
 		},
 		{
-			"name": "UR14 Noncreature",
+			"name": "UR14 World Made Wroth",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "",
+			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/158.png"
@@ -1636,7 +1636,7 @@
 			}
 		},
 		{
-			"name": "UR16 The Final Campaign",
+			"name": "UR16 War Like Wine",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment — Episode",
@@ -1646,10 +1646,10 @@
 			}
 		},
 		{
-			"name": "UR17 Noncreature",
+			"name": "UR17 Torn to Sinew",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "",
+			"type": "Instant",
 			"collector_number": "171",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/161.png"
@@ -1680,16 +1680,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/164.png"
 			}
 		},
 		{
-			"name": "UG03 Small Creature",
+			"name": "UG03 Living Altar",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature",
+			"type": "Artifact Creature — Skeleton Cleric",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/165.png"
@@ -1726,10 +1726,10 @@
 			}
 		},
 		{
-			"name": "UG07 Medium Creature",
+			"name": "UG07 Tabula Rata",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
-			"type": "Creature",
+			"type": "Legendary Creature — Rat Hero",
 			"collector_number": "199",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/169.png"
@@ -1786,13 +1786,20 @@
 			}
 		},
 		{
-			"name": "UG13 Noncreature",
-			"rarity": "uncommon",
+			"name": "RG08 Vibrant Setdressing",
+			"rarity": "rare",
 			"mana_cost": "{2}{G}",
-			"type": "",
-			"collector_number": "205",
+			"type": "Instant",
+			"collector_number": "192",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://MSEhub/sets/AJY-files/img/175_back.png"
+				}
+			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/175.png"
+				"en": "https://MSEhub/sets/AJY-files/img/175_front.png"
 			}
 		},
 		{
@@ -1816,7 +1823,7 @@
 			}
 		},
 		{
-			"name": "UG16 Noncreature",
+			"name": "UG16 Valor's Rest",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
@@ -2093,10 +2100,10 @@
 			}
 		},
 		{
-			"name": "RW01 Small Creature",
+			"name": "RW01 Vōs, Company Courier",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Creature",
+			"type": "Legendary Creature — Skeleton Scout",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/205.png"
@@ -2113,7 +2120,7 @@
 			}
 		},
 		{
-			"name": "RW03 Beziel, Soul of Greyvale",
+			"name": "RW03 Beziel, Martyr of Greyvale",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Creature — Human Warrior Hero",
@@ -2143,11 +2150,11 @@
 			}
 		},
 		{
-			"name": "RW06 Write Out",
+			"name": "Write Out",
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "26",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/210.png"
 			}
@@ -2157,7 +2164,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/211.png"
 			}
@@ -2167,7 +2174,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/212.png"
 			}
@@ -2177,7 +2184,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/213.png"
 			}
@@ -2187,7 +2194,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/214.png"
 			}
@@ -2197,7 +2204,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/215.png"
 			}
@@ -2207,7 +2214,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/216.png"
 			}
@@ -2217,7 +2224,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/217.png"
 			}
@@ -2236,8 +2243,8 @@
 			"name": "RU06 Harried Proofreader",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
-			"type": "Creature",
-			"collector_number": "71",
+			"type": "Creature — Skeleton Advisor",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/219.png"
 			}
@@ -2257,7 +2264,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/221.png"
 			}
@@ -2343,7 +2350,7 @@
 			"name": "RR02 Small Creature",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
-			"type": "Creature",
+			"type": "Enchantment Creature — Spirit Warlock",
 			"collector_number": "152",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/229.png"
@@ -2470,11 +2477,11 @@
 			}
 		},
 		{
-			"name": "RG08 Noncreature",
-			"rarity": "rare",
+			"name": "UG13 Noncreature",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "",
-			"collector_number": "192",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/242.png"
 			}
@@ -2620,10 +2627,10 @@
 			}
 		},
 		{
-			"name": "RMUB Medium Creature",
+			"name": "RMUB Dramatic Oracle",
 			"rarity": "rare",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Creature",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Elemental Advisor Performer",
 			"collector_number": "232",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/257.png"
@@ -3024,7 +3031,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Spirit Ogre",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/297.png"
 			}
@@ -3068,6 +3075,16 @@
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/301.png"
 			}
+		},
+		{
+			"name": "Rat Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat Soldier",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://MSEhub/sets/AJY-files/img/302.png"
+			}
 		}
 	]
 
@@ -3075,12 +3092,13 @@
 	2 Unlikely Compatriots
 	2 RR01 Mosa, Renegade Star
 	2 A Champion's Reward
-	2 RW01 Small Creature
+	2 RG08 Vibrant Setdressing
+	2 RW01 Vōs, Company Courier
 	2 RW02 Small Creature
-	2 RW03 Beziel, Soul of Greyvale
+	2 RW03 Beziel, Martyr of Greyvale
 	2 Bringer of a New World
 	2 RB05 Medium Creature
-	2 RW06 Write Out
+	2 Write Out
 	2 RW07 Call the Plot
 	2 RW08 Noncreature
 	2 RW09 Noncreature
@@ -3109,7 +3127,6 @@
 	2 Bringer of a New Spring
 	2 RG06 Strange Beginnings
 	2 RG07 Noncreature
-	2 RG08 Noncreature
 	2 RMGW Lord Tyto Bonsíc
 	2 RMUR Small Creature
 	2 Kniles, Chancellor of Thorns
@@ -3124,7 +3141,7 @@
 	2 Weftheart, Vibrant Star
 	2 RM13 Medium Creature
 	2 RM14 Tariet, Unhallowed Chorus
-	2 RMUB Medium Creature
+	2 RMUB Dramatic Oracle
 	2 Tuolor, Steel Commander
 	2 Splendid Inspiration
 	2 RMUG LargeWall Creature
@@ -3162,6 +3179,7 @@
 	1 The Itinerant Weft
 	2 Bringer of a New Autumn
 [uncommon(3)]
+	4 UU13 Out of the Puzzlebox
 	4 UB02 Blossoming Thing
 	4 UB07 Unrelenting Pursuer
 	4 UB05 Bounty of Bantrel
@@ -3169,13 +3187,13 @@
 	4 UW01 Captain of Ceremony
 	4 UW02 Small Creature
 	4 UW03 Brooding Star
-	4 UW04 Small Creature
+	4 UW04 Spotlight Soul
 	4 UW11 Second Chances
 	4 UW06 Medium Creature
 	4 UW07 Medium Creature
 	4 UW08 Medium Creature
 	4 UW09 Medium Creature
-	4 UW10 Medium Creature
+	4 UW10 Archon of Fettered Fate
 	4 UW05 Noncreature
 	4 Greyvale Township
 	4 UW13 Timely Resurrection
@@ -3190,12 +3208,11 @@
 	4 UU05 Medium Creature
 	4 UU06 MediumWall Creature
 	4 UU07 Large Creature
-	4 UU08 Large Creature
+	4 UU08 Denouement
 	4 UU09 Noncreature
 	4 UU10 Noncreature
-	4 The Road Back
+	4 UU11 The Road Back
 	4 UU12 Preserve the Script
-	4 UU13 Noncreature
 	4 UU14 Noncreature
 	4 UU15 Noncreature
 	4 UU16 Noncreature
@@ -3215,35 +3232,34 @@
 	4 UB16 Consumed by Branches
 	4 UR02 Eager Deathless
 	4 UR03 Wild Lights
-	4 UR04 Small Creature
+	4 UR04 Anima Wight
 	4 UR05 Small Creature
 	4 UB06 Steeltouched Star
 	4 UR08 Medium Creature
 	4 UR10 Medium Creature
 	4 UR11 Large Creature
-	4 UR12 Noncreature
+	4 UR12 Fields Stained Crimson
 	4 UR13 Tamatar's Last Hunt
-	4 UR14 Noncreature
+	4 UR14 World Made Wroth
 	4 UR15 Orrin's Ordeal
-	4 UR16 The Final Campaign
-	4 UR17 Noncreature
+	4 UR16 War Like Wine
+	4 UR17 Torn to Sinew
 	4 UR09 Noncreature
 	4 UG01 Courtbound Impudent
 	4 UU02 Small Creature
-	4 UG03 Small Creature
+	4 UG03 Living Altar
 	4 UG04 Small Creature
 	4 UG05 Medium Creature
 	4 UR06 Stagehand Trainers
-	4 UG07 Medium Creature
+	4 UG07 Tabula Rata
 	4 UG08 Medium Creature
 	4 UG09 Noncreature
 	4 UG10 Noncreature
 	4 UG11 Noncreature
 	4 UG12 Taking the Plunge
-	4 UG13 Noncreature
 	4 UG14 Crossing the Threshold
 	4 UG15 Elder Reaches
-	4 UG16 Noncreature
+	4 UG16 Valor's Rest
 	4 UG17 Noncreature
 	4 Lord Malcolm Amantii
 	4 Inquisitor Tacen Flint
@@ -3271,6 +3287,7 @@
 	4 UB17 Climactic Moment
 	4 UR01 Scoremaster
 	4 UR07 Caller of Adventure
+	4 UG13 Noncreature
 [common(7)]
 	8 CW01 Protector of the Ordinary
 	8 CW02 Blindseer
@@ -3279,7 +3296,7 @@
 	8 CW05 Doppelgaunt
 	8 CW06 Troubled Auditioner
 	8 CW07 Sorrowed Cavalier
-	8 CW08 Company Courier
+	8 CW08 Ancient Eyes
 	8 CW09 Exasperated Setdresser
 	8 CW10 Imperious Boon
 	8 CW11 Word of Unraveling
@@ -3295,7 +3312,6 @@
 	8 CU08 Ascendant Talekeeper
 	8 CU09 Cryptic Omen
 	8 CU10 Refusal of the Call
-	8 CU11 Out of the Puzzlebox
 	8 CU12 Boreal Interdiction
 	8 CU13 Outer Court Communion
 	8 CB01 Wyndlepiper
@@ -3320,7 +3336,7 @@
 	8 CR10 A Brilliant Entrance
 	8 CR11 Wreath of Malevolence
 	8 CR12 Memory Blossom
-	8 CR13 Seething Scouring
+	8 CR13 A Fateful Journey
 	8 CG01 Lorn-Road Guide
 	8 CG03 Innercourt Matron
 	8 CG04 Auspicious Mushroom
@@ -3362,6 +3378,7 @@
 	8 CL16 Noncreature
 	8 CX01 Noncreature
 	8 CX02 Noncreature
+	8 CU11 An Unexpected Journey
 	8 CB02 Smelted Wight
 	8 Audacious Auditioner
 	8 CB07 Outer Court Marksman
@@ -3376,7 +3393,7 @@
 	12 CW05 Doppelgaunt
 	12 CW06 Troubled Auditioner
 	12 CW07 Sorrowed Cavalier
-	12 CW08 Company Courier
+	12 CW08 Ancient Eyes
 	12 CW09 Exasperated Setdresser
 	12 CW10 Imperious Boon
 	12 CW11 Word of Unraveling
@@ -3392,7 +3409,7 @@
 	12 CU08 Ascendant Talekeeper
 	12 CU09 Cryptic Omen
 	12 CU10 Refusal of the Call
-	12 CU11 Out of the Puzzlebox
+	6 UU13 Out of the Puzzlebox
 	12 CU12 Boreal Interdiction
 	12 CU13 Outer Court Communion
 	12 CB01 Wyndlepiper
@@ -3420,7 +3437,7 @@
 	12 CR10 A Brilliant Entrance
 	12 CR11 Wreath of Malevolence
 	12 CR12 Memory Blossom
-	12 CR13 Seething Scouring
+	12 CR13 A Fateful Journey
 	12 CG01 Lorn-Road Guide
 	12 CG03 Innercourt Matron
 	12 CG04 Auspicious Mushroom
@@ -3466,13 +3483,13 @@
 	6 UW01 Captain of Ceremony
 	6 UW02 Small Creature
 	6 UW03 Brooding Star
-	6 UW04 Small Creature
+	6 UW04 Spotlight Soul
 	6 UW11 Second Chances
 	6 UW06 Medium Creature
 	6 UW07 Medium Creature
 	6 UW08 Medium Creature
 	6 UW09 Medium Creature
-	6 UW10 Medium Creature
+	6 UW10 Archon of Fettered Fate
 	6 UW05 Noncreature
 	6 Greyvale Township
 	6 UW13 Timely Resurrection
@@ -3487,12 +3504,12 @@
 	6 UU05 Medium Creature
 	6 UU06 MediumWall Creature
 	6 UU07 Large Creature
-	6 UU08 Large Creature
+	6 UU08 Denouement
 	6 UU09 Noncreature
 	6 UU10 Noncreature
-	6 The Road Back
+	6 UU11 The Road Back
 	6 UU12 Preserve the Script
-	6 UU13 Noncreature
+	12 CU11 An Unexpected Journey
 	6 UU14 Noncreature
 	6 UU15 Noncreature
 	6 UU16 Noncreature
@@ -3517,36 +3534,36 @@
 	2 RR01 Mosa, Renegade Star
 	6 UR02 Eager Deathless
 	6 UR03 Wild Lights
-	6 UR04 Small Creature
+	6 UR04 Anima Wight
 	6 UR05 Small Creature
 	6 UB06 Steeltouched Star
 	2 A Champion's Reward
 	6 UR08 Medium Creature
 	6 UR10 Medium Creature
 	6 UR11 Large Creature
-	6 UR12 Noncreature
+	6 UR12 Fields Stained Crimson
 	6 UR13 Tamatar's Last Hunt
-	6 UR14 Noncreature
+	6 UR14 World Made Wroth
 	6 UR15 Orrin's Ordeal
-	6 UR16 The Final Campaign
-	6 UR17 Noncreature
+	6 UR16 War Like Wine
+	6 UR17 Torn to Sinew
 	6 UR09 Noncreature
 	6 UG01 Courtbound Impudent
 	6 UU02 Small Creature
-	6 UG03 Small Creature
+	6 UG03 Living Altar
 	6 UG04 Small Creature
 	6 UG05 Medium Creature
 	6 UR06 Stagehand Trainers
-	6 UG07 Medium Creature
+	6 UG07 Tabula Rata
 	6 UG08 Medium Creature
 	6 UG09 Noncreature
 	6 UG10 Noncreature
 	6 UG11 Noncreature
 	6 UG12 Taking the Plunge
-	6 UG13 Noncreature
+	2 RG08 Vibrant Setdressing
 	6 UG14 Crossing the Threshold
 	6 UG15 Elder Reaches
-	6 UG16 Noncreature
+	6 UG16 Valor's Rest
 	6 UG17 Noncreature
 	6 Lord Malcolm Amantii
 	6 Inquisitor Tacen Flint
@@ -3573,12 +3590,12 @@
 	6 UA03 Noncreature
 	6 UL01 Noncreature
 	12 UX01 Noncreature
-	2 RW01 Small Creature
+	2 RW01 Vōs, Company Courier
 	2 RW02 Small Creature
-	2 RW03 Beziel, Soul of Greyvale
+	2 RW03 Beziel, Martyr of Greyvale
 	2 Bringer of a New World
 	2 RB05 Medium Creature
-	2 RW06 Write Out
+	2 Write Out
 	2 RW07 Call the Plot
 	2 RW08 Noncreature
 	2 RW09 Noncreature
@@ -3610,7 +3627,7 @@
 	2 Bringer of a New Spring
 	2 RG06 Strange Beginnings
 	2 RG07 Noncreature
-	2 RG08 Noncreature
+	6 UG13 Noncreature
 	2 RMGW Lord Tyto Bonsíc
 	2 RMUR Small Creature
 	2 Kniles, Chancellor of Thorns
@@ -3625,7 +3642,7 @@
 	2 Weftheart, Vibrant Star
 	2 RM13 Medium Creature
 	2 RM14 Tariet, Unhallowed Chorus
-	2 RMUB Medium Creature
+	2 RMUB Dramatic Oracle
 	2 Tuolor, Steel Commander
 	2 Splendid Inspiration
 	2 RMUG LargeWall Creature
@@ -3671,7 +3688,7 @@
 	6 CW05 Doppelgaunt
 	6 CW06 Troubled Auditioner
 	6 CW07 Sorrowed Cavalier
-	6 CW08 Company Courier
+	6 CW08 Ancient Eyes
 	6 CW09 Exasperated Setdresser
 	6 CW10 Imperious Boon
 	6 CW11 Word of Unraveling
@@ -3687,7 +3704,7 @@
 	6 CU08 Ascendant Talekeeper
 	6 CU09 Cryptic Omen
 	6 CU10 Refusal of the Call
-	6 CU11 Out of the Puzzlebox
+	15 UU13 Out of the Puzzlebox
 	6 CU12 Boreal Interdiction
 	6 CU13 Outer Court Communion
 	6 CB01 Wyndlepiper
@@ -3715,7 +3732,7 @@
 	6 CR10 A Brilliant Entrance
 	6 CR11 Wreath of Malevolence
 	6 CR12 Memory Blossom
-	6 CR13 Seething Scouring
+	6 CR13 A Fateful Journey
 	6 CG01 Lorn-Road Guide
 	6 CG03 Innercourt Matron
 	6 CG04 Auspicious Mushroom
@@ -3761,13 +3778,13 @@
 	15 UW01 Captain of Ceremony
 	15 UW02 Small Creature
 	15 UW03 Brooding Star
-	15 UW04 Small Creature
+	15 UW04 Spotlight Soul
 	15 UW11 Second Chances
 	15 UW06 Medium Creature
 	15 UW07 Medium Creature
 	15 UW08 Medium Creature
 	15 UW09 Medium Creature
-	15 UW10 Medium Creature
+	15 UW10 Archon of Fettered Fate
 	15 UW05 Noncreature
 	15 Greyvale Township
 	15 UW13 Timely Resurrection
@@ -3782,12 +3799,12 @@
 	15 UU05 Medium Creature
 	15 UU06 MediumWall Creature
 	15 UU07 Large Creature
-	15 UU08 Large Creature
+	15 UU08 Denouement
 	15 UU09 Noncreature
 	15 UU10 Noncreature
-	15 The Road Back
+	15 UU11 The Road Back
 	15 UU12 Preserve the Script
-	15 UU13 Noncreature
+	6 CU11 An Unexpected Journey
 	15 UU14 Noncreature
 	15 UU15 Noncreature
 	15 UU16 Noncreature
@@ -3812,36 +3829,36 @@
 	7 RR01 Mosa, Renegade Star
 	15 UR02 Eager Deathless
 	15 UR03 Wild Lights
-	15 UR04 Small Creature
+	15 UR04 Anima Wight
 	15 UR05 Small Creature
 	15 UB06 Steeltouched Star
 	7 A Champion's Reward
 	15 UR08 Medium Creature
 	15 UR10 Medium Creature
 	15 UR11 Large Creature
-	15 UR12 Noncreature
+	15 UR12 Fields Stained Crimson
 	15 UR13 Tamatar's Last Hunt
-	15 UR14 Noncreature
+	15 UR14 World Made Wroth
 	15 UR15 Orrin's Ordeal
-	15 UR16 The Final Campaign
-	15 UR17 Noncreature
+	15 UR16 War Like Wine
+	15 UR17 Torn to Sinew
 	15 UR09 Noncreature
 	15 UG01 Courtbound Impudent
 	15 UU02 Small Creature
-	15 UG03 Small Creature
+	15 UG03 Living Altar
 	15 UG04 Small Creature
 	15 UG05 Medium Creature
 	15 UR06 Stagehand Trainers
-	15 UG07 Medium Creature
+	15 UG07 Tabula Rata
 	15 UG08 Medium Creature
 	15 UG09 Noncreature
 	15 UG10 Noncreature
 	15 UG11 Noncreature
 	15 UG12 Taking the Plunge
-	15 UG13 Noncreature
+	7 RG08 Vibrant Setdressing
 	15 UG14 Crossing the Threshold
 	15 UG15 Elder Reaches
-	15 UG16 Noncreature
+	15 UG16 Valor's Rest
 	15 UG17 Noncreature
 	15 Lord Malcolm Amantii
 	15 Inquisitor Tacen Flint
@@ -3868,12 +3885,12 @@
 	15 UA03 Noncreature
 	15 UL01 Noncreature
 	6 UX01 Noncreature
-	7 RW01 Small Creature
+	7 RW01 Vōs, Company Courier
 	7 RW02 Small Creature
-	7 RW03 Beziel, Soul of Greyvale
+	7 RW03 Beziel, Martyr of Greyvale
 	7 Bringer of a New World
 	7 RB05 Medium Creature
-	7 RW06 Write Out
+	7 Write Out
 	7 RW07 Call the Plot
 	7 RW08 Noncreature
 	7 RW09 Noncreature
@@ -3905,7 +3922,7 @@
 	7 Bringer of a New Spring
 	7 RG06 Strange Beginnings
 	7 RG07 Noncreature
-	7 RG08 Noncreature
+	15 UG13 Noncreature
 	7 RMGW Lord Tyto Bonsíc
 	7 RMUR Small Creature
 	7 Kniles, Chancellor of Thorns
@@ -3920,7 +3937,7 @@
 	7 Weftheart, Vibrant Star
 	7 RM13 Medium Creature
 	7 RM14 Tariet, Unhallowed Chorus
-	7 RMUB Medium Creature
+	7 RMUB Dramatic Oracle
 	7 Tuolor, Steel Commander
 	7 Splendid Inspiration
 	7 RMUG LargeWall Creature

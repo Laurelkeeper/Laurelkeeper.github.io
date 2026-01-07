@@ -175,7 +175,7 @@
         "position": "236"
     },
     {
-        "card_name": "RW01 Small Creature",
+        "card_name": "RW01 V\u014ds, Company Courier",
         "number": 23,
         "shape": "normal",
         "set": "AJY",
@@ -218,7 +218,7 @@
     },
     {
         "card_name": "RU01 Small Creature",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "AJY",
         "position": "214"
@@ -245,7 +245,7 @@
         "position": "238"
     },
     {
-        "card_name": "RW03 Beziel, Soul of Greyvale",
+        "card_name": "RW03 Beziel, Martyr of Greyvale",
         "number": 25,
         "shape": "normal",
         "set": "AJY",
@@ -253,7 +253,7 @@
     },
     {
         "card_name": "RU02 Small Creature",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "AJY",
         "position": "215"
@@ -280,15 +280,15 @@
         "position": "240"
     },
     {
-        "card_name": "RW06 Write Out",
+        "card_name": "RW07 Call the Plot",
         "number": 26,
         "shape": "normal",
         "set": "AJY",
-        "position": "210"
+        "position": "211"
     },
     {
         "card_name": "RU03 Medium Creature",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "AJY",
         "position": "216"
@@ -315,15 +315,15 @@
         "position": "241"
     },
     {
-        "card_name": "RW07 Call the Plot",
+        "card_name": "RW08 Noncreature",
         "number": 27,
         "shape": "normal",
         "set": "AJY",
-        "position": "211"
+        "position": "212"
     },
     {
         "card_name": "RU04 Medium Creature",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "AJY",
         "position": "217"
@@ -343,22 +343,22 @@
         "position": "229"
     },
     {
-        "card_name": "RG08 Noncreature",
+        "card_name": "RG08 Vibrant Setdressing",
         "number": 192,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "AJY",
-        "position": "242"
+        "position": "175"
     },
     {
-        "card_name": "RW08 Noncreature",
+        "card_name": "RW09 Noncreature",
         "number": 28,
         "shape": "normal",
         "set": "AJY",
-        "position": "212"
+        "position": "213"
     },
     {
         "card_name": "RU06 Harried Proofreader",
-        "number": 71,
+        "number": 70,
         "shape": "normal",
         "set": "AJY",
         "position": "219"
@@ -385,15 +385,15 @@
         "position": "163"
     },
     {
-        "card_name": "RW09 Noncreature",
+        "card_name": "Unlikely Compatriots",
         "number": 29,
         "shape": "normal",
         "set": "AJY",
-        "position": "213"
+        "position": "145"
     },
     {
         "card_name": "RU08 Noncreature",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "AJY",
         "position": "221"
@@ -420,18 +420,18 @@
         "position": "113"
     },
     {
-        "card_name": "Unlikely Compatriots",
-        "number": 30,
+        "card_name": "Write Out",
+        "number": 46,
         "shape": "normal",
         "set": "AJY",
-        "position": "145"
+        "position": "210"
     },
     {
-        "card_name": "The Road Back",
-        "number": 66,
+        "card_name": "UU01 Kingslayer Sisters",
+        "number": 72,
         "shape": "normal",
         "set": "AJY",
-        "position": "122"
+        "position": "112"
     },
     {
         "card_name": "UB02 Blossoming Thing",
@@ -448,7 +448,7 @@
         "position": "228"
     },
     {
-        "card_name": "UG03 Small Creature",
+        "card_name": "UG03 Living Altar",
         "number": 195,
         "shape": "normal",
         "set": "AJY",
@@ -462,11 +462,11 @@
         "position": "106"
     },
     {
-        "card_name": "UU01 Kingslayer Sisters",
+        "card_name": "UU02 Small Creature",
         "number": 73,
         "shape": "normal",
         "set": "AJY",
-        "position": "112"
+        "position": "164"
     },
     {
         "card_name": "UB03 Defiant Dreamer",
@@ -491,17 +491,17 @@
     },
     {
         "card_name": "UW01 Captain of Ceremony",
-        "number": 31,
+        "number": 30,
         "shape": "normal",
         "set": "AJY",
         "position": "95"
     },
     {
-        "card_name": "UU02 Small Creature",
+        "card_name": "UU03 Small Creature",
         "number": 74,
         "shape": "normal",
         "set": "AJY",
-        "position": "164"
+        "position": "114"
     },
     {
         "card_name": "UB04 Chained Flensefang",
@@ -526,17 +526,17 @@
     },
     {
         "card_name": "UW02 Small Creature",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "AJY",
         "position": "96"
     },
     {
-        "card_name": "UU03 Small Creature",
+        "card_name": "UU04 Medium Creature",
         "number": 75,
         "shape": "normal",
         "set": "AJY",
-        "position": "114"
+        "position": "115"
     },
     {
         "card_name": "UB05 Bounty of Bantrel",
@@ -546,7 +546,7 @@
         "position": "31"
     },
     {
-        "card_name": "UR04 Small Creature",
+        "card_name": "UR04 Anima Wight",
         "number": 158,
         "shape": "normal",
         "set": "AJY",
@@ -561,17 +561,17 @@
     },
     {
         "card_name": "UW03 Brooding Star",
-        "number": 33,
+        "number": 32,
         "shape": "normal",
         "set": "AJY",
         "position": "97"
     },
     {
-        "card_name": "UU04 Medium Creature",
+        "card_name": "UU05 Medium Creature",
         "number": 76,
         "shape": "normal",
         "set": "AJY",
-        "position": "115"
+        "position": "116"
     },
     {
         "card_name": "UB06 Steeltouched Star",
@@ -588,25 +588,25 @@
         "position": "150"
     },
     {
-        "card_name": "UG07 Medium Creature",
+        "card_name": "UG07 Tabula Rata",
         "number": 199,
         "shape": "normal",
         "set": "AJY",
         "position": "169"
     },
     {
-        "card_name": "UW04 Small Creature",
-        "number": 34,
+        "card_name": "UW04 Spotlight Soul",
+        "number": 33,
         "shape": "normal",
         "set": "AJY",
         "position": "98"
     },
     {
-        "card_name": "UU05 Medium Creature",
+        "card_name": "UU06 MediumWall Creature",
         "number": 77,
         "shape": "normal",
         "set": "AJY",
-        "position": "116"
+        "position": "117"
     },
     {
         "card_name": "UB07 Unrelenting Pursuer",
@@ -631,17 +631,17 @@
     },
     {
         "card_name": "UW05 Noncreature",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "AJY",
         "position": "105"
     },
     {
-        "card_name": "UU06 MediumWall Creature",
+        "card_name": "UU07 Large Creature",
         "number": 78,
         "shape": "normal",
         "set": "AJY",
-        "position": "117"
+        "position": "118"
     },
     {
         "card_name": "UB08 Senior Editor",
@@ -666,17 +666,17 @@
     },
     {
         "card_name": "UW06 Medium Creature",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "AJY",
         "position": "100"
     },
     {
-        "card_name": "UU07 Large Creature",
+        "card_name": "UU08 Denouement",
         "number": 79,
         "shape": "normal",
         "set": "AJY",
-        "position": "118"
+        "position": "119"
     },
     {
         "card_name": "UB09 Archive Rook",
@@ -701,17 +701,17 @@
     },
     {
         "card_name": "UW07 Medium Creature",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "AJY",
         "position": "101"
     },
     {
-        "card_name": "UU08 Large Creature",
+        "card_name": "UU09 Noncreature",
         "number": 80,
         "shape": "normal",
         "set": "AJY",
-        "position": "119"
+        "position": "120"
     },
     {
         "card_name": "UB10 Mouldering Hour",
@@ -736,17 +736,17 @@
     },
     {
         "card_name": "UW08 Medium Creature",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "AJY",
         "position": "102"
     },
     {
-        "card_name": "UU09 Noncreature",
+        "card_name": "UU10 Noncreature",
         "number": 81,
         "shape": "normal",
         "set": "AJY",
-        "position": "120"
+        "position": "121"
     },
     {
         "card_name": "UB11 Turn to Ink",
@@ -771,17 +771,17 @@
     },
     {
         "card_name": "UW09 Medium Creature",
-        "number": 39,
+        "number": 38,
         "shape": "normal",
         "set": "AJY",
         "position": "103"
     },
     {
-        "card_name": "UU10 Noncreature",
+        "card_name": "UU11 The Road Back",
         "number": 82,
         "shape": "normal",
         "set": "AJY",
-        "position": "121"
+        "position": "122"
     },
     {
         "card_name": "UB12 Cut the Curtain",
@@ -802,11 +802,11 @@
         "number": 205,
         "shape": "normal",
         "set": "AJY",
-        "position": "175"
+        "position": "242"
     },
     {
-        "card_name": "UW10 Medium Creature",
-        "number": 40,
+        "card_name": "UW10 Archon of Fettered Fate",
+        "number": 39,
         "shape": "normal",
         "set": "AJY",
         "position": "104"
@@ -826,9 +826,9 @@
         "position": "141"
     },
     {
-        "card_name": "UR12 Noncreature",
+        "card_name": "UR12 Fields Stained Crimson",
         "number": 166,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "AJY",
         "position": "156"
     },
@@ -841,17 +841,17 @@
     },
     {
         "card_name": "UW11 Second Chances",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "AJY",
         "position": "99"
     },
     {
-        "card_name": "UU13 Noncreature",
+        "card_name": "UU13 Out of the Puzzlebox",
         "number": 84,
-        "shape": "normal",
+        "shape": "saga",
         "set": "AJY",
-        "position": "124"
+        "position": "24"
     },
     {
         "card_name": "UB14 Festering Secrets",
@@ -876,7 +876,7 @@
     },
     {
         "card_name": "UW12 Meeting the Mentor",
-        "number": 42,
+        "number": 41,
         "shape": "normal",
         "set": "AJY",
         "position": "108"
@@ -896,14 +896,14 @@
         "position": "143"
     },
     {
-        "card_name": "UR14 Noncreature",
+        "card_name": "UR14 World Made Wroth",
         "number": 168,
         "shape": "normal",
         "set": "AJY",
         "position": "158"
     },
     {
-        "card_name": "UG16 Noncreature",
+        "card_name": "UG16 Valor's Rest",
         "number": 208,
         "shape": "normal",
         "set": "AJY",
@@ -911,7 +911,7 @@
     },
     {
         "card_name": "UW13 Timely Resurrection",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "AJY",
         "position": "107"
@@ -946,7 +946,7 @@
     },
     {
         "card_name": "UW15 Noncreature",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "AJY",
         "position": "109"
@@ -966,7 +966,7 @@
         "position": "226"
     },
     {
-        "card_name": "UR16 The Final Campaign",
+        "card_name": "UR16 War Like Wine",
         "number": 170,
         "shape": "saga",
         "set": "AJY",
@@ -981,7 +981,7 @@
     },
     {
         "card_name": "UW16 Noncreature",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "AJY",
         "position": "110"
@@ -1001,7 +1001,7 @@
         "position": "133"
     },
     {
-        "card_name": "UR17 Noncreature",
+        "card_name": "UR17 Torn to Sinew",
         "number": 171,
         "shape": "normal",
         "set": "AJY",
@@ -1016,7 +1016,7 @@
     },
     {
         "card_name": "UW17 Noncreature",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "AJY",
         "position": "111"
@@ -1295,7 +1295,7 @@
         "position": "61"
     },
     {
-        "card_name": "CW08 Company Courier",
+        "card_name": "CW08 Ancient Eyes",
         "number": 12,
         "shape": "normal",
         "set": "AJY",
@@ -1372,11 +1372,11 @@
         "position": "10"
     },
     {
-        "card_name": "CU11 Out of the Puzzlebox",
+        "card_name": "CU11 An Unexpected Journey",
         "number": 58,
-        "shape": "saga",
+        "shape": "normal",
         "set": "AJY",
-        "position": "24"
+        "position": "124"
     },
     {
         "card_name": "CB12 Bottom of the Inkwell",
@@ -1444,7 +1444,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CR13 Seething Scouring",
+        "card_name": "CR13 A Fateful Journey",
         "number": 145,
         "shape": "normal",
         "set": "AJY",
@@ -1493,7 +1493,7 @@
         "position": "252"
     },
     {
-        "card_name": "RMUB Medium Creature",
+        "card_name": "RMUB Dramatic Oracle",
         "number": 232,
         "shape": "normal",
         "set": "AJY",
@@ -2280,14 +2280,18 @@
         "position": "298"
     },
     {
-        "card_name": "Spirit Ogre",
+        "card_name": "Rat Soldier",
         "number": 8,
         "shape": "token",
         "set": "AJY",
-        "position": "297"
+        "position": "302"
     },
     {
-        "card_name": "e"
+        "card_name": "Spirit Ogre",
+        "number": 9,
+        "shape": "token",
+        "set": "AJY",
+        "position": "297"
     },
     {
         "card_name": "e"
