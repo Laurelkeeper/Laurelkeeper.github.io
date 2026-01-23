@@ -1,4 +1,770 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CW05 Polygaunt added.
+CR08 Summer's Decommissioner added.
+UW02 Marie, Rookery's Daughter added.
+UB01 Brooding Star added.
+UW03 Spotlight Soul added.
+UW06 Splintered Chorus added.
+UW08 Fae Bladesinger added.
+UW05 Confident Lead added.
+UW09 Choreography Director added.
+UW07 Enshrined Excellence added.
+UW15 Empty Throne added.
+UW16 Storied Deed added.
+UW17 Hurried Edit added.
+UU03 Winter's Handmaiden added.
+UU02 Traveling Players added.
+UU05 Sentinel of Old Intria added.
+UU06 Doppelgaunt added.
+UU14 Quiet on Set added.
+UU15 Reject Your Creation added.
+UU16 Inkwell Monolith added.
+UU17 Blinding Astrotechnics added.
+UW04 Sombergaunt added.
+CB05 Audacious Auditioner added.
+Bantrel Vale added.
+UR03 Shackled Summer Skies added.
+UR05 Awoken in Ash added.
+UR08 Colossal Incident added.
+UR10 Subsumed Stagehand added.
+Fields of Conquest added.
+UR13 Wolf at the Gates added.
+RR06 War Like Wine added.
+UU04 Blossoming Archetype added.
+UG04 Seneschal of Turnings added.
+UG05 Mottlecloth Sneak added.
+UR06 Stagework Trainers added.
+The Elder Reaches added.
+Autumn Devours the Sunmaster added.
+UW14 Hallowed Intermission added.
+RW09 Archival Orb added.
+RU02 Glassgazer added.
+Winter Quiets the Soulsinger added.
+UB15 Medium Creature added.
+UR12 Small Creature added.
+Summer Outshines the Godmind added.
+UR16 Noncreature added.
+RG01 Tendergaunt added.
+UG15 Medium Creature added.
+Spring Conquers the Cavalcade added.
+UG13 Into the Hollows added.
+RMWB Kniles, Chancellor of Thorns added.
+RMBR Rally the Understudies added.
+Andi and Rove, Old Hands added.
+Turner of Earth added.
+RMGR Weftheart, Vibrant Star added.
+Celos, Prince's Chamberlain added.
+Inspiring Scene added.
+Mysterious Scene added.
+Ancient Scene added.
+Grisly Scene added.
+Heartbreaking Scene added.
+MW02 Tamask of the Old Ways added.
+MU02 Dramaturge's Mastery added.
+MR05 Passioned Pair added.
+Bird Hero added.
+Reflection Hero added.
+
+CW05 Doppelgaunt removed.
+CR08 Blaster Magus removed.
+UW02 Small Creature removed.
+UW03 Brooding Star removed.
+UW04 Spotlight Soul removed.
+UW06 Medium Creature removed.
+UW07 Medium Creature removed.
+UW08 Medium Creature removed.
+UW09 Medium Creature removed.
+UW05 Noncreature removed.
+UW15 Noncreature removed.
+UW16 Noncreature removed.
+UW17 Noncreature removed.
+UU03 Small Creature removed.
+UU04 Medium Creature removed.
+UU05 Medium Creature removed.
+UU06 MediumWall Creature removed.
+UU14 Noncreature removed.
+UU15 Noncreature removed.
+UU16 Noncreature removed.
+UU17 Noncreature removed.
+UB01 Severgaunt removed.
+Audacious Auditioner removed.
+UB15 Bantrel Vale removed.
+UR03 Wild Lights removed.
+UR05 Small Creature removed.
+UR08 Medium Creature removed.
+UR10 Medium Creature removed.
+UR12 Fields Stained Crimson removed.
+UR13 Tamatar's Last Hunt removed.
+UR16 War Like Wine removed.
+UU02 Small Creature removed.
+UG04 Small Creature removed.
+UG05 Medium Creature removed.
+UR06 Stagehand Trainers removed.
+UG15 Elder Reaches removed.
+RB05 Medium Creature removed.
+RW08 Noncreature removed.
+RW09 Noncreature removed.
+RU02 Small Creature removed.
+RU04 Medium Creature removed.
+RB03 Medium Creature removed.
+RR02 Small Creature removed.
+RR04 Medium Creature removed.
+RR06 Noncreature removed.
+RG01 Small Creature removed.
+RG04 Medium Creature removed.
+RG06 Strange Beginnings removed.
+UG13 Noncreature removed.
+Kniles, Chancellor of Thorns removed.
+Rally the Understudies removed.
+RM13 Medium Creature removed.
+RMBG Medium Creature removed.
+Weftheart, Vibrant Star removed.
+RM13 Medium Creature removed.
+RL03 Noncreature removed.
+RL04 Noncreature removed.
+RL05 Noncreature removed.
+RL06 Noncreature removed.
+RL07 Noncreature removed.
+MW01 Small Creature removed.
+MW02 Small Creature removed.
+MU01 Small Creature removed.
+MU02 Noncreature removed.
+MB03 Noncreature removed.
+MR01 Albert, Lord Geometer removed.
+MR05 Noncreature removed.
+MG01 Small Creature removed.
+
+CW01 Protector of the Ordinary
+rules_text: When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => {1}, Sacrifice this creature: Target creature you control gains indestructible until end of turn.
+When this creature dies, draw a card if you control a Hero.
+pt: 1/1 => 1/2
+
+CW02 Blindseer
+rules_text: Once during each of your turns, when you perform a rite, you may surveil 1. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Once during each of your turns, when you perform a rite, you may surveil 1. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+CW07 Sorrowed Cavalier
+rules_text: {2}, Sacrifice this creature: Destroy target artifact or enchantment. You gain 2 life. This ability costs {2} less to activate if this creature entered this turn. Activate only as a sorcery. => {2}, Sacrifice this creature: Destroy target artifact or enchantment. This ability costs {2} less to activate if this creature entered this turn.
+pt: 3/3 => 3/2
+
+CW08 Ancient Eyes
+rules_text: Flying, lifelink
+Whenever this creature attacks, if you've performed a rite this turn, this creature gets +1/+0 until end of turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Flying, lifelink
+Whenever this creature attacks, it gets +1/+0 until end of turn if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+CW09 Exasperated Setdresser
+rules_text: When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, exile target creature an opponent controls until this creature leaves the battlefield.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CW12 Light Through the Veil
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card.
+III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card.
+III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​
+
+CW13 Binding Serenade
+rules_text: Whenever you attack, target Hero you control gets +1/+1 until end of turn.
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield. => When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+Whenever you attack, target Hero you control gets +1/+1 until end of turn.
+
+CU01 Entranced Villagers
+rules_text: Defender, vigilance
+As long as it's your turn and you've performed a rite this turn, this creature gets +1/+0 and can attack as though it didn't have defender. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Vigilance
+This creature can't attack unless you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+CU05 Raywater Falconer
+pt: 3/1 => 3/2
+
+CU09 Cryptic Omen
+type: Sorcery => Instant
+cost: {U} => {1}{U}
+rules_text: Surveil 1. Draw a card.
+Disturb—{1}{U}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Counter target spell unless its controller pays {1}.
+Disturb—{U}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+UU13 Out of the Puzzlebox
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+
+CU13 Outer Court Communion
+rules_text: Surveil 2, then draw two cards. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Islandcycling {2} [i]({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle.)[/i] => Surveil 2, then draw two cards.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+UB02 Blossoming Thing
+cost: {1}{B} => {B}
+rules_text: {3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => {3}{B}, {T}, Pay 2 life: Draw a card. This ability costs {3} less to activate if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+pt: 2/3 => 2/1
+
+UB05 Bounty of Bantrel
+rules_text: When this creature enters, each player may create a tapped 2/2 white Human Horror creature token. For each opponent that does, you gain 2 life.
+{1}{B}, Discard this card: Create a tapped 2/2 white Human Horror creature token. => When this creature enters, each player may create a 2/2 white Human Horror creature token. For each opponent who does, that player loses 2 life and you draw a card.
+Evoke {1}{B} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 4/4 => 3/2
+
+CB08 Bantrel Wood Stalker
+rules_text: Swampcycling {2} [i]({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.)[/i]
+{2}, Exile this card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => When this creature enters, target player loses 2 life.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 5/5 => 6/5
+
+CB10 Long Road Home
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — Return target creature card with mana value 3 or less from your graveyard to the battlefield.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​
+
+CB12 Bottom of the Inkwell
+rules_text: This spell costs {2} less to cast if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i]
+Exile target creature or planeswalker with mana value 4 or less. => This spell costs {2} less to cast if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+Exile target creature or planeswalker with mana value 4 or less.
+
+CR02 Bloodcaster Neophyte
+cost: {1}{R} => {2}{R}
+pt: 2/1 => 3/3
+
+CR03 Scriptkeeper
+rules_text: This creature gets +1/+0 as long as you control at least two other Heroes.
+When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => This creature gets +1/+0 as long as you control another nontoken Hero.
+When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+CR04 Rotwinder
+rules_text: Menace
+Whenever another enchantment you control enters, put a +1/+1 counter on this creature. => Menace
+Whenever another enchantment you control enters, this creature gets +2/+2 until end of turn.
+
+CR05 Hollowed Archetype
+cost: {2}{R} => {1}{R}
+pt: 2/2 => 1/1
+
+CR09 Pagepyre
+rules_text: This spell deals 2 damage to target creature and 1 damage to up to one target creature token. => This spell deals 2 damage to target creature or planeswalker and 1 damage to up to one target creature token.
+
+CR10 A Brilliant Entrance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+​
+
+CR13 A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {2}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+CG05 Lorn-Road Falconer
+rules_text: Reach
+Whenever this creature attacks, it gets +2/+1 until end of turn if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Reach
+Whenever this creature attacks, it gets +2/+1 until end of turn if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+CG08 Pallid Glistener
+rules_text: Vigilance, trample
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Vigilance, trample
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG11 A Cold Voice
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+
+CZ03 Winterbreath Cantor
+rules_text: At the beginning of your end step, surveil 1 if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i]
+{UB}, Discard this card, Pay 1 life: Draw a card. => At the beginning of your end step, surveil 1 if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+{UB}, Discard this card, Pay 1 life: Draw a card.
+
+UW01 Captain of Ceremony
+rules_text: When this creature enters or dies, if you performed a rite this turn, you draw a card and you gain 1 life. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Whenever another creature you control enters, you gain 1 life. If that creature entered or was cast from a graveyard, put a +1/+1 counter on it.
+pt: 1/1 => 1/2
+
+UW11 Second Chances
+type: Instant => Sorcery
+rules_text: Return up to two target nonland permanent cards with total mana value 6 or less from your graveyard to the battlefield. => Return any number of target nonland permanent cards with total mana value 6 or less from your graveyard to the battlefield.
+
+UW10 Archon of Fettered Fate
+cost: {5}{W}{W} => {4}{W}{W}
+rules_text: Flying => Flying
+When this creature enters, up to one target nonland permanent loses all abilities until end of turn. Tap it. Then if it's an artifact or enchantment, destroy it.
+Evoke {1}{W} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 4/5 => 3/5
+
+Greyvale Township
+rules_text: [i](An opponent protects this. It can't be attacked with more creatures than it has defense. Each attacker assigns 1 damage to it and the rest to its protector.)[/i]
+Whenever one or more creatures deal combat damage to this Stage, put a +1/+1 counter on each of them.
+When this Stage is defeated, draw a card. => [i](An opponent protects this. It can't be attacked by more than one creature. Each attacker deals 1 damage to it and the rest to its protector.)[/i]
+Whenever this Stage enters or is dealt combat damage by a creature, put a +1/+1 counter on target creature you control.
+When this Stage is defeated, draw a card.
+
+UW13 Timely Resurrection
+type: Sorcery => Instant
+
+UW12 Meeting the Mentor
+cost: {1}{W} => {3}{W}
+rules_text: Chronicle. When you do, choose a creature you control. Put a +1/+1 counter on each creature you control with power less than its power. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => Look at the top seven cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+UU01 Kingslayer Sisters
+type: Creature — Faerie Rogue Hero => Creature — Faerie Rogue
+
+UU08 Denouement
+rules_text: Flash
+When Denouement enters, you may tap it. When you do, return up to two other target nonland permanents to their owners' hands. Draw a card for each permanent you controlled returned this way. => Flash
+When Denouement enters, return another target nonland permanent to its owner's hand.
+Evoke {1}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 5/6 => 4/6
+
+CU11 An Unexpected Journey
+type: Sorcery => Instant
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them gain hexproof and “Whenever this creature deals combat damage to a player, draw a card” until end of turn.
+Flashback {2}{U} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them gain “Whenever this creature deals combat damage to a player, draw a card” until end of turn.
+Flashback {U} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+UB03 Defiant Dreamer
+rules_text: Menace
+When this creature dies during your turn, if you performed a rite this turn, return it to the battlefield with a finality counter on it. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Menace
+When this creature dies during your turn, if you performed a rite this turn, return it to the battlefield with a finality counter on it. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+UG06 Light-Eater Servant
+rules_text: Deathtouch
+This creature and other creatures you control enter with an additional +1/+1 counter on them if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Deathtouch
+This spell costs {1} less to cast if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+Creature spells you cast cost {1} less to cast if you've performed a rite this turn.
+
+CB07 Outer Court Marksman
+rules_text: Reach
+Whenever this creature enters or attacks, put a +1/+1 counter on target creature if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Reach
+Whenever this creature enters or attacks, put a +1/+1 counter on target creature if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+UB14 Festering Secrets
+rules_text: At the beginning of your end step, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Once during each of your turns, when you perform a rite, you may put a +1/+1 counter on target creature you control. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => At the beginning of your end step, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Once during each of your turns, when you perform a rite, you may put a +1/+1 counter on target creature you control. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+Unlikely Compatriots
+pt: 2/2 => 3/2
+
+A Champion's Reward
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+I, II — Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+I, II — Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​
+
+UR17 Torn to Sinew
+rules_text: Torn to Sinew deals 4 damage to any nonplayer target. When it dies this turn, you may discard a card. If you do, draw a card. => Torn to Sinew deals 5 damage to any nonplayer target. When it dies this turn, you may discard a card. If you do, draw a card.
+
+UG12 Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Mill two cards. You gain 2 life.
+II — You may play lands from your graveyard this turn.
+III — You may cast target creature card from your graveyard this turn. [i](You still pay its costs.)[/i] => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may cast target creature card from your graveyard this turn. [i](You still pay its costs.)[/i]
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Mill two cards. You gain 2 life.
+II — You may play lands from your graveyard this turn.
+III — You may cast target creature card from your graveyard this turn. [i](You still pay its costs.)[/i] => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may cast target creature card from your graveyard this turn. [i](You still pay its costs.)[/i]
+
+RG08 Vibrant Setdressing
+
+UG14 Crossing the Threshold
+rules_text: {2}, Exile a card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Whenever a creature you control with power 5 or greater attacks, you may sacrifice this enchantment. If you do, you may cast a creature card exile => {2}, Exile a card from your graveyard: Chronicle. Activate only as a sorcery. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Whenever a creature you control with power 5 or greater attacks, you may sacrifice this enchantment. If you do, return each creature card exiled with it to your hand and put the rest into your graveyard.
+
+UG16 Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+UG17 Noncreature
+cost: {4}{G} => {1}{G}
+rules_text:  => {3}{G}{G}, Discard this card: Copy it twice. You may cast the copies without paying their mana costs.
+
+Lord Malcolm Amantii
+rules_text: During your turn, Malcolm has flying and lifelink if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i]
+As an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and that creature enters with an additional +1/+1 counter on it. => During your turn, Malcolm has flying and lifelink if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+As an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and that creature enters with an additional +1/+1 counter on it.
+
+Inquisitor Tacen Flint
+rules_text: {2}, Discard a card: Create a 2/1 blue Detective creature token with “Whenever this creature attacks, target nontoken creature can't be blocked this turn.”
+At the beginning of your end step, draw a card if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => {2}, Discard a card: Create a 2/1 blue Detective creature token with “Whenever this creature attacks, target nontoken creature can't be blocked this turn.”
+At the beginning of your end step, draw a card if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+
+Chaniel, Lost in Rot
+type: Legendary Creature — Horror Dryad Hero => Legendary Creature — Dryad Hero
+rules_text: Deathtouch
+Whenever Chaniel attacks, surveil 1. Then if its power is 4 or greater, draw a card.
+At the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Deathtouch
+Whenever Chaniel attacks, surveil 1. Then if its power is 4 or greater, draw a card.
+At the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+Relics of the Future
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​
+
+Mastergaunts
+rules_text: Vigilance
+Whenever this creature enters or attacks, if you've performed a rite this turn, draw a card and create a 2/2 white Human Horror creature token. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Vigilance
+Whenever this creature enters or attacks, if you've performed a rite this turn, create a 2/2 white Human Horror creature token. Each opponent loses 2 life. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+Revised Revenant
+cost: {2}{UB}{UB} => {3}{UB}{UB}
+rules_text: When this creature enters, you draw a card and you lose 1 life.
+{3}{UB}{UB}, Exile this card from your graveyard: Create a tapped token that's a copy of it. Activate only as a sorcery and only if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => Whenever this creature enters or dies, you draw a card and you lose 1 life.
+Evoke {1}{UB}{UB} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt: 3/4 => 5/3
+
+UA01 Poster Child
+type: Artifact Creature — Construct Hero => Artifact Creature — Toy Hero
+rules_text: When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => {2}: Put your choice of a flying, vigilance, or trample counter on this creature.
+
+RW01 Vōs, Company Courier
+rules_text: When Vōs enters, draw a card if you've gained life this turn. Otherwise, you gain 1 life.
+Whenever an opponent casts their second spell each turn or attacks with two or more creatures, you may exile Vōs, then return it to the battlefield under your control. => When Vōs enters, draw a card if you've gained life this turn. Otherwise, you gain 1 life.
+Whenever an opponent casts their second spell each turn or attacks with two or more creatures, you may exile Vōs. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.
+
+RU06 Harried Proofreader
+cost: {4}{U} => {3}{U}{U}
+rules_text:  => Whenever this creature enters or attacks, draw a card, then discard a card. If the discarded card has mana value less than or equal to the number of cards you've drawn this turn, you may cast it without paying its mana cost.
+Evoke {1}{U}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i]
+pt:  => 4/4
+
+The Myriad Manse
+cost: {1}{U} => {3}{U}{U}
+rules_text: [i](An opponent protects this. You can't attack it with more creatures than it has defense. Each attacker deals 1 damage to it and the rest to its protector.)[/i]
+Whenever a creature deals combat damage to this Stage, you may create a token that's a copy of it, except it's an Illusion in addition to its other types and has “This creature can't attack battles.”
+When this Stage is defeated, draw a card. => [i](An opponent protects this. It can't be attacked by more than one creature. Each attacker deals 1 damage to it and the rest to its protector.)[/i]
+Whenever this Stage enters or is dealt combat damage by a creature, create a token that's a copy of target creature you control, except it's a 1/1 Illusion in addition to its other types.
+When this Stage is defeated, draw a card.
+
+RU08 Noncreature
+cost: {2}{U} => {1}{U}
+
+RB02 Tormented Ghostwriter
+rules_text: Whenever a player loses life during your turn, they mill that many cards.
+At the beginning of your second main phase, you may cast a spell with mana value 2 or less from among cards in graveyards that were put there from libraries this turn without paying its mana cost. => Lifelink
+Whenever a player loses life during your turn, they mill that many cards. Once each turn, when one or more nonland cards are milled this way, you may cast a spell with mana value 2 or less from among them without paying its mana cost.
+pt: 3/3 => 2/3
+
+The Hallowing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+
+RB07 Vision of Manque
+rules_text: When this creature enters, discard your hand. You draw three cards and lose 3 life.
+Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i] => When this creature enters, discard your hand. You draw three cards and lose 3 life.
+Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+UR01 Scoremaster
+type: Creature — Human Performer Bard Hero => Creature — Human Performer Bard
+
+RMWU Tyto's Abjurance
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II — Exile target creature you control.
+III — ​ => 
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II — Exile target creature you control.
+III — ​ => 
+
+RMUB Dramatic Oracle
+rules_text: At the beginning of your end step, you may discard two cards. If you do, search your library for a card and put it into your hand. Shuffle. => At the beginning of your end step, if you have two or more cards in hand, discard two cards. If you do, search your library for a card and put it into your hand. Shuffle.
+pt: 3/3 => 6/3
+
+Eni, Reforged Paragon
+
+Prince of Years
+
+MU03 Noncreature
+
+Kindly Winter
+
+Manque Obscura
+
+Sorrowgaunt
+
+Hollow Autumn
+rules_text: At the beginning of your end step, target opponent loses 2 life if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i]
+[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with “This creature can't attack planeswalkers.”
+[-2]: Choose target creature. You may exile a number of cards from your graveyard equal to its mana value. When you do, destroy it. => At the beginning of your end step, target opponent loses 2 life if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with “This creature can't attack planeswalkers.”
+[-2]: Choose target creature. You may exile a number of cards from your graveyard equal to its mana value. When you do, destroy it.
+special_text: At the beginning of your end step, target opponent loses 2 life if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting spells from your graveyard are rites.)[/i]
+[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with “This creature can't attack planeswalkers.”
+[-2]: Choose target creature. You may exile a number of cards from your graveyard equal to its mana value. When you do, destroy it. => At the beginning of your end step, target opponent loses 2 life if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with “This creature can't attack planeswalkers.”
+[-2]: Choose target creature. You may exile a number of cards from your graveyard equal to its mana value. When you do, destroy it.
+
+MR02 Noncreature
+
+Fair Summer
+
+MR04 Noncreature
+
+Vile Spring
+
+Alder Jane, Talewright
+rules_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with
+“r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Tap three target permanents. Take an extra turn after this one.”
+special_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with
+“r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Tap three target permanents. Take an extra turn after this one.”
+
+MM02 Caetel, Old Mother
+
+MA01 LargeWall Creature
+
+MA02 Noncreature
+
+MA03 Noncreature
+
+Daughter of Bantrel
+
+Wraith
+
+Rose
+
+Human Horror
+
+CG02 Splintereater
+
+Spirit Ogre
+
+Golem Wizard
+
+Elemental Horror
+
+The Itinerant Weft
+rules_text: Weft's loyalty abilities cost an additional [+1] to activate if they target enchantments.
+[0]: Choose target creature. Until your next turn, if it would deal combat damage to a player or planeswalker, instead its controller exiles that many cards from the top of their library and may play them until end of turn.
+[-X]: Create a token that's a copy of target creature you control with mana value X, except it has “When this permanent deals damage, exile it.” => Weft's loyalty abilities cost an additional [+1] to activate if they target enchantments.
+[0]: Choose target creature. Until your next turn, if it would deal combat damage to a player or planeswalker, instead its controller exiles that many cards from the top of their library and may play them until end of turn.
+[-X]: Create a token that's a copy of target creature you control with mana value X, except it has “When this creature deals damage, exile it.”
+special_text: Weft's loyalty abilities cost an additional [+1] to activate if they target enchantments.
+[0]: Choose target creature. Until your next turn, if it would deal combat damage to a player or planeswalker, instead its controller exiles that many cards from the top of their library and may play them until end of turn.
+[-X]: Create a token that's a copy of target creature you control with mana value X, except it has “When this permanent deals damage, exile it.” => Weft's loyalty abilities cost an additional [+1] to activate if they target enchantments.
+[0]: Choose target creature. Until your next turn, if it would deal combat damage to a player or planeswalker, instead its controller exiles that many cards from the top of their library and may play them until end of turn.
+[-X]: Create a token that's a copy of target creature you control with mana value X, except it has “When this creature deals damage, exile it.”
+
+Bringer of a New Autumn
+
+Rat Soldier
+
+
+cost:  => {W}
+rules_text: {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => Whenever a Hero you control
+
+
+cost:  => {U}
+rules_text: {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => 
+
+
+cost:  => {B}
+rules_text: {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => 
+
+
+cost:  => {R}
+rules_text: {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => 
+
+
+cost:  => {G}
+rules_text: {W}{U}: Second Draw
+{U}{B}: Ritual Discard Self
+{B}{R}: Double Burn
+{R}{G}: Enchantments
+{G}{W}: Three Creatures
+{W}{B}: Ritual Sacrifice
+{U}{R}: Counters
+{B}{G}: Ritual Disturb
+{R}{W}: Chronicle
+{G}{U}: Synthesis[i]
+
+[/i]{U}{R}{W} Chronicle
+{B}{G}{U} Disturb
+{W}{U}{B}{R}{G} Episodes
+{W}{U}{B}{R}{G} Transcend => 
+
+
+VERSION 11 CHANGELOG
 ====================
 
 CW08 Ancient Eyes added.
