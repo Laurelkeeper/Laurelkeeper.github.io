@@ -1,4 +1,646 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Protector of the Ordinary added.
+Blindseer added.
+Set the Stage added.
+Polygaunt added.
+Troubled Auditioner added.
+Sorrowed Cavalier added.
+Ancient Eyes added.
+Exasperated Setdresser added.
+Imperious Boon added.
+Word of Unbeing added.
+Light Through the Veil added.
+Binding Serenade added.
+Entranced Villagers added.
+Lost Ascendant added.
+Silverwing Companion added.
+Iridium Muse added.
+Wildwood Bonetwister added.
+Erudite Watcher added.
+Ascendant Talekeeper added.
+Cryptic Omen added.
+Refusal of the Call added.
+Boreal Interdiction added.
+Outer Court Communion added.
+Wyndlepiper added.
+Blossoming Thing added.
+Spire Echo added.
+Unrelenting Pursuer added.
+Bounty of Bantrel added.
+Profaned Elder added.
+Decadent Scriptwriter added.
+Bantrel Wood Stalker added.
+Contract Concluded added.
+Long Road Home added.
+Sanguine Rupture added.
+Bottom of the Inkwell added.
+Premature End added.
+Enthralled Acolyte added.
+Bloodcaster Neophyte added.
+Scriptkeeper added.
+Hollowed Archetype added.
+Elder Soothsinger added.
+Flenser Mob added.
+Summer's Decommissioner added.
+Pagepyre added.
+A Brilliant Entrance added.
+Wreath of Malevolence added.
+Memory Blossom added.
+A Fateful Journey added.
+Lorn-Road Guide added.
+Innercourt Matron added.
+Auspicious Mushroom added.
+Lorn-Road Falconer added.
+Solemn Gladekeeper added.
+Untroubled Vagabond added.
+Pallid Glistener added.
+Night's Clarity added.
+A Cold Voice added.
+Court the Corrupt added.
+Burst of Mettle added.
+Witherlínd added.
+Winterbreath Cantor added.
+Fated Figures added.
+Innercourt Mendress added.
+Choir of Restoration added.
+Glamorous Herald added.
+Solemn Standby added.
+Vested Script added.
+Earthspike Annals added.
+Noncreature added.
+Noncreature added.
+Noncreature added.
+Noncreature added.
+Noncreature added.
+Captain of Ceremony added.
+Marie, Rookery's Daughter added.
+Brooding Star added.
+Spotlight Soul added.
+Second Chances added.
+Splintered Chorus added.
+Fae Bladesinger added.
+Confident Lead added.
+Choreography Director added.
+Archon of Fettered Fate added.
+Enshrined Excellence added.
+Timely Resurrection added.
+Meeting the Mentor added.
+Empty Throne added.
+Storied Deed added.
+Hurried Edit added.
+Shadow on the Stage added.
+An Unexpected Journey added.
+Sombergaunt added.
+Smelted Wight added.
+Defiant Dreamer added.
+Chained Flensefang added.
+Audacious Auditioner added.
+Light-Eater Servant added.
+Outer Court Marksman added.
+Senior Editor added.
+Mouldering Hour added.
+Turn to Ink added.
+Cut the Curtain added.
+Return with the Elixir added.
+Festering Secrets added.
+Consumed by Branches added.
+Mosa, Renegade Star added.
+Steeltouched Star added.
+War Like Wine added.
+Courtbound Impudent added.
+Living Altar added.
+Seneschal of Turnings added.
+Mottlecloth Sneak added.
+Tabula Rata added.
+Sunken Stainsucker added.
+Noncreature added.
+Noncreature added.
+Noncreature added.
+Taking the Plunge added.
+Vibrant Setdressing added.
+Crossing the Threshold added.
+Valor's Rest added.
+Noncreature added.
+Autumn's Emissary added.
+Poster Child added.
+Noncreature added.
+Noncreature added.
+Hallowed Intermission added.
+Ancient Compact added.
+Climactic Moment added.
+Tendergaunt added.
+Medium Creature added.
+Medium Creature added.
+Will of the Wild added.
+Into the Hollows added.
+Physt, Company Curator added.
+Small Creature added.
+Pint-Sized Penstrel added.
+Noncreature added.
+Passioned Pair added.
+Caetel, Old Mother added.
+LargeWall Creature added.
+Noncreature added.
+Noncreature added.
+Splintereater added.
+Cass and Nettles, Editors added.
+Demon Knight added.
+
+CW01 Protector of the Ordinary removed.
+CW02 Blindseer removed.
+CW04 Set the Stage removed.
+CW05 Polygaunt removed.
+CW06 Troubled Auditioner removed.
+CW07 Sorrowed Cavalier removed.
+CW08 Ancient Eyes removed.
+CW09 Exasperated Setdresser removed.
+CW10 Imperious Boon removed.
+CW11 Word of Unbeing removed.
+CW12 Light Through the Veil removed.
+CW13 Binding Serenade removed.
+CU01 Entranced Villagers removed.
+CU02 Lost Ascendant removed.
+CU03 Silverwing Companion removed.
+CU04 Iridium Muse removed.
+CU06 Wildwood Bonetwister removed.
+CU07 Erudite Watcher removed.
+CU08 Ascendant Talekeeper removed.
+CU09 Cryptic Omen removed.
+CU10 Refusal of the Call removed.
+CU12 Boreal Interdiction removed.
+CU13 Outer Court Communion removed.
+CB01 Wyndlepiper removed.
+UB02 Blossoming Thing removed.
+CB03 Spire Echo removed.
+UB07 Unrelenting Pursuer removed.
+UB05 Bounty of Bantrel removed.
+CB06 Profaned Elder removed.
+CB04 Decadent Scriptwriter removed.
+CB08 Bantrel Wood Stalker removed.
+CB09 Contract Concluded removed.
+CB10 Long Road Home removed.
+CB11 Sanguine Rupture removed.
+CB12 Bottom of the Inkwell removed.
+CB13 Premature End removed.
+CR01 Enthralled Acolyte removed.
+CR02 Bloodcaster Neophyte removed.
+CR03 Scriptkeeper removed.
+CR05 Hollowed Archetype removed.
+CR06 Elder Soothsinger removed.
+CR07 Flenser Mob removed.
+CR08 Summer's Decommissioner removed.
+CR09 Pagepyre removed.
+CR10 A Brilliant Entrance removed.
+CR11 Wreath of Malevolence removed.
+CR12 Memory Blossom removed.
+CR13 A Fateful Journey removed.
+CG01 Lorn-Road Guide removed.
+CG03 Innercourt Matron removed.
+CG04 Auspicious Mushroom removed.
+CG05 Lorn-Road Falconer removed.
+CG06 Solemn Gladekeeper removed.
+CG07 Untroubled Vagabond removed.
+CG08 Pallid Glistener removed.
+CG10 Night's Clarity removed.
+CG11 A Cold Voice removed.
+CG12 Court the Corrupt removed.
+CG13 Burst of Mettle removed.
+CZ01 Witherlínd removed.
+CZ03 Winterbreath Cantor removed.
+CZ05 Fated Figures removed.
+CZ06 Innercourt Mendress removed.
+CZ08 Choir of Restoration removed.
+CZ09 Glamorous Herald removed.
+CZ10 Solemn Standby removed.
+CA01 Vested Script removed.
+CA02 Earthspike Annals removed.
+CL12 Noncreature removed.
+CL13 Noncreature removed.
+CL14 Noncreature removed.
+CL15 Noncreature removed.
+CL16 Noncreature removed.
+UW01 Captain of Ceremony removed.
+UW02 Marie, Rookery's Daughter removed.
+UB01 Brooding Star removed.
+UW03 Spotlight Soul removed.
+UW11 Second Chances removed.
+UW06 Splintered Chorus removed.
+UW08 Fae Bladesinger removed.
+UW05 Confident Lead removed.
+UW09 Choreography Director removed.
+UW10 Archon of Fettered Fate removed.
+UW07 Enshrined Excellence removed.
+UW13 Timely Resurrection removed.
+UW12 Meeting the Mentor removed.
+UW15 Empty Throne removed.
+UW16 Storied Deed removed.
+UW17 Hurried Edit removed.
+UG02 Shadow on the Stage removed.
+CU11 An Unexpected Journey removed.
+UW04 Sombergaunt removed.
+CB02 Smelted Wight removed.
+UB03 Defiant Dreamer removed.
+UB04 Chained Flensefang removed.
+CB05 Audacious Auditioner removed.
+UG06 Light-Eater Servant removed.
+CB07 Outer Court Marksman removed.
+UB08 Senior Editor removed.
+UB10 Mouldering Hour removed.
+UB11 Turn to Ink removed.
+UB12 Cut the Curtain removed.
+UB13 Return with the Elixir removed.
+UB14 Festering Secrets removed.
+UB16 Consumed by Branches removed.
+RR01 Mosa, Renegade Star removed.
+UB06 Steeltouched Star removed.
+RR06 War Like Wine removed.
+UG01 Courtbound Impudent removed.
+UG03 Living Altar removed.
+UG04 Seneschal of Turnings removed.
+UG05 Mottlecloth Sneak removed.
+UG07 Tabula Rata removed.
+UG08 Sunken Stainsucker removed.
+UG09 Noncreature removed.
+UG10 Noncreature removed.
+UG11 Noncreature removed.
+UG12 Taking the Plunge removed.
+RG08 Vibrant Setdressing removed.
+UG14 Crossing the Threshold removed.
+UG16 Valor's Rest removed.
+UG17 Noncreature removed.
+CZ02 Autumn's Emissary removed.
+UA01 Poster Child removed.
+UA03 Noncreature removed.
+UL01 Noncreature removed.
+UW14 Hallowed Intermission removed.
+UB15 Ancient Compact removed.
+UB17 Climactic Moment removed.
+RG01 Tendergaunt removed.
+RG03 Medium Creature removed.
+UG15 Medium Creature removed.
+RG07 Will of the Wild removed.
+UG13 Into the Hollows removed.
+RMUR Unwrite removed.
+RMUG LargeWall Creature removed.
+RL02 Small Creature removed.
+MR02 Pint-Sized Penstrel removed.
+MR04 Noncreature removed.
+MR05 Passioned Pair removed.
+MM02 Caetel, Old Mother removed.
+MA01 LargeWall Creature removed.
+MA02 Noncreature removed.
+MA03 Noncreature removed.
+CG02 Splintereater removed.
+
+Out of the Puzzlebox
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+
+A Champion's Reward
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+I — Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+II — Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+I — Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+II — Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 2.)[/i]
+Chronicle four times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Untap all Heroes you control. After this phase, there is an additional combat phase followed by an additional main phase.
+​
+
+Wolf at the Gates
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+III — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+III — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​
+
+The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+II — Draw a card for each creature you control with counters on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+II — Draw a card for each creature you control with counters on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+
+Relics of the Future
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and “This creature gets +1/+1 for each card you've drawn this turn.”
+If an opponent has more cards in hand than you, draw a card.
+​
+
+Autumn Devours the Sunmaster
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.
+
+Winter Quiets the Soulsinger
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/3 red Soldier Bard creature token.
+Put a prowess counter on target creature.
+Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.”
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/3 red Soldier Bard creature token.
+Put a prowess counter on target creature.
+Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.”
+
+The Hallowing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+
+Seeking the Seasons
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen—
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+​
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+Choose one that hasn't been chosen—
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+​
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen—
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+​
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+Choose one that hasn't been chosen—
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+​
+​
+
+Summer Outshines the Godmind
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+I — Target creature you control gets +2/+2 and gains trample and haste until end of turn. Sacrifice it at the beginning of the next end step.
+Discard your hand, then draw two cards for each opponent who has 10 or less life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+Target creature you control gets +2/+2 and gains trample and haste until end of turn. Sacrifice it at the beginning of the next end step.
+Discard your hand, then draw two cards for each opponent who has 10 or less life.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+I — Target creature you control gets +2/+2 and gains trample and haste until end of turn. Sacrifice it at the beginning of the next end step.
+Discard your hand, then draw two cards for each opponent who has 10 or less life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+Target creature you control gets +2/+2 and gains trample and haste until end of turn. Sacrifice it at the beginning of the next end step.
+Discard your hand, then draw two cards for each opponent who has 10 or less life.
+
+Steward of Solstices
+pt: 2/2 => 2/3
+
+Spring Conquers the Cavalcade
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+
+RMWB Kniles, Chancellor of Thorns
+
+RMRW Greyvale Prodigy
+
+Plothole Tunneler
+
+RMWU Tyto's Abjurance
+
+RMBR Rally the Understudies
+
+The Everfree Thespian
+
+Andi and Rove, Old Hands
+rules_text: Once during each of your turns, when you perform a rite, you may gain 2 life and draw a card. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i] => Once during each of your turns, when you perform a rite, you may gain 2 life. If you do, each opponent discards a card. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+
+RMBG Turner of Earth
+
+RMGR Weftheart, Vibrant Star
+
+Celos, Prince's Chamberlain
+
+Vexior, Clouds in Chains
+
+RMUB Dramatic Oracle
+
+Tuolor, Steel Commander
+
+Splendid Inspiration
+
+The Inmost Cave
+
+Inspiring Scene
+
+Mysterious Scene
+
+Ancient Scene
+
+Grisly Scene
+
+Heartbreaking Scene
+
+Unfinished Draft
+
+Eni, Reforged Paragon
+
+Prince of Years
+
+Dramaturge's Mastery
+
+Hiemal Virtuoso
+
+Kindly Winter
+
+Manque, Shifting Spotlight
+
+Sorrowgaunt
+
+Hollow Autumn
+
+Fair Summer
+
+Vile Spring
+
+Alder Jane, Talewright
+
+Daughter of Bantrel
+
+Wraith
+
+Rose
+
+Human Horror
+
+Spirit Ogre
+
+Golem Wizard
+
+Elemental Horror
+
+The Itinerant Weft
+
+Bringer of a New Autumn
+
+Rat Soldier
+
+Bird Hero
+
+Endless Day of Dominion
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​
+
+The Darkest Hour
+
+Drown in Dread
+
+Jane's Opus
+
+placeholder
+
+Reflection Hero
+
+The Etherweave
+
+Treefolk Soldier
+
+Hero
+
+Warlock
+
+Myth of Awakening
+
+Wurm Hero
+
+Kill Your Darlings
+
+Samurai Warlock
+
+Detective
+
+The Ebonwood
+
+The Echofont
+
+The Elderbloom
+
+The Everflame
+
+Preserve the Script
+
+Ageless Edge
+rules_text: Equipped creature and gets +1/+1 for each counter on this Equipment.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Equipped creature gets +1/+1 for each counter on this Equipment.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Noble
+
+Bramble Bindings
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Derrilyn Falconer added.

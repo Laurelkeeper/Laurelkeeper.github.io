@@ -11,21 +11,21 @@
 			}
 		},
 		{
-			"name": "CW01 Protector of the Ordinary",
+			"name": "Protector of the Ordinary",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "7",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/1.png"
 			}
 		},
 		{
-			"name": "CW02 Blindseer",
+			"name": "Blindseer",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/2.png"
 			}
@@ -35,77 +35,77 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Peasant Hero",
-			"collector_number": "23",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/3.png"
 			}
 		},
 		{
-			"name": "CW04 Set the Stage",
+			"name": "Set the Stage",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/4.png"
 			}
 		},
 		{
-			"name": "CW05 Polygaunt",
+			"name": "Polygaunt",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dryad Rogue",
-			"collector_number": "10",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/5.png"
 			}
 		},
 		{
-			"name": "CW06 Troubled Auditioner",
+			"name": "Troubled Auditioner",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Performer Hero",
-			"collector_number": "11",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/6.png"
 			}
 		},
 		{
-			"name": "CW07 Sorrowed Cavalier",
+			"name": "Sorrowed Cavalier",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "12",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/7.png"
 			}
 		},
 		{
-			"name": "CW08 Ancient Eyes",
+			"name": "Ancient Eyes",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Construct Bird",
-			"collector_number": "13",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/8.png"
 			}
 		},
 		{
-			"name": "CW09 Exasperated Setdresser",
+			"name": "Exasperated Setdresser",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/9.png"
 			}
 		},
 		{
-			"name": "CW10 Imperious Boon",
+			"name": "Imperious Boon",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "22",
 			"back": {
 				"name": "",
 				"type": "",
@@ -118,71 +118,71 @@
 			}
 		},
 		{
-			"name": "CW11 Word of Unbeing",
+			"name": "Word of Unbeing",
 			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Instant",
-			"collector_number": "16",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/11.png"
 			}
 		},
 		{
-			"name": "CW12 Light Through the Veil",
+			"name": "Light Through the Veil",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Episode",
-			"collector_number": "17",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/12.png"
 			}
 		},
 		{
-			"name": "CW13 Binding Serenade",
+			"name": "Binding Serenade",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "18",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/13.png"
 			}
 		},
 		{
-			"name": "CU01 Entranced Villagers",
+			"name": "Entranced Villagers",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "49",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/14.png"
 			}
 		},
 		{
-			"name": "CU02 Lost Ascendant",
+			"name": "Lost Ascendant",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "50",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/15.png"
 			}
 		},
 		{
-			"name": "CU03 Silverwing Companion",
+			"name": "Silverwing Companion",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie Dragon",
-			"collector_number": "51",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/16.png"
 			}
 		},
 		{
-			"name": "CU04 Iridium Muse",
+			"name": "Iridium Muse",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Performer",
-			"collector_number": "52",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/17.png"
 			}
@@ -192,47 +192,47 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Ranger Hero",
-			"collector_number": "64",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/18.png"
 			}
 		},
 		{
-			"name": "CU06 Wildwood Bonetwister",
+			"name": "Wildwood Bonetwister",
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Squid Horror",
-			"collector_number": "53",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/19.png"
 			}
 		},
 		{
-			"name": "CU07 Erudite Watcher",
+			"name": "Erudite Watcher",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Spirit Bird",
-			"collector_number": "54",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/20.png"
 			}
 		},
 		{
-			"name": "CU08 Ascendant Talekeeper",
+			"name": "Ascendant Talekeeper",
 			"rarity": "common",
 			"mana_cost": "{5}{U}",
 			"type": "Creature — Elf Advisor",
-			"collector_number": "55",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/21.png"
 			}
 		},
 		{
-			"name": "CU09 Cryptic Omen",
+			"name": "Cryptic Omen",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "51",
 			"back": {
 				"name": "",
 				"type": "",
@@ -245,11 +245,11 @@
 			}
 		},
 		{
-			"name": "CU10 Refusal of the Call",
+			"name": "Refusal of the Call",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "57",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/23.png"
 			}
@@ -259,157 +259,157 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Episode",
-			"collector_number": "75",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/24.png"
 			}
 		},
 		{
-			"name": "CU12 Boreal Interdiction",
+			"name": "Boreal Interdiction",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/25.png"
 			}
 		},
 		{
-			"name": "CU13 Outer Court Communion",
+			"name": "Outer Court Communion",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "60",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/26.png"
 			}
 		},
 		{
-			"name": "CB01 Wyndlepiper",
+			"name": "Wyndlepiper",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie Bard",
-			"collector_number": "91",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/27.png"
 			}
 		},
 		{
-			"name": "UB02 Blossoming Thing",
+			"name": "Blossoming Thing",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "113",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/28.png"
 			}
 		},
 		{
-			"name": "CB03 Spire Echo",
+			"name": "Spire Echo",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Spirit Rogue",
-			"collector_number": "93",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/29.png"
 			}
 		},
 		{
-			"name": "UB07 Unrelenting Pursuer",
+			"name": "Unrelenting Pursuer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Wolf Hero",
-			"collector_number": "118",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/30.png"
 			}
 		},
 		{
-			"name": "UB05 Bounty of Bantrel",
+			"name": "Bounty of Bantrel",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Skeleton Elk",
-			"collector_number": "116",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/31.png"
 			}
 		},
 		{
-			"name": "CB06 Profaned Elder",
+			"name": "Profaned Elder",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Noble Hero",
-			"collector_number": "96",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/32.png"
 			}
 		},
 		{
-			"name": "CB04 Decadent Scriptwriter",
+			"name": "Decadent Scriptwriter",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Advisor",
-			"collector_number": "94",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/33.png"
 			}
 		},
 		{
-			"name": "CB08 Bantrel Wood Stalker",
+			"name": "Bantrel Wood Stalker",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Plant Horror",
-			"collector_number": "98",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/34.png"
 			}
 		},
 		{
-			"name": "CB09 Contract Concluded",
+			"name": "Contract Concluded",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/35.png"
 			}
 		},
 		{
-			"name": "CB10 Long Road Home",
+			"name": "Long Road Home",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Episode",
-			"collector_number": "100",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/36.png"
 			}
 		},
 		{
-			"name": "CB11 Sanguine Rupture",
+			"name": "Sanguine Rupture",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "101",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/37.png"
 			}
 		},
 		{
-			"name": "CB12 Bottom of the Inkwell",
+			"name": "Bottom of the Inkwell",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "102",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/38.png"
 			}
 		},
 		{
-			"name": "CB13 Premature End",
+			"name": "Premature End",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
-			"collector_number": "103",
+			"collector_number": "114",
 			"back": {
 				"name": "",
 				"type": "",
@@ -422,31 +422,31 @@
 			}
 		},
 		{
-			"name": "CR01 Enthralled Acolyte",
+			"name": "Enthralled Acolyte",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Demon Rogue",
-			"collector_number": "139",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/40.png"
 			}
 		},
 		{
-			"name": "CR02 Bloodcaster Neophyte",
+			"name": "Bloodcaster Neophyte",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "140",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/41.png"
 			}
 		},
 		{
-			"name": "CR03 Scriptkeeper",
+			"name": "Scriptkeeper",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental Hero",
-			"collector_number": "141",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/42.png"
 			}
@@ -456,23 +456,23 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment Creature — Spirit Wurm",
-			"collector_number": "161",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/43.png"
 			}
 		},
 		{
-			"name": "CR05 Hollowed Archetype",
+			"name": "Hollowed Archetype",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "142",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/44.png"
 			}
 		},
 		{
-			"name": "CR06 Elder Soothsinger",
+			"name": "Elder Soothsinger",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elf Shaman Hero",
@@ -482,51 +482,51 @@
 			}
 		},
 		{
-			"name": "CR07 Flenser Mob",
+			"name": "Flenser Mob",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Construct Soldier",
-			"collector_number": "144",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/46.png"
 			}
 		},
 		{
-			"name": "CR08 Summer's Decommissioner",
+			"name": "Summer's Decommissioner",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Demon Wizard",
-			"collector_number": "145",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/47.png"
 			}
 		},
 		{
-			"name": "CR09 Pagepyre",
+			"name": "Pagepyre",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/48.png"
 			}
 		},
 		{
-			"name": "CR10 A Brilliant Entrance",
+			"name": "A Brilliant Entrance",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "147",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/49.png"
 			}
 		},
 		{
-			"name": "CR11 Wreath of Malevolence",
+			"name": "Wreath of Malevolence",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "148",
+			"collector_number": "171",
 			"back": {
 				"name": "",
 				"type": "",
@@ -539,141 +539,141 @@
 			}
 		},
 		{
-			"name": "CR12 Memory Blossom",
+			"name": "Memory Blossom",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "149",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/51.png"
 			}
 		},
 		{
-			"name": "CR13 A Fateful Journey",
+			"name": "A Fateful Journey",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "150",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/52.png"
 			}
 		},
 		{
-			"name": "CG01 Lorn-Road Guide",
+			"name": "Lorn-Road Guide",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "173",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/53.png"
 			}
 		},
 		{
-			"name": "CG03 Innercourt Matron",
+			"name": "Innercourt Matron",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "175",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/54.png"
 			}
 		},
 		{
-			"name": "CG04 Auspicious Mushroom",
+			"name": "Auspicious Mushroom",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "176",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/55.png"
 			}
 		},
 		{
-			"name": "CG05 Lorn-Road Falconer",
+			"name": "Lorn-Road Falconer",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Ranger Hero",
-			"collector_number": "177",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/56.png"
 			}
 		},
 		{
-			"name": "CG06 Solemn Gladekeeper",
+			"name": "Solemn Gladekeeper",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "178",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/57.png"
 			}
 		},
 		{
-			"name": "CG07 Untroubled Vagabond",
+			"name": "Untroubled Vagabond",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Warrior Hero",
-			"collector_number": "179",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/58.png"
 			}
 		},
 		{
-			"name": "CG08 Pallid Glistener",
+			"name": "Pallid Glistener",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Enchantment Creature — Spirit Crab",
-			"collector_number": "180",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/59.png"
 			}
 		},
 		{
-			"name": "CG10 Night's Clarity",
+			"name": "Night's Clarity",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/60.png"
 			}
 		},
 		{
-			"name": "CG11 A Cold Voice",
+			"name": "A Cold Voice",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Episode",
-			"collector_number": "182",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/61.png"
 			}
 		},
 		{
-			"name": "CG12 Court the Corrupt",
+			"name": "Court the Corrupt",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/62.png"
 			}
 		},
 		{
-			"name": "CG13 Burst of Mettle",
+			"name": "Burst of Mettle",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "184",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/63.png"
 			}
 		},
 		{
-			"name": "CZ01 Witherlínd",
+			"name": "Witherlínd",
 			"rarity": "common",
 			"mana_cost": "{2}{W/B}{W/B}",
 			"type": "Creature — Wurm",
-			"collector_number": "246",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/64.png"
 			}
@@ -683,17 +683,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Skeleton Wurm",
-			"collector_number": "255",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/65.png"
 			}
 		},
 		{
-			"name": "CZ03 Winterbreath Cantor",
+			"name": "Winterbreath Cantor",
 			"rarity": "common",
 			"mana_cost": "{1}{U/B}{U/B}",
 			"type": "Creature — Spirit Bard",
-			"collector_number": "248",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/66.png"
 			}
@@ -703,13 +703,13 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "259",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/67.png"
 			}
 		},
 		{
-			"name": "CZ05 Fated Figures",
+			"name": "Fated Figures",
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Enchantment Creature — Spirit",
@@ -719,11 +719,11 @@
 			}
 		},
 		{
-			"name": "CZ06 Innercourt Mendress",
+			"name": "Innercourt Mendress",
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Dryad",
-			"collector_number": "250",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/69.png"
 			}
@@ -733,57 +733,57 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Artifact Creature — Golem Cleric",
-			"collector_number": "261",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/70.png"
 			}
 		},
 		{
-			"name": "CZ08 Choir of Restoration",
+			"name": "Choir of Restoration",
 			"rarity": "common",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "251",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/71.png"
 			}
 		},
 		{
-			"name": "CZ09 Glamorous Herald",
+			"name": "Glamorous Herald",
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Elf Soldier Hero",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/72.png"
 			}
 		},
 		{
-			"name": "CZ10 Solemn Standby",
+			"name": "Solemn Standby",
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Human Bat Hero",
-			"collector_number": "253",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/73.png"
 			}
 		},
 		{
-			"name": "CA01 Vested Script",
+			"name": "Vested Script",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "264",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/74.png"
 			}
 		},
 		{
-			"name": "CA02 Earthspike Annals",
+			"name": "Earthspike Annals",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/75.png"
 			}
@@ -803,7 +803,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "287",
+			"collector_number": "288",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/77.png"
 			}
@@ -813,7 +813,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "279",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/78.png"
 			}
@@ -823,7 +823,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "281",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/79.png"
 			}
@@ -833,7 +833,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "288",
+			"collector_number": "289",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/80.png"
 			}
@@ -853,7 +853,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "293",
+			"collector_number": "294",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/82.png"
 			}
@@ -863,7 +863,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "292",
+			"collector_number": "293",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/83.png"
 			}
@@ -883,7 +883,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/85.png"
 			}
@@ -909,51 +909,51 @@
 			}
 		},
 		{
-			"name": "CL12 Noncreature",
+			"name": "Noncreature",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/88.png"
 			}
 		},
 		{
-			"name": "CL13 Noncreature",
+			"name": "Noncreature",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "275",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/89.png"
 			}
 		},
 		{
-			"name": "CL14 Noncreature",
+			"name": "Noncreature",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "276",
+			"collector_number": "287",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/90.png"
 			}
 		},
 		{
-			"name": "CL15 Noncreature",
+			"name": "Noncreature",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "277",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/91.png"
 			}
 		},
 		{
-			"name": "CL16 Noncreature",
+			"name": "Noncreature",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/92.png"
 			}
@@ -979,111 +979,111 @@
 			}
 		},
 		{
-			"name": "UW01 Captain of Ceremony",
+			"name": "Captain of Ceremony",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Performer Cleric",
-			"collector_number": "27",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/95.png"
 			}
 		},
 		{
-			"name": "UW02 Marie, Rookery's Daughter",
+			"name": "Marie, Rookery's Daughter",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Legendary Creature — Human Noble Hero",
-			"collector_number": "28",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/96.png"
 			}
 		},
 		{
-			"name": "UB01 Brooding Star",
+			"name": "Brooding Star",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Hero",
-			"collector_number": "112",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/97.png"
 			}
 		},
 		{
-			"name": "UW03 Spotlight Soul",
+			"name": "Spotlight Soul",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Spirit Performer",
-			"collector_number": "29",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/98.png"
 			}
 		},
 		{
-			"name": "UW11 Second Chances",
+			"name": "Second Chances",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/99.png"
 			}
 		},
 		{
-			"name": "UW06 Splintered Chorus",
+			"name": "Splintered Chorus",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Treefolk Horror",
-			"collector_number": "32",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/100.png"
 			}
 		},
 		{
-			"name": "UW08 Fae Bladesinger",
+			"name": "Fae Bladesinger",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Faerie Warrior Hero",
-			"collector_number": "34",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/101.png"
 			}
 		},
 		{
-			"name": "UW05 Confident Lead",
+			"name": "Confident Lead",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Demon Performer Hero",
-			"collector_number": "31",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/102.png"
 			}
 		},
 		{
-			"name": "UW09 Choreography Director",
+			"name": "Choreography Director",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Spider Advisor",
-			"collector_number": "35",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/103.png"
 			}
 		},
 		{
-			"name": "UW10 Archon of Fettered Fate",
+			"name": "Archon of Fettered Fate",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Archon",
-			"collector_number": "36",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/104.png"
 			}
 		},
 		{
-			"name": "UW07 Enshrined Excellence",
+			"name": "Enshrined Excellence",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Knight Hero",
-			"collector_number": "33",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/105.png"
 			}
@@ -1093,13 +1093,13 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Battle — Stage",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/106.png"
 			}
 		},
 		{
-			"name": "UW13 Timely Resurrection",
+			"name": "Timely Resurrection",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
@@ -1109,41 +1109,41 @@
 			}
 		},
 		{
-			"name": "UW12 Meeting the Mentor",
+			"name": "Meeting the Mentor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "38",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/108.png"
 			}
 		},
 		{
-			"name": "UW15 Empty Throne",
+			"name": "Empty Throne",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact",
-			"collector_number": "41",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/109.png"
 			}
 		},
 		{
-			"name": "UW16 Storied Deed",
+			"name": "Storied Deed",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "42",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/110.png"
 			}
 		},
 		{
-			"name": "UW17 Hurried Edit",
+			"name": "Hurried Edit",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/111.png"
 			}
@@ -1153,17 +1153,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Faerie Rogue",
-			"collector_number": "73",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/112.png"
 			}
 		},
 		{
-			"name": "UG02 Shadow on the Stage",
+			"name": "Shadow on the Stage",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wraith Performer Hero",
-			"collector_number": "194",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/113.png"
 			}
@@ -1183,7 +1183,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Faerie Bard Hero",
-			"collector_number": "84",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/115.png"
 			}
@@ -1193,7 +1193,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Robot Wizard",
-			"collector_number": "82",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/116.png"
 			}
@@ -1203,7 +1203,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Dryad Shapeshifter",
-			"collector_number": "65",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/117.png"
 			}
@@ -1213,7 +1213,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Clown Hero",
-			"collector_number": "76",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/118.png"
 			}
@@ -1223,7 +1223,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Leviathan Hero",
-			"collector_number": "63",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/119.png"
 			}
@@ -1233,7 +1233,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "67",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/120.png"
 			}
@@ -1243,7 +1243,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/121.png"
 			}
@@ -1253,7 +1253,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/122.png"
 			}
@@ -1263,17 +1263,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Moth Noble Hero",
-			"collector_number": "69",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/123.png"
 			}
 		},
 		{
-			"name": "CU11 An Unexpected Journey",
+			"name": "An Unexpected Journey",
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/124.png"
 			}
@@ -1283,7 +1283,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/125.png"
 			}
@@ -1293,7 +1293,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "77",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1310,7 +1310,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment Artifact",
-			"collector_number": "71",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/127.png"
 			}
@@ -1320,7 +1320,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "47",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1333,81 +1333,81 @@
 			}
 		},
 		{
-			"name": "UW04 Sombergaunt",
+			"name": "Sombergaunt",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dryad Cleric",
-			"collector_number": "30",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/129.png"
 			}
 		},
 		{
-			"name": "CB02 Smelted Wight",
+			"name": "Smelted Wight",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Construct Demon",
-			"collector_number": "92",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/130.png"
 			}
 		},
 		{
-			"name": "UB03 Defiant Dreamer",
+			"name": "Defiant Dreamer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Performer Hero",
-			"collector_number": "114",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/131.png"
 			}
 		},
 		{
-			"name": "UB04 Chained Flensefang",
+			"name": "Chained Flensefang",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror Dog",
-			"collector_number": "115",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/132.png"
 			}
 		},
 		{
-			"name": "CB05 Audacious Auditioner",
+			"name": "Audacious Auditioner",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Rogue Hero",
-			"collector_number": "95",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/133.png"
 			}
 		},
 		{
-			"name": "UG06 Light-Eater Servant",
+			"name": "Light-Eater Servant",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Construct Warlock",
-			"collector_number": "198",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/134.png"
 			}
 		},
 		{
-			"name": "CB07 Outer Court Marksman",
+			"name": "Outer Court Marksman",
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Bird Archer",
-			"collector_number": "97",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/135.png"
 			}
 		},
 		{
-			"name": "UB08 Senior Editor",
+			"name": "Senior Editor",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire Advisor",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/136.png"
 			}
@@ -1417,57 +1417,57 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Artifact Creature — Construct Bird",
-			"collector_number": "107",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/137.png"
 			}
 		},
 		{
-			"name": "UB10 Mouldering Hour",
+			"name": "Mouldering Hour",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/138.png"
 			}
 		},
 		{
-			"name": "UB11 Turn to Ink",
+			"name": "Turn to Ink",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/139.png"
 			}
 		},
 		{
-			"name": "UB12 Cut the Curtain",
+			"name": "Cut the Curtain",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "122",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/140.png"
 			}
 		},
 		{
-			"name": "UB13 Return with the Elixir",
+			"name": "Return with the Elixir",
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "123",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/141.png"
 			}
 		},
 		{
-			"name": "UB14 Festering Secrets",
+			"name": "Festering Secrets",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "124",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/142.png"
 			}
@@ -1477,17 +1477,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Battle — Stage",
-			"collector_number": "89",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/143.png"
 			}
 		},
 		{
-			"name": "UB16 Consumed by Branches",
+			"name": "Consumed by Branches",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "100",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1504,17 +1504,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Elf Skeleton Hero Villain",
-			"collector_number": "25",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/145.png"
 			}
 		},
 		{
-			"name": "RR01 Mosa, Renegade Star",
+			"name": "Mosa, Renegade Star",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Elf Rebel Hero",
-			"collector_number": "162",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/146.png"
 			}
@@ -1524,7 +1524,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Zombie Soldier Hero",
-			"collector_number": "152",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/147.png"
 			}
@@ -1534,7 +1534,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "166",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/148.png"
 			}
@@ -1544,7 +1544,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment Creature — Spirit Ogre",
-			"collector_number": "138",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/149.png"
 			}
@@ -1554,17 +1554,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Treefolk Wizard",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/150.png"
 			}
 		},
 		{
-			"name": "UB06 Steeltouched Star",
+			"name": "Steeltouched Star",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Knight Hero",
-			"collector_number": "117",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/151.png"
 			}
@@ -1574,7 +1574,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/152.png"
 			}
@@ -1584,7 +1584,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Dryad Warrior",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/153.png"
 			}
@@ -1594,7 +1594,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Performer Warlock",
-			"collector_number": "168",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/154.png"
 			}
@@ -1604,7 +1604,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Battle — Stage",
-			"collector_number": "155",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/155.png"
 			}
@@ -1614,7 +1614,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/156.png"
 			}
@@ -1624,7 +1624,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/157.png"
 			}
@@ -1634,17 +1634,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "160",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/158.png"
 			}
 		},
 		{
-			"name": "RR06 War Like Wine",
+			"name": "War Like Wine",
 			"rarity": "rare",
-			"mana_cost": "{3}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "163",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/159.png"
 			}
@@ -1654,7 +1654,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "151",
+			"collector_number": "141",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1671,17 +1671,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "134",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/161.png"
 			}
 		},
 		{
-			"name": "UG01 Courtbound Impudent",
+			"name": "Courtbound Impudent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Orc Shaman",
-			"collector_number": "193",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/162.png"
 			}
@@ -1691,23 +1691,23 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Spirit Hero",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/163.png"
 			}
 		},
 		{
-			"name": "UG03 Living Altar",
+			"name": "Living Altar",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Skeleton Cleric",
-			"collector_number": "195",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/164.png"
 			}
 		},
 		{
-			"name": "UG04 Seneschal of Turnings",
+			"name": "Seneschal of Turnings",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Elf Spirit Noble",
@@ -1717,11 +1717,11 @@
 			}
 		},
 		{
-			"name": "UG05 Mottlecloth Sneak",
+			"name": "Mottlecloth Sneak",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "197",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/166.png"
 			}
@@ -1731,63 +1731,63 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Bird Performer Hero",
-			"collector_number": "167",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/167.png"
 			}
 		},
 		{
-			"name": "UG07 Tabula Rata",
+			"name": "Tabula Rata",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Rat Hero",
-			"collector_number": "199",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/168.png"
 			}
 		},
 		{
-			"name": "UG08 Sunken Stainsucker",
+			"name": "Sunken Stainsucker",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Serpent",
-			"collector_number": "200",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/169.png"
 			}
 		},
 		{
-			"name": "UG09 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "201",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/170.png"
 			}
 		},
 		{
-			"name": "UG10 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "202",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/171.png"
 			}
 		},
 		{
-			"name": "UG11 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "203",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/172.png"
 			}
 		},
 		{
-			"name": "UG12 Taking the Plunge",
+			"name": "Taking the Plunge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Episode",
@@ -1797,11 +1797,11 @@
 			}
 		},
 		{
-			"name": "RG08 Vibrant Setdressing",
+			"name": "Vibrant Setdressing",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "190",
+			"collector_number": "208",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1814,11 +1814,11 @@
 			}
 		},
 		{
-			"name": "UG14 Crossing the Threshold",
+			"name": "Crossing the Threshold",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "206",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/175.png"
 			}
@@ -1828,27 +1828,27 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Stage",
-			"collector_number": "185",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/176.png"
 			}
 		},
 		{
-			"name": "UG16 Valor's Rest",
+			"name": "Valor's Rest",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/177.png"
 			}
 		},
 		{
-			"name": "UG17 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "209",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/178.png"
 			}
@@ -1858,7 +1858,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Legendary Creature — Bird Noble Hero",
-			"collector_number": "257",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/179.png"
 			}
@@ -1868,7 +1868,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Detective Hero",
-			"collector_number": "219",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/180.png"
 			}
@@ -1878,7 +1878,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "228",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/181.png"
 			}
@@ -1888,7 +1888,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Skeleton Warrior Hero",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/182.png"
 			}
@@ -1898,7 +1898,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Artifact Creature — Robot Hero",
-			"collector_number": "225",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/183.png"
 			}
@@ -1924,11 +1924,11 @@
 			}
 		},
 		{
-			"name": "CZ02 Autumn's Emissary",
+			"name": "Autumn's Emissary",
 			"rarity": "common",
 			"mana_cost": "{B/G}{B/G}",
 			"type": "Creature — Elk Spirit Horror",
-			"collector_number": "247",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/186.png"
 			}
@@ -1938,7 +1938,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
-			"collector_number": "216",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/187.png"
 			}
@@ -1958,7 +1958,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/W}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "244",
+			"collector_number": "245",
 			"back": {
 				"name": "",
 				"type": "",
@@ -1975,7 +1975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Creature — Elemental Hero",
-			"collector_number": "260",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/190.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "256",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/191.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "215",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/192.png"
 			}
@@ -2005,7 +2005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}{R/G}{R/G}",
 			"type": "Enchantment Creature — Spirit Ogre",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/193.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Enchantment — Episode",
-			"collector_number": "262",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/194.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "258",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/195.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Artifact Creature — Cyborg Artificer",
-			"collector_number": "254",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/196.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Dryad Cleric",
-			"collector_number": "224",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/197.png"
 			}
@@ -2055,13 +2055,13 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/B}{U/B}",
 			"type": "Creature — Demon Performer",
-			"collector_number": "263",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/198.png"
 			}
 		},
 		{
-			"name": "UA01 Poster Child",
+			"name": "Poster Child",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Toy Hero",
@@ -2081,21 +2081,21 @@
 			}
 		},
 		{
-			"name": "UA03 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "272",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/201.png"
 			}
 		},
 		{
-			"name": "UL01 Noncreature",
+			"name": "Noncreature",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "294",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/202.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Skeleton Scout",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/204.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Enchantment Creature — Spirit Hero",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/206.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Legendary Creature — Elemental Bringer",
-			"collector_number": "6",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/207.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment — Episode",
-			"collector_number": "88",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/208.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "42",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2188,11 +2188,11 @@
 			}
 		},
 		{
-			"name": "UW14 Hallowed Intermission",
+			"name": "Hallowed Intermission",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "40",
+			"collector_number": "20",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2209,7 +2209,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Artifact",
-			"collector_number": "21",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/212.png"
 			}
@@ -2219,7 +2219,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Advisor Hero",
-			"collector_number": "223",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/213.png"
 			}
@@ -2229,7 +2229,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Bird Hero",
-			"collector_number": "68",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/214.png"
 			}
@@ -2239,7 +2239,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "83",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/215.png"
 			}
@@ -2259,7 +2259,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Legendary Artifact Creature — Robot Bringer",
-			"collector_number": "48",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/217.png"
 			}
@@ -2269,7 +2269,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Skeleton Advisor",
-			"collector_number": "77",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/218.png"
 			}
@@ -2279,7 +2279,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Battle — Stage",
-			"collector_number": "74",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/219.png"
 			}
@@ -2289,7 +2289,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Rogue Hero",
-			"collector_number": "61",
+			"collector_number": "52",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/220.png"
 			}
@@ -2299,7 +2299,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "108",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/221.png"
 			}
@@ -2309,17 +2309,17 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment Creature — Spirit Advisor",
-			"collector_number": "111",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/222.png"
 			}
 		},
 		{
-			"name": "UB15 Ancient Compact",
+			"name": "Ancient Compact",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
-			"collector_number": "125",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/223.png"
 			}
@@ -2329,17 +2329,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Episode",
-			"collector_number": "110",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/224.png"
 			}
 		},
 		{
-			"name": "UB17 Climactic Moment",
+			"name": "Climactic Moment",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "99",
 			"back": {
 				"name": "",
 				"type": "",
@@ -2356,7 +2356,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Incarnation Hero",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/226.png"
 			}
@@ -2366,7 +2366,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Bard Hero",
-			"collector_number": "164",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/227.png"
 			}
@@ -2376,7 +2376,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "165",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/228.png"
 			}
@@ -2386,7 +2386,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Performer Hero",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/229.png"
 			}
@@ -2396,7 +2396,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "169",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/230.png"
 			}
@@ -2406,7 +2406,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Horror Bringer",
-			"collector_number": "136",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/231.png"
 			}
@@ -2416,7 +2416,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Human Peasant Hero",
-			"collector_number": "153",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/232.png"
 			}
@@ -2426,17 +2426,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment Creature — Human Advisor",
-			"collector_number": "137",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/233.png"
 			}
 		},
 		{
-			"name": "RG01 Tendergaunt",
+			"name": "Tendergaunt",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad Spirit",
-			"collector_number": "187",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/234.png"
 			}
@@ -2446,27 +2446,27 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Spirit Soldier",
-			"collector_number": "192",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/235.png"
 			}
 		},
 		{
-			"name": "RG03 Medium Creature",
+			"name": "Medium Creature",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "188",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/236.png"
 			}
 		},
 		{
-			"name": "UG15 Medium Creature",
+			"name": "Medium Creature",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "207",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/237.png"
 			}
@@ -2476,7 +2476,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Legendary Creature — Human Bringer",
-			"collector_number": "172",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/238.png"
 			}
@@ -2486,27 +2486,27 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Episode",
-			"collector_number": "191",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/239.png"
 			}
 		},
 		{
-			"name": "RG07 Will of the Wild",
+			"name": "Will of the Wild",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "189",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/240.png"
 			}
 		},
 		{
-			"name": "UG13 Into the Hollows",
+			"name": "Into the Hollows",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "205",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/241.png"
 			}
@@ -2516,19 +2516,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{1}{G}{W}",
 			"type": "Legendary Creature — Goblin Noble Hero",
-			"collector_number": "221",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/242.png"
-			}
-		},
-		{
-			"name": "RMUR Unwrite",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Instant",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/243.png"
 			}
 		},
 		{
@@ -2538,7 +2528,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/244.png"
+				"en": "https://MSEhub/sets/AJY-files/img/243.png"
 			}
 		},
 		{
@@ -2546,9 +2536,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Archer Hero",
-			"collector_number": "232",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/245.png"
+				"en": "https://MSEhub/sets/AJY-files/img/244.png"
 			}
 		},
 		{
@@ -2556,9 +2546,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment Creature — Avatar Wurm",
-			"collector_number": "227",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/246.png"
+				"en": "https://MSEhub/sets/AJY-files/img/245.png"
 			}
 		},
 		{
@@ -2568,7 +2558,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/247.png"
+				"en": "https://MSEhub/sets/AJY-files/img/246.png"
 			}
 		},
 		{
@@ -2576,9 +2566,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "230",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/248.png"
+				"en": "https://MSEhub/sets/AJY-files/img/247.png"
 			}
 		},
 		{
@@ -2586,9 +2576,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Advisor Performer",
-			"collector_number": "218",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/249.png"
+				"en": "https://MSEhub/sets/AJY-files/img/248.png"
 			}
 		},
 		{
@@ -2598,7 +2588,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/250.png"
+				"en": "https://MSEhub/sets/AJY-files/img/249.png"
 			}
 		},
 		{
@@ -2606,9 +2596,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Elk Incarnation",
-			"collector_number": "229",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/251.png"
+				"en": "https://MSEhub/sets/AJY-files/img/250.png"
 			}
 		},
 		{
@@ -2616,9 +2606,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Enchantment Creature — Avatar Hero",
-			"collector_number": "231",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/252.png"
+				"en": "https://MSEhub/sets/AJY-files/img/251.png"
 			}
 		},
 		{
@@ -2626,9 +2616,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Horror Noble",
-			"collector_number": "214",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/253.png"
+				"en": "https://MSEhub/sets/AJY-files/img/252.png"
 			}
 		},
 		{
@@ -2638,7 +2628,7 @@
 			"type": "Legendary Creature — Bird Dragon",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/254.png"
+				"en": "https://MSEhub/sets/AJY-files/img/253.png"
 			}
 		},
 		{
@@ -2646,9 +2636,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Elemental Advisor Performer",
-			"collector_number": "233",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/255.png"
+				"en": "https://MSEhub/sets/AJY-files/img/254.png"
 			}
 		},
 		{
@@ -2658,7 +2648,7 @@
 			"type": "Legendary Creature — Dwarf Knight",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/256.png"
+				"en": "https://MSEhub/sets/AJY-files/img/255.png"
 			}
 		},
 		{
@@ -2668,17 +2658,17 @@
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/257.png"
+				"en": "https://MSEhub/sets/AJY-files/img/256.png"
 			}
 		},
 		{
-			"name": "RMUG LargeWall Creature",
+			"name": "Physt, Company Curator",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature",
-			"collector_number": "234",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/258.png"
+				"en": "https://MSEhub/sets/AJY-files/img/257.png"
 			}
 		},
 		{
@@ -2686,19 +2676,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Cave",
-			"collector_number": "284",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/259.png"
+				"en": "https://MSEhub/sets/AJY-files/img/258.png"
 			}
 		},
 		{
-			"name": "RL02 Small Creature",
+			"name": "Small Creature",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land Creature",
-			"collector_number": "289",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/260.png"
+				"en": "https://MSEhub/sets/AJY-files/img/259.png"
 			}
 		},
 		{
@@ -2706,9 +2696,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/261.png"
+				"en": "https://MSEhub/sets/AJY-files/img/260.png"
 			}
 		},
 		{
@@ -2716,9 +2706,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/262.png"
+				"en": "https://MSEhub/sets/AJY-files/img/261.png"
 			}
 		},
 		{
@@ -2728,7 +2718,7 @@
 			"type": "Land",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/263.png"
+				"en": "https://MSEhub/sets/AJY-files/img/262.png"
 			}
 		},
 		{
@@ -2736,9 +2726,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/264.png"
+				"en": "https://MSEhub/sets/AJY-files/img/263.png"
 			}
 		},
 		{
@@ -2746,9 +2736,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/265.png"
+				"en": "https://MSEhub/sets/AJY-files/img/264.png"
 			}
 		},
 		{
@@ -2756,9 +2746,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Enchantment Creature — Hero",
-			"collector_number": "128",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/266.png"
+				"en": "https://MSEhub/sets/AJY-files/img/265.png"
 			}
 		},
 		{
@@ -2766,9 +2756,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{U}",
 			"type": "Legendary Planeswalker — Eni",
-			"collector_number": "217",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/267.png"
+				"en": "https://MSEhub/sets/AJY-files/img/266.png"
 			}
 		},
 		{
@@ -2776,9 +2766,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Legendary Planeswalker — Perennia",
-			"collector_number": "24",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/268.png"
+				"en": "https://MSEhub/sets/AJY-files/img/267.png"
 			}
 		},
 		{
@@ -2786,9 +2776,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "66",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/269.png"
+				"en": "https://MSEhub/sets/AJY-files/img/268.png"
 			}
 		},
 		{
@@ -2796,9 +2786,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Creature — Spirit Shaman",
-			"collector_number": "70",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/270.png"
+				"en": "https://MSEhub/sets/AJY-files/img/269.png"
 			}
 		},
 		{
@@ -2806,9 +2796,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Winter",
-			"collector_number": "72",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/271.png"
+				"en": "https://MSEhub/sets/AJY-files/img/270.png"
 			}
 		},
 		{
@@ -2816,9 +2806,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Planeswalker — Manque",
-			"collector_number": "222",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/272.png"
+				"en": "https://MSEhub/sets/AJY-files/img/271.png"
 			}
 		},
 		{
@@ -2826,9 +2816,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Dryad Horror",
-			"collector_number": "109",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/273.png"
+				"en": "https://MSEhub/sets/AJY-files/img/272.png"
 			}
 		},
 		{
@@ -2836,19 +2826,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Autumn",
-			"collector_number": "105",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/274.png"
+				"en": "https://MSEhub/sets/AJY-files/img/273.png"
 			}
 		},
 		{
-			"name": "MR02 Pint-Sized Penstrel",
+			"name": "Pint-Sized Penstrel",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elf Advisor Inkling",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/275.png"
+				"en": "https://MSEhub/sets/AJY-files/img/274.png"
 			}
 		},
 		{
@@ -2856,29 +2846,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Planeswalker — Summer",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://MSEhub/sets/AJY-files/img/275.png"
+			}
+		},
+		{
+			"name": "Noncreature",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}",
+			"type": "",
 			"collector_number": "154",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/276.png"
 			}
 		},
 		{
-			"name": "MR04 Noncreature",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}",
-			"type": "",
-			"collector_number": "158",
-			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/277.png"
-			}
-		},
-		{
-			"name": "MR05 Passioned Pair",
+			"name": "Passioned Pair",
 			"rarity": "mythic",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Faerie Vampire Performer",
-			"collector_number": "159",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/278.png"
+				"en": "https://MSEhub/sets/AJY-files/img/277.png"
 			}
 		},
 		{
@@ -2886,9 +2876,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Planeswalker — Spring",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/279.png"
+				"en": "https://MSEhub/sets/AJY-files/img/278.png"
 			}
 		},
 		{
@@ -2898,47 +2888,47 @@
 			"type": "Legendary Planeswalker — Jane",
 			"collector_number": "211",
 			"image_uris": {
+				"en": "https://MSEhub/sets/AJY-files/img/279.png"
+			}
+		},
+		{
+			"name": "Caetel, Old Mother",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}{R}{G}",
+			"type": "Legendary Creature — God",
+			"collector_number": "213",
+			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/280.png"
 			}
 		},
 		{
-			"name": "MM02 Caetel, Old Mother",
+			"name": "LargeWall Creature",
 			"rarity": "mythic",
-			"mana_cost": "{U}{B}{R}{G}",
-			"type": "Legendary Creature — God",
-			"collector_number": "226",
+			"mana_cost": "",
+			"type": "Artifact Creature",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/281.png"
 			}
 		},
 		{
-			"name": "MA01 LargeWall Creature",
+			"name": "Noncreature",
 			"rarity": "mythic",
 			"mana_cost": "",
-			"type": "Artifact Creature",
+			"type": "Artifact",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/282.png"
 			}
 		},
 		{
-			"name": "MA02 Noncreature",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Artifact",
-			"collector_number": "267",
-			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/283.png"
-			}
-		},
-		{
-			"name": "MA03 Noncreature",
+			"name": "Noncreature",
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Artifact",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/284.png"
+				"en": "https://MSEhub/sets/AJY-files/img/283.png"
 			}
 		},
 		{
@@ -2948,7 +2938,7 @@
 			"type": "Creature — Treefolk Horror",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/285.png"
+				"en": "https://MSEhub/sets/AJY-files/img/284.png"
 			}
 		},
 		{
@@ -2956,9 +2946,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wraith",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/286.png"
+				"en": "https://MSEhub/sets/AJY-files/img/285.png"
 			}
 		},
 		{
@@ -2966,9 +2956,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/287.png"
+				"en": "https://MSEhub/sets/AJY-files/img/286.png"
 			}
 		},
 		{
@@ -2978,17 +2968,17 @@
 			"type": "Token Creature — Human Horror",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/288.png"
+				"en": "https://MSEhub/sets/AJY-files/img/287.png"
 			}
 		},
 		{
-			"name": "CG02 Splintereater",
+			"name": "Splintereater",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Demon Spirit",
-			"collector_number": "174",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/289.png"
+				"en": "https://MSEhub/sets/AJY-files/img/288.png"
 			}
 		},
 		{
@@ -2996,9 +2986,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Spirit Ogre",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/290.png"
+				"en": "https://MSEhub/sets/AJY-files/img/289.png"
 			}
 		},
 		{
@@ -3006,9 +2996,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Golem Wizard",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/291.png"
+				"en": "https://MSEhub/sets/AJY-files/img/290.png"
 			}
 		},
 		{
@@ -3016,9 +3006,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Horror",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/292.png"
+				"en": "https://MSEhub/sets/AJY-files/img/291.png"
 			}
 		},
 		{
@@ -3026,9 +3016,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Planeswalker — Weft",
-			"collector_number": "220",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/293.png"
+				"en": "https://MSEhub/sets/AJY-files/img/292.png"
 			}
 		},
 		{
@@ -3036,9 +3026,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Legendary Creature — Dryad Bringer",
-			"collector_number": "90",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/294.png"
+				"en": "https://MSEhub/sets/AJY-files/img/293.png"
 			}
 		},
 		{
@@ -3046,9 +3036,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rat Soldier",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/295.png"
+				"en": "https://MSEhub/sets/AJY-files/img/294.png"
 			}
 		},
 		{
@@ -3058,7 +3048,7 @@
 			"type": "Token Creature — Bird Hero",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/296.png"
+				"en": "https://MSEhub/sets/AJY-files/img/295.png"
 			}
 		},
 		{
@@ -3068,7 +3058,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/297.png"
+				"en": "https://MSEhub/sets/AJY-files/img/296.png"
 			}
 		},
 		{
@@ -3078,7 +3068,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "298",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/298.png"
+				"en": "https://MSEhub/sets/AJY-files/img/297.png"
 			}
 		},
 		{
@@ -3088,7 +3078,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "299",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/299.png"
+				"en": "https://MSEhub/sets/AJY-files/img/298.png"
 			}
 		},
 		{
@@ -3098,7 +3088,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "300",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/300.png"
+				"en": "https://MSEhub/sets/AJY-files/img/299.png"
 			}
 		},
 		{
@@ -3108,7 +3098,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "301",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/301.png"
+				"en": "https://MSEhub/sets/AJY-files/img/300.png"
 			}
 		},
 		{
@@ -3116,9 +3106,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment — Episode",
-			"collector_number": "19",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/302.png"
+				"en": "https://MSEhub/sets/AJY-files/img/301.png"
 			}
 		},
 		{
@@ -3126,16 +3116,16 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "62",
+			"collector_number": "53",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/303_back.png"
+					"en": "https://MSEhub/sets/AJY-files/img/302_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/303_front.png"
+				"en": "https://MSEhub/sets/AJY-files/img/302_front.png"
 			}
 		},
 		{
@@ -3143,9 +3133,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/304.png"
+				"en": "https://MSEhub/sets/AJY-files/img/303.png"
 			}
 		},
 		{
@@ -3153,9 +3143,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Enchantment Creature — Hero",
-			"collector_number": "156",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/305.png"
+				"en": "https://MSEhub/sets/AJY-files/img/304.png"
 			}
 		},
 		{
@@ -3163,9 +3153,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "186",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/306.png"
+				"en": "https://MSEhub/sets/AJY-files/img/305.png"
 			}
 		},
 		{
@@ -3175,7 +3165,7 @@
 			"type": "Token Creature — Reflection Hero",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/307.png"
+				"en": "https://MSEhub/sets/AJY-files/img/306.png"
 			}
 		},
 		{
@@ -3183,9 +3173,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/308.png"
+				"en": "https://MSEhub/sets/AJY-files/img/307.png"
 			}
 		},
 		{
@@ -3195,7 +3185,7 @@
 			"type": "Token Creature — Treefolk Soldier",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/309.png"
+				"en": "https://MSEhub/sets/AJY-files/img/308.png"
 			}
 		},
 		{
@@ -3205,7 +3195,7 @@
 			"type": "Token Creature — Hero",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/310.png"
+				"en": "https://MSEhub/sets/AJY-files/img/309.png"
 			}
 		},
 		{
@@ -3215,7 +3205,7 @@
 			"type": "Token Creature — Warlock",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/311.png"
+				"en": "https://MSEhub/sets/AJY-files/img/310.png"
 			}
 		},
 		{
@@ -3223,9 +3213,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/312.png"
+				"en": "https://MSEhub/sets/AJY-files/img/311.png"
 			}
 		},
 		{
@@ -3233,9 +3223,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wurm Hero",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/313.png"
+				"en": "https://MSEhub/sets/AJY-files/img/312.png"
 			}
 		},
 		{
@@ -3243,16 +3233,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "108",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/314_back.png"
+					"en": "https://MSEhub/sets/AJY-files/img/313_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/314_front.png"
+				"en": "https://MSEhub/sets/AJY-files/img/313_front.png"
 			}
 		},
 		{
@@ -3262,7 +3252,7 @@
 			"type": "Token Creature — Samurai Warlock",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/315.png"
+				"en": "https://MSEhub/sets/AJY-files/img/314.png"
 			}
 		},
 		{
@@ -3272,7 +3262,7 @@
 			"type": "Token Creature — Detective",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/316.png"
+				"en": "https://MSEhub/sets/AJY-files/img/315.png"
 			}
 		},
 		{
@@ -3280,9 +3270,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/317.png"
+				"en": "https://MSEhub/sets/AJY-files/img/316.png"
 			}
 		},
 		{
@@ -3290,9 +3280,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/318.png"
+				"en": "https://MSEhub/sets/AJY-files/img/317.png"
 			}
 		},
 		{
@@ -3300,9 +3290,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/319.png"
+				"en": "https://MSEhub/sets/AJY-files/img/318.png"
 			}
 		},
 		{
@@ -3310,9 +3300,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/320.png"
+				"en": "https://MSEhub/sets/AJY-files/img/319.png"
 			}
 		},
 		{
@@ -3320,9 +3310,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "78",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/321.png"
+				"en": "https://MSEhub/sets/AJY-files/img/320.png"
 			}
 		},
 		{
@@ -3330,9 +3320,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/322.png"
+				"en": "https://MSEhub/sets/AJY-files/img/321.png"
 			}
 		},
 		{
@@ -3342,7 +3332,7 @@
 			"type": "Token Creature — Noble",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/323.png"
+				"en": "https://MSEhub/sets/AJY-files/img/322.png"
 			}
 		},
 		{
@@ -3350,9 +3340,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Artifact",
-			"collector_number": "135",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://MSEhub/sets/AJY-files/img/323.png"
+			}
+		},
+		{
+			"name": "Cass and Nettles, Editors",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Elf Cat Advisor Hero",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/324.png"
+			}
+		},
+		{
+			"name": "Demon Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Demon Knight",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://MSEhub/sets/AJY-files/img/325.png"
 			}
 		}
 	]
@@ -3361,11 +3371,11 @@
 	2 Greyvale Township
 	2 Bantrel Vale
 	2 Unlikely Compatriots
-	2 RR01 Mosa, Renegade Star
+	2 Mosa, Renegade Star
 	2 A Champion's Reward
 	2 Fields of Astinwhay
-	2 RR06 War Like Wine
-	2 RG08 Vibrant Setdressing
+	2 War Like Wine
+	2 Vibrant Setdressing
 	2 The Elder Reaches
 	2 Vōs, Company Courier
 	2 Ambitious Aspirant
@@ -3390,14 +3400,13 @@
 	2 Alder Jane, Leading Lady
 	2 Summer Outshines the Godmind
 	2 Bringer of a New Summer
-	2 RG01 Tendergaunt
+	2 Tendergaunt
 	2 Steward of Solstices
-	2 RG03 Medium Creature
+	2 Medium Creature
 	2 Bringer of a New Spring
 	2 Spring Conquers the Cavalcade
-	2 RG07 Will of the Wild
+	2 Will of the Wild
 	2 Lord Tyto Bonsíc
-	2 RMUR Unwrite
 	2 RMWB Kniles, Chancellor of Thorns
 	2 RMRW Greyvale Prodigy
 	2 Plothole Tunneler
@@ -3412,9 +3421,9 @@
 	2 RMUB Dramatic Oracle
 	2 Tuolor, Steel Commander
 	2 Splendid Inspiration
-	2 RMUG LargeWall Creature
+	2 Physt, Company Curator
 	2 The Inmost Cave
-	2 RL02 Small Creature
+	2 Small Creature
 	2 Inspiring Scene
 	2 Mysterious Scene
 	2 Ancient Scene
@@ -3429,16 +3438,16 @@
 	1 Manque, Shifting Spotlight
 	1 Sorrowgaunt
 	1 Hollow Autumn
-	2 MR02 Pint-Sized Penstrel
+	2 Pint-Sized Penstrel
 	1 Fair Summer
-	1 MR04 Noncreature
-	1 MR05 Passioned Pair
+	1 Noncreature
+	1 Passioned Pair
 	1 Vile Spring
 	1 Alder Jane, Talewright
-	1 MM02 Caetel, Old Mother
-	1 MA01 LargeWall Creature
-	1 MA02 Noncreature
-	1 MA03 Noncreature
+	1 Caetel, Old Mother
+	1 LargeWall Creature
+	1 Noncreature
+	1 Noncreature
 	1 The Itinerant Weft
 	2 Bringer of a New Autumn
 	2 Endless Day of Dominion
@@ -3449,31 +3458,32 @@
 	2 Myth of Awakening
 	2 Kill Your Darlings
 	2 Preserve the Script
+	2 Cass and Nettles, Editors
 [uncommon(3)]
 	4 Out of the Puzzlebox
-	4 UB02 Blossoming Thing
-	4 UB07 Unrelenting Pursuer
-	4 UB05 Bounty of Bantrel
+	4 Blossoming Thing
+	4 Unrelenting Pursuer
+	4 Bounty of Bantrel
 	4 Feastkeeper
 	4 Scrapped Setting
-	4 UW01 Captain of Ceremony
-	4 UW02 Marie, Rookery's Daughter
-	4 UB01 Brooding Star
-	4 UW03 Spotlight Soul
-	4 UW11 Second Chances
-	4 UW06 Splintered Chorus
-	4 UW08 Fae Bladesinger
-	4 UW05 Confident Lead
-	4 UW09 Choreography Director
-	4 UW10 Archon of Fettered Fate
-	4 UW07 Enshrined Excellence
-	4 UW13 Timely Resurrection
-	4 UW12 Meeting the Mentor
-	4 UW15 Empty Throne
-	4 UW16 Storied Deed
-	4 UW17 Hurried Edit
+	4 Captain of Ceremony
+	4 Marie, Rookery's Daughter
+	4 Brooding Star
+	4 Spotlight Soul
+	4 Second Chances
+	4 Splintered Chorus
+	4 Fae Bladesinger
+	4 Confident Lead
+	4 Choreography Director
+	4 Archon of Fettered Fate
+	4 Enshrined Excellence
+	4 Timely Resurrection
+	4 Meeting the Mentor
+	4 Empty Throne
+	4 Storied Deed
+	4 Hurried Edit
 	4 Kingslayer Sisters
-	4 UG02 Shadow on the Stage
+	4 Shadow on the Stage
 	4 Winter's Handmaiden
 	4 Traveling Players
 	4 Sentinel of Old Intria
@@ -3488,23 +3498,23 @@
 	4 Reject Your Creation
 	4 Inkwell Monolith
 	4 Astrotechnics
-	4 UW04 Sombergaunt
-	4 UB03 Defiant Dreamer
-	4 UB04 Chained Flensefang
-	4 UG06 Light-Eater Servant
-	4 UB08 Senior Editor
+	4 Sombergaunt
+	4 Defiant Dreamer
+	4 Chained Flensefang
+	4 Light-Eater Servant
+	4 Senior Editor
 	4 Nibs, Lexyrinth Keeper
-	4 UB10 Mouldering Hour
-	4 UB11 Turn to Ink
-	4 UB12 Cut the Curtain
-	4 UB13 Return with the Elixir
-	4 UB14 Festering Secrets
-	4 UB16 Consumed by Branches
+	4 Mouldering Hour
+	4 Turn to Ink
+	4 Cut the Curtain
+	4 Return with the Elixir
+	4 Festering Secrets
+	4 Consumed by Branches
 	4 Eager Deathless
 	4 Shackled Summer Skies
 	4 Cindrel Wight
 	4 Awoken in Ash
-	4 UB06 Steeltouched Star
+	4 Steeltouched Star
 	4 Bantrel Reveller
 	4 Subsumed Stagehand
 	4 Wolf at the Gates
@@ -3512,21 +3522,21 @@
 	4 Orrin's Ordeal
 	4 Deflagrate
 	4 Blooming Aspirant
-	4 UG01 Courtbound Impudent
+	4 Courtbound Impudent
 	4 Blossoming Archetype
-	4 UG03 Living Altar
-	4 UG04 Seneschal of Turnings
-	4 UG05 Mottlecloth Sneak
+	4 Living Altar
+	4 Seneschal of Turnings
+	4 Mottlecloth Sneak
 	4 Stagework Trainers
-	4 UG07 Tabula Rata
-	4 UG08 Sunken Stainsucker
-	4 UG09 Noncreature
-	4 UG10 Noncreature
-	4 UG11 Noncreature
-	4 UG12 Taking the Plunge
-	4 UG14 Crossing the Threshold
-	4 UG16 Valor's Rest
-	4 UG17 Noncreature
+	4 Tabula Rata
+	4 Sunken Stainsucker
+	4 Noncreature
+	4 Noncreature
+	4 Noncreature
+	4 Taking the Plunge
+	4 Crossing the Threshold
+	4 Valor's Rest
+	4 Noncreature
 	4 Lord Malcolm Amantii
 	4 Inquisitor Tacen Flint
 	4 Premiere Night
@@ -3546,91 +3556,91 @@
 	4 Eldmetal Congregant
 	4 Mastergaunts
 	4 Revised Revenant
-	4 UA01 Poster Child
+	4 Poster Child
 	4 Ornate Invitation
-	4 UA03 Noncreature
-	4 UL01 Noncreature
-	4 UW14 Hallowed Intermission
-	4 UB15 Ancient Compact
-	4 UB17 Climactic Moment
+	4 Noncreature
+	4 Noncreature
+	4 Hallowed Intermission
+	4 Ancient Compact
+	4 Climactic Moment
 	4 Scoremaster
 	4 Seeking the Seasons
 	4 Enthralled Duo
 	4 Caller of Adventure
-	4 UG15 Medium Creature
-	4 UG13 Into the Hollows
+	4 Medium Creature
+	4 Into the Hollows
 	4 Bramble Bindings
 [common(6)]
-	8 CW01 Protector of the Ordinary
-	8 CW02 Blindseer
+	8 Protector of the Ordinary
+	8 Blindseer
 	8 Plucky Villager
-	8 CW04 Set the Stage
-	8 CW05 Polygaunt
-	8 CW06 Troubled Auditioner
-	8 CW07 Sorrowed Cavalier
-	8 CW08 Ancient Eyes
-	8 CW09 Exasperated Setdresser
-	8 CW10 Imperious Boon
-	8 CW11 Word of Unbeing
-	8 CW12 Light Through the Veil
-	8 CW13 Binding Serenade
-	8 CU01 Entranced Villagers
-	8 CU02 Lost Ascendant
-	8 CU03 Silverwing Companion
-	8 CU04 Iridium Muse
+	8 Set the Stage
+	8 Polygaunt
+	8 Troubled Auditioner
+	8 Sorrowed Cavalier
+	8 Ancient Eyes
+	8 Exasperated Setdresser
+	8 Imperious Boon
+	8 Word of Unbeing
+	8 Light Through the Veil
+	8 Binding Serenade
+	8 Entranced Villagers
+	8 Lost Ascendant
+	8 Silverwing Companion
+	8 Iridium Muse
 	8 Derrilyn Falconer
-	8 CU06 Wildwood Bonetwister
-	8 CU07 Erudite Watcher
-	8 CU08 Ascendant Talekeeper
-	8 CU09 Cryptic Omen
-	8 CU10 Refusal of the Call
-	8 CU12 Boreal Interdiction
-	8 CU13 Outer Court Communion
-	8 CB01 Wyndlepiper
-	8 CB03 Spire Echo
-	8 CB06 Profaned Elder
-	8 CB04 Decadent Scriptwriter
-	8 CB08 Bantrel Wood Stalker
-	8 CB09 Contract Concluded
-	8 CB10 Long Road Home
-	8 CB11 Sanguine Rupture
-	8 CB12 Bottom of the Inkwell
-	8 CB13 Premature End
-	8 CR01 Enthralled Acolyte
-	8 CR02 Bloodcaster Neophyte
-	8 CR03 Scriptkeeper
+	8 Wildwood Bonetwister
+	8 Erudite Watcher
+	8 Ascendant Talekeeper
+	8 Cryptic Omen
+	8 Refusal of the Call
+	8 Boreal Interdiction
+	8 Outer Court Communion
+	8 Wyndlepiper
+	8 Spire Echo
+	8 Profaned Elder
+	8 Decadent Scriptwriter
+	8 Bantrel Wood Stalker
+	8 Contract Concluded
+	8 Long Road Home
+	8 Sanguine Rupture
+	8 Bottom of the Inkwell
+	8 Premature End
+	8 Enthralled Acolyte
+	8 Bloodcaster Neophyte
+	8 Scriptkeeper
 	8 Rotwinder
-	8 CR05 Hollowed Archetype
-	8 CR06 Elder Soothsinger
-	8 CR07 Flenser Mob
-	8 CR08 Summer's Decommissioner
-	8 CR09 Pagepyre
-	8 CR10 A Brilliant Entrance
-	8 CR11 Wreath of Malevolence
-	8 CR12 Memory Blossom
-	8 CR13 A Fateful Journey
-	8 CG01 Lorn-Road Guide
-	8 CG03 Innercourt Matron
-	8 CG04 Auspicious Mushroom
-	8 CG05 Lorn-Road Falconer
-	8 CG06 Solemn Gladekeeper
-	8 CG07 Untroubled Vagabond
-	8 CG08 Pallid Glistener
-	8 CG10 Night's Clarity
-	8 CG11 A Cold Voice
-	8 CG12 Court the Corrupt
-	8 CG13 Burst of Mettle
-	8 CZ01 Witherlínd
-	8 CZ03 Winterbreath Cantor
+	8 Hollowed Archetype
+	8 Elder Soothsinger
+	8 Flenser Mob
+	8 Summer's Decommissioner
+	8 Pagepyre
+	8 A Brilliant Entrance
+	8 Wreath of Malevolence
+	8 Memory Blossom
+	8 A Fateful Journey
+	8 Lorn-Road Guide
+	8 Innercourt Matron
+	8 Auspicious Mushroom
+	8 Lorn-Road Falconer
+	8 Solemn Gladekeeper
+	8 Untroubled Vagabond
+	8 Pallid Glistener
+	8 Night's Clarity
+	8 A Cold Voice
+	8 Court the Corrupt
+	8 Burst of Mettle
+	8 Witherlínd
+	8 Winterbreath Cantor
 	8 Mutilated Strider
-	8 CZ05 Fated Figures
-	8 CZ06 Innercourt Mendress
+	8 Fated Figures
+	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 CZ08 Choir of Restoration
-	8 CZ09 Glamorous Herald
-	8 CZ10 Solemn Standby
-	8 CA01 Vested Script
-	8 CA02 Earthspike Annals
+	8 Choir of Restoration
+	8 Glamorous Herald
+	8 Solemn Standby
+	8 Vested Script
+	8 Earthspike Annals
 	8 Omenstones
 	8 Pallid Causeway
 	8 Effaced Cove
@@ -3642,91 +3652,91 @@
 	8 Unbidden Bog
 	8 Excoriated Swathe
 	8 Silenced Promontory
-	8 CL12 Noncreature
-	8 CL13 Noncreature
-	8 CL14 Noncreature
-	8 CL15 Noncreature
-	8 CL16 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
 	8 CX01 Noncreature
 	8 CX02 Noncreature
-	8 CU11 An Unexpected Journey
-	8 CB02 Smelted Wight
-	8 CB05 Audacious Auditioner
-	8 CB07 Outer Court Marksman
-	8 CZ02 Autumn's Emissary
+	8 An Unexpected Journey
+	8 Smelted Wight
+	8 Audacious Auditioner
+	8 Outer Court Marksman
+	8 Autumn's Emissary
 	8 UX01 Noncreature
-	8 CG02 Splintereater
+	8 Splintereater
 [common | masterpiece(1)]
-	8 CW01 Protector of the Ordinary
-	8 CW02 Blindseer
+	8 Protector of the Ordinary
+	8 Blindseer
 	8 Plucky Villager
-	8 CW04 Set the Stage
-	8 CW05 Polygaunt
-	8 CW06 Troubled Auditioner
-	8 CW07 Sorrowed Cavalier
-	8 CW08 Ancient Eyes
-	8 CW09 Exasperated Setdresser
-	8 CW10 Imperious Boon
-	8 CW11 Word of Unbeing
-	8 CW12 Light Through the Veil
-	8 CW13 Binding Serenade
-	8 CU01 Entranced Villagers
-	8 CU02 Lost Ascendant
-	8 CU03 Silverwing Companion
-	8 CU04 Iridium Muse
+	8 Set the Stage
+	8 Polygaunt
+	8 Troubled Auditioner
+	8 Sorrowed Cavalier
+	8 Ancient Eyes
+	8 Exasperated Setdresser
+	8 Imperious Boon
+	8 Word of Unbeing
+	8 Light Through the Veil
+	8 Binding Serenade
+	8 Entranced Villagers
+	8 Lost Ascendant
+	8 Silverwing Companion
+	8 Iridium Muse
 	8 Derrilyn Falconer
-	8 CU06 Wildwood Bonetwister
-	8 CU07 Erudite Watcher
-	8 CU08 Ascendant Talekeeper
-	8 CU09 Cryptic Omen
-	8 CU10 Refusal of the Call
-	8 CU12 Boreal Interdiction
-	8 CU13 Outer Court Communion
-	8 CB01 Wyndlepiper
-	8 CB03 Spire Echo
-	8 CB06 Profaned Elder
-	8 CB04 Decadent Scriptwriter
-	8 CB08 Bantrel Wood Stalker
-	8 CB09 Contract Concluded
-	8 CB10 Long Road Home
-	8 CB11 Sanguine Rupture
-	8 CB12 Bottom of the Inkwell
-	8 CB13 Premature End
-	8 CR01 Enthralled Acolyte
-	8 CR02 Bloodcaster Neophyte
-	8 CR03 Scriptkeeper
+	8 Wildwood Bonetwister
+	8 Erudite Watcher
+	8 Ascendant Talekeeper
+	8 Cryptic Omen
+	8 Refusal of the Call
+	8 Boreal Interdiction
+	8 Outer Court Communion
+	8 Wyndlepiper
+	8 Spire Echo
+	8 Profaned Elder
+	8 Decadent Scriptwriter
+	8 Bantrel Wood Stalker
+	8 Contract Concluded
+	8 Long Road Home
+	8 Sanguine Rupture
+	8 Bottom of the Inkwell
+	8 Premature End
+	8 Enthralled Acolyte
+	8 Bloodcaster Neophyte
+	8 Scriptkeeper
 	8 Rotwinder
-	8 CR05 Hollowed Archetype
-	8 CR06 Elder Soothsinger
-	8 CR07 Flenser Mob
-	8 CR08 Summer's Decommissioner
-	8 CR09 Pagepyre
-	8 CR10 A Brilliant Entrance
-	8 CR11 Wreath of Malevolence
-	8 CR12 Memory Blossom
-	8 CR13 A Fateful Journey
-	8 CG01 Lorn-Road Guide
-	8 CG03 Innercourt Matron
-	8 CG04 Auspicious Mushroom
-	8 CG05 Lorn-Road Falconer
-	8 CG06 Solemn Gladekeeper
-	8 CG07 Untroubled Vagabond
-	8 CG08 Pallid Glistener
-	8 CG10 Night's Clarity
-	8 CG11 A Cold Voice
-	8 CG12 Court the Corrupt
-	8 CG13 Burst of Mettle
-	8 CZ01 Witherlínd
-	8 CZ03 Winterbreath Cantor
+	8 Hollowed Archetype
+	8 Elder Soothsinger
+	8 Flenser Mob
+	8 Summer's Decommissioner
+	8 Pagepyre
+	8 A Brilliant Entrance
+	8 Wreath of Malevolence
+	8 Memory Blossom
+	8 A Fateful Journey
+	8 Lorn-Road Guide
+	8 Innercourt Matron
+	8 Auspicious Mushroom
+	8 Lorn-Road Falconer
+	8 Solemn Gladekeeper
+	8 Untroubled Vagabond
+	8 Pallid Glistener
+	8 Night's Clarity
+	8 A Cold Voice
+	8 Court the Corrupt
+	8 Burst of Mettle
+	8 Witherlínd
+	8 Winterbreath Cantor
 	8 Mutilated Strider
-	8 CZ05 Fated Figures
-	8 CZ06 Innercourt Mendress
+	8 Fated Figures
+	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 CZ08 Choir of Restoration
-	8 CZ09 Glamorous Herald
-	8 CZ10 Solemn Standby
-	8 CA01 Vested Script
-	8 CA02 Earthspike Annals
+	8 Choir of Restoration
+	8 Glamorous Herald
+	8 Solemn Standby
+	8 Vested Script
+	8 Earthspike Annals
 	8 Omenstones
 	8 Pallid Causeway
 	8 Effaced Cove
@@ -3738,96 +3748,96 @@
 	8 Unbidden Bog
 	8 Excoriated Swathe
 	8 Silenced Promontory
-	8 CL12 Noncreature
-	8 CL13 Noncreature
-	8 CL14 Noncreature
-	8 CL15 Noncreature
-	8 CL16 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
+	8 Noncreature
 	8 CX01 Noncreature
 	8 CX02 Noncreature
-	8 CU11 An Unexpected Journey
-	8 CB02 Smelted Wight
-	8 CB05 Audacious Auditioner
-	8 CB07 Outer Court Marksman
-	8 CZ02 Autumn's Emissary
+	8 An Unexpected Journey
+	8 Smelted Wight
+	8 Audacious Auditioner
+	8 Outer Court Marksman
+	8 Autumn's Emissary
 	8 UX01 Noncreature
-	8 CG02 Splintereater
+	8 Splintereater
 [foil(1)]
-	12 CW01 Protector of the Ordinary
-	12 CW02 Blindseer
+	12 Protector of the Ordinary
+	12 Blindseer
 	12 Plucky Villager
-	12 CW04 Set the Stage
-	12 CW05 Polygaunt
-	12 CW06 Troubled Auditioner
-	12 CW07 Sorrowed Cavalier
-	12 CW08 Ancient Eyes
-	12 CW09 Exasperated Setdresser
-	12 CW10 Imperious Boon
-	12 CW11 Word of Unbeing
-	12 CW12 Light Through the Veil
-	12 CW13 Binding Serenade
-	12 CU01 Entranced Villagers
-	12 CU02 Lost Ascendant
-	12 CU03 Silverwing Companion
-	12 CU04 Iridium Muse
+	12 Set the Stage
+	12 Polygaunt
+	12 Troubled Auditioner
+	12 Sorrowed Cavalier
+	12 Ancient Eyes
+	12 Exasperated Setdresser
+	12 Imperious Boon
+	12 Word of Unbeing
+	12 Light Through the Veil
+	12 Binding Serenade
+	12 Entranced Villagers
+	12 Lost Ascendant
+	12 Silverwing Companion
+	12 Iridium Muse
 	12 Derrilyn Falconer
-	12 CU06 Wildwood Bonetwister
-	12 CU07 Erudite Watcher
-	12 CU08 Ascendant Talekeeper
-	12 CU09 Cryptic Omen
-	12 CU10 Refusal of the Call
+	12 Wildwood Bonetwister
+	12 Erudite Watcher
+	12 Ascendant Talekeeper
+	12 Cryptic Omen
+	12 Refusal of the Call
 	6 Out of the Puzzlebox
-	12 CU12 Boreal Interdiction
-	12 CU13 Outer Court Communion
-	12 CB01 Wyndlepiper
-	6 UB02 Blossoming Thing
-	12 CB03 Spire Echo
-	6 UB07 Unrelenting Pursuer
-	6 UB05 Bounty of Bantrel
-	12 CB06 Profaned Elder
-	12 CB04 Decadent Scriptwriter
-	12 CB08 Bantrel Wood Stalker
-	12 CB09 Contract Concluded
-	12 CB10 Long Road Home
-	12 CB11 Sanguine Rupture
-	12 CB12 Bottom of the Inkwell
-	12 CB13 Premature End
-	12 CR01 Enthralled Acolyte
-	12 CR02 Bloodcaster Neophyte
-	12 CR03 Scriptkeeper
+	12 Boreal Interdiction
+	12 Outer Court Communion
+	12 Wyndlepiper
+	6 Blossoming Thing
+	12 Spire Echo
+	6 Unrelenting Pursuer
+	6 Bounty of Bantrel
+	12 Profaned Elder
+	12 Decadent Scriptwriter
+	12 Bantrel Wood Stalker
+	12 Contract Concluded
+	12 Long Road Home
+	12 Sanguine Rupture
+	12 Bottom of the Inkwell
+	12 Premature End
+	12 Enthralled Acolyte
+	12 Bloodcaster Neophyte
+	12 Scriptkeeper
 	12 Rotwinder
-	12 CR05 Hollowed Archetype
-	12 CR06 Elder Soothsinger
-	12 CR07 Flenser Mob
-	12 CR08 Summer's Decommissioner
-	12 CR09 Pagepyre
-	12 CR10 A Brilliant Entrance
-	12 CR11 Wreath of Malevolence
-	12 CR12 Memory Blossom
-	12 CR13 A Fateful Journey
-	12 CG01 Lorn-Road Guide
-	12 CG03 Innercourt Matron
-	12 CG04 Auspicious Mushroom
-	12 CG05 Lorn-Road Falconer
-	12 CG06 Solemn Gladekeeper
-	12 CG07 Untroubled Vagabond
-	12 CG08 Pallid Glistener
-	12 CG10 Night's Clarity
-	12 CG11 A Cold Voice
-	12 CG12 Court the Corrupt
-	12 CG13 Burst of Mettle
-	12 CZ01 Witherlínd
+	12 Hollowed Archetype
+	12 Elder Soothsinger
+	12 Flenser Mob
+	12 Summer's Decommissioner
+	12 Pagepyre
+	12 A Brilliant Entrance
+	12 Wreath of Malevolence
+	12 Memory Blossom
+	12 A Fateful Journey
+	12 Lorn-Road Guide
+	12 Innercourt Matron
+	12 Auspicious Mushroom
+	12 Lorn-Road Falconer
+	12 Solemn Gladekeeper
+	12 Untroubled Vagabond
+	12 Pallid Glistener
+	12 Night's Clarity
+	12 A Cold Voice
+	12 Court the Corrupt
+	12 Burst of Mettle
+	12 Witherlínd
 	6 Feastkeeper
-	12 CZ03 Winterbreath Cantor
+	12 Winterbreath Cantor
 	12 Mutilated Strider
-	12 CZ05 Fated Figures
-	12 CZ06 Innercourt Mendress
+	12 Fated Figures
+	12 Innercourt Mendress
 	12 Palecast Bishop
-	12 CZ08 Choir of Restoration
-	12 CZ09 Glamorous Herald
-	12 CZ10 Solemn Standby
-	12 CA01 Vested Script
-	12 CA02 Earthspike Annals
+	12 Choir of Restoration
+	12 Glamorous Herald
+	12 Solemn Standby
+	12 Vested Script
+	12 Earthspike Annals
 	12 Omenstones
 	12 Pallid Causeway
 	12 Effaced Cove
@@ -3840,32 +3850,32 @@
 	12 Excoriated Swathe
 	12 Silenced Promontory
 	6 Scrapped Setting
-	12 CL12 Noncreature
-	12 CL13 Noncreature
-	12 CL14 Noncreature
-	12 CL15 Noncreature
-	12 CL16 Noncreature
+	12 Noncreature
+	12 Noncreature
+	12 Noncreature
+	12 Noncreature
+	12 Noncreature
 	12 CX01 Noncreature
 	12 CX02 Noncreature
-	6 UW01 Captain of Ceremony
-	6 UW02 Marie, Rookery's Daughter
-	6 UB01 Brooding Star
-	6 UW03 Spotlight Soul
-	6 UW11 Second Chances
-	6 UW06 Splintered Chorus
-	6 UW08 Fae Bladesinger
-	6 UW05 Confident Lead
-	6 UW09 Choreography Director
-	6 UW10 Archon of Fettered Fate
-	6 UW07 Enshrined Excellence
+	6 Captain of Ceremony
+	6 Marie, Rookery's Daughter
+	6 Brooding Star
+	6 Spotlight Soul
+	6 Second Chances
+	6 Splintered Chorus
+	6 Fae Bladesinger
+	6 Confident Lead
+	6 Choreography Director
+	6 Archon of Fettered Fate
+	6 Enshrined Excellence
 	2 Greyvale Township
-	6 UW13 Timely Resurrection
-	6 UW12 Meeting the Mentor
-	6 UW15 Empty Throne
-	6 UW16 Storied Deed
-	6 UW17 Hurried Edit
+	6 Timely Resurrection
+	6 Meeting the Mentor
+	6 Empty Throne
+	6 Storied Deed
+	6 Hurried Edit
 	6 Kingslayer Sisters
-	6 UG02 Shadow on the Stage
+	6 Shadow on the Stage
 	6 Winter's Handmaiden
 	6 Traveling Players
 	6 Sentinel of Old Intria
@@ -3876,34 +3886,34 @@
 	6 Weight of Expectations
 	6 The Road Back
 	6 Hidden Heir
-	12 CU11 An Unexpected Journey
+	12 An Unexpected Journey
 	6 Quiet on Set
 	6 Reject Your Creation
 	6 Inkwell Monolith
 	6 Astrotechnics
-	6 UW04 Sombergaunt
-	12 CB02 Smelted Wight
-	6 UB03 Defiant Dreamer
-	6 UB04 Chained Flensefang
-	12 CB05 Audacious Auditioner
-	6 UG06 Light-Eater Servant
-	12 CB07 Outer Court Marksman
-	6 UB08 Senior Editor
+	6 Sombergaunt
+	12 Smelted Wight
+	6 Defiant Dreamer
+	6 Chained Flensefang
+	12 Audacious Auditioner
+	6 Light-Eater Servant
+	12 Outer Court Marksman
+	6 Senior Editor
 	6 Nibs, Lexyrinth Keeper
-	6 UB10 Mouldering Hour
-	6 UB11 Turn to Ink
-	6 UB12 Cut the Curtain
-	6 UB13 Return with the Elixir
-	6 UB14 Festering Secrets
+	6 Mouldering Hour
+	6 Turn to Ink
+	6 Cut the Curtain
+	6 Return with the Elixir
+	6 Festering Secrets
 	2 Bantrel Vale
-	6 UB16 Consumed by Branches
+	6 Consumed by Branches
 	2 Unlikely Compatriots
-	2 RR01 Mosa, Renegade Star
+	2 Mosa, Renegade Star
 	6 Eager Deathless
 	6 Shackled Summer Skies
 	6 Cindrel Wight
 	6 Awoken in Ash
-	6 UB06 Steeltouched Star
+	6 Steeltouched Star
 	2 A Champion's Reward
 	6 Bantrel Reveller
 	6 Subsumed Stagehand
@@ -3911,26 +3921,26 @@
 	6 Wolf at the Gates
 	6 World Made Wroth
 	6 Orrin's Ordeal
-	2 RR06 War Like Wine
+	2 War Like Wine
 	6 Deflagrate
 	6 Blooming Aspirant
-	6 UG01 Courtbound Impudent
+	6 Courtbound Impudent
 	6 Blossoming Archetype
-	6 UG03 Living Altar
-	6 UG04 Seneschal of Turnings
-	6 UG05 Mottlecloth Sneak
+	6 Living Altar
+	6 Seneschal of Turnings
+	6 Mottlecloth Sneak
 	6 Stagework Trainers
-	6 UG07 Tabula Rata
-	6 UG08 Sunken Stainsucker
-	6 UG09 Noncreature
-	6 UG10 Noncreature
-	6 UG11 Noncreature
-	6 UG12 Taking the Plunge
-	2 RG08 Vibrant Setdressing
-	6 UG14 Crossing the Threshold
+	6 Tabula Rata
+	6 Sunken Stainsucker
+	6 Noncreature
+	6 Noncreature
+	6 Noncreature
+	6 Taking the Plunge
+	2 Vibrant Setdressing
+	6 Crossing the Threshold
 	2 The Elder Reaches
-	6 UG16 Valor's Rest
-	6 UG17 Noncreature
+	6 Valor's Rest
+	6 Noncreature
 	6 Lord Malcolm Amantii
 	6 Inquisitor Tacen Flint
 	6 Premiere Night
@@ -3938,7 +3948,7 @@
 	6 Mishet, the Escapee
 	6 Sostak, Whimsical Voice
 	6 The Wakeup Call
-	12 CZ02 Autumn's Emissary
+	12 Autumn's Emissary
 	6 Eni, Company Champion
 	6 Septus Jane, Turncoat
 	6 A Change in Fate
@@ -3951,10 +3961,10 @@
 	6 Eldmetal Congregant
 	6 Mastergaunts
 	6 Revised Revenant
-	6 UA01 Poster Child
+	6 Poster Child
 	6 Ornate Invitation
-	6 UA03 Noncreature
-	6 UL01 Noncreature
+	6 Noncreature
+	6 Noncreature
 	12 UX01 Noncreature
 	2 Vōs, Company Courier
 	2 Ambitious Aspirant
@@ -3963,7 +3973,7 @@
 	2 Autumn Devours the Sunmaster
 	2 Write Out
 	2 Unravel the Plot
-	6 UW14 Hallowed Intermission
+	6 Hallowed Intermission
 	2 Lexyrinth's Heart
 	2 Marc Tancinium, Cameo
 	2 Glassgazer
@@ -3975,9 +3985,9 @@
 	2 Cunning Keepbreaker
 	2 Plot Armor
 	2 Tormented Ghostwriter
-	6 UB15 Ancient Compact
+	6 Ancient Compact
 	2 The Hallowing of Bantrel Grove
-	6 UB17 Climactic Moment
+	6 Climactic Moment
 	2 Vision of Manque
 	6 Scoremaster
 	6 Seeking the Seasons
@@ -3986,16 +3996,15 @@
 	2 Bringer of a New Summer
 	6 Enthralled Duo
 	6 Caller of Adventure
-	2 RG01 Tendergaunt
+	2 Tendergaunt
 	2 Steward of Solstices
-	2 RG03 Medium Creature
-	6 UG15 Medium Creature
+	2 Medium Creature
+	6 Medium Creature
 	2 Bringer of a New Spring
 	2 Spring Conquers the Cavalcade
-	2 RG07 Will of the Wild
-	6 UG13 Into the Hollows
+	2 Will of the Wild
+	6 Into the Hollows
 	2 Lord Tyto Bonsíc
-	2 RMUR Unwrite
 	2 RMWB Kniles, Chancellor of Thorns
 	2 RMRW Greyvale Prodigy
 	2 Plothole Tunneler
@@ -4010,9 +4019,9 @@
 	2 RMUB Dramatic Oracle
 	2 Tuolor, Steel Commander
 	2 Splendid Inspiration
-	2 RMUG LargeWall Creature
+	2 Physt, Company Curator
 	2 The Inmost Cave
-	2 RL02 Small Creature
+	2 Small Creature
 	2 Inspiring Scene
 	2 Mysterious Scene
 	2 Ancient Scene
@@ -4027,17 +4036,17 @@
 	1 Manque, Shifting Spotlight
 	1 Sorrowgaunt
 	1 Hollow Autumn
-	2 MR02 Pint-Sized Penstrel
+	2 Pint-Sized Penstrel
 	1 Fair Summer
-	1 MR04 Noncreature
-	1 MR05 Passioned Pair
+	1 Noncreature
+	1 Passioned Pair
 	1 Vile Spring
 	1 Alder Jane, Talewright
-	1 MM02 Caetel, Old Mother
-	1 MA01 LargeWall Creature
-	1 MA02 Noncreature
-	1 MA03 Noncreature
-	12 CG02 Splintereater
+	1 Caetel, Old Mother
+	1 LargeWall Creature
+	1 Noncreature
+	1 Noncreature
+	12 Splintereater
 	1 The Itinerant Weft
 	2 Bringer of a New Autumn
 	2 Endless Day of Dominion
@@ -4049,82 +4058,83 @@
 	2 Kill Your Darlings
 	2 Preserve the Script
 	6 Bramble Bindings
+	2 Cass and Nettles, Editors
 [wildcard(1)]
-	6 CW01 Protector of the Ordinary
-	6 CW02 Blindseer
+	6 Protector of the Ordinary
+	6 Blindseer
 	6 Plucky Villager
-	6 CW04 Set the Stage
-	6 CW05 Polygaunt
-	6 CW06 Troubled Auditioner
-	6 CW07 Sorrowed Cavalier
-	6 CW08 Ancient Eyes
-	6 CW09 Exasperated Setdresser
-	6 CW10 Imperious Boon
-	6 CW11 Word of Unbeing
-	6 CW12 Light Through the Veil
-	6 CW13 Binding Serenade
-	6 CU01 Entranced Villagers
-	6 CU02 Lost Ascendant
-	6 CU03 Silverwing Companion
-	6 CU04 Iridium Muse
+	6 Set the Stage
+	6 Polygaunt
+	6 Troubled Auditioner
+	6 Sorrowed Cavalier
+	6 Ancient Eyes
+	6 Exasperated Setdresser
+	6 Imperious Boon
+	6 Word of Unbeing
+	6 Light Through the Veil
+	6 Binding Serenade
+	6 Entranced Villagers
+	6 Lost Ascendant
+	6 Silverwing Companion
+	6 Iridium Muse
 	6 Derrilyn Falconer
-	6 CU06 Wildwood Bonetwister
-	6 CU07 Erudite Watcher
-	6 CU08 Ascendant Talekeeper
-	6 CU09 Cryptic Omen
-	6 CU10 Refusal of the Call
+	6 Wildwood Bonetwister
+	6 Erudite Watcher
+	6 Ascendant Talekeeper
+	6 Cryptic Omen
+	6 Refusal of the Call
 	15 Out of the Puzzlebox
-	6 CU12 Boreal Interdiction
-	6 CU13 Outer Court Communion
-	6 CB01 Wyndlepiper
-	15 UB02 Blossoming Thing
-	6 CB03 Spire Echo
-	15 UB07 Unrelenting Pursuer
-	15 UB05 Bounty of Bantrel
-	6 CB06 Profaned Elder
-	6 CB04 Decadent Scriptwriter
-	6 CB08 Bantrel Wood Stalker
-	6 CB09 Contract Concluded
-	6 CB10 Long Road Home
-	6 CB11 Sanguine Rupture
-	6 CB12 Bottom of the Inkwell
-	6 CB13 Premature End
-	6 CR01 Enthralled Acolyte
-	6 CR02 Bloodcaster Neophyte
-	6 CR03 Scriptkeeper
+	6 Boreal Interdiction
+	6 Outer Court Communion
+	6 Wyndlepiper
+	15 Blossoming Thing
+	6 Spire Echo
+	15 Unrelenting Pursuer
+	15 Bounty of Bantrel
+	6 Profaned Elder
+	6 Decadent Scriptwriter
+	6 Bantrel Wood Stalker
+	6 Contract Concluded
+	6 Long Road Home
+	6 Sanguine Rupture
+	6 Bottom of the Inkwell
+	6 Premature End
+	6 Enthralled Acolyte
+	6 Bloodcaster Neophyte
+	6 Scriptkeeper
 	6 Rotwinder
-	6 CR05 Hollowed Archetype
-	6 CR06 Elder Soothsinger
-	6 CR07 Flenser Mob
-	6 CR08 Summer's Decommissioner
-	6 CR09 Pagepyre
-	6 CR10 A Brilliant Entrance
-	6 CR11 Wreath of Malevolence
-	6 CR12 Memory Blossom
-	6 CR13 A Fateful Journey
-	6 CG01 Lorn-Road Guide
-	6 CG03 Innercourt Matron
-	6 CG04 Auspicious Mushroom
-	6 CG05 Lorn-Road Falconer
-	6 CG06 Solemn Gladekeeper
-	6 CG07 Untroubled Vagabond
-	6 CG08 Pallid Glistener
-	6 CG10 Night's Clarity
-	6 CG11 A Cold Voice
-	6 CG12 Court the Corrupt
-	6 CG13 Burst of Mettle
-	6 CZ01 Witherlínd
+	6 Hollowed Archetype
+	6 Elder Soothsinger
+	6 Flenser Mob
+	6 Summer's Decommissioner
+	6 Pagepyre
+	6 A Brilliant Entrance
+	6 Wreath of Malevolence
+	6 Memory Blossom
+	6 A Fateful Journey
+	6 Lorn-Road Guide
+	6 Innercourt Matron
+	6 Auspicious Mushroom
+	6 Lorn-Road Falconer
+	6 Solemn Gladekeeper
+	6 Untroubled Vagabond
+	6 Pallid Glistener
+	6 Night's Clarity
+	6 A Cold Voice
+	6 Court the Corrupt
+	6 Burst of Mettle
+	6 Witherlínd
 	15 Feastkeeper
-	6 CZ03 Winterbreath Cantor
+	6 Winterbreath Cantor
 	6 Mutilated Strider
-	6 CZ05 Fated Figures
-	6 CZ06 Innercourt Mendress
+	6 Fated Figures
+	6 Innercourt Mendress
 	6 Palecast Bishop
-	6 CZ08 Choir of Restoration
-	6 CZ09 Glamorous Herald
-	6 CZ10 Solemn Standby
-	6 CA01 Vested Script
-	6 CA02 Earthspike Annals
+	6 Choir of Restoration
+	6 Glamorous Herald
+	6 Solemn Standby
+	6 Vested Script
+	6 Earthspike Annals
 	6 Omenstones
 	6 Pallid Causeway
 	6 Effaced Cove
@@ -4137,32 +4147,32 @@
 	6 Excoriated Swathe
 	6 Silenced Promontory
 	15 Scrapped Setting
-	6 CL12 Noncreature
-	6 CL13 Noncreature
-	6 CL14 Noncreature
-	6 CL15 Noncreature
-	6 CL16 Noncreature
+	6 Noncreature
+	6 Noncreature
+	6 Noncreature
+	6 Noncreature
+	6 Noncreature
 	6 CX01 Noncreature
 	6 CX02 Noncreature
-	15 UW01 Captain of Ceremony
-	15 UW02 Marie, Rookery's Daughter
-	15 UB01 Brooding Star
-	15 UW03 Spotlight Soul
-	15 UW11 Second Chances
-	15 UW06 Splintered Chorus
-	15 UW08 Fae Bladesinger
-	15 UW05 Confident Lead
-	15 UW09 Choreography Director
-	15 UW10 Archon of Fettered Fate
-	15 UW07 Enshrined Excellence
+	15 Captain of Ceremony
+	15 Marie, Rookery's Daughter
+	15 Brooding Star
+	15 Spotlight Soul
+	15 Second Chances
+	15 Splintered Chorus
+	15 Fae Bladesinger
+	15 Confident Lead
+	15 Choreography Director
+	15 Archon of Fettered Fate
+	15 Enshrined Excellence
 	7 Greyvale Township
-	15 UW13 Timely Resurrection
-	15 UW12 Meeting the Mentor
-	15 UW15 Empty Throne
-	15 UW16 Storied Deed
-	15 UW17 Hurried Edit
+	15 Timely Resurrection
+	15 Meeting the Mentor
+	15 Empty Throne
+	15 Storied Deed
+	15 Hurried Edit
 	15 Kingslayer Sisters
-	15 UG02 Shadow on the Stage
+	15 Shadow on the Stage
 	15 Winter's Handmaiden
 	15 Traveling Players
 	15 Sentinel of Old Intria
@@ -4173,34 +4183,34 @@
 	15 Weight of Expectations
 	15 The Road Back
 	15 Hidden Heir
-	6 CU11 An Unexpected Journey
+	6 An Unexpected Journey
 	15 Quiet on Set
 	15 Reject Your Creation
 	15 Inkwell Monolith
 	15 Astrotechnics
-	15 UW04 Sombergaunt
-	6 CB02 Smelted Wight
-	15 UB03 Defiant Dreamer
-	15 UB04 Chained Flensefang
-	6 CB05 Audacious Auditioner
-	15 UG06 Light-Eater Servant
-	6 CB07 Outer Court Marksman
-	15 UB08 Senior Editor
+	15 Sombergaunt
+	6 Smelted Wight
+	15 Defiant Dreamer
+	15 Chained Flensefang
+	6 Audacious Auditioner
+	15 Light-Eater Servant
+	6 Outer Court Marksman
+	15 Senior Editor
 	15 Nibs, Lexyrinth Keeper
-	15 UB10 Mouldering Hour
-	15 UB11 Turn to Ink
-	15 UB12 Cut the Curtain
-	15 UB13 Return with the Elixir
-	15 UB14 Festering Secrets
+	15 Mouldering Hour
+	15 Turn to Ink
+	15 Cut the Curtain
+	15 Return with the Elixir
+	15 Festering Secrets
 	7 Bantrel Vale
-	15 UB16 Consumed by Branches
+	15 Consumed by Branches
 	7 Unlikely Compatriots
-	7 RR01 Mosa, Renegade Star
+	7 Mosa, Renegade Star
 	15 Eager Deathless
 	15 Shackled Summer Skies
 	15 Cindrel Wight
 	15 Awoken in Ash
-	15 UB06 Steeltouched Star
+	15 Steeltouched Star
 	7 A Champion's Reward
 	15 Bantrel Reveller
 	15 Subsumed Stagehand
@@ -4208,26 +4218,26 @@
 	15 Wolf at the Gates
 	15 World Made Wroth
 	15 Orrin's Ordeal
-	7 RR06 War Like Wine
+	7 War Like Wine
 	15 Deflagrate
 	15 Blooming Aspirant
-	15 UG01 Courtbound Impudent
+	15 Courtbound Impudent
 	15 Blossoming Archetype
-	15 UG03 Living Altar
-	15 UG04 Seneschal of Turnings
-	15 UG05 Mottlecloth Sneak
+	15 Living Altar
+	15 Seneschal of Turnings
+	15 Mottlecloth Sneak
 	15 Stagework Trainers
-	15 UG07 Tabula Rata
-	15 UG08 Sunken Stainsucker
-	15 UG09 Noncreature
-	15 UG10 Noncreature
-	15 UG11 Noncreature
-	15 UG12 Taking the Plunge
-	7 RG08 Vibrant Setdressing
-	15 UG14 Crossing the Threshold
+	15 Tabula Rata
+	15 Sunken Stainsucker
+	15 Noncreature
+	15 Noncreature
+	15 Noncreature
+	15 Taking the Plunge
+	7 Vibrant Setdressing
+	15 Crossing the Threshold
 	7 The Elder Reaches
-	15 UG16 Valor's Rest
-	15 UG17 Noncreature
+	15 Valor's Rest
+	15 Noncreature
 	15 Lord Malcolm Amantii
 	15 Inquisitor Tacen Flint
 	15 Premiere Night
@@ -4235,7 +4245,7 @@
 	15 Mishet, the Escapee
 	15 Sostak, Whimsical Voice
 	15 The Wakeup Call
-	6 CZ02 Autumn's Emissary
+	6 Autumn's Emissary
 	15 Eni, Company Champion
 	15 Septus Jane, Turncoat
 	15 A Change in Fate
@@ -4248,10 +4258,10 @@
 	15 Eldmetal Congregant
 	15 Mastergaunts
 	15 Revised Revenant
-	15 UA01 Poster Child
+	15 Poster Child
 	15 Ornate Invitation
-	15 UA03 Noncreature
-	15 UL01 Noncreature
+	15 Noncreature
+	15 Noncreature
 	6 UX01 Noncreature
 	7 Vōs, Company Courier
 	7 Ambitious Aspirant
@@ -4260,7 +4270,7 @@
 	7 Autumn Devours the Sunmaster
 	7 Write Out
 	7 Unravel the Plot
-	15 UW14 Hallowed Intermission
+	15 Hallowed Intermission
 	7 Lexyrinth's Heart
 	7 Marc Tancinium, Cameo
 	7 Glassgazer
@@ -4272,9 +4282,9 @@
 	7 Cunning Keepbreaker
 	7 Plot Armor
 	7 Tormented Ghostwriter
-	15 UB15 Ancient Compact
+	15 Ancient Compact
 	7 The Hallowing of Bantrel Grove
-	15 UB17 Climactic Moment
+	15 Climactic Moment
 	7 Vision of Manque
 	15 Scoremaster
 	15 Seeking the Seasons
@@ -4283,16 +4293,15 @@
 	7 Bringer of a New Summer
 	15 Enthralled Duo
 	15 Caller of Adventure
-	7 RG01 Tendergaunt
+	7 Tendergaunt
 	7 Steward of Solstices
-	7 RG03 Medium Creature
-	15 UG15 Medium Creature
+	7 Medium Creature
+	15 Medium Creature
 	7 Bringer of a New Spring
 	7 Spring Conquers the Cavalcade
-	7 RG07 Will of the Wild
-	15 UG13 Into the Hollows
+	7 Will of the Wild
+	15 Into the Hollows
 	7 Lord Tyto Bonsíc
-	7 RMUR Unwrite
 	7 RMWB Kniles, Chancellor of Thorns
 	7 RMRW Greyvale Prodigy
 	7 Plothole Tunneler
@@ -4307,9 +4316,9 @@
 	7 RMUB Dramatic Oracle
 	7 Tuolor, Steel Commander
 	7 Splendid Inspiration
-	7 RMUG LargeWall Creature
+	7 Physt, Company Curator
 	7 The Inmost Cave
-	7 RL02 Small Creature
+	7 Small Creature
 	7 Inspiring Scene
 	7 Mysterious Scene
 	7 Ancient Scene
@@ -4324,17 +4333,17 @@
 	4 Manque, Shifting Spotlight
 	4 Sorrowgaunt
 	4 Hollow Autumn
-	7 MR02 Pint-Sized Penstrel
+	7 Pint-Sized Penstrel
 	4 Fair Summer
-	4 MR04 Noncreature
-	4 MR05 Passioned Pair
+	4 Noncreature
+	4 Passioned Pair
 	4 Vile Spring
 	4 Alder Jane, Talewright
-	4 MM02 Caetel, Old Mother
-	4 MA01 LargeWall Creature
-	4 MA02 Noncreature
-	4 MA03 Noncreature
-	6 CG02 Splintereater
+	4 Caetel, Old Mother
+	4 LargeWall Creature
+	4 Noncreature
+	4 Noncreature
+	6 Splintereater
 	4 The Itinerant Weft
 	7 Bringer of a New Autumn
 	7 Endless Day of Dominion
@@ -4346,3 +4355,4 @@
 	7 Kill Your Darlings
 	7 Preserve the Script
 	15 Bramble Bindings
+	7 Cass and Nettles, Editors
