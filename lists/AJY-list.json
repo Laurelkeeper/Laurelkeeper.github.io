@@ -140,7 +140,7 @@
         "number": 91,
         "shape": "battle split",
         "set": "AJY",
-        "rotated": false,
+        "rotated": true,
         "position": "143"
     },
     {
@@ -156,7 +156,7 @@
         "number": 179,
         "shape": "battle split",
         "set": "AJY",
-        "rotated": false,
+        "rotated": true,
         "position": "176"
     },
     {
@@ -204,7 +204,7 @@
         "number": 19,
         "shape": "battle split",
         "set": "AJY",
-        "rotated": false,
+        "rotated": true,
         "position": "106"
     },
     {
@@ -228,7 +228,7 @@
         "number": 148,
         "shape": "battle split",
         "set": "AJY",
-        "rotated": false,
+        "rotated": true,
         "position": "155"
     },
     {
@@ -292,7 +292,7 @@
         "number": 69,
         "shape": "battle split",
         "set": "AJY",
-        "rotated": false,
+        "rotated": true,
         "position": "219"
     },
     {
@@ -593,7 +593,7 @@
     },
     {
         "card_name": "Medium Creature",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1649,7 +1649,7 @@
     "a->gold",
     {
         "card_name": "Eni, Reforged Paragon",
-        "number": 219,
+        "number": 220,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1657,7 +1657,7 @@
     },
     {
         "card_name": "RMUB Dramatic Oracle",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1665,7 +1665,7 @@
     },
     {
         "card_name": "RMBR Rally the Understudies",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1673,7 +1673,7 @@
     },
     {
         "card_name": "The Itinerant Weft",
-        "number": 222,
+        "number": 223,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1681,23 +1681,23 @@
     },
     {
         "card_name": "Lord Tyto Bons\u00edc",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
         "position": "242"
     },
     {
-        "card_name": "Marc Tancinium, Cameo",
-        "number": 225,
+        "card_name": "Bearer of Blessings",
+        "number": 213,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "213"
+        "position": "246"
     },
     {
         "card_name": "Inquisitor Tacen Flint",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1705,7 +1705,7 @@
     },
     {
         "card_name": "Carmine the Brilliant",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1713,7 +1713,7 @@
     },
     {
         "card_name": "RMGR Weftheart, Vibrant Star",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1728,12 +1728,12 @@
         "position": "184"
     },
     {
-        "card_name": "RMWU Tyto's Abjurance",
-        "number": 237,
+        "card_name": "Marc Tancinium, Cameo",
+        "number": 226,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "246"
+        "position": "213"
     },
     {
         "card_name": "Revised Revenant",
@@ -1769,7 +1769,7 @@
     },
     {
         "card_name": "Eni, Company Champion",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1869,7 +1869,7 @@
     },
     {
         "card_name": "RMWB Kniles, Chancellor of Thorns",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1885,7 +1885,7 @@
     },
     {
         "card_name": "Manque, Shifting Spotlight",
-        "number": 224,
+        "number": 225,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1893,7 +1893,7 @@
     },
     {
         "card_name": "RMRW Greyvale Prodigy",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1901,7 +1901,7 @@
     },
     {
         "card_name": "Physt, Company Curator",
-        "number": 228,
+        "number": 229,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1909,7 +1909,7 @@
     },
     {
         "card_name": "Mastergaunts",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1917,7 +1917,7 @@
     },
     {
         "card_name": "Cass and Nettles, Editors",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1925,7 +1925,7 @@
     },
     {
         "card_name": "RMBG Turner of Earth",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1933,7 +1933,7 @@
     },
     {
         "card_name": "Premiere Night",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1941,7 +1941,7 @@
     },
     {
         "card_name": "Plothole Tunneler",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1965,7 +1965,7 @@
     },
     {
         "card_name": "Chaniel, Lost in Rot",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1981,7 +1981,7 @@
     },
     {
         "card_name": "Mishet, the Escapee",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2082,7 +2082,7 @@
     },
     {
         "card_name": "Celos, Prince's Chamberlain",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2090,7 +2090,7 @@
     },
     {
         "card_name": "The Everfree Thespian",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2122,7 +2122,7 @@
     },
     {
         "card_name": "Caetel, Old Mother",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2160,7 +2160,7 @@
     },
     {
         "card_name": "Noncreature",
-        "number": 268,
+        "number": 266,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,

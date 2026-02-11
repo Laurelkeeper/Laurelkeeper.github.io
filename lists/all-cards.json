@@ -18,6 +18,7 @@
             "artist": "",
             "alias": "",
             "position": "0",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -40,6 +41,7 @@
             "artist": "Lily Curtis",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "CW01,Small Creature,1,,Curious Farm Animals",
             "image_type": "png",
             "v_mana": ""
@@ -62,6 +64,7 @@
             "artist": "Ilya Vatutin",
             "alias": "",
             "position": "2",
+            "rotated": false,
             "notes": "CW02,Small Creature,2,,Compassionate Healer",
             "image_type": "png",
             "v_mana": ""
@@ -84,6 +87,7 @@
             "artist": "Tomas Duchek",
             "alias": "",
             "position": "3",
+            "rotated": false,
             "notes": "CW03,Small Creature,2,,Jeong Jeong's Deserters",
             "image_type": "png",
             "v_mana": ""
@@ -106,6 +110,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "CW04,Small Creature,2,,Path to Redemption",
             "image_type": "png",
             "v_mana": ""
@@ -128,6 +133,7 @@
             "artist": "Gaboleps",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": "CW05,Small Creature,3,,Avatar Enthusiasts",
             "image_type": "png",
             "v_mana": ""
@@ -150,6 +156,7 @@
             "artist": "Micha\u0142 Sztuka",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": "CW06,Small Creature,4,,Kyoshi Warriors",
             "image_type": "png",
             "v_mana": ""
@@ -172,6 +179,7 @@
             "artist": "Yulia Zhuchkova",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "CW07,Medium Creature,3,,Water Tribe Captain",
             "image_type": "png",
             "v_mana": ""
@@ -194,6 +202,7 @@
             "artist": "peng lu",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": "CW08,Medium Creature,3,flying ,Glider Kids",
             "image_type": "png",
             "v_mana": ""
@@ -216,6 +225,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": "CW09,Medium Creature,5,flying ,Rabaroo Troop",
             "image_type": "png",
             "v_mana": ""
@@ -249,6 +259,8 @@
             "loyalty2": "",
             "artist2": "Adam Burn",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "CW10,Noncreature,1,flying ,Yip Yip!",
             "image_type": "png",
             "v_mana": ""
@@ -271,6 +283,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": "CW11,Noncreature,2,,Razor Rings",
             "image_type": "png",
             "v_mana": ""
@@ -293,6 +306,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": "CW12,Noncreature,3,,Airbending Lesson",
             "image_type": "png",
             "v_mana": ""
@@ -315,6 +329,7 @@
             "artist": "Yulia Zhuchkova",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "CW13,Noncreature,4,,Sandbenders' Storm",
             "image_type": "png",
             "v_mana": ""
@@ -337,6 +352,7 @@
             "artist": "Lea Dickert",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": "CU01,Small Creature,2,,Forecasting Fortune Teller",
             "image_type": "png",
             "v_mana": ""
@@ -359,6 +375,7 @@
             "artist": "Kevin Adi",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "CU02,Small Creature,2,,Otter-Penguin",
             "image_type": "png",
             "v_mana": ""
@@ -381,6 +398,7 @@
             "artist": "Margaux Valonia",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": "CU03,Small Creature,2,flying ,First-Time Flyer",
             "image_type": "png",
             "v_mana": ""
@@ -403,6 +421,7 @@
             "artist": "Olga Tereshenko",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": "CU04,Small Creature,3,,Rowdy Snowballers",
             "image_type": "png",
             "v_mana": ""
@@ -425,6 +444,7 @@
             "artist": "Nishshanka Weerasinghe",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": "CU05,Small Creature,3,flying ,Iguana Parrot",
             "image_type": "png",
             "v_mana": ""
@@ -447,6 +467,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "CU06,Medium Creature,5,flying ,Geyser Leaper",
             "image_type": "png",
             "v_mana": ""
@@ -469,6 +490,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": "CU07,MediumWall Creature,4,,Flexible Waterbender",
             "image_type": "png",
             "v_mana": ""
@@ -491,6 +513,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "CU08,Large Creature,6,,Giant Koi",
             "image_type": "png",
             "v_mana": ""
@@ -524,6 +547,8 @@
             "loyalty2": "",
             "artist2": "Yulia Zhuchkova",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "CU09,Noncreature,1,,Octopus Form",
             "image_type": "png",
             "v_mana": ""
@@ -546,6 +571,7 @@
             "artist": "Jakub Rozalski",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "CU10,Noncreature,1,,Watery Grasp",
             "image_type": "png",
             "v_mana": ""
@@ -568,6 +594,7 @@
             "artist": "Gonzalo Kenny",
             "alias": "",
             "position": "24",
+            "rotated": false,
             "notes": "CU11,Noncreature,2,,It'll Quench Ya!",
             "image_type": "png",
             "v_mana": ""
@@ -590,6 +617,7 @@
             "artist": "Noih (Sebastian Lotero)",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "CU12,Noncreature,4,,Waterbending Lesson",
             "image_type": "png",
             "v_mana": ""
@@ -612,6 +640,7 @@
             "artist": "Aaron Nakahara",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "CU13,Noncreature,5,,Lost Days",
             "image_type": "png",
             "v_mana": ""
@@ -634,6 +663,7 @@
             "artist": "Veronika Kozlova",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": "CB01,Small Creature,1,,Callous Inspector",
             "image_type": "png",
             "v_mana": ""
@@ -656,6 +686,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": "CB02,Small Creature,2,,Corrupt Court Official",
             "image_type": "png",
             "v_mana": ""
@@ -678,6 +709,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "CB03,Small Creature,2,,Merchant of Many Hats",
             "image_type": "png",
             "v_mana": ""
@@ -700,6 +732,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "CB04,Small Creature,3,,Pirate Peddlers",
             "image_type": "png",
             "v_mana": ""
@@ -722,6 +755,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "CB05,Medium Creature,3,,Hog-Monkey",
             "image_type": "png",
             "v_mana": ""
@@ -744,6 +778,7 @@
             "artist": "Yulia Zhuchkova",
             "alias": "",
             "position": "32",
+            "rotated": false,
             "notes": "CB06,Medium Creature,4,,Foggy Swamp Hunters",
             "image_type": "png",
             "v_mana": ""
@@ -766,6 +801,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "CB07,Large Creature,5,,Beetle-Headed Merchants",
             "image_type": "png",
             "v_mana": ""
@@ -788,6 +824,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": "CB08,Large Creature,6,,Canyon Crawler",
             "image_type": "png",
             "v_mana": ""
@@ -810,6 +847,7 @@
             "artist": "Angelina Sennoma",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": "CB09,Noncreature,1,,Deadly Precision",
             "image_type": "png",
             "v_mana": ""
@@ -832,6 +870,7 @@
             "artist": "Wenjun Lin",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "CB10,Noncreature,2,,Azula Always Lies",
             "image_type": "png",
             "v_mana": ""
@@ -854,6 +893,7 @@
             "artist": "Vera Prosetskaya",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "CB11,Noncreature,2,,Dai Li Indoctrination",
             "image_type": "png",
             "v_mana": ""
@@ -876,6 +916,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": "CB12,Noncreature,3,flying ,Swampsnare Trap",
             "image_type": "png",
             "v_mana": ""
@@ -909,6 +950,8 @@
             "loyalty2": "",
             "artist2": "Tomasz Ryger",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "CB13,Noncreature,4,,Sold Out",
             "image_type": "png",
             "v_mana": ""
@@ -931,6 +974,7 @@
             "artist": "Daniel Kamarudin",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": "CR01,Small Creature,1,,Fire Nation Cadets",
             "image_type": "png",
             "v_mana": ""
@@ -953,6 +997,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "CR02,Small Creature,2,,Deserter's Disciple",
             "image_type": "png",
             "v_mana": ""
@@ -975,6 +1020,7 @@
             "artist": "Bjorn Hurri",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": "CR03,Small Creature,2,,Yuyan Archers",
             "image_type": "png",
             "v_mana": ""
@@ -997,6 +1043,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "CR04,Small Creature,3,,Boar-q-pine",
             "image_type": "png",
             "v_mana": ""
@@ -1019,6 +1066,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "CR05,Small Creature,3,,Treetop Freedom Fighters",
             "image_type": "png",
             "v_mana": ""
@@ -1041,6 +1089,7 @@
             "artist": "Evgenia Sharkunova",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": "CR06,Medium Creature,4,,Fire Nation Raider",
             "image_type": "png",
             "v_mana": ""
@@ -1063,6 +1112,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "CR07,Large Creature,5,,Rough Rhino Cavalry",
             "image_type": "png",
             "v_mana": ""
@@ -1085,6 +1135,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "CR08,Large Creature,6,,Mongoose Lizard",
             "image_type": "png",
             "v_mana": ""
@@ -1107,6 +1158,7 @@
             "artist": "David Astruga",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "CR09,Noncreature,1,,Firebending Lesson",
             "image_type": "png",
             "v_mana": ""
@@ -1129,6 +1181,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "CR10,Noncreature,2,,Cunning Maneuver",
             "image_type": "png",
             "v_mana": ""
@@ -1162,6 +1215,8 @@
             "loyalty2": "",
             "artist2": "Chris Cold",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "CR11,Noncreature,2,,Lightning Strike",
             "image_type": "png",
             "v_mana": ""
@@ -1184,6 +1239,7 @@
             "artist": "Yury Solntsev",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": "CR12,Noncreature,3,,How to Start a Riot",
             "image_type": "png",
             "v_mana": ""
@@ -1196,7 +1252,7 @@
             "number": 147,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Put a journey counter on target creature.\nCreatures you control with journey counters on them get +2/+1 and gain trample until end of turn.\nFlashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "Put a journey counter on target creature.\nCreatures you control with journey counters on them get +2/+1 and gain trample until end of turn.\nFlashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1206,6 +1262,7 @@
             "artist": "Reza Afshar",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "CR13,Noncreature,4,,Bumi Bash",
             "image_type": "png",
             "v_mana": ""
@@ -1228,6 +1285,7 @@
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "CG01,Small Creature,2,,Raucous Audience",
             "image_type": "png",
             "v_mana": ""
@@ -1250,6 +1308,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": "CG03,Small Creature,3,,Ostrich-Horse",
             "image_type": "png",
             "v_mana": ""
@@ -1272,6 +1331,7 @@
             "artist": "Bruno Jacob",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": "CG04,SmallWall Creature,1,,Turtle-Duck",
             "image_type": "png",
             "v_mana": ""
@@ -1294,6 +1354,7 @@
             "artist": "",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "CG05,Medium Creature,3,,Walltop Sentries",
             "image_type": "png",
             "v_mana": ""
@@ -1316,6 +1377,7 @@
             "artist": "Tomas Duchek",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": "CG06,Medium Creature,4,,Foggy Swamp Vinebender",
             "image_type": "png",
             "v_mana": ""
@@ -1338,6 +1400,7 @@
             "artist": "Thomas Chamberlain-Keen",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "CG07,Medium Creature,5,,Badgermole",
             "image_type": "png",
             "v_mana": ""
@@ -1360,6 +1423,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "CG08,Large Creature,6,,Saber-Tooth Moose-Lion",
             "image_type": "png",
             "v_mana": ""
@@ -1382,6 +1446,7 @@
             "artist": "Ismail Inceoglu",
             "alias": "",
             "position": "60",
+            "rotated": false,
             "notes": "CG10,Noncreature,2,,Origin of Metalbending",
             "image_type": "png",
             "v_mana": ""
@@ -1404,6 +1469,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": "CG11,Noncreature,2,,Rocky Rebuke",
             "image_type": "png",
             "v_mana": ""
@@ -1426,6 +1492,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "CG12,Noncreature,3,,Cycle of Renewal",
             "image_type": "png",
             "v_mana": ""
@@ -1448,6 +1515,7 @@
             "artist": "Sebastian Lotero",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": "CG13,Noncreature,4,,Earthbending Lesson",
             "image_type": "png",
             "v_mana": ""
@@ -1470,6 +1538,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": "CZ01,Small Creature,2,WB ,Pretending Poxbearers",
             "image_type": "png",
             "v_mana": ""
@@ -1492,6 +1561,7 @@
             "artist": "Federico (IKO) Cimini",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": "CZ02,Small Creature,3,BG ,Earth Village Ruffians",
             "image_type": "png",
             "v_mana": ""
@@ -1514,6 +1584,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "CZ03,Small Creature,3,flying UB ,Messenger Hawk",
             "image_type": "png",
             "v_mana": ""
@@ -1536,6 +1607,7 @@
             "artist": "Aaron Nakahara",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": "CZ04,Medium Creature,2,GU ,Platypus-Bear",
             "image_type": "png",
             "v_mana": ""
@@ -1558,6 +1630,7 @@
             "artist": "Daniel Ignacio",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": "CZ05,Medium Creature,3,BR ,Vindictive Warden",
             "image_type": "png",
             "v_mana": ""
@@ -1580,6 +1653,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "CZ06,Medium Creature,4,RG ,Earth Rumble Wrestlers",
             "image_type": "png",
             "v_mana": ""
@@ -1602,6 +1676,7 @@
             "artist": "peng lu",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": "CZ07,Medium Creature,4,flying WU ,Cat-Owl",
             "image_type": "png",
             "v_mana": ""
@@ -1624,6 +1699,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": "CZ08,Medium Creature,5,GW ,Earth Kingdom Soldier",
             "image_type": "png",
             "v_mana": ""
@@ -1646,6 +1722,7 @@
             "artist": "Tomas Duchek",
             "alias": "",
             "position": "72",
+            "rotated": false,
             "notes": "CZ09,MediumWall Creature,4,RW ,Wandering Musicians",
             "image_type": "png",
             "v_mana": ""
@@ -1668,6 +1745,7 @@
             "artist": "Lane Brown",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": "CZ10,Noncreature,2,UR ,Abandon Attachments",
             "image_type": "png",
             "v_mana": ""
@@ -1690,6 +1768,7 @@
             "artist": "Brian Sirith",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": "CA01,Small Creature,2,,Kyoshi Battle Fan",
             "image_type": "png",
             "v_mana": ""
@@ -1712,6 +1791,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "CA02,Noncreature,1,,Barrels of Blasting Jelly",
             "image_type": "png",
             "v_mana": ""
@@ -1734,6 +1814,7 @@
             "artist": "Alexandr Elichev",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": "CA03,Noncreature,3,,Bender's Waterskin",
             "image_type": "png",
             "v_mana": ""
@@ -1756,6 +1837,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "77",
+            "rotated": false,
             "notes": "CL01,Noncreature,0,,Airship Engine Room",
             "image_type": "png",
             "v_mana": ""
@@ -1778,6 +1860,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": "CL02,Noncreature,0,,Boiling Rock Prison",
             "image_type": "png",
             "v_mana": ""
@@ -1800,6 +1883,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": "CL03,Noncreature,0,,Foggy Bottom Swamp",
             "image_type": "png",
             "v_mana": ""
@@ -1822,6 +1906,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": "CL04,Noncreature,0,,Forest",
             "image_type": "png",
             "v_mana": ""
@@ -1844,6 +1929,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "81",
+            "rotated": false,
             "notes": "CL05,Noncreature,0,,Island",
             "image_type": "png",
             "v_mana": ""
@@ -1866,6 +1952,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": "CL06,Noncreature,0,,Kyoshi Village",
             "image_type": "png",
             "v_mana": ""
@@ -1888,6 +1975,7 @@
             "artist": "Ari-Matti Toivonen",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": "CL07,Noncreature,0,,Meditation Pools",
             "image_type": "png",
             "v_mana": ""
@@ -1910,6 +1998,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": "CL08,Noncreature,0,,Misty Palms Oasis",
             "image_type": "png",
             "v_mana": ""
@@ -1932,6 +2021,7 @@
             "artist": "Anthony Avon",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": "CL09,Noncreature,0,,Mountain",
             "image_type": "png",
             "v_mana": ""
@@ -1954,6 +2044,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": "CL10,Noncreature,0,,North Pole Gates",
             "image_type": "png",
             "v_mana": ""
@@ -1976,29 +2067,8 @@
             "artist": "Daniel Lieske",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": "CL11,Noncreature,0,,Omashu City",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Noncreature",
-            "color": "",
-            "rarity": "common",
-            "type": "Land",
-            "number": 284,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "88",
-            "notes": "CL12,Noncreature,0,,Plains",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2019,7 +2089,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "88",
+            "rotated": false,
+            "notes": "CL12,Noncreature,0,,Plains",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Noncreature",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 285,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": "CL13,Noncreature,0,,Rumble Arena",
             "image_type": "png",
             "v_mana": ""
@@ -2042,7 +2136,31 @@
             "artist": "",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": "CL14,Noncreature,0,,Serpent's Pass",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Noncreature",
+            "color": "",
+            "rarity": "common",
+            "type": "Land",
+            "number": 286,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "91",
+            "rotated": false,
+            "notes": "CL15,Noncreature,0,,Sun-Blessed Peak",
             "image_type": "png",
             "v_mana": ""
         },
@@ -2063,29 +2181,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "91",
-            "notes": "CL15,Noncreature,0,,Sun-Blessed Peak",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Noncreature",
-            "color": "",
-            "rarity": "common",
-            "type": "Land",
-            "number": 285,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": "CL16,Noncreature,0,,Swamp",
             "image_type": "png",
             "v_mana": ""
@@ -2108,6 +2205,7 @@
             "artist": "",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": "CX01,Noncreature,2,,Aang's Journey",
             "image_type": "png",
             "v_mana": ""
@@ -2130,6 +2228,7 @@
             "artist": "",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": "CX02,Noncreature,5,,Zuko's Exile",
             "image_type": "png",
             "v_mana": ""
@@ -2152,6 +2251,7 @@
             "artist": "R\u00e9mi Jacquot",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": "UW01,Small Creature,1,,Earth Kingdom Protectors",
             "image_type": "png",
             "v_mana": ""
@@ -2174,6 +2274,7 @@
             "artist": "\u5b8b\u5927\u80fd",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": "UW02,Small Creature,1,flying ,Momo, Playful Pet",
             "image_type": "png",
             "v_mana": ""
@@ -2196,6 +2297,7 @@
             "artist": "Lalita Wip",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": "UW03,Small Creature,2,,Water Tribe Rallier",
             "image_type": "png",
             "v_mana": ""
@@ -2218,6 +2320,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "UW04,Small Creature,2,flash ,Invasion Reinforcements",
             "image_type": "png",
             "v_mana": ""
@@ -2240,6 +2343,7 @@
             "artist": "David Astruga",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": "UW05,Small Creature,5,,Gather the White Lotus",
             "image_type": "png",
             "v_mana": ""
@@ -2262,6 +2366,7 @@
             "artist": "Virginie Juteau",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "UW06,Medium Creature,3,,Earth Kingdom Jailer",
             "image_type": "png",
             "v_mana": ""
@@ -2284,6 +2389,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": "UW07,Medium Creature,4,,Vengeful Villagers",
             "image_type": "png",
             "v_mana": ""
@@ -2306,6 +2412,7 @@
             "artist": "Jessie",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": "UW08,Medium Creature,4,flying ,Aang, the Last Airbender",
             "image_type": "png",
             "v_mana": ""
@@ -2328,6 +2435,7 @@
             "artist": "Kyle Pearson",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": "UW09,Medium Creature,5,,Master Piandao",
             "image_type": "png",
             "v_mana": ""
@@ -2350,6 +2458,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": "UW10,Medium Creature,6,flying ,Appa, Loyal Sky Bison",
             "image_type": "png",
             "v_mana": ""
@@ -2372,6 +2481,7 @@
             "artist": "Qifeng Lin",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "UW11,Noncreature,1,flying ,Enter the Avatar State",
             "image_type": "png",
             "v_mana": ""
@@ -2394,6 +2504,7 @@
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
             "position": "106",
+            "rotated": true,
             "notes": "UW12,Noncreature,2,,Airbender's Reversal",
             "image_type": "png",
             "v_mana": ""
@@ -2416,6 +2527,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "UW13,Noncreature,3,,Fancy Footwork",
             "image_type": "png",
             "v_mana": ""
@@ -2438,6 +2550,7 @@
             "artist": "Yasen Stoilov",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": "UW14,Noncreature,3,,Team Avatar",
             "image_type": "png",
             "v_mana": ""
@@ -2460,6 +2573,7 @@
             "artist": "Caelan Stokkermans",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "UW15,Noncreature,3,flying ,Glider Staff",
             "image_type": "png",
             "v_mana": ""
@@ -2482,6 +2596,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": "UW16,Noncreature,4,,Destined Confrontation",
             "image_type": "png",
             "v_mana": ""
@@ -2504,6 +2619,7 @@
             "artist": "Leaf Art",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": "UW17,Noncreature,4,,Southern Air Temple",
             "image_type": "png",
             "v_mana": ""
@@ -2526,6 +2642,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": "UU01,Small Creature,1,,Gran-Gran",
             "image_type": "png",
             "v_mana": ""
@@ -2548,6 +2665,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": "UU02,Small Creature,2,,Knowledge Seeker",
             "image_type": "png",
             "v_mana": ""
@@ -2570,6 +2688,7 @@
             "artist": "Casey Gerber",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": "UU03,Small Creature,2,,Master Pakku",
             "image_type": "png",
             "v_mana": ""
@@ -2592,6 +2711,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": "UU04,Medium Creature,3,,Katara, Bending Prodigy",
             "image_type": "png",
             "v_mana": ""
@@ -2614,6 +2734,7 @@
             "artist": "Kevin Glint",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": "UU05,Medium Creature,3,,North Pole Patrol",
             "image_type": "png",
             "v_mana": ""
@@ -2636,6 +2757,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "UU06,MediumWall Creature,4,flying ,Teo, Spirited Glider",
             "image_type": "png",
             "v_mana": ""
@@ -2658,6 +2780,7 @@
             "artist": "Rian Moraes",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "UU07,Large Creature,2,flying ,Benevolent River Spirit",
             "image_type": "png",
             "v_mana": ""
@@ -2680,6 +2803,7 @@
             "artist": "Aaron Nakahara",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": "UU08,Large Creature,7,flash ,Serpent of the Pass",
             "image_type": "png",
             "v_mana": ""
@@ -2702,6 +2826,7 @@
             "artist": "Alex Petruk",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": "UU09,Noncreature,1,,Boomerang Basics",
             "image_type": "png",
             "v_mana": ""
@@ -2724,6 +2849,7 @@
             "artist": "Sofiia Bondareva",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": "UU10,Noncreature,1,,Honest Work",
             "image_type": "png",
             "v_mana": ""
@@ -2746,6 +2872,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": "UU11,Noncreature,2,,Accumulate Wisdom",
             "image_type": "png",
             "v_mana": ""
@@ -2768,6 +2895,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": "UU12,Noncreature,2,,Crashing Wave",
             "image_type": "png",
             "v_mana": ""
@@ -2790,6 +2918,7 @@
             "artist": "Eduardo Pena",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": "UU13,Noncreature,2,,Waterbending Scroll",
             "image_type": "png",
             "v_mana": ""
@@ -2812,6 +2941,7 @@
             "artist": "Eric Gagnon",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "UU14,Noncreature,3,,Invasion Submersible",
             "image_type": "png",
             "v_mana": ""
@@ -2845,6 +2975,8 @@
             "loyalty2": "",
             "artist2": "Bjorn Hurri",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UU15,Noncreature,3,,The Spirit Oasis",
             "image_type": "png",
             "v_mana": ""
@@ -2867,6 +2999,7 @@
             "artist": "Calder Moore",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": "UU16,Noncreature,5,,Ember Island Production",
             "image_type": "png",
             "v_mana": ""
@@ -2900,6 +3033,8 @@
             "loyalty2": "",
             "artist2": "Adrian Virlan",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UU17,Noncreature,5,,Sokka's Haiku",
             "image_type": "png",
             "v_mana": ""
@@ -2922,6 +3057,7 @@
             "artist": "Tomas Duchek",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": "UB01,Small Creature,2,,Joo Dee, One of Many",
             "image_type": "png",
             "v_mana": ""
@@ -2944,6 +3080,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "UB02,Small Creature,2,,June, Bounty Hunter",
             "image_type": "png",
             "v_mana": ""
@@ -2966,6 +3103,7 @@
             "artist": "Yury Solntsev",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "UB03,Small Creature,3,flying ,Fire Navy Trebuchet",
             "image_type": "png",
             "v_mana": ""
@@ -2988,6 +3126,7 @@
             "artist": "Dimitrije Miljus",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": "UB04,Small Creature,3,flying ,Wolfbat",
             "image_type": "png",
             "v_mana": ""
@@ -3010,6 +3149,7 @@
             "artist": "KILART",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "UB05,Small Creature,4,flying ,Buzzard-Wasp Colony",
             "image_type": "png",
             "v_mana": ""
@@ -3032,6 +3172,7 @@
             "artist": "Tomek Larek",
             "alias": "",
             "position": "134",
+            "rotated": false,
             "notes": "UB06,Small Creature,5,,Lo and Li, Twin Tutors",
             "image_type": "png",
             "v_mana": ""
@@ -3054,6 +3195,7 @@
             "artist": "Ilya Popov",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "UB07,Medium Creature,3,,Fire Nation Engineer",
             "image_type": "png",
             "v_mana": ""
@@ -3076,6 +3218,7 @@
             "artist": "Ilya Vatutin",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "UB08,Medium Creature,4,,Azula, On the Hunt",
             "image_type": "png",
             "v_mana": ""
@@ -3098,6 +3241,7 @@
             "artist": "Andrea Tarzia",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": "UB09,Medium Creature,7,,Cat-Gator",
             "image_type": "png",
             "v_mana": ""
@@ -3120,6 +3264,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": "UB10,Noncreature,1,,Northern Air Temple",
             "image_type": "png",
             "v_mana": ""
@@ -3142,6 +3287,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": "UB11,Noncreature,1,,Zuko's Conviction",
             "image_type": "png",
             "v_mana": ""
@@ -3164,6 +3310,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": "UB12,Noncreature,2,,Epic Downfall",
             "image_type": "png",
             "v_mana": ""
@@ -3186,6 +3333,7 @@
             "artist": "Rashed AlAkroka",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": "UB13,Noncreature,2,,Fatal Fissure",
             "image_type": "png",
             "v_mana": ""
@@ -3208,6 +3356,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": "UB14,Noncreature,2,,Heartless Act",
             "image_type": "png",
             "v_mana": ""
@@ -3230,6 +3379,7 @@
             "artist": "Zp Zhang",
             "alias": "",
             "position": "143",
+            "rotated": true,
             "notes": "RB03 ,Noncreature,3,,Ozai's Cruelty",
             "image_type": "png",
             "v_mana": ""
@@ -3263,6 +3413,8 @@
             "loyalty2": "",
             "artist2": "Antonio J. Manzanedo",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UB16,Noncreature,3,,Ruinous Waterbending",
             "image_type": "png",
             "v_mana": ""
@@ -3285,6 +3437,7 @@
             "artist": "Sofiia Bondareva",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": "RB05 ,Noncreature,3,,Tundra Tank",
             "image_type": "png",
             "v_mana": ""
@@ -3307,6 +3460,7 @@
             "artist": "Dan Robinett",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "UR01,Small Creature,2,,Fire Sages",
             "image_type": "png",
             "v_mana": ""
@@ -3329,6 +3483,7 @@
             "artist": "Andrey Kuzinskiy",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": "UR02,Small Creature,2,,Mai, Jaded Edge",
             "image_type": "png",
             "v_mana": ""
@@ -3351,6 +3506,7 @@
             "artist": "John Stone",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": "UR03,Small Creature,4,,Crescent Island Temple",
             "image_type": "png",
             "v_mana": ""
@@ -3373,6 +3529,7 @@
             "artist": "Vyacheslav Safronov",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": "UR04,Small Creature,4,,The Cave of Two Lovers",
             "image_type": "png",
             "v_mana": ""
@@ -3395,6 +3552,7 @@
             "artist": "Adrian Virlan",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "UR05,Small Creature,5,flash ,Fire Nation Attacks",
             "image_type": "png",
             "v_mana": ""
@@ -3417,6 +3575,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "UR06,Medium Creature,2,,Tiger-Dillo",
             "image_type": "png",
             "v_mana": ""
@@ -3439,6 +3598,7 @@
             "artist": "Harkal\u00e9 Lina\u00ef",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": "UR07,Medium Creature,3,,\"Flaming Hot Jazz Hands\"",
             "image_type": "png",
             "v_mana": ""
@@ -3461,6 +3621,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "UR08,Medium Creature,3,,Jeong Jeong, the Deserter",
             "image_type": "png",
             "v_mana": ""
@@ -3483,6 +3644,7 @@
             "artist": "Ann Jean",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": "UR10,Medium Creature,4,,Zuko, Exiled Prince",
             "image_type": "png",
             "v_mana": ""
@@ -3505,6 +3667,7 @@
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
             "position": "155",
+            "rotated": true,
             "notes": "RR02,Noncreature,1,,Jet's Brainwashing",
             "image_type": "png",
             "v_mana": ""
@@ -3527,6 +3690,7 @@
             "artist": "Chun Lo",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": "UR13,Noncreature,2,,Combustion Technique",
             "image_type": "png",
             "v_mana": ""
@@ -3549,6 +3713,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": "UR14,Noncreature,2,,Iroh's Demonstration",
             "image_type": "png",
             "v_mana": ""
@@ -3571,6 +3736,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "UR15,Noncreature,2,,Price of Freedom",
             "image_type": "png",
             "v_mana": ""
@@ -3593,6 +3759,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": "UR16,Noncreature,3,flash ,Solstice Revelations",
             "image_type": "png",
             "v_mana": ""
@@ -3626,6 +3793,8 @@
             "loyalty2": "",
             "artist2": "Anato Finnstark",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UR17,Noncreature,3,flash ,Twin Blades",
             "image_type": "png",
             "v_mana": ""
@@ -3648,6 +3817,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": "UR18,Noncreature,3,flying ,War Balloon",
             "image_type": "png",
             "v_mana": ""
@@ -3670,6 +3840,7 @@
             "artist": "I Demo Games",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": "UG01,Small Creature,2,,Haru, Hidden Talent",
             "image_type": "png",
             "v_mana": ""
@@ -3692,6 +3863,7 @@
             "artist": "Adrian Virlan",
             "alias": "",
             "position": "163",
+            "rotated": false,
             "notes": "UG02,Small Creature,2,,Sparring Dummy",
             "image_type": "png",
             "v_mana": ""
@@ -3714,6 +3886,7 @@
             "artist": ". Quaresma",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "UG03,Small Creature,2,,Unlucky Cabbage Merchant",
             "image_type": "png",
             "v_mana": ""
@@ -3736,6 +3909,7 @@
             "artist": "Alexey Kruglov",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": "UG04,Small Creature,4,,Earth Kingdom General",
             "image_type": "png",
             "v_mana": ""
@@ -3758,6 +3932,7 @@
             "artist": "Mike Szabados",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": "UG05,Medium Creature,3,,Toph, the Blind Bandit",
             "image_type": "png",
             "v_mana": ""
@@ -3780,6 +3955,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": "UG06,Medium Creature,4,,The Boulder, Ready to Rumble",
             "image_type": "png",
             "v_mana": ""
@@ -3802,6 +3978,7 @@
             "artist": "Eugenio Frosali",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "UG07,Medium Creature,6,,Bumi, King of Three Trials",
             "image_type": "png",
             "v_mana": ""
@@ -3824,6 +4001,7 @@
             "artist": "Tom Lopez",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": "UG08,Medium Creature,6,,Flopsie, Bumi's Buddy",
             "image_type": "png",
             "v_mana": ""
@@ -3833,7 +4011,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "",
-            "number": 193,
+            "number": 191,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "",
@@ -3846,6 +4024,7 @@
             "artist": "",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": "UG09,Noncreature,1,,Seismic Sense",
             "image_type": "png",
             "v_mana": ""
@@ -3868,6 +4047,7 @@
             "artist": "",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "UG10,Noncreature,2,,Leaves from the Vine",
             "image_type": "png",
             "v_mana": ""
@@ -3877,7 +4057,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "",
-            "number": 191,
+            "number": 193,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "",
@@ -3890,6 +4070,7 @@
             "artist": "",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": "UG11,Noncreature,2,,Shared Roots",
             "image_type": "png",
             "v_mana": ""
@@ -3912,6 +4093,7 @@
             "artist": "Wenjun Lin",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "UG12,Noncreature,2,,True Ancestry",
             "image_type": "png",
             "v_mana": ""
@@ -3945,6 +4127,8 @@
             "loyalty2": "",
             "artist2": "Curlyhair Nadia Asserzon",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UG13,Noncreature,3,,Allies at Last",
             "image_type": "png",
             "v_mana": ""
@@ -3967,6 +4151,7 @@
             "artist": "Felix Ortiz",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "UG14,Noncreature,3,flash ,Rockalanche",
             "image_type": "png",
             "v_mana": ""
@@ -3989,6 +4174,7 @@
             "artist": "Zp Zhang",
             "alias": "",
             "position": "176",
+            "rotated": true,
             "notes": "RG04,Noncreature,4,,Earth Rumble",
             "image_type": "png",
             "v_mana": ""
@@ -4001,7 +4187,7 @@
             "number": 207,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Until end of turn, target creature you control gains \u201cWhen this creature dies, draw a card.\u201d Then it fights another target creature.\nFlashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "Until end of turn, target creature you control gains \u201cWhen this creature dies, draw a card.\u201d Then it fights another target creature.\nFlashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4011,6 +4197,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "UG16,Noncreature,4,,Kyoshi Island Plaza",
             "image_type": "png",
             "v_mana": ""
@@ -4033,6 +4220,7 @@
             "artist": "",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": "UG17,Noncreature,5,,Invasion Tactics",
             "image_type": "png",
             "v_mana": ""
@@ -4055,6 +4243,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "UM01,Small Creature,2,WB ,Tolls of War",
             "image_type": "png",
             "v_mana": ""
@@ -4064,7 +4253,7 @@
             "color": "UB",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Human Detective Hero",
-            "number": 221,
+            "number": 222,
             "color_identity": "UB",
             "cost": "{1}{U}{B}",
             "rules_text": "{2}, Discard a card: Create a 2/1 blue Detective creature token with \u201cWhenever this creature attacks, target nontoken creature can't be blocked this turn.\u201d\nAt the beginning of your end step, draw a card if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]",
@@ -4077,6 +4266,7 @@
             "artist": "Roman Bashkatov",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": "UM02,Small Creature,3,UB ,Foggy Swamp Spirit Keeper",
             "image_type": "png",
             "v_mana": ""
@@ -4086,7 +4276,7 @@
             "color": "WR",
             "rarity": "uncommon",
             "type": "Enchantment",
-            "number": 230,
+            "number": 231,
             "color_identity": "WR",
             "cost": "{2}{R}{W}",
             "rules_text": "Whenever this enchantment enters or you attack, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nAt the beginning of combat on your turn, untap target Hero you control. It gains trample and haste until end of turn.",
@@ -4099,6 +4289,7 @@
             "artist": "David Jones",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": "UM03,Small Creature,4,RW ,Sun Warriors",
             "image_type": "png",
             "v_mana": ""
@@ -4108,7 +4299,7 @@
             "color": "BR",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Skeleton Warrior Hero",
-            "number": 214,
+            "number": 215,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
             "rules_text": "Ward\u2013Pay 2 life. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]\n{1}{R}, Discard this card: It deals 2 damage to any target.",
@@ -4121,6 +4312,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": "UM04,Small Creature,5,BR ,Cruel Administrator",
             "image_type": "png",
             "v_mana": ""
@@ -4130,7 +4322,7 @@
             "color": "UG",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2013 Robot Hero",
-            "number": 227,
+            "number": 228,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
             "rules_text": "Trample, ward {1}\nAs long as there are two or more card types among spells you've cast this turn, this creature gets +2/+2 and has \u201cAt the beginning of your end step, draw a card.\u201d",
@@ -4143,6 +4335,7 @@
             "artist": "Last Level",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": "UM05,Medium Creature,2,GU ,Hermitic Herbalist",
             "image_type": "png",
             "v_mana": ""
@@ -4165,6 +4358,7 @@
             "artist": "Sylvain Sarrailh",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "UM06,Medium Creature,3,GW ,White Lotus Reinforcements",
             "image_type": "png",
             "v_mana": ""
@@ -4187,6 +4381,7 @@
             "artist": "Timi Honkanen",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "UM07,Medium Creature,3,flying UR ,Dragonfly Swarm",
             "image_type": "png",
             "v_mana": ""
@@ -4209,6 +4404,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": "UM08,Medium Creature,5,BG ,Dai Li Agents",
             "image_type": "png",
             "v_mana": ""
@@ -4218,7 +4414,7 @@
             "color": "WU",
             "rarity": "uncommon",
             "type": "Legendary Artifact Creature \u2013 Cyborg Hero",
-            "number": 218,
+            "number": 219,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "First strike\nAs long as you've drawn two or more cards this turn, creatures you control get +1/+1.\nWhenever Eni deals combat damage to a player, draw a card, then discard a card.",
@@ -4231,6 +4427,7 @@
             "artist": "Kevin Glint",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": "UM09,Noncreature,2,flying WU ,Air Nomad Legacy",
             "image_type": "png",
             "v_mana": ""
@@ -4253,6 +4450,7 @@
             "artist": "Nikolai Gorishnii",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "UM10,Noncreature,3,RG ,Bitter Work",
             "image_type": "png",
             "v_mana": ""
@@ -4286,6 +4484,8 @@
             "loyalty2": "",
             "artist2": "Anna LAKISOVA",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "UZ01,Small Creature,4,GW ,Suki, Kyos hi Warrior",
             "image_type": "png",
             "v_mana": ""
@@ -4308,6 +4508,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": "UZ02,Small Creature,5,RW ,Jet, Freedom Fighter",
             "image_type": "png",
             "v_mana": ""
@@ -4330,6 +4531,7 @@
             "artist": "Sophie Medvedeva",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "UZ03,SmallWall Creature,2,UR ,Professor Zei, Anthropologist",
             "image_type": "png",
             "v_mana": ""
@@ -4339,7 +4541,7 @@
             "color": "BG",
             "rarity": "uncommon",
             "type": "Legendary Creature \u2013 Dryad Hero",
-            "number": 217,
+            "number": 218,
             "color_identity": "BG",
             "cost": "{B}{G}",
             "rules_text": "Deathtouch\nWhenever Chaniel attacks, surveil 1. Then if its power is 4 or greater, draw a card.\nAt the beginning of your end step, put a +1/+1 counter on Chaniel if you performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]",
@@ -4352,6 +4554,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": "UZ04,Medium Creature,3,BG ,Long Feng, Grand Secretariat",
             "image_type": "png",
             "v_mana": ""
@@ -4374,6 +4577,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": "UZ05,Medium Creature,3,RG ,Uncle Iroh",
             "image_type": "png",
             "v_mana": ""
@@ -4396,6 +4600,7 @@
             "artist": "Yury Solntsev",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "UZ06,Medium Creature,3,WU ,Sokka, Lateral Strategist",
             "image_type": "png",
             "v_mana": ""
@@ -4418,6 +4623,7 @@
             "artist": "Ari Ibarra",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "UZ07,Medium Creature,4,BR ,Zhao, Ruthless Admiral",
             "image_type": "png",
             "v_mana": ""
@@ -4440,6 +4646,7 @@
             "artist": "Thomas Elliott",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": "UZ08,Medium Creature,4,GU ,Guru Pathik",
             "image_type": "png",
             "v_mana": ""
@@ -4449,7 +4656,7 @@
             "color": "WB",
             "rarity": "uncommon",
             "type": "Creature \u2013 Dryad Cleric",
-            "number": 226,
+            "number": 227,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "Vigilance\nWhenever this creature enters or attacks, if you've performed a rite this turn, create a 2/2 white Human Horror creature token. Each opponent loses 2 life. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]",
@@ -4462,6 +4669,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "UZ09,Medium Creature,4,WB ,Hei Bai, Spirit of Balance",
             "image_type": "png",
             "v_mana": ""
@@ -4484,6 +4692,7 @@
             "artist": "Chris Cold",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": "UZ10,Medium Creature,5,UB ,Hama, the Bloodbender",
             "image_type": "png",
             "v_mana": ""
@@ -4506,6 +4715,7 @@
             "artist": "Mazert Young",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": "UA01,Noncreature,1,,Trusty Boomerang",
             "image_type": "png",
             "v_mana": ""
@@ -4528,6 +4738,7 @@
             "artist": "Alex Petruk",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": "UA02,Noncreature,3,,Fire Nation Warship",
             "image_type": "png",
             "v_mana": ""
@@ -4537,7 +4748,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Artifact",
-            "number": 267,
+            "number": 268,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -4550,6 +4761,7 @@
             "artist": "",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": "UA03,Noncreature,7,,Meteor Sword",
             "image_type": "png",
             "v_mana": ""
@@ -4559,7 +4771,7 @@
             "color": "",
             "rarity": "uncommon",
             "type": "Land",
-            "number": 286,
+            "number": 284,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -4572,6 +4784,7 @@
             "artist": "",
             "alias": "",
             "position": "202",
+            "rotated": false,
             "notes": "UL01,Noncreature,0,,White Lotus Hideout",
             "image_type": "png",
             "v_mana": ""
@@ -4594,6 +4807,7 @@
             "artist": "",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": "UX01,Noncreature,2,,Energybending",
             "image_type": "png",
             "v_mana": ""
@@ -4616,6 +4830,7 @@
             "artist": "Manon De Jong",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "RW01,Small Creature,1,flying ,Momo, Friendly Flier",
             "image_type": "png",
             "v_mana": ""
@@ -4638,6 +4853,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "RW02,Small Creature,2,,South Pole Voyager",
             "image_type": "png",
             "v_mana": ""
@@ -4660,6 +4876,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": "RW03,Small Creature,3,,Suki, Courageous Rescuer",
             "image_type": "png",
             "v_mana": ""
@@ -4682,6 +4899,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": "RW04,Medium Creature,3,flying flash ,Aang, Swift Savior",
             "image_type": "png",
             "v_mana": ""
@@ -4704,6 +4922,7 @@
             "artist": "Iven Mu",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": "RW05,Medium Creature,4,,Hakoda, Selfless Commander",
             "image_type": "png",
             "v_mana": ""
@@ -4726,6 +4945,7 @@
             "artist": "\u5b50\u7fce",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": "RW06,Noncreature,2,,Airbender Ascension",
             "image_type": "png",
             "v_mana": ""
@@ -4759,6 +4979,8 @@
             "loyalty2": "",
             "artist2": "Erskine Designs",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RW07,Noncreature,3,flash ,Aang's Iceberg",
             "image_type": "png",
             "v_mana": ""
@@ -4792,6 +5014,8 @@
             "loyalty2": "",
             "artist2": "Taras Susak",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RW08,Noncreature,4,,\"Sandy Downvote\"",
             "image_type": "png",
             "v_mana": ""
@@ -4814,6 +5038,7 @@
             "artist": "Dorje Bellbrook",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "RW09,Noncreature,4,,Avatar's Wrath",
             "image_type": "png",
             "v_mana": ""
@@ -4823,7 +5048,7 @@
             "color": "WU",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Advisor Hero",
-            "number": 225,
+            "number": 226,
             "color_identity": "WU",
             "cost": "{W}{U}",
             "rules_text": "Creatures you control have ward {1}. [i](Whenever one becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
@@ -4836,6 +5061,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "RU01,Small Creature,3,flash ,Ty Lee, Chi Blocker",
             "image_type": "png",
             "v_mana": ""
@@ -4858,6 +5084,7 @@
             "artist": "Varsam Kurnia",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": "RU02,Small Creature,3,flying ,The Mechanist, Aerial Artisan",
             "image_type": "png",
             "v_mana": ""
@@ -4880,6 +5107,7 @@
             "artist": "Ilya Vatutin",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "RU03,Medium Creature,1,,Tiger-Seal",
             "image_type": "png",
             "v_mana": ""
@@ -4902,6 +5130,7 @@
             "artist": "Candra Gloomblade",
             "alias": "",
             "position": "216",
+            "rotated": false,
             "notes": "RU04,Medium Creature,4,flying ,Yue, the Moon Spirit",
             "image_type": "png",
             "v_mana": ""
@@ -4924,6 +5153,7 @@
             "artist": "Joshua Griffin",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": "RU05,Large Creature,5,flash ,\"Slippery Eel\"",
             "image_type": "png",
             "v_mana": ""
@@ -4946,6 +5176,7 @@
             "artist": "Igor Burlakov",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": "RU06,Large Creature,5,flash ,The Unagi of Kyoshi Island",
             "image_type": "png",
             "v_mana": ""
@@ -4968,6 +5199,7 @@
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
             "position": "219",
+            "rotated": true,
             "notes": "RU07,Noncreature,2,,Waterbender Ascension",
             "image_type": "png",
             "v_mana": ""
@@ -4990,6 +5222,7 @@
             "artist": "Christina P. Myrvold",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": "RU08,Noncreature,3,,Spirit Water Revival",
             "image_type": "png",
             "v_mana": ""
@@ -5012,6 +5245,7 @@
             "artist": "Sebastian Lotero",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "RB01,Small Creature,2,,Mai, Scornful Striker",
             "image_type": "png",
             "v_mana": ""
@@ -5034,6 +5268,7 @@
             "artist": "Fabien SALVALAGGIO",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "RB02,Medium Creature,3,,Boiling Rock Rioter",
             "image_type": "png",
             "v_mana": ""
@@ -5056,6 +5291,7 @@
             "artist": "alexis susani",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "UB15,Medium Creature,3,flying ,Raven Eagle",
             "image_type": "png",
             "v_mana": ""
@@ -5078,6 +5314,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": "RB04,Noncreature,2,,Day of Black Sun",
             "image_type": "png",
             "v_mana": ""
@@ -5111,6 +5348,8 @@
             "loyalty2": "",
             "artist2": "Phill Berry",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "RB05,Noncreature,2,,Obsessive Pursuit",
             "image_type": "png",
             "v_mana": ""
@@ -5133,6 +5372,7 @@
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": "RB06,Noncreature,3,,Foggy Swamp Visions",
             "image_type": "png",
             "v_mana": ""
@@ -5155,6 +5395,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": "RR01,Small Creature,2,,Firebender Ascension",
             "image_type": "png",
             "v_mana": ""
@@ -5177,6 +5418,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": "RR02,Small Creature,2,,Firebending Student",
             "image_type": "png",
             "v_mana": ""
@@ -5199,6 +5441,7 @@
             "artist": "Miles Johnston",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": "RR03,Small Creature,2,,Zhao, the Moon Slayer",
             "image_type": "png",
             "v_mana": ""
@@ -5221,6 +5464,7 @@
             "artist": "Reza Afshar",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": "RR04,Medium Creature,4,,Wartime Protestors",
             "image_type": "png",
             "v_mana": ""
@@ -5243,6 +5487,7 @@
             "artist": "Erskine Designs",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": "RR05,Medium Creature,5,flying ,Ran and Shaw",
             "image_type": "png",
             "v_mana": ""
@@ -5265,6 +5510,7 @@
             "artist": "Enora",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": "RR06,Noncreature,1,,Redirect Lightning",
             "image_type": "png",
             "v_mana": ""
@@ -5287,6 +5533,7 @@
             "artist": "Lea Dickert",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "RR07,Noncreature,2,,The Last Agni Kai",
             "image_type": "png",
             "v_mana": ""
@@ -5309,6 +5556,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": "RG01,Small Creature,1,,Earthen Ally",
             "image_type": "png",
             "v_mana": ""
@@ -5331,6 +5579,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "RG02,Medium Creature,2,,Great Divide Guide",
             "image_type": "png",
             "v_mana": ""
@@ -5339,28 +5588,6 @@
             "card_name": "Medium Creature",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature",
-            "number": 186,
-            "color_identity": "G",
-            "cost": "{3}{G}",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
-            "position": "236",
-            "notes": "RG03,Medium Creature,4,,Diligent Zookeeper",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Medium Creature",
-            "color": "G",
-            "rarity": "uncommon",
             "type": "Creature",
             "number": 187,
             "color_identity": "G",
@@ -5374,7 +5601,31 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "236",
+            "rotated": false,
+            "notes": "RG03,Medium Creature,4,,Diligent Zookeeper",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Medium Creature",
+            "color": "G",
+            "rarity": "uncommon",
+            "type": "Creature",
+            "number": 186,
+            "color_identity": "G",
+            "cost": "{3}{G}",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "RG04,Medium Creature,4,,The Earth King",
             "image_type": "png",
             "v_mana": ""
@@ -5397,6 +5648,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "RG05,Medium Creature,5,flying ,Aang, at the Crossroads",
             "image_type": "png",
             "v_mana": ""
@@ -5419,6 +5671,7 @@
             "artist": "Lorenzo Colangeli",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": "RG06,Noncreature,3,,Earthbender Ascension",
             "image_type": "png",
             "v_mana": ""
@@ -5441,6 +5694,7 @@
             "artist": "Ben J",
             "alias": "",
             "position": "240",
+            "rotated": false,
             "notes": "RG07,Noncreature,4,,Avatar Destiny",
             "image_type": "png",
             "v_mana": ""
@@ -5453,7 +5707,7 @@
             "number": 181,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Search your library for a basic land card, reveal it, and put it into your hand, then shuffle. If this spell was cast from anywhere other than your hand, you may put that card onto the battlefield tapped instead.\nFlashback {3}{G} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "Search your library for a basic land card, reveal it, and put it into your hand, then shuffle. If this spell was cast from anywhere other than your hand, you may put that card onto the battlefield tapped instead.\nFlashback {3}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5463,6 +5717,7 @@
             "artist": "Mauricio Botache",
             "alias": "",
             "position": "241",
+            "rotated": false,
             "notes": "RG08,Noncreature,5,,Elemental Teachings",
             "image_type": "png",
             "v_mana": ""
@@ -5472,7 +5727,7 @@
             "color": "WG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Goblin Noble Hero",
-            "number": 223,
+            "number": 224,
             "color_identity": "WG",
             "cost": "{X}{1}{G}{W}",
             "rules_text": "Lord Tyto Bons\u00edc enters with X +1/+1 counters on it.\n[i]Coven[/i] \u2013 Whenever Lord Tyto Bons\u00edc enters or attacks, if you control three or more creatures with different powers, create a token that's a copy of target creature you control with mana value 2 or less.",
@@ -5485,6 +5740,7 @@
             "artist": "Victor Hugo Harmatiuk",
             "alias": "",
             "position": "242",
+            "rotated": false,
             "notes": "RMGW Small Creature,2,GW ,Earth King's Lieutenant",
             "image_type": "png",
             "v_mana": ""
@@ -5494,7 +5750,7 @@
             "color": "WB",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Noble",
-            "number": 236,
+            "number": 237,
             "color_identity": "WB",
             "cost": "{3}{W}{B}",
             "rules_text": "When Kniles enters, create two red artifact tokens named Rose with \u201c{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.\u201d\nDuring your turn, tokens you control have lifelink and are 3/1 Plant creatures in addition to their other types.",
@@ -5507,6 +5763,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "243",
+            "rotated": false,
             "notes": "RM03,Small Creature,2,WB ,Sandbender Scavengers",
             "image_type": "png",
             "v_mana": ""
@@ -5516,7 +5773,7 @@
             "color": "WR",
             "rarity": "rare",
             "type": "Creature \u2013 Human Archer Hero",
-            "number": 234,
+            "number": 235,
             "color_identity": "WR",
             "cost": "{R}{W}",
             "rules_text": "Reach\n{T}: Add {R} or {W}. If that mana is spent on a Hero spell or legendary creature spell, it enters with an additional +1/+1 counter on it and gains haste until end of turn.",
@@ -5529,6 +5786,7 @@
             "artist": "Wenjun Lin",
             "alias": "",
             "position": "244",
+            "rotated": false,
             "notes": "RM04,Small Creature,3,RW ,Iroh, Tea Master",
             "image_type": "png",
             "v_mana": ""
@@ -5538,7 +5796,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Enchantment Creature \u2013 Avatar Wurm",
-            "number": 229,
+            "number": 230,
             "color_identity": "UG",
             "cost": "{2}{G}{U}",
             "rules_text": "You may play an additional land during each of your turns.\nAs long as there are two or more card types among spells you've cast this turn, nonland permanent cards in your hand with mana value 3 or less are lands in addition to their other types. [i](You can play them as lands, but not cast them.)[/i]",
@@ -5551,28 +5809,30 @@
             "artist": "Angga Dwipayana",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": "RM05,Small Creature,4,URW ,Sokka, Tenacious Tactician",
             "image_type": "png",
             "v_mana": ""
         },
         {
-            "card_name": "RMWU Tyto's Abjurance",
+            "card_name": "Bearer of Blessings",
             "color": "WU",
             "rarity": "rare",
-            "type": "Enchantment",
-            "number": 237,
+            "type": "Creature \u2013 Elf Knight Hero",
+            "number": 213,
             "color_identity": "WU",
             "cost": "{2}{W}{U}",
-            "rules_text": "At the beginning of combat on your turn, choose up to {X}, where X is the number of cards you've drawn this turn \u2013\n\u2022 Create a 1/1 colorless Construct artifact creature token.\n\u2022 Put a +1/+1 counter and a vigilance counter on a creature you control.\n\u2022 Put a +1/+1 counter and a lifelink counter on a creature you control.",
+            "rules_text": "Flash\nWhen this creature enters, search your library for up to three creature cards with different names and exile them, then shuffle.\nWhenever you draw your second card each turn, you may cast a spell with mana value 2 or less from among cards exiled with this creature without paying its mana cost.",
             "flavor_text": "[i][/i]",
-            "pt": "",
+            "pt": "4/3",
             "special_text": "",
             "shape": "normal",
             "set": "AJY",
             "loyalty": "",
-            "artist": "",
+            "artist": "Dustin Panzino",
             "alias": "",
             "position": "246",
+            "rotated": false,
             "notes": "RM06,Small Creature,5,WU ,Katara, Water Tribe's Hope",
             "image_type": "png",
             "v_mana": ""
@@ -5582,7 +5842,7 @@
             "color": "BR",
             "rarity": "rare",
             "type": "Enchantment",
-            "number": 232,
+            "number": 233,
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "Whenever you attack, you may sacrifice a creature. If you do, create a tapped and attacking token that's a copy of it.",
@@ -5595,6 +5855,7 @@
             "artist": "Ksenia Kozhevnikova",
             "alias": "",
             "position": "247",
+            "rotated": false,
             "notes": "RM07,Medium Creature,2,BR ,Zuko, Conflicted",
             "image_type": "png",
             "v_mana": ""
@@ -5604,7 +5865,7 @@
             "color": "WRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Advisor Performer",
-            "number": 220,
+            "number": 221,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
             "rules_text": "Creature spells you cast have demonstrate. [i](Whenever you cast a creature spell, you may copy it. If you do, choose an opponent to also copy it. Each copy becomes a token.)[/i]\nEach creature you control has protection from its own name.",
@@ -5617,6 +5878,7 @@
             "artist": "Massimiliano Haematinon Nigro",
             "alias": "",
             "position": "248",
+            "rotated": false,
             "notes": "RM08,Medium Creature,3,GWU ,Katara, the Fearless",
             "image_type": "png",
             "v_mana": ""
@@ -5639,6 +5901,7 @@
             "artist": "b i m a",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": "RM09,Medium Creature,3,RWB ,Fire Lord Zuko",
             "image_type": "png",
             "v_mana": ""
@@ -5648,7 +5911,7 @@
             "color": "BG",
             "rarity": "rare",
             "type": "Creature \u2013 Elk Incarnation",
-            "number": 231,
+            "number": 232,
             "color_identity": "BG",
             "cost": "{1}{B}{G}",
             "rules_text": "Whenever this creature enters or attacks, mill a card. You may cast a non-Elk creature spell from your graveyard. [i](You still pay its costs.)[/i]",
@@ -5661,6 +5924,7 @@
             "artist": "Minard Maxime",
             "alias": "",
             "position": "250",
+            "rotated": false,
             "notes": "RM11,Medium Creature,4,BG ,Beifong's Bounty Hunters",
             "image_type": "png",
             "v_mana": ""
@@ -5670,7 +5934,7 @@
             "color": "RG",
             "rarity": "rare",
             "type": "Legendary Enchantment Creature \u2013 Avatar Hero",
-            "number": 233,
+            "number": 234,
             "color_identity": "RG",
             "cost": "{4}{R}{G}",
             "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nYou may pay {2} rather than pay the mana costs of enchantment spells you cast.",
@@ -5683,6 +5947,7 @@
             "artist": "Rashed AlAkroka",
             "alias": "",
             "position": "251",
+            "rotated": false,
             "notes": "RM12,Medium Creature,4,RG ,Toph, Hardheaded Teacher",
             "image_type": "png",
             "v_mana": ""
@@ -5692,7 +5957,7 @@
             "color": "BRG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Horror Noble",
-            "number": 216,
+            "number": 217,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
             "rules_text": "Menace, deathtouch\nOnce during each of your turns, when you perform a rite, you may copy a spell you control. You may choose new targets for the copy. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]",
@@ -5705,6 +5970,7 @@
             "artist": "Plutus Su",
             "alias": "",
             "position": "252",
+            "rotated": false,
             "notes": "RM13,Medium Creature,4,RGW ,Toph, the First Metalbender",
             "image_type": "png",
             "v_mana": ""
@@ -5727,6 +5993,7 @@
             "artist": "Aldo Dom\u00ednguez",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": "RM14,Medium Creature,4,UBR ,Fire Lord Azula",
             "image_type": "png",
             "v_mana": ""
@@ -5736,7 +6003,7 @@
             "color": "UB",
             "rarity": "rare",
             "type": "Creature \u2013 Elemental Advisor Performer",
-            "number": 235,
+            "number": 236,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "At the beginning of your end step, if you have two or more cards in hand, discard two cards. If you do, search your library for a card and put it into your hand, then shuffle.",
@@ -5749,6 +6016,7 @@
             "artist": "Leonardo Vincent",
             "alias": "",
             "position": "254",
+            "rotated": false,
             "notes": "RM15,Medium Creature,5,flash UB ,Azula, Cunning Usurper",
             "image_type": "png",
             "v_mana": ""
@@ -5771,6 +6039,7 @@
             "artist": "Veli Nystr\u00f6m",
             "alias": "",
             "position": "255",
+            "rotated": false,
             "notes": "RM16,Medium Creature,5,flying GWU ,Aang, at the Crossroads",
             "image_type": "png",
             "v_mana": ""
@@ -5793,6 +6062,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "256",
+            "rotated": false,
             "notes": "RM17,Large Creature,6,flash GUR ,Iroh, Grand Lotus",
             "image_type": "png",
             "v_mana": ""
@@ -5802,7 +6072,7 @@
             "color": "UG",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Human Advisor",
-            "number": 228,
+            "number": 229,
             "color_identity": "UG",
             "cost": "{1}{G}{U}",
             "rules_text": "Ward {1}\nWhenever you cast an artifact creature spell or enchantment creature spell, you may shuffle it into your library. If you do, copy that spell twice, except the first copy isn't a creature, the second copy isn't an artifact or enchantment, and neither are legendary.",
@@ -5815,6 +6085,7 @@
             "artist": "illaume Lepage",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": "RM18,LargeWall Creature,3,GU ,The Lion-Turtle",
             "image_type": "png",
             "v_mana": ""
@@ -5837,6 +6108,7 @@
             "artist": "G-Hamm",
             "alias": "",
             "position": "258",
+            "rotated": false,
             "notes": "RL01,Small Creature,0,,Jasmine Dragon Tea Shop",
             "image_type": "png",
             "v_mana": ""
@@ -5859,6 +6131,7 @@
             "artist": "",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": "RL02,Small Creature,0,,Realm of Koh",
             "image_type": "png",
             "v_mana": ""
@@ -5881,6 +6154,7 @@
             "artist": "Pierre Armal Le",
             "alias": "",
             "position": "260",
+            "rotated": false,
             "notes": "RL03,Noncreature,0,,Abandoned Air Temple",
             "image_type": "png",
             "v_mana": ""
@@ -5903,6 +6177,7 @@
             "artist": "Tyler Smith",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": "RL04,Noncreature,0,,Agna Qel'a",
             "image_type": "png",
             "v_mana": ""
@@ -5925,6 +6200,7 @@
             "artist": "Pierre Armal Le",
             "alias": "",
             "position": "262",
+            "rotated": false,
             "notes": "RL05,Noncreature,0,,Ba Sing Se",
             "image_type": "png",
             "v_mana": ""
@@ -5947,6 +6223,7 @@
             "artist": "Nadezhda Tikhomirova",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "RL06,Noncreature,0,,Fire Nation Palace",
             "image_type": "png",
             "v_mana": ""
@@ -5969,6 +6246,7 @@
             "artist": "Florian Herold",
             "alias": "",
             "position": "264",
+            "rotated": false,
             "notes": "RL07,Noncreature,0,,Secret Tunnel",
             "image_type": "png",
             "v_mana": ""
@@ -5991,6 +6269,7 @@
             "artist": "Artem Chebokha",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "MW02,Small Creature,4,flying flash ,Appa, Steadfast Guardian",
             "image_type": "png",
             "v_mana": ""
@@ -6000,7 +6279,7 @@
             "color": "WU",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Eni",
-            "number": 219,
+            "number": 220,
             "color_identity": "WU",
             "cost": "{2}{W}{W}{U}",
             "rules_text": "[+1]: You may put an artifact or creature card with mana value 3 or less from your hand or graveyard onto the battlefield with a steel counter on it. It becomes a 4/4 artifact creature in addition to its other types.\n[-2]: Exile target nonland permanent. Its controller creates a tapped token that's a copy of it, except it has no abilities.\n[-7]: You get an emblem with \u201cArtifacts you control have indestructible\u201d and \u201cCreatures you control get +2/+2.\u201d",
@@ -6013,6 +6292,7 @@
             "artist": "Kevin Glint",
             "alias": "",
             "position": "266",
+            "rotated": false,
             "notes": "MW03,Noncreature,5,,The Legend of Yangchen",
             "image_type": "png",
             "v_mana": ""
@@ -6035,6 +6315,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "MW04,Noncreature,5,,The Legend of Yangchen",
             "image_type": "png",
             "v_mana": ""
@@ -6057,6 +6338,7 @@
             "artist": "Yury Solntsev",
             "alias": "",
             "position": "268",
+            "rotated": false,
             "notes": "MU02,Noncreature,4,,Secret of Bloodbending",
             "image_type": "png",
             "v_mana": ""
@@ -6079,6 +6361,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "MU03,Noncreature,4,,The Legend of Kuruk",
             "image_type": "png",
             "v_mana": ""
@@ -6101,6 +6384,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "270",
+            "rotated": false,
             "notes": "MU04,Noncreature,4,,The Legend of Kuruk",
             "image_type": "png",
             "v_mana": ""
@@ -6110,7 +6394,7 @@
             "color": "BG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Manque",
-            "number": 224,
+            "number": 225,
             "color_identity": "BG",
             "cost": "{3}{B}{G}",
             "rules_text": "Whenever a nontoken creature you control enters, if it wasn't cast from your hand, you may exile Manque until it leaves the battlefield. If you do, put two +1/+1 counters on that creature.\n[0]: Surveil 2. Each opponent loses 2 life.\n[-1]: You may cast target creature card from your graveyard. [i](You still pay its costs.)[/i]\n[-3]: Exile target creature. You may cast it for as long as it remains exiled, and mana of any type can be spent to do so.",
@@ -6123,6 +6407,7 @@
             "artist": "BASTIEN LECOUFFE DEHARME",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": "MB01,Large Creature,6,,Koh, the Face Stealer",
             "image_type": "png",
             "v_mana": ""
@@ -6145,6 +6430,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "272",
+            "rotated": false,
             "notes": "MB02,Noncreature,4,flying ,Phoenix Fleet Airship",
             "image_type": "png",
             "v_mana": ""
@@ -6167,6 +6453,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": "MB04,Noncreature,6,,The Rise of Sozin",
             "image_type": "png",
             "v_mana": ""
@@ -6189,6 +6476,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "274",
+            "rotated": false,
             "notes": "MR02,Noncreature,3,flash ,Fated Firepower",
             "image_type": "png",
             "v_mana": ""
@@ -6211,6 +6499,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": "MR03,Noncreature,4,,The Legend of Roku",
             "image_type": "png",
             "v_mana": ""
@@ -6233,6 +6522,7 @@
             "artist": "Kevin Glint",
             "alias": "",
             "position": "276",
+            "rotated": false,
             "notes": "MR04,Noncreature,4,,The Legend of Roku",
             "image_type": "png",
             "v_mana": ""
@@ -6255,6 +6545,7 @@
             "artist": "Zvezdochka",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "MR05,Noncreature,5,,Sozin's Comet",
             "image_type": "png",
             "v_mana": ""
@@ -6277,6 +6568,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "278",
+            "rotated": false,
             "notes": "MG02,Noncreature,6,,The Legend of Kyoshi",
             "image_type": "png",
             "v_mana": ""
@@ -6299,6 +6591,7 @@
             "artist": "Miles Johnston",
             "alias": "",
             "position": "279",
+            "rotated": false,
             "notes": "MM01,Medium Creature,4,flying GRWU ,Avatar Aang",
             "image_type": "png",
             "v_mana": ""
@@ -6308,7 +6601,7 @@
             "color": "UBRG",
             "rarity": "mythic",
             "type": "Legendary Creature \u2013 God",
-            "number": 213,
+            "number": 214,
             "color_identity": "UBRG",
             "cost": "{U}{B}{R}{G}",
             "rules_text": "",
@@ -6321,6 +6614,7 @@
             "artist": "Thesian Joseph",
             "alias": "",
             "position": "280",
+            "rotated": false,
             "notes": "MM02,Large Creature,5,RG ,Bumi, Unleashed",
             "image_type": "png",
             "v_mana": ""
@@ -6343,7 +6637,31 @@
             "artist": "",
             "alias": "",
             "position": "281",
+            "rotated": false,
             "notes": "MA01,LargeWall Creature,8,,The Walls of Ba Sing Se",
+            "image_type": "png",
+            "v_mana": ""
+        },
+        {
+            "card_name": "Noncreature",
+            "color": "",
+            "rarity": "mythic",
+            "type": "Artifact",
+            "number": 267,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
+            "notes": "MA02,Noncreature,4,,White Lotus Tile",
             "image_type": "png",
             "v_mana": ""
         },
@@ -6364,29 +6682,8 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "position": "282",
-            "notes": "MA02,Noncreature,4,,White Lotus Tile",
-            "image_type": "png",
-            "v_mana": ""
-        },
-        {
-            "card_name": "Noncreature",
-            "color": "",
-            "rarity": "mythic",
-            "type": "Artifact",
-            "number": 268,
-            "color_identity": "C",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "AJY",
-            "loyalty": "",
-            "artist": "",
-            "alias": "",
             "position": "283",
+            "rotated": false,
             "notes": "MA03,Noncreature,6,,Planetarium of Wan Shi Tong",
             "image_type": "png",
             "v_mana": ""
@@ -6409,6 +6706,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "284",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6431,6 +6729,7 @@
             "artist": "Lane Brown",
             "alias": "",
             "position": "285",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6453,6 +6752,7 @@
             "artist": "F3LC4T",
             "alias": "",
             "position": "286",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6475,6 +6775,7 @@
             "artist": "Gaboleps",
             "alias": "",
             "position": "287",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6497,6 +6798,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "position": "288",
+            "rotated": false,
             "notes": "CG02,Small Creature,2,,Rebellious Captives",
             "image_type": "png",
             "v_mana": ""
@@ -6519,6 +6821,7 @@
             "artist": "Anthony Catillaz",
             "alias": "",
             "position": "289",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6541,6 +6844,7 @@
             "artist": "Jordan Van Der Merwe",
             "alias": "",
             "position": "290",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6563,6 +6867,7 @@
             "artist": "Ari Ibarra",
             "alias": "",
             "position": "291",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6572,7 +6877,7 @@
             "color": "RG",
             "rarity": "mythic",
             "type": "Legendary Planeswalker \u2013 Weft",
-            "number": 222,
+            "number": 223,
             "color_identity": "RG",
             "cost": "{1}{R}{G}",
             "rules_text": "Weft's loyalty abilities cost an additional [+1] to activate if they target enchantments.\n[0]: Choose target creature. Until your next turn, if it would deal combat damage to a player or planeswalker, instead its controller exiles that many cards from the top of their library and may play them until end of turn.\n[-X]: Create a token that's a copy of target creature you control with mana value X, except it has \u201cWhen this creature deals damage, exile it.\u201d",
@@ -6585,6 +6890,7 @@
             "artist": "Fori Y.",
             "alias": "",
             "position": "292",
+            "rotated": false,
             "notes": "MM03,Large Creature,6,flying BR ,Ozai, the Phoenix King",
             "image_type": "png",
             "v_mana": ""
@@ -6607,6 +6913,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "293",
+            "rotated": false,
             "notes": "RB06,Noncreature,3,,Foggy Swamp Visions",
             "image_type": "png",
             "v_mana": ""
@@ -6629,6 +6936,7 @@
             "artist": "Eugenio Frosali",
             "alias": "",
             "position": "294",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6651,6 +6959,7 @@
             "artist": "Virginie Juteau",
             "alias": "",
             "position": "295",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6673,6 +6982,7 @@
             "artist": "Yogeesh K",
             "alias": "",
             "position": "296",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6695,6 +7005,7 @@
             "artist": "Esther T.Y.Y",
             "alias": "",
             "position": "297",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6717,6 +7028,7 @@
             "artist": "Vincent MacTiernan",
             "alias": "",
             "position": "298",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6739,6 +7051,7 @@
             "artist": "St. Cooper",
             "alias": "",
             "position": "299",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6761,6 +7074,7 @@
             "artist": "Kinga Szondi",
             "alias": "",
             "position": "300",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6783,6 +7097,7 @@
             "artist": "Asya Yordanova",
             "alias": "",
             "position": "301",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6816,6 +7131,8 @@
             "loyalty2": "",
             "artist2": "Nevzat Ayd\u0131n",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6838,6 +7155,7 @@
             "artist": "Sherbakov Stanislav",
             "alias": "",
             "position": "303",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6860,6 +7178,7 @@
             "artist": "Manthos Lappas",
             "alias": "",
             "position": "304",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6882,6 +7201,7 @@
             "artist": "",
             "alias": "",
             "position": "305",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6904,6 +7224,7 @@
             "artist": "Valeria Dryzhak",
             "alias": "",
             "position": "306",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6926,6 +7247,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "position": "307",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6948,6 +7270,7 @@
             "artist": "Dante Liu",
             "alias": "",
             "position": "308",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6970,6 +7293,7 @@
             "artist": "Lea Dickert",
             "alias": "",
             "position": "309",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -6992,6 +7316,7 @@
             "artist": "Vladimir Matyukhin",
             "alias": "",
             "position": "310",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7004,7 +7329,7 @@
             "number": 27,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nFlashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "rules_text": "Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]\nFlashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
             "flavor_text": "[i]Old truths die hard.[/i]",
             "pt": "",
             "special_text": "",
@@ -7014,6 +7339,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "311",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7036,6 +7362,7 @@
             "artist": "Andrey Maximov",
             "alias": "",
             "position": "312",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7069,6 +7396,8 @@
             "loyalty2": "",
             "artist2": "Erskine Designs",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7091,6 +7420,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "314",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7113,6 +7443,7 @@
             "artist": "Rudi Indra A",
             "alias": "",
             "position": "315",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7135,6 +7466,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "position": "316",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7157,6 +7489,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "position": "317",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7179,6 +7512,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "position": "318",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7201,6 +7535,7 @@
             "artist": "Branden Singletary",
             "alias": "",
             "position": "319",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7223,6 +7558,7 @@
             "artist": "Giulio D'Amico",
             "alias": "",
             "position": "320",
+            "rotated": false,
             "notes": "RU0X ,Noncreature,2,,Crashing Wave",
             "image_type": "png",
             "v_mana": ""
@@ -7245,6 +7581,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "321",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7267,6 +7604,7 @@
             "artist": "Ilya Vatutin",
             "alias": "",
             "position": "322",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -7289,6 +7627,7 @@
             "artist": "Freya Feige",
             "alias": "",
             "position": "323",
+            "rotated": false,
             "notes": "UR10,Medium Creature,4,,Zuko, Exiled Prince",
             "image_type": "png",
             "v_mana": ""
@@ -7298,7 +7637,7 @@
             "color": "UR",
             "rarity": "rare",
             "type": "Legendary Creature \u2013 Elf Cat Advisor Hero",
-            "number": 215,
+            "number": 216,
             "color_identity": "UR",
             "cost": "{1}{U}{R}",
             "rules_text": "Whenever Cass and Nettles enters or attacks, you may remove a counter from a permanent you control. When you do, until end of turn, target creature gets +1/+1 and gains flying and \u201cWhenever this creature deals combat damage to a player, draw a card.\u201d",
@@ -7311,6 +7650,7 @@
             "artist": "Kan Liu",
             "alias": "",
             "position": "324",
+            "rotated": false,
             "notes": "RM02,Small Creature,2,UR ,Sokka, Bold Boomeranger",
             "image_type": "png",
             "v_mana": ""
@@ -7333,6 +7673,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "325",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""

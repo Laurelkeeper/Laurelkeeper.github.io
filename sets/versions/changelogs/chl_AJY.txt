@@ -1,4 +1,666 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Bearer of Blessings added.
+
+RMWU Tyto's Abjurance removed.
+
+ARCHETYPES
+
+Protector of the Ordinary
+
+Blindseer
+
+Plucky Villager
+
+Set the Stage
+
+Polygaunt
+
+Troubled Auditioner
+
+Sorrowed Cavalier
+
+Ancient Eyes
+
+Exasperated Setdresser
+
+Imperious Boon
+
+Word of Unbeing
+
+Light Through the Veil
+
+Binding Serenade
+
+Entranced Villagers
+
+Lost Ascendant
+
+Silverwing Companion
+
+Iridium Muse
+
+Derrilyn Falconer
+
+Wildwood Bonetwister
+
+Erudite Watcher
+
+Ascendant Talekeeper
+
+Cryptic Omen
+
+Refusal of the Call
+
+Out of the Puzzlebox
+
+Boreal Interdiction
+
+Outer Court Communion
+
+Wyndlepiper
+
+Blossoming Thing
+
+Spire Echo
+
+Unrelenting Pursuer
+
+Bounty of Bantrel
+
+Profaned Elder
+
+Decadent Scriptwriter
+
+Bantrel Wood Stalker
+
+Contract Concluded
+
+Long Road Home
+
+Sanguine Rupture
+
+Bottom of the Inkwell
+
+Premature End
+
+Enthralled Acolyte
+
+Bloodcaster Neophyte
+
+Scriptkeeper
+
+Rotwinder
+
+Hollowed Archetype
+
+Elder Soothsinger
+
+Flenser Mob
+
+Summer's Decommissioner
+
+Pagepyre
+
+A Brilliant Entrance
+
+Wreath of Malevolence
+
+Memory Blossom
+
+A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Lorn-Road Guide
+
+Innercourt Matron
+
+Auspicious Mushroom
+
+Lorn-Road Falconer
+
+Solemn Gladekeeper
+
+Untroubled Vagabond
+
+Pallid Glistener
+
+Night's Clarity
+
+A Cold Voice
+
+Court the Corrupt
+
+Burst of Mettle
+
+Witherlínd
+
+Feastkeeper
+
+Winterbreath Cantor
+
+Mutilated Strider
+
+Fated Figures
+
+Innercourt Mendress
+
+Palecast Bishop
+
+Choir of Restoration
+
+Glamorous Herald
+
+Solemn Standby
+
+Vested Script
+
+Earthspike Annals
+
+Omenstones
+
+Pallid Causeway
+
+Effaced Cove
+
+Flayed Horizon
+
+Riven Glade
+
+Untethered Pasture
+
+Trammeled Dale
+
+Tarnished Cascade
+
+Unbidden Bog
+
+Excoriated Swathe
+
+Silenced Promontory
+
+Scrapped Setting
+
+Noncreature
+
+Noncreature
+
+Noncreature
+
+Noncreature
+
+Noncreature
+
+CX01 Noncreature
+
+CX02 Noncreature
+
+Captain of Ceremony
+
+Marie, Rookery's Daughter
+
+Brooding Star
+
+Spotlight Soul
+
+Second Chances
+
+Splintered Chorus
+
+Fae Bladesinger
+
+Confident Lead
+
+Choreography Director
+
+Archon of Fettered Fate
+
+Enshrined Excellence
+
+Greyvale Township
+
+Timely Resurrection
+
+Meeting the Mentor
+
+Empty Throne
+
+Storied Deed
+
+Hurried Edit
+
+Kingslayer Sisters
+
+Shadow on the Stage
+
+Winter's Handmaiden
+
+Traveling Players
+
+Sentinel of Old Intria
+
+Doppelgaunt
+
+Peripatetic Harlequin
+
+Denouement
+
+Dulcet Harp
+
+Weight of Expectations
+
+The Road Back
+
+Hidden Heir
+
+An Unexpected Journey
+
+Quiet on Set
+
+Reject Your Creation
+
+Inkwell Monolith
+
+Astrotechnics
+
+Sombergaunt
+
+Smelted Wight
+
+Defiant Dreamer
+
+Chained Flensefang
+
+Audacious Auditioner
+
+Light-Eater Servant
+
+Outer Court Marksman
+
+Senior Editor
+
+Nibs, Lexyrinth Keeper
+
+Mouldering Hour
+
+Turn to Ink
+
+Cut the Curtain
+
+Return with the Elixir
+
+Festering Secrets
+
+Bantrel Vale
+
+Consumed by Branches
+
+Unlikely Compatriots
+
+Mosa, Renegade Star
+
+Eager Deathless
+
+Shackled Summer Skies
+
+Cindrel Wight
+
+Awoken in Ash
+
+Steeltouched Star
+
+A Champion's Reward
+
+Bantrel Reveller
+
+Subsumed Stagehand
+
+Fields of Astinwhay
+
+Wolf at the Gates
+
+World Made Wroth
+
+Orrin's Ordeal
+
+War Like Wine
+
+Deflagrate
+
+Blooming Aspirant
+
+Courtbound Impudent
+
+Blossoming Archetype
+
+Living Altar
+
+Seneschal of Turnings
+
+Mottlecloth Sneak
+
+Stagework Trainers
+
+Tabula Rata
+
+Sunken Stainsucker
+
+Noncreature
+
+Noncreature
+
+Noncreature
+
+Taking the Plunge
+
+Vibrant Setdressing
+
+Crossing the Threshold
+
+The Elder Reaches
+
+Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Noncreature
+
+Lord Malcolm Amantii
+
+Inquisitor Tacen Flint
+
+Premiere Night
+
+Carmine the Brilliant
+
+Mishet, the Escapee
+
+Sostak, Whimsical Voice
+
+The Wakeup Call
+
+Autumn's Emissary
+
+Eni, Company Champion
+
+Septus Jane, Turncoat
+
+A Change in Fate
+
+Orrin of the Golden Feast
+
+Hard-Eyed Starlet
+
+Chaniel, Lost in Rot
+
+Cindrel Thunderfoot
+
+Relics of the Future
+
+Meismos, Thundergaunt
+
+Eldmetal Congregant
+
+Mastergaunts
+
+Revised Revenant
+
+Poster Child
+
+Ornate Invitation
+
+Noncreature
+
+Noncreature
+
+UX01 Noncreature
+
+Vōs, Company Courier
+
+Ambitious Aspirant
+
+Beziel, Martyr of Greyvale
+
+Bringer of a New World
+
+Autumn Devours the Sunmaster
+
+Write Out
+
+Unravel the Plot
+
+Hallowed Intermission
+
+Lexyrinth's Heart
+
+Marc Tancinium, Cameo
+
+Glassgazer
+
+Theyna, Magistrate of Salabraxas
+
+Winter Quiets the Soulsinger
+
+Bringer of a New Winter
+
+Polished Proofreader
+
+The Myriad Manse
+
+Cunning Keepbreaker
+
+Plot Armor
+
+Tormented Ghostwriter
+
+Ancient Compact
+
+The Hallowing of Bantrel Grove
+
+Climactic Moment
+
+Vision of Manque
+
+Scoremaster
+
+Seeking the Seasons
+
+Alder Jane, Leading Lady
+
+Summer Outshines the Godmind
+
+Bringer of a New Summer
+
+Enthralled Duo
+
+Caller of Adventure
+
+Tendergaunt
+
+Steward of Solstices
+
+Medium Creature
+
+Medium Creature
+
+Bringer of a New Spring
+
+Spring Conquers the Cavalcade
+
+Will of the Wild
+
+Into the Hollows
+rules_text: Search your library for a basic land card, reveal it, and put it into your hand, then shuffle. If this spell was cast from anywhere other than your hand, you may put that card onto the battlefield tapped instead.
+Flashback {3}{G} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Search your library for a basic land card, reveal it, and put it into your hand, then shuffle. If this spell was cast from anywhere other than your hand, you may put that card onto the battlefield tapped instead.
+Flashback {3}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Lord Tyto Bonsíc
+
+RMWB Kniles, Chancellor of Thorns
+
+RMRW Greyvale Prodigy
+
+Plothole Tunneler
+
+RMBR Rally the Understudies
+
+The Everfree Thespian
+
+Andi and Rove, Old Hands
+
+RMBG Turner of Earth
+
+RMGR Weftheart, Vibrant Star
+
+Celos, Prince's Chamberlain
+
+Vexior, Clouds in Chains
+
+RMUB Dramatic Oracle
+
+Tuolor, Steel Commander
+
+Splendid Inspiration
+
+Physt, Company Curator
+
+The Inmost Cave
+
+Small Creature
+
+Inspiring Scene
+
+Mysterious Scene
+
+Ancient Scene
+
+Grisly Scene
+
+Heartbreaking Scene
+
+Unfinished Draft
+
+Eni, Reforged Paragon
+
+Prince of Years
+
+Dramaturge's Mastery
+
+Hiemal Virtuoso
+
+Kindly Winter
+
+Manque, Shifting Spotlight
+
+Sorrowgaunt
+
+Hollow Autumn
+
+Pint-Sized Penstrel
+
+Fair Summer
+
+Noncreature
+
+Passioned Pair
+
+Vile Spring
+
+Alder Jane, Talewright
+
+Caetel, Old Mother
+
+LargeWall Creature
+
+Noncreature
+
+Noncreature
+
+Daughter of Bantrel
+
+Wraith
+
+Rose
+
+Human Horror
+
+Splintereater
+
+Spirit Ogre
+
+Golem Wizard
+
+Elemental Horror
+
+The Itinerant Weft
+
+Bringer of a New Autumn
+
+Rat Soldier
+
+Bird Hero
+
+Endless Day of Dominion
+
+The Darkest Hour
+
+Drown in Dread
+
+Jane's Opus
+
+placeholder
+
+Reflection Hero
+
+The Etherweave
+
+Treefolk Soldier
+
+Hero
+
+Warlock
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Wurm Hero
+
+Kill Your Darlings
+
+Samurai Warlock
+
+Detective
+
+The Ebonwood
+
+The Echofont
+
+The Elderbloom
+
+The Everflame
+
+Preserve the Script
+
+Ageless Edge
+
+Noble
+
+Bramble Bindings
+
+Cass and Nettles, Editors
+
+Demon Knight
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Protector of the Ordinary added.

@@ -913,7 +913,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "284",
+			"collector_number": "283",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/88.png"
 			}
@@ -923,7 +923,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "283",
+			"collector_number": "285",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/89.png"
 			}
@@ -943,7 +943,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "282",
+			"collector_number": "286",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/91.png"
 			}
@@ -953,7 +953,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "285",
+			"collector_number": "282",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/92.png"
 			}
@@ -1761,7 +1761,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/170.png"
 			}
@@ -1781,7 +1781,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "",
-			"collector_number": "191",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/172.png"
 			}
@@ -1868,7 +1868,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Detective Hero",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/180.png"
 			}
@@ -1878,7 +1878,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/181.png"
 			}
@@ -1888,7 +1888,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Skeleton Warrior Hero",
-			"collector_number": "214",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/182.png"
 			}
@@ -1898,7 +1898,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Artifact Creature — Robot Hero",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/183.png"
 			}
@@ -1938,7 +1938,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/187.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "217",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/192.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Dryad Cleric",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/197.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/201.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "286",
+			"collector_number": "284",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/202.png"
 			}
@@ -2219,7 +2219,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Advisor Hero",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/213.png"
 			}
@@ -2456,7 +2456,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "186",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/236.png"
 			}
@@ -2466,7 +2466,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/237.png"
 			}
@@ -2516,7 +2516,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{1}{G}{W}",
 			"type": "Legendary Creature — Goblin Noble Hero",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/242.png"
 			}
@@ -2526,7 +2526,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/243.png"
 			}
@@ -2536,7 +2536,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Archer Hero",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/244.png"
 			}
@@ -2546,17 +2546,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment Creature — Avatar Wurm",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/245.png"
 			}
 		},
 		{
-			"name": "RMWU Tyto's Abjurance",
+			"name": "Bearer of Blessings",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Enchantment",
-			"collector_number": "237",
+			"type": "Creature — Elf Knight Hero",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/246.png"
 			}
@@ -2566,7 +2566,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/247.png"
 			}
@@ -2576,7 +2576,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Advisor Performer",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/248.png"
 			}
@@ -2596,7 +2596,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Elk Incarnation",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/250.png"
 			}
@@ -2606,7 +2606,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{G}",
 			"type": "Legendary Enchantment Creature — Avatar Hero",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/251.png"
 			}
@@ -2616,7 +2616,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
 			"type": "Legendary Creature — Horror Noble",
-			"collector_number": "216",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/252.png"
 			}
@@ -2636,7 +2636,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Elemental Advisor Performer",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/254.png"
 			}
@@ -2666,7 +2666,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/257.png"
 			}
@@ -2756,7 +2756,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{U}",
 			"type": "Legendary Planeswalker — Eni",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/266.png"
 			}
@@ -2806,7 +2806,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Planeswalker — Manque",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/271.png"
 			}
@@ -2896,7 +2896,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}{G}",
 			"type": "Legendary Creature — God",
-			"collector_number": "213",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/280.png"
 			}
@@ -2916,7 +2916,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/282.png"
 			}
@@ -2926,7 +2926,7 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Artifact",
-			"collector_number": "268",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/283.png"
 			}
@@ -3016,7 +3016,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Planeswalker — Weft",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/292.png"
 			}
@@ -3350,7 +3350,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Elf Cat Advisor Hero",
-			"collector_number": "215",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://MSEhub/sets/AJY-files/img/324.png"
 			}
@@ -3410,7 +3410,7 @@
 	2 RMWB Kniles, Chancellor of Thorns
 	2 RMRW Greyvale Prodigy
 	2 Plothole Tunneler
-	2 RMWU Tyto's Abjurance
+	2 Bearer of Blessings
 	2 RMBR Rally the Understudies
 	2 The Everfree Thespian
 	2 Andi and Rove, Old Hands
@@ -4008,7 +4008,7 @@
 	2 RMWB Kniles, Chancellor of Thorns
 	2 RMRW Greyvale Prodigy
 	2 Plothole Tunneler
-	2 RMWU Tyto's Abjurance
+	2 Bearer of Blessings
 	2 RMBR Rally the Understudies
 	2 The Everfree Thespian
 	2 Andi and Rove, Old Hands
@@ -4305,7 +4305,7 @@
 	7 RMWB Kniles, Chancellor of Thorns
 	7 RMRW Greyvale Prodigy
 	7 Plothole Tunneler
-	7 RMWU Tyto's Abjurance
+	7 Bearer of Blessings
 	7 RMBR Rally the Understudies
 	7 The Everfree Thespian
 	7 Andi and Rove, Old Hands
