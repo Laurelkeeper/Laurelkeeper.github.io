@@ -1,4 +1,9 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+No changes.
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.
