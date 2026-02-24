@@ -224,8 +224,8 @@ If this creature would die, exile it instead.
 		<card>
 			<name>Light Through the Veil</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Draw a card.
-II, III — Creatures you control get +1/+1 until end of turn.
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://MSEhub/sets/AJY-files/img/11.png" num="22">AJY</set>
 			<prop>
@@ -462,8 +462,8 @@ When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 
 		<card>
 			<name>Out of the Puzzlebox</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Put a flying counter on target creature.
-II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
 ​</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/23.png" num="68">AJY</set>
 			<prop>
@@ -674,8 +674,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Long Road Home</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Surveil 1. You lose 1 life unless you attacked this turn.
-III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
 ​</text>
 			<set rarity="common" picurl="https://MSEhub/sets/AJY-files/img/35.png" num="107">AJY</set>
 			<prop>
@@ -926,8 +926,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Brilliant Entrance</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Create a 1/1 colorless Hero creature token.
-II, III — This Episode deals 1 damage to target player.
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
 ​</text>
 			<set rarity="common" picurl="https://MSEhub/sets/AJY-files/img/48.png" num="128">AJY</set>
 			<prop>
@@ -1005,7 +1005,7 @@ If this creature would die, exile it instead.
 			<name>A Fateful Journey</name>
 			<text>Put a journey counter on target creature.
 Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
-Flashback {1}{R} (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="common" picurl="https://MSEhub/sets/AJY-files/img/51.png" num="147">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1167,8 +1167,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Cold Voice</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-II, III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
 ​</text>
 			<set rarity="common" picurl="https://MSEhub/sets/AJY-files/img/60.png" num="170">AJY</set>
 			<prop>
@@ -2800,8 +2800,8 @@ When this Stage is defeated, draw a card.</text>
 		<card>
 			<name>Wolf at the Gates</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
-II, III — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
 ​</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/150.png" num="167">AJY</set>
 			<prop>
@@ -2854,8 +2854,8 @@ II, III — If a red source or enchantment source you control would deal damage 
 		<card>
 			<name>The Court&apos;s Last Hunt</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
-III — Whenever a creature you control attacks this turn, create a tapped and attacking token that&apos;s a copy of it.
+Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+Whenever a creature you control attacks this turn, create a tapped and attacking token that&apos;s a copy of it.
 ​</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/153.png" num="165">AJY</set>
 			<prop>
@@ -3129,9 +3129,9 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 		<card>
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Mill two cards. You gain 2 life.
+Mill two cards. You gain 2 life.
 You may play lands from your graveyard this turn.
-II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/167.png" num="202">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3225,7 +3225,7 @@ When this Stage is defeated, draw a card.</text>
 		<card>
 			<name>Valor&apos;s Rest</name>
 			<text>Until end of turn, target creature you control gains &quot;When this creature dies, draw a card.&quot; Then it fights another target creature.
-Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/171.png" num="207">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3366,9 +3366,9 @@ As long as there are two or more card types among spells you&apos;ve cast this t
 		<card>
 			<name>The Wakeup Call</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Distribute two +1/+1 counters among any number of target creatures you control.
+Distribute two +1/+1 counters among any number of target creatures you control.
 Draw a card for each creature you control with counters on it.
-II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.</text>
+You may cast a spell with mana value 3 or less from your hand without paying its mana cost.</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/179.png" num="241">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3552,8 +3552,8 @@ At the beginning of your end step, put a +1/+1 counter on Chaniel if you perform
 		<card>
 			<name>Relics of the Future</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
-III — If an opponent has more cards in hand than you, draw a card.
+Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
+If an opponent has more cards in hand than you, draw a card.
 ​</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/188.png" num="262">AJY</set>
 			<prop>
@@ -3760,8 +3760,8 @@ Creatures you control have vigilance.</text>
 			<name>Autumn Devours the Sunmaster</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 4/4 white Samurai Warlock creature token.
-I — Put a menace counter and a deathtouch counter on target creature.
-II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/200.png" num="88">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3949,8 +3949,8 @@ If an opponent would create one or more tokens, you may have them create that ma
 			<name>Winter Quiets the Soulsinger</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 1/3 red Soldier Bard creature token.
-I — Put a prowess counter on target creature.
-II — Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
+Put a prowess counter on target creature.
+Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/208.png" num="84">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4093,8 +4093,8 @@ Whenever a player loses life during your turn, they mill that many cards. Once e
 		<card>
 			<name>The Hallowing of Bantrel Grove</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Draw a card. You lose 4 life unless you sacrifice a creature.
-III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
 ​</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/216.png" num="121">AJY</set>
 			<prop>
@@ -4187,7 +4187,7 @@ Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. 
 		<card>
 			<name>Seeking the Seasons</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)
-I, II, III, IV — Choose one that hasn&apos;t been chosen—
+Choose one that hasn&apos;t been chosen—
 • Add two mana of any one color.
 • Exile the top two cards of your library. You may play them this turn.
 • This Episode deals 2 damage to any target.
@@ -4228,8 +4228,8 @@ I, II, III, IV — Choose one that hasn&apos;t been chosen—
 			<name>Summer Outshines the Godmind</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 3/2 blue Robot Avatar artifact creature token.
-I — Put a +1/+1 counter on target creature.
-II — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
+Put a +1/+1 counter on target creature.
+You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/222.png" num="163">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4391,8 +4391,8 @@ Creatures you control have ward {2}.</text>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create two 2/2 black Demon Knight creature tokens.
-I — Create two tokens that are copies of target creature token you control.
-II — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/231.png" num="198">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4427,7 +4427,7 @@ II — Sacrifice any number of creatures. Search your library for a creature car
 		<card>
 			<name>Breaching Roots</name>
 			<text>Mill two cards. You may put a permanent card from among them into your hand.
-Flashback {3}{G} (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="uncommon" picurl="https://MSEhub/sets/AJY-files/img/233.png" num="175">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5434,8 +5434,8 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Endless Day of Dominion</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Create two 1/1 white Warlock creature tokens.
-II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each other Treefolk you control.&quot;
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each other Treefolk you control.&quot;
 ​</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/290.png" num="13">AJY</set>
 			<prop>
@@ -5630,7 +5630,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		<card>
 			<name>Myth of Awakening</name>
 			<text>Chronicle. If this spell was cast from a graveyard, instead chronicle three times. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
-Flashback {2}{W}{W} (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://MSEhub/sets/AJY-files/img/300.png" num="25">AJY</set>
 			<prop>
 				<layout>normal</layout>
