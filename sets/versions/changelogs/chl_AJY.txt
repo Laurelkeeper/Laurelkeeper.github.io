@@ -1,4 +1,9 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+No changes.
+
+VERSION 17 CHANGELOG
 ====================
 
 Backstage Passage added.
