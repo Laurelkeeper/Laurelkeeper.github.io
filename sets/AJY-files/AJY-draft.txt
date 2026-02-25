@@ -7,7 +7,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/0.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/0.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Human Cleric",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/1.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/1.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Human Peasant Hero",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/2.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/2.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Instant",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/3.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/3.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Creature — Dryad Rogue",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/4.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/4.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Performer Hero",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/5.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/5.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/6.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/6.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Artifact Creature — Construct Bird",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/7.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/7.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/8.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/8.png"
 			}
 		},
 		{
@@ -100,11 +100,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/9_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/9_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/9_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/9_front.png"
 			}
 		},
 		{
@@ -114,7 +114,7 @@
 			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/10.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/10.png"
 			}
 		},
 		{
@@ -124,7 +124,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/11.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/11.png"
 			}
 		},
 		{
@@ -134,7 +134,7 @@
 			"type": "Enchantment",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/12.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/12.png"
 			}
 		},
 		{
@@ -144,7 +144,7 @@
 			"type": "Creature — Human Peasant",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/13.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/13.png"
 			}
 		},
 		{
@@ -154,7 +154,7 @@
 			"type": "Creature — Human Warlock Hero",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/14.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/14.png"
 			}
 		},
 		{
@@ -164,7 +164,7 @@
 			"type": "Creature — Faerie Dragon",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/15.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/15.png"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 			"type": "Artifact Creature — Human Performer",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/16.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/16.png"
 			}
 		},
 		{
@@ -184,7 +184,7 @@
 			"type": "Creature — Human Ranger Hero",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/17.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/17.png"
 			}
 		},
 		{
@@ -194,7 +194,7 @@
 			"type": "Creature — Squid Horror",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/18.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/18.png"
 			}
 		},
 		{
@@ -204,7 +204,7 @@
 			"type": "Enchantment Creature — Spirit Bird",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/19.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/19.png"
 			}
 		},
 		{
@@ -214,7 +214,7 @@
 			"type": "Creature — Elf Advisor",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/20.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/20.png"
 			}
 		},
 		{
@@ -227,11 +227,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/21_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/21_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/21_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/21_front.png"
 			}
 		},
 		{
@@ -241,7 +241,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/22.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/22.png"
 			}
 		},
 		{
@@ -251,7 +251,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/23.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/23.png"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/24.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/24.png"
 			}
 		},
 		{
@@ -271,7 +271,7 @@
 			"type": "Instant",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/25.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/25.png"
 			}
 		},
 		{
@@ -281,7 +281,7 @@
 			"type": "Creature — Zombie Bard",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/26.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/26.png"
 			}
 		},
 		{
@@ -291,7 +291,7 @@
 			"type": "Creature — Spirit",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/27.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/27.png"
 			}
 		},
 		{
@@ -301,7 +301,7 @@
 			"type": "Enchantment Creature — Spirit Rogue",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/28.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/28.png"
 			}
 		},
 		{
@@ -311,7 +311,7 @@
 			"type": "Creature — Wolf Hero",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/29.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/29.png"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 			"type": "Creature — Skeleton Elk",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/30.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/30.png"
 			}
 		},
 		{
@@ -331,7 +331,7 @@
 			"type": "Creature — Zombie Noble Hero",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/31.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/31.png"
 			}
 		},
 		{
@@ -341,7 +341,7 @@
 			"type": "Creature — Bird Advisor",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/32.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/32.png"
 			}
 		},
 		{
@@ -351,7 +351,7 @@
 			"type": "Creature — Plant Horror",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/33.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/33.png"
 			}
 		},
 		{
@@ -361,7 +361,7 @@
 			"type": "Sorcery",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/34.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/34.png"
 			}
 		},
 		{
@@ -371,7 +371,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/35.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/35.png"
 			}
 		},
 		{
@@ -381,7 +381,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/36.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/36.png"
 			}
 		},
 		{
@@ -391,7 +391,7 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/37.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/37.png"
 			}
 		},
 		{
@@ -404,11 +404,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/38_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/38_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/38_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/38_front.png"
 			}
 		},
 		{
@@ -418,7 +418,7 @@
 			"type": "Creature — Demon Rogue",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/39.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/39.png"
 			}
 		},
 		{
@@ -428,7 +428,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/40.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/40.png"
 			}
 		},
 		{
@@ -438,7 +438,7 @@
 			"type": "Creature — Elemental Hero",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/41.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/41.png"
 			}
 		},
 		{
@@ -448,7 +448,7 @@
 			"type": "Enchantment Creature — Spirit Wurm",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/42.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/42.png"
 			}
 		},
 		{
@@ -458,7 +458,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/43.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/43.png"
 			}
 		},
 		{
@@ -468,7 +468,7 @@
 			"type": "Creature — Elf Shaman Hero",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/44.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/44.png"
 			}
 		},
 		{
@@ -478,7 +478,7 @@
 			"type": "Artifact Creature — Construct Soldier",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/45.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/45.png"
 			}
 		},
 		{
@@ -488,7 +488,7 @@
 			"type": "Creature — Demon Wizard",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/46.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/46.png"
 			}
 		},
 		{
@@ -498,7 +498,7 @@
 			"type": "Instant",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/47.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/47.png"
 			}
 		},
 		{
@@ -508,7 +508,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/48.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/48.png"
 			}
 		},
 		{
@@ -521,11 +521,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/49_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/49_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/49_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/49_front.png"
 			}
 		},
 		{
@@ -535,7 +535,7 @@
 			"type": "Instant",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/50.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/50.png"
 			}
 		},
 		{
@@ -545,7 +545,7 @@
 			"type": "Instant",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/51.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/51.png"
 			}
 		},
 		{
@@ -555,7 +555,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/52.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/52.png"
 			}
 		},
 		{
@@ -565,7 +565,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/53.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/53.png"
 			}
 		},
 		{
@@ -575,7 +575,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/54.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/54.png"
 			}
 		},
 		{
@@ -585,7 +585,7 @@
 			"type": "Creature — Human Ranger Hero",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/55.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/55.png"
 			}
 		},
 		{
@@ -595,7 +595,7 @@
 			"type": "Creature — Human Druid",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/56.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/56.png"
 			}
 		},
 		{
@@ -605,7 +605,7 @@
 			"type": "Creature — Human Warrior Hero",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/57.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/57.png"
 			}
 		},
 		{
@@ -615,7 +615,7 @@
 			"type": "Enchantment Creature — Spirit Crab",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/58.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/58.png"
 			}
 		},
 		{
@@ -625,7 +625,7 @@
 			"type": "Instant",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/59.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/59.png"
 			}
 		},
 		{
@@ -635,7 +635,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/60.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/60.png"
 			}
 		},
 		{
@@ -645,7 +645,7 @@
 			"type": "Sorcery",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/61.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/61.png"
 			}
 		},
 		{
@@ -655,7 +655,7 @@
 			"type": "Sorcery",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/62.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/62.png"
 			}
 		},
 		{
@@ -665,7 +665,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/63.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/63.png"
 			}
 		},
 		{
@@ -675,7 +675,7 @@
 			"type": "Creature — Skeleton Wurm",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/64.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/64.png"
 			}
 		},
 		{
@@ -685,7 +685,7 @@
 			"type": "Creature — Spirit Bard",
 			"collector_number": "265",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/65.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/65.png"
 			}
 		},
 		{
@@ -695,7 +695,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/66.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/66.png"
 			}
 		},
 		{
@@ -705,7 +705,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/67.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/67.png"
 			}
 		},
 		{
@@ -715,7 +715,7 @@
 			"type": "Creature — Dryad",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/68.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/68.png"
 			}
 		},
 		{
@@ -725,7 +725,7 @@
 			"type": "Artifact Creature — Golem Cleric",
 			"collector_number": "261",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/69.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/69.png"
 			}
 		},
 		{
@@ -735,7 +735,7 @@
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/70.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
 			}
 		},
 		{
@@ -745,7 +745,7 @@
 			"type": "Creature — Elf Soldier Hero",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/71.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/71.png"
 			}
 		},
 		{
@@ -755,7 +755,7 @@
 			"type": "Creature — Human Bat Hero",
 			"collector_number": "264",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/72.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/72.png"
 			}
 		},
 		{
@@ -765,7 +765,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/73.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/73.png"
 			}
 		},
 		{
@@ -775,7 +775,7 @@
 			"type": "Artifact",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/74.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/74.png"
 			}
 		},
 		{
@@ -785,7 +785,7 @@
 			"type": "Artifact",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/75.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/75.png"
 			}
 		},
 		{
@@ -795,7 +795,7 @@
 			"type": "Land",
 			"collector_number": "284",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/76.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/76.png"
 			}
 		},
 		{
@@ -805,7 +805,7 @@
 			"type": "Land",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/77.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/77.png"
 			}
 		},
 		{
@@ -815,7 +815,7 @@
 			"type": "Land",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/78.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/78.png"
 			}
 		},
 		{
@@ -825,7 +825,7 @@
 			"type": "Land",
 			"collector_number": "285",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/79.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/79.png"
 			}
 		},
 		{
@@ -835,7 +835,7 @@
 			"type": "Land",
 			"collector_number": "292",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/80.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/80.png"
 			}
 		},
 		{
@@ -845,7 +845,7 @@
 			"type": "Land",
 			"collector_number": "290",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/81.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/81.png"
 			}
 		},
 		{
@@ -855,7 +855,7 @@
 			"type": "Land",
 			"collector_number": "289",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/82.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/82.png"
 			}
 		},
 		{
@@ -865,7 +865,7 @@
 			"type": "Land",
 			"collector_number": "291",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/83.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/83.png"
 			}
 		},
 		{
@@ -875,7 +875,7 @@
 			"type": "Land",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/84.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/84.png"
 			}
 		},
 		{
@@ -885,7 +885,7 @@
 			"type": "Land",
 			"collector_number": "288",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/85.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/85.png"
 			}
 		},
 		{
@@ -895,7 +895,7 @@
 			"type": "Land",
 			"collector_number": "286",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/86.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/86.png"
 			}
 		},
 		{
@@ -905,7 +905,7 @@
 			"type": "Land",
 			"collector_number": "275",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/87.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/87.png"
 			}
 		},
 		{
@@ -915,7 +915,7 @@
 			"type": "Sorcery",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/88.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/88.png"
 			}
 		},
 		{
@@ -925,7 +925,7 @@
 			"type": "Creature — Human Performer Cleric",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/89.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/89.png"
 			}
 		},
 		{
@@ -935,7 +935,7 @@
 			"type": "Legendary Creature — Human Noble Hero",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/90.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/90.png"
 			}
 		},
 		{
@@ -945,7 +945,7 @@
 			"type": "Creature — Merfolk Hero",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/91.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/91.png"
 			}
 		},
 		{
@@ -955,7 +955,7 @@
 			"type": "Enchantment Creature — Spirit Performer",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/92.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/92.png"
 			}
 		},
 		{
@@ -965,7 +965,7 @@
 			"type": "Sorcery",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/93.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/93.png"
 			}
 		},
 		{
@@ -975,7 +975,7 @@
 			"type": "Creature — Treefolk Horror",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/94.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/94.png"
 			}
 		},
 		{
@@ -985,7 +985,7 @@
 			"type": "Creature — Faerie Warrior Hero",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/95.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/95.png"
 			}
 		},
 		{
@@ -995,7 +995,7 @@
 			"type": "Creature — Demon Performer Hero",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/96.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/96.png"
 			}
 		},
 		{
@@ -1005,7 +1005,7 @@
 			"type": "Creature — Human Spider Advisor",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/97.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/97.png"
 			}
 		},
 		{
@@ -1015,7 +1015,7 @@
 			"type": "Creature — Archon",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/98.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/98.png"
 			}
 		},
 		{
@@ -1025,7 +1025,7 @@
 			"type": "Artifact Creature — Construct Knight Hero",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/99.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/99.png"
 			}
 		},
 		{
@@ -1035,7 +1035,7 @@
 			"type": "Battle — Stage",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/100.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/100.png"
 			}
 		},
 		{
@@ -1045,7 +1045,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/101.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/101.png"
 			}
 		},
 		{
@@ -1055,7 +1055,7 @@
 			"type": "Instant",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/102.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/102.png"
 			}
 		},
 		{
@@ -1065,7 +1065,7 @@
 			"type": "Artifact",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/103.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/103.png"
 			}
 		},
 		{
@@ -1075,7 +1075,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/104.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/104.png"
 			}
 		},
 		{
@@ -1085,7 +1085,7 @@
 			"type": "Instant",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/105.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/105.png"
 			}
 		},
 		{
@@ -1095,7 +1095,7 @@
 			"type": "Creature — Faerie Rogue",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/106.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/106.png"
 			}
 		},
 		{
@@ -1105,7 +1105,7 @@
 			"type": "Creature — Wraith Performer Hero",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/107.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/107.png"
 			}
 		},
 		{
@@ -1115,7 +1115,7 @@
 			"type": "Enchantment Creature — Spirit Warlock",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/108.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/108.png"
 			}
 		},
 		{
@@ -1125,7 +1125,7 @@
 			"type": "Creature — Human Faerie Bard Hero",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/109.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/109.png"
 			}
 		},
 		{
@@ -1135,7 +1135,7 @@
 			"type": "Artifact Creature — Robot Wizard",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/110.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/110.png"
 			}
 		},
 		{
@@ -1145,7 +1145,7 @@
 			"type": "Enchantment Creature — Dryad Shapeshifter",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/111.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/111.png"
 			}
 		},
 		{
@@ -1155,7 +1155,7 @@
 			"type": "Creature — Human Clown Hero",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/112.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/112.png"
 			}
 		},
 		{
@@ -1165,7 +1165,7 @@
 			"type": "Legendary Creature — Leviathan Hero",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/113.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/113.png"
 			}
 		},
 		{
@@ -1175,7 +1175,7 @@
 			"type": "Artifact",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/114.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/114.png"
 			}
 		},
 		{
@@ -1185,7 +1185,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/115.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/115.png"
 			}
 		},
 		{
@@ -1195,7 +1195,7 @@
 			"type": "Instant",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/116.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/116.png"
 			}
 		},
 		{
@@ -1205,7 +1205,7 @@
 			"type": "Creature — Human Moth Noble Hero",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/117.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/117.png"
 			}
 		},
 		{
@@ -1215,7 +1215,7 @@
 			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/118.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/118.png"
 			}
 		},
 		{
@@ -1225,7 +1225,7 @@
 			"type": "Instant",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/119.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/119.png"
 			}
 		},
 		{
@@ -1238,11 +1238,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/120_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/120_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/120_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/120_front.png"
 			}
 		},
 		{
@@ -1252,7 +1252,7 @@
 			"type": "Enchantment Artifact",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/121.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/121.png"
 			}
 		},
 		{
@@ -1265,11 +1265,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/122_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/122_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/122_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/122_front.png"
 			}
 		},
 		{
@@ -1279,7 +1279,7 @@
 			"type": "Creature — Dryad Cleric",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/123.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/123.png"
 			}
 		},
 		{
@@ -1289,7 +1289,7 @@
 			"type": "Artifact Creature — Construct Demon",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/124.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/124.png"
 			}
 		},
 		{
@@ -1299,7 +1299,7 @@
 			"type": "Creature — Human Performer Hero",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/125.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/125.png"
 			}
 		},
 		{
@@ -1309,7 +1309,7 @@
 			"type": "Creature — Horror Dog",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/126.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/126.png"
 			}
 		},
 		{
@@ -1319,7 +1319,7 @@
 			"type": "Creature — Human Rogue Hero",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/127.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/127.png"
 			}
 		},
 		{
@@ -1329,7 +1329,7 @@
 			"type": "Artifact Creature — Construct Warlock",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/128.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/128.png"
 			}
 		},
 		{
@@ -1339,7 +1339,7 @@
 			"type": "Creature — Bird Archer",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/129.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/129.png"
 			}
 		},
 		{
@@ -1349,7 +1349,7 @@
 			"type": "Creature — Vampire Advisor",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/130.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/130.png"
 			}
 		},
 		{
@@ -1359,7 +1359,7 @@
 			"type": "Legendary Artifact Creature — Construct Bird",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/131.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/131.png"
 			}
 		},
 		{
@@ -1369,7 +1369,7 @@
 			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/132.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/132.png"
 			}
 		},
 		{
@@ -1379,7 +1379,7 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/133.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/133.png"
 			}
 		},
 		{
@@ -1389,7 +1389,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/134.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/134.png"
 			}
 		},
 		{
@@ -1399,7 +1399,7 @@
 			"type": "Instant",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/135.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/135.png"
 			}
 		},
 		{
@@ -1409,7 +1409,7 @@
 			"type": "Enchantment",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/136.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/136.png"
 			}
 		},
 		{
@@ -1419,7 +1419,7 @@
 			"type": "Battle — Stage",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/137.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/137.png"
 			}
 		},
 		{
@@ -1432,11 +1432,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/138_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/138_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/138_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/138_front.png"
 			}
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"type": "Creature — Elf Skeleton Hero Villain",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/139.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/139.png"
 			}
 		},
 		{
@@ -1456,7 +1456,7 @@
 			"type": "Legendary Creature — Human Noble Knight",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/140.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/140.png"
 			}
 		},
 		{
@@ -1466,7 +1466,7 @@
 			"type": "Creature — Zombie Soldier Hero",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/141.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/141.png"
 			}
 		},
 		{
@@ -1476,7 +1476,7 @@
 			"type": "Enchantment",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/142.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/142.png"
 			}
 		},
 		{
@@ -1486,7 +1486,7 @@
 			"type": "Enchantment Creature — Spirit Ogre",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/143.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/143.png"
 			}
 		},
 		{
@@ -1496,7 +1496,7 @@
 			"type": "Creature — Treefolk Wizard",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/144.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/144.png"
 			}
 		},
 		{
@@ -1506,7 +1506,7 @@
 			"type": "Creature — Knight Hero",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/145.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/145.png"
 			}
 		},
 		{
@@ -1516,7 +1516,7 @@
 			"type": "Sorcery",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/146.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/146.png"
 			}
 		},
 		{
@@ -1526,7 +1526,7 @@
 			"type": "Creature — Dryad Warrior",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/147.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/147.png"
 			}
 		},
 		{
@@ -1536,7 +1536,7 @@
 			"type": "Creature — Human Performer Warlock",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/148.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/148.png"
 			}
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"type": "Battle — Stage",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/149.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/149.png"
 			}
 		},
 		{
@@ -1556,7 +1556,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/150.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/150.png"
 			}
 		},
 		{
@@ -1566,7 +1566,7 @@
 			"type": "Sorcery",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/151.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/151.png"
 			}
 		},
 		{
@@ -1576,7 +1576,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/152.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/152.png"
 			}
 		},
 		{
@@ -1586,7 +1586,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/153.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/153.png"
 			}
 		},
 		{
@@ -1599,11 +1599,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/154_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/154_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/154_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/154_front.png"
 			}
 		},
 		{
@@ -1613,7 +1613,7 @@
 			"type": "Creature — Human Warlock",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/155.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/155.png"
 			}
 		},
 		{
@@ -1623,7 +1623,7 @@
 			"type": "Creature — Orc Knigt Hero",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/156.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/156.png"
 			}
 		},
 		{
@@ -1633,7 +1633,7 @@
 			"type": "Enchantment Creature — Spirit Hero",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/157.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/157.png"
 			}
 		},
 		{
@@ -1643,7 +1643,7 @@
 			"type": "Artifact Creature — Skeleton Cleric",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/158.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/158.png"
 			}
 		},
 		{
@@ -1653,7 +1653,7 @@
 			"type": "Enchantment Creature — Elf Spirit Noble",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/159.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/159.png"
 			}
 		},
 		{
@@ -1663,7 +1663,7 @@
 			"type": "Creature — Cat Rogue",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/160.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/160.png"
 			}
 		},
 		{
@@ -1673,7 +1673,7 @@
 			"type": "Creature — Elf Bird Performer Hero",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/161.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/161.png"
 			}
 		},
 		{
@@ -1683,7 +1683,7 @@
 			"type": "Legendary Creature — Rat Hero",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/162.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/162.png"
 			}
 		},
 		{
@@ -1693,7 +1693,7 @@
 			"type": "Creature — Serpent",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/163.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/163.png"
 			}
 		},
 		{
@@ -1703,7 +1703,7 @@
 			"type": "Creature — Zombie Knight Hero",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/164.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/164.png"
 			}
 		},
 		{
@@ -1713,7 +1713,7 @@
 			"type": "Artifact",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/165.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/165.png"
 			}
 		},
 		{
@@ -1723,7 +1723,7 @@
 			"type": "Instant",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/166.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/166.png"
 			}
 		},
 		{
@@ -1733,7 +1733,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/167.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/167.png"
 			}
 		},
 		{
@@ -1746,11 +1746,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/168_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/168_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/168_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/168_front.png"
 			}
 		},
 		{
@@ -1760,7 +1760,7 @@
 			"type": "Enchantment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/169.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/169.png"
 			}
 		},
 		{
@@ -1770,7 +1770,7 @@
 			"type": "Battle — Stage",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/170.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/170.png"
 			}
 		},
 		{
@@ -1780,7 +1780,7 @@
 			"type": "Instant",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/171.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/171.png"
 			}
 		},
 		{
@@ -1790,7 +1790,7 @@
 			"type": "Enchantment",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/172.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/172.png"
 			}
 		},
 		{
@@ -1800,7 +1800,7 @@
 			"type": "Legendary Creature — Bird Noble Hero",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/173.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/173.png"
 			}
 		},
 		{
@@ -1810,7 +1810,7 @@
 			"type": "Legendary Creature — Human Detective Hero",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/174.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/174.png"
 			}
 		},
 		{
@@ -1820,7 +1820,7 @@
 			"type": "Enchantment",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/175.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/175.png"
 			}
 		},
 		{
@@ -1830,7 +1830,7 @@
 			"type": "Legendary Creature — Skeleton Warrior Hero",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/176.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/176.png"
 			}
 		},
 		{
@@ -1840,7 +1840,7 @@
 			"type": "Legendary Artifact Creature — Robot Hero",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/177.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/177.png"
 			}
 		},
 		{
@@ -1850,7 +1850,7 @@
 			"type": "Legendary Creature — Human Performer Hero",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/178.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/178.png"
 			}
 		},
 		{
@@ -1860,7 +1860,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/179.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/179.png"
 			}
 		},
 		{
@@ -1870,7 +1870,7 @@
 			"type": "Creature — Elk Spirit Horror",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/180.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/180.png"
 			}
 		},
 		{
@@ -1880,7 +1880,7 @@
 			"type": "Legendary Artifact Creature — Cyborg Hero",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/181.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/181.png"
 			}
 		},
 		{
@@ -1890,7 +1890,7 @@
 			"type": "Legendary Enchantment Creature — Golem",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/182.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/182.png"
 			}
 		},
 		{
@@ -1903,11 +1903,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/183_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/183_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/183_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/183_front.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Legendary Creature — Elemental Hero",
 			"collector_number": "260",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/184.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/184.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Creature — Human Warlock Hero",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/185.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/185.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Legendary Creature — Dryad Hero",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/186.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/186.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Enchantment Creature — Spirit Ogre",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/187.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/187.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/188.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/188.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Legendary Creature — Dryad Hero",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/189.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/189.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Artifact Creature — Cyborg Artificer",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/190.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/190.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Creature — Dryad Cleric",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/191.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/191.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Creature — Demon Performer",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/192.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/192.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Artifact Creature — Toy Hero",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/193.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/193.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Artifact",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/194.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/194.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Artifact",
 			"collector_number": "267",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/195.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/195.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Legendary Creature — Skeleton Scout",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/196.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/196.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Human Warrior Hero",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/197.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/197.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Legendary Enchantment Creature — Spirit Hero",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/198.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/198.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Legendary Creature — Elemental Bringer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/199.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/199.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/200.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/200.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Instant",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/201.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/201.png"
 			}
 		},
 		{
@@ -2100,11 +2100,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/202_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/202_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/202_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/202_front.png"
 			}
 		},
 		{
@@ -2117,11 +2117,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/203_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/203_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/203_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/203_front.png"
 			}
 		},
 		{
@@ -2131,7 +2131,7 @@
 			"type": "Artifact",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/204.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/204.png"
 			}
 		},
 		{
@@ -2141,7 +2141,7 @@
 			"type": "Legendary Creature — Human Advisor Hero",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/205.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/205.png"
 			}
 		},
 		{
@@ -2151,7 +2151,7 @@
 			"type": "Creature — Human Bird Hero",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/206.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/206.png"
 			}
 		},
 		{
@@ -2161,7 +2161,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/207.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/207.png"
 			}
 		},
 		{
@@ -2171,7 +2171,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/208.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/208.png"
 			}
 		},
 		{
@@ -2181,7 +2181,7 @@
 			"type": "Legendary Artifact Creature — Robot Bringer",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/209.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/209.png"
 			}
 		},
 		{
@@ -2191,7 +2191,7 @@
 			"type": "Artifact Creature — Skeleton Advisor",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/210.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/210.png"
 			}
 		},
 		{
@@ -2201,7 +2201,7 @@
 			"type": "Battle — Stage",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/211.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/211.png"
 			}
 		},
 		{
@@ -2211,7 +2211,7 @@
 			"type": "Creature — Human Rogue Hero",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/212.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/212.png"
 			}
 		},
 		{
@@ -2221,7 +2221,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/213.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/213.png"
 			}
 		},
 		{
@@ -2231,7 +2231,7 @@
 			"type": "Enchantment Creature — Spirit Advisor",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/214.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/214.png"
 			}
 		},
 		{
@@ -2241,7 +2241,7 @@
 			"type": "Instant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/215.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/215.png"
 			}
 		},
 		{
@@ -2251,7 +2251,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/216.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/216.png"
 			}
 		},
 		{
@@ -2264,11 +2264,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/217_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/217_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/217_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/217_front.png"
 			}
 		},
 		{
@@ -2278,7 +2278,7 @@
 			"type": "Legendary Creature — Incarnation Hero",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/218.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/218.png"
 			}
 		},
 		{
@@ -2288,7 +2288,7 @@
 			"type": "Creature — Human Bard Hero",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/219.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/219.png"
 			}
 		},
 		{
@@ -2298,7 +2298,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/220.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/220.png"
 			}
 		},
 		{
@@ -2308,7 +2308,7 @@
 			"type": "Legendary Creature — Human Performer Hero",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/221.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/221.png"
 			}
 		},
 		{
@@ -2318,7 +2318,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/222.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/222.png"
 			}
 		},
 		{
@@ -2328,7 +2328,7 @@
 			"type": "Legendary Creature — Horror Bringer",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/223.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/223.png"
 			}
 		},
 		{
@@ -2338,7 +2338,7 @@
 			"type": "Creature — Human Peasant Hero",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/224.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/224.png"
 			}
 		},
 		{
@@ -2348,7 +2348,7 @@
 			"type": "Enchantment Creature — Human Advisor",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/225.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/225.png"
 			}
 		},
 		{
@@ -2358,7 +2358,7 @@
 			"type": "Creature — Dryad Druid",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/226.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/226.png"
 			}
 		},
 		{
@@ -2368,7 +2368,7 @@
 			"type": "Creature — Dryad Noble Soldier",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/227.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/227.png"
 			}
 		},
 		{
@@ -2378,7 +2378,7 @@
 			"type": "Legendary Creature — Avatar Advisor",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/228.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/228.png"
 			}
 		},
 		{
@@ -2388,7 +2388,7 @@
 			"type": "Creature — Dryad Knight",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/229.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/229.png"
 			}
 		},
 		{
@@ -2398,7 +2398,7 @@
 			"type": "Legendary Creature — Human Bringer",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/230.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/230.png"
 			}
 		},
 		{
@@ -2408,7 +2408,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/231.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/231.png"
 			}
 		},
 		{
@@ -2418,7 +2418,7 @@
 			"type": "Sorcery",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/232.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/232.png"
 			}
 		},
 		{
@@ -2428,7 +2428,7 @@
 			"type": "Instant",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/233.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/233.png"
 			}
 		},
 		{
@@ -2438,7 +2438,7 @@
 			"type": "Legendary Creature — Goblin Noble Hero",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/234.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/234.png"
 			}
 		},
 		{
@@ -2448,7 +2448,7 @@
 			"type": "Legendary Creature — Human Noble",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/235.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/235.png"
 			}
 		},
 		{
@@ -2458,7 +2458,7 @@
 			"type": "Creature — Human Archer Hero",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/236.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/236.png"
 			}
 		},
 		{
@@ -2468,7 +2468,7 @@
 			"type": "Enchantment Creature — Avatar Wurm",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/237.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/237.png"
 			}
 		},
 		{
@@ -2478,7 +2478,7 @@
 			"type": "Creature — Elf Knight Hero",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/238.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/238.png"
 			}
 		},
 		{
@@ -2488,7 +2488,7 @@
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/239.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/239.png"
 			}
 		},
 		{
@@ -2498,7 +2498,7 @@
 			"type": "Legendary Creature — Advisor Performer",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/240.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/240.png"
 			}
 		},
 		{
@@ -2508,7 +2508,7 @@
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/241.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/241.png"
 			}
 		},
 		{
@@ -2518,7 +2518,7 @@
 			"type": "Creature — Elemental Elk",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/242.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/242.png"
 			}
 		},
 		{
@@ -2528,7 +2528,7 @@
 			"type": "Legendary Enchantment Creature — Avatar Hero",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/243.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/243.png"
 			}
 		},
 		{
@@ -2538,7 +2538,7 @@
 			"type": "Legendary Creature — Horror Noble",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/244.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/244.png"
 			}
 		},
 		{
@@ -2548,7 +2548,7 @@
 			"type": "Legendary Creature — Elder Bird Dragon",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/245.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/245.png"
 			}
 		},
 		{
@@ -2558,7 +2558,7 @@
 			"type": "Creature — Elemental Advisor Performer",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/246.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/246.png"
 			}
 		},
 		{
@@ -2568,7 +2568,7 @@
 			"type": "Enchantment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/247.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/247.png"
 			}
 		},
 		{
@@ -2578,7 +2578,7 @@
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/248.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/248.png"
 			}
 		},
 		{
@@ -2588,7 +2588,7 @@
 			"type": "Land — Cave",
 			"collector_number": "281",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/249.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/249.png"
 			}
 		},
 		{
@@ -2598,7 +2598,7 @@
 			"type": "Land",
 			"collector_number": "287",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/250.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/250.png"
 			}
 		},
 		{
@@ -2608,7 +2608,7 @@
 			"type": "Land",
 			"collector_number": "282",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/251.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/251.png"
 			}
 		},
 		{
@@ -2618,7 +2618,7 @@
 			"type": "Land",
 			"collector_number": "283",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/252.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/252.png"
 			}
 		},
 		{
@@ -2628,7 +2628,7 @@
 			"type": "Land",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/253.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/253.png"
 			}
 		},
 		{
@@ -2638,7 +2638,7 @@
 			"type": "Land",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/254.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/254.png"
 			}
 		},
 		{
@@ -2648,7 +2648,7 @@
 			"type": "Land",
 			"collector_number": "280",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/255.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/255.png"
 			}
 		},
 		{
@@ -2658,7 +2658,7 @@
 			"type": "Enchantment Creature — Hero",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/256.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/256.png"
 			}
 		},
 		{
@@ -2668,7 +2668,7 @@
 			"type": "Legendary Planeswalker — Eni",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/257.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/257.png"
 			}
 		},
 		{
@@ -2678,7 +2678,7 @@
 			"type": "Legendary Planeswalker — Perennia",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/258.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/258.png"
 			}
 		},
 		{
@@ -2688,7 +2688,7 @@
 			"type": "Enchantment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/259.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/259.png"
 			}
 		},
 		{
@@ -2698,7 +2698,7 @@
 			"type": "Enchantment Creature — Spirit Shaman",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/260.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/260.png"
 			}
 		},
 		{
@@ -2708,7 +2708,7 @@
 			"type": "Legendary Planeswalker — Winter",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/261.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/261.png"
 			}
 		},
 		{
@@ -2718,7 +2718,7 @@
 			"type": "Legendary Planeswalker — Manque",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/262.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/262.png"
 			}
 		},
 		{
@@ -2728,7 +2728,7 @@
 			"type": "Creature — Dryad Horror",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/263.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/263.png"
 			}
 		},
 		{
@@ -2738,7 +2738,7 @@
 			"type": "Legendary Planeswalker — Autumn",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/264.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/264.png"
 			}
 		},
 		{
@@ -2748,7 +2748,7 @@
 			"type": "Creature — Elf Advisor Inkling",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/265.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/265.png"
 			}
 		},
 		{
@@ -2758,7 +2758,7 @@
 			"type": "Legendary Planeswalker — Summer",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/266.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/266.png"
 			}
 		},
 		{
@@ -2768,7 +2768,7 @@
 			"type": "Sorcery",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/267.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/267.png"
 			}
 		},
 		{
@@ -2778,7 +2778,7 @@
 			"type": "Enchantment Creature — Snake Incarnation",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/268.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/268.png"
 			}
 		},
 		{
@@ -2788,7 +2788,7 @@
 			"type": "Legendary Planeswalker — Spring",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/269.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/269.png"
 			}
 		},
 		{
@@ -2798,7 +2798,7 @@
 			"type": "Legendary Planeswalker — Jane",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/270.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/270.png"
 			}
 		},
 		{
@@ -2808,7 +2808,7 @@
 			"type": "Enchantment",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/271.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/271.png"
 			}
 		},
 		{
@@ -2818,7 +2818,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/272.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/272.png"
 			}
 		},
 		{
@@ -2828,7 +2828,7 @@
 			"type": "Token Creature — Treefolk Horror",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/273.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/273.png"
 			}
 		},
 		{
@@ -2838,7 +2838,7 @@
 			"type": "Token Creature — Wraith",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/274.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/274.png"
 			}
 		},
 		{
@@ -2848,7 +2848,7 @@
 			"type": "Token Artifact",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/275.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/275.png"
 			}
 		},
 		{
@@ -2858,7 +2858,7 @@
 			"type": "Token Creature — Human Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/276.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/276.png"
 			}
 		},
 		{
@@ -2868,7 +2868,7 @@
 			"type": "Enchantment Creature — Demon Spirit",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/277.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/277.png"
 			}
 		},
 		{
@@ -2878,7 +2878,7 @@
 			"type": "Token Enchantment Creature — Spirit Ogre",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/278.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/278.png"
 			}
 		},
 		{
@@ -2888,7 +2888,7 @@
 			"type": "Token Artifact Creature — Golem Wizard",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/279.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/279.png"
 			}
 		},
 		{
@@ -2898,7 +2898,7 @@
 			"type": "Token Creature — Elemental Horror",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/280.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/280.png"
 			}
 		},
 		{
@@ -2908,7 +2908,7 @@
 			"type": "Legendary Planeswalker — Weft",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/281.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/281.png"
 			}
 		},
 		{
@@ -2918,7 +2918,7 @@
 			"type": "Legendary Creature — Dryad Bringer",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/282.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/282.png"
 			}
 		},
 		{
@@ -2928,7 +2928,7 @@
 			"type": "Token Creature — Rat Soldier",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/283.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/283.png"
 			}
 		},
 		{
@@ -2938,7 +2938,7 @@
 			"type": "Token Creature — Bird Hero",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/284.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/284.png"
 			}
 		},
 		{
@@ -2948,7 +2948,7 @@
 			"type": "Basic Land — Plains",
 			"collector_number": "293",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/285.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/285.png"
 			}
 		},
 		{
@@ -2958,7 +2958,7 @@
 			"type": "Basic Land — Island",
 			"collector_number": "294",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/286.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/286.png"
 			}
 		},
 		{
@@ -2968,7 +2968,7 @@
 			"type": "Basic Land — Swamp",
 			"collector_number": "295",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/287.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/287.png"
 			}
 		},
 		{
@@ -2978,7 +2978,7 @@
 			"type": "Basic Land — Mountain",
 			"collector_number": "296",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/288.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/288.png"
 			}
 		},
 		{
@@ -2988,7 +2988,7 @@
 			"type": "Basic Land — Forest",
 			"collector_number": "297",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/289.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/289.png"
 			}
 		},
 		{
@@ -2998,7 +2998,7 @@
 			"type": "Enchantment — Episode",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/290.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/290.png"
 			}
 		},
 		{
@@ -3011,11 +3011,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/291_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/291_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/291_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/291_front.png"
 			}
 		},
 		{
@@ -3025,7 +3025,7 @@
 			"type": "Sorcery",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/292.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/292.png"
 			}
 		},
 		{
@@ -3035,7 +3035,7 @@
 			"type": "Enchantment Creature — Hero",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/293.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/293.png"
 			}
 		},
 		{
@@ -3045,7 +3045,7 @@
 			"type": "Legendary Enchantment Creature — Human Horror",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/294.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/294.png"
 			}
 		},
 		{
@@ -3055,7 +3055,7 @@
 			"type": "Token Creature — Reflection Hero",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/295.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/295.png"
 			}
 		},
 		{
@@ -3065,7 +3065,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/296.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/296.png"
 			}
 		},
 		{
@@ -3075,7 +3075,7 @@
 			"type": "Token Creature — Treefolk Soldier",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/297.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/297.png"
 			}
 		},
 		{
@@ -3085,7 +3085,7 @@
 			"type": "Token Creature — Hero",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/298.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/298.png"
 			}
 		},
 		{
@@ -3095,7 +3095,7 @@
 			"type": "Token Creature — Warlock",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/299.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/299.png"
 			}
 		},
 		{
@@ -3105,7 +3105,7 @@
 			"type": "Sorcery",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/300.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/300.png"
 			}
 		},
 		{
@@ -3115,7 +3115,7 @@
 			"type": "Token Creature — Wurm Hero",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/301.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/301.png"
 			}
 		},
 		{
@@ -3128,11 +3128,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/302_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/302_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/302_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/302_front.png"
 			}
 		},
 		{
@@ -3142,7 +3142,7 @@
 			"type": "Token Creature — Samurai Warlock",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/303.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/303.png"
 			}
 		},
 		{
@@ -3152,7 +3152,7 @@
 			"type": "Token Creature — Detective",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/304.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/304.png"
 			}
 		},
 		{
@@ -3162,7 +3162,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/305.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/305.png"
 			}
 		},
 		{
@@ -3172,7 +3172,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/306.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/306.png"
 			}
 		},
 		{
@@ -3182,7 +3182,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/307.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/307.png"
 			}
 		},
 		{
@@ -3192,7 +3192,7 @@
 			"type": "Token Legendary Artifact",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/308.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/308.png"
 			}
 		},
 		{
@@ -3202,7 +3202,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/309.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/309.png"
 			}
 		},
 		{
@@ -3212,7 +3212,7 @@
 			"type": "Token Artifact — Equipment",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/310.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/310.png"
 			}
 		},
 		{
@@ -3222,7 +3222,7 @@
 			"type": "Token Creature — Noble",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/311.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/311.png"
 			}
 		},
 		{
@@ -3232,7 +3232,7 @@
 			"type": "Artifact",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/312.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/312.png"
 			}
 		},
 		{
@@ -3242,7 +3242,7 @@
 			"type": "Legendary Creature — Elf Cat Advisor Hero",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/313.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/313.png"
 			}
 		},
 		{
@@ -3252,7 +3252,7 @@
 			"type": "Token Creature — Demon Knight",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/314.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/314.png"
 			}
 		},
 		{
@@ -3265,11 +3265,11 @@
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://MSEhub/sets/AJY-files/img/315_back.png"
+					"en": "https://laurelkeeper.github.io/sets/AJY-files/img/315_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/315_front.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/315_front.png"
 			}
 		},
 		{
@@ -3279,7 +3279,7 @@
 			"type": "Creature — Faerie Vampire Performer",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/316.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/316.png"
 			}
 		},
 		{
@@ -3289,7 +3289,7 @@
 			"type": "Legendary Creature — Elf Rebel Hero",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/317.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/317.png"
 			}
 		},
 		{
@@ -3299,7 +3299,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/318.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/318.png"
 			}
 		},
 		{
@@ -3309,7 +3309,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/319.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/319.png"
 			}
 		},
 		{
@@ -3319,7 +3319,7 @@
 			"type": "Enchantment Creature — Incarnation",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/320.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/320.png"
 			}
 		},
 		{
@@ -3329,7 +3329,7 @@
 			"type": "Legendary Enchantment Creature — Elf Spirit",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://MSEhub/sets/AJY-files/img/321.png"
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/321.png"
 			}
 		}
 	]
