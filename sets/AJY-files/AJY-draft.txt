@@ -435,7 +435,7 @@
 			"name": "Scriptkeeper",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Elemental Hero",
+			"type": "Enchantment Creature — Elemental Hero",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/41.png"
@@ -482,11 +482,11 @@
 			}
 		},
 		{
-			"name": "Summer's Decommissioner",
+			"name": "Wickerbound Warlord",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Demon Wizard",
-			"collector_number": "164",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/46.png"
 			}
@@ -502,7 +502,7 @@
 			}
 		},
 		{
-			"name": "A Brilliant Entrance",
+			"name": "A Star is Born",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Episode",
@@ -673,7 +673,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Skeleton Wurm",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/64.png"
 			}
@@ -693,7 +693,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/66.png"
 			}
@@ -703,7 +703,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/67.png"
 			}
@@ -713,7 +713,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Dryad",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/68.png"
 			}
@@ -723,17 +723,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Artifact Creature — Golem Cleric",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/69.png"
 			}
 		},
 		{
-			"name": "Choir of Restoration",
+			"name": "Pleading Souls",
 			"rarity": "common",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "249",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
 			}
@@ -743,7 +743,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Elf Soldier Hero",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/71.png"
 			}
@@ -769,11 +769,11 @@
 			}
 		},
 		{
-			"name": "Earthspike Annals",
+			"name": "Living Annals",
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/74.png"
 			}
@@ -1514,7 +1514,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/146.png"
 			}
@@ -1584,7 +1584,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/153.png"
 			}
@@ -1798,7 +1798,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Legendary Creature — Bird Noble Hero",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/173.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Creature — Elemental Hero",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/184.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/185.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}{R/G}{R/G}",
 			"type": "Enchantment Creature — Spirit Ogre",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/187.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/189.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Artifact Creature — Cyborg Artificer",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/190.png"
 			}
@@ -2816,7 +2816,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/272.png"
 			}
@@ -3581,9 +3581,9 @@
 	8 Hollowed Archetype
 	8 Elder Soothsinger
 	8 Flenser Mob
-	8 Summer's Decommissioner
+	8 Wickerbound Warlord
 	8 Pagepyre
-	8 A Brilliant Entrance
+	8 A Star is Born
 	8 Wreath of Malevolence
 	8 Memory Blossom
 	8 A Fateful Journey
@@ -3604,11 +3604,11 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Choir of Restoration
+	8 Pleading Souls
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
-	8 Earthspike Annals
+	8 Living Annals
 	8 Omenstones
 	8 Pallid Causeway
 	8 Effaced Cove
@@ -3672,9 +3672,9 @@
 	8 Hollowed Archetype
 	8 Elder Soothsinger
 	8 Flenser Mob
-	8 Summer's Decommissioner
+	8 Wickerbound Warlord
 	8 Pagepyre
-	8 A Brilliant Entrance
+	8 A Star is Born
 	8 Wreath of Malevolence
 	8 Memory Blossom
 	8 A Fateful Journey
@@ -3695,11 +3695,11 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Choir of Restoration
+	8 Pleading Souls
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
-	8 Earthspike Annals
+	8 Living Annals
 	8 Omenstones
 	8 Pallid Causeway
 	8 Effaced Cove
@@ -3767,9 +3767,9 @@
 	12 Hollowed Archetype
 	12 Elder Soothsinger
 	12 Flenser Mob
-	12 Summer's Decommissioner
+	12 Wickerbound Warlord
 	12 Pagepyre
-	12 A Brilliant Entrance
+	12 A Star is Born
 	12 Wreath of Malevolence
 	12 Memory Blossom
 	12 A Fateful Journey
@@ -3791,11 +3791,11 @@
 	12 Fated Figures
 	12 Innercourt Mendress
 	12 Palecast Bishop
-	12 Choir of Restoration
+	12 Pleading Souls
 	12 Glamorous Herald
 	12 Solemn Standby
 	12 Vested Script
-	12 Earthspike Annals
+	12 Living Annals
 	12 Omenstones
 	12 Pallid Causeway
 	12 Effaced Cove
@@ -4060,9 +4060,9 @@
 	6 Hollowed Archetype
 	6 Elder Soothsinger
 	6 Flenser Mob
-	6 Summer's Decommissioner
+	6 Wickerbound Warlord
 	6 Pagepyre
-	6 A Brilliant Entrance
+	6 A Star is Born
 	6 Wreath of Malevolence
 	6 Memory Blossom
 	6 A Fateful Journey
@@ -4084,11 +4084,11 @@
 	6 Fated Figures
 	6 Innercourt Mendress
 	6 Palecast Bishop
-	6 Choir of Restoration
+	6 Pleading Souls
 	6 Glamorous Herald
 	6 Solemn Standby
 	6 Vested Script
-	6 Earthspike Annals
+	6 Living Annals
 	6 Omenstones
 	6 Pallid Causeway
 	6 Effaced Cove

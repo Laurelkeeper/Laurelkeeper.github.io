@@ -425,7 +425,7 @@
     },
     {
         "card_name": "The Court's Last Hunt",
-        "number": 165,
+        "number": 164,
         "shape": "saga",
         "set": "AJY",
         "rotated": false,
@@ -465,7 +465,7 @@
     },
     {
         "card_name": "Until We Meet Once More",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1184,7 +1184,7 @@
         "position": "127"
     },
     {
-        "card_name": "A Brilliant Entrance",
+        "card_name": "A Star is Born",
         "number": 128,
         "shape": "saga",
         "set": "AJY",
@@ -1624,8 +1624,8 @@
         "position": "28"
     },
     {
-        "card_name": "Summer's Decommissioner",
-        "number": 164,
+        "card_name": "Wickerbound Warlord",
+        "number": 166,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Meismos, Thundergaunt",
-        "number": 258,
+        "number": 257,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1838,15 +1838,15 @@
     },
     {
         "card_name": "Cindrel Gloamspeaker",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
         "position": "187"
     },
     {
-        "card_name": "Choir of Restoration",
-        "number": 249,
+        "card_name": "Pleading Souls",
+        "number": 261,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1870,7 +1870,7 @@
     },
     {
         "card_name": "Fated Figures",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Innercourt Mendress",
-        "number": 256,
+        "number": 255,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1889,7 +1889,7 @@
     },
     {
         "card_name": "Palecast Bishop",
-        "number": 261,
+        "number": 260,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2004,7 +2004,7 @@
     },
     {
         "card_name": "Lord Malcolm Amantii",
-        "number": 257,
+        "number": 256,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2028,7 +2028,7 @@
     },
     {
         "card_name": "Orrin of the Golden Feast",
-        "number": 260,
+        "number": 259,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2052,7 +2052,7 @@
     },
     {
         "card_name": "Hard-Eyed Starlet",
-        "number": 255,
+        "number": 254,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2060,7 +2060,7 @@
     },
     {
         "card_name": "Feastkeeper",
-        "number": 253,
+        "number": 252,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2068,7 +2068,7 @@
     },
     {
         "card_name": "Glamorous Herald",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2076,7 +2076,7 @@
     },
     {
         "card_name": "Eldmetal Congregant",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2106,7 +2106,7 @@
     },
     {
         "card_name": "Mutilated Strider",
-        "number": 259,
+        "number": 258,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2207,7 +2207,7 @@
     "a->colorless",
     {
         "card_name": "Lexyrinth, Vault of Legends",
-        "number": 269,
+        "number": 268,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2246,8 +2246,8 @@
         "position": "88"
     },
     {
-        "card_name": "Earthspike Annals",
-        "number": 268,
+        "card_name": "Living Annals",
+        "number": 269,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,

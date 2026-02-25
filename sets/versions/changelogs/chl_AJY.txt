@@ -1,4 +1,109 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 23 CHANGELOG
+====================
+
+Wickerbound Warlord added.
+A Star is Born added.
+Pleading Souls added.
+Living Annals added.
+
+Summer's Decommissioner removed.
+A Brilliant Entrance removed.
+Choir of Restoration removed.
+Earthspike Annals removed.
+
+Scriptkeeper
+type: Creature — Elemental Hero => Enchantment Creature — Elemental Hero
+rules_text: When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => Menace
+When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+pt: 1/1 => 2/1
+
+Hollowed Archetype
+rules_text: Trample
+When this creature enters, put X +1/+1 counters on target creature, where X is the number of players who lost life this turn. => Whenever this creature attacks, you may pay 1 life. If you do, add {R}. Until end of turn, you don't lose this mana as steps and phases end.
+pt: 1/1 => 2/2
+
+Elder Soothsinger
+rules_text: Whenever you attack, target creature you control with a counter on it gets +1/+1 until end of turn. => Whenever you attack, target creature you control with a counter on it gets +2/+2 until end of turn.
+pt: 4/3 => 3/3
+
+A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Winterbreath Cantor
+rules_text: At the beginning of your end step, surveil 1 if you've performed a rite this turn. [i](Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)[/i]
+{UB}, Discard this card, Pay 1 life: Draw a card. => Flying
+When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+pt: 3/2 => 2/3
+
+The Court's Last Hunt
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+III — Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+III — Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​
+
+Stagework Trainers
+rules_text: Haste
+Whenever this creature attacks, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => Haste
+This creature has first strike, menace, and trample if it entered this turn or you put a counter on it this turn.
+pt: 2/2 => 3/2
+
+Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Septus Jane, Turncoat
+rules_text: Septus Jane and other enchantment creatures you control have trample.
+At the beginning of your first main phase, you may add {R}{G}. If you do, Septus Jane attacks each combat this turn if able. Spend this mana only to cast enchantment spells or activate abilities of enchantments. => Septus Jane and other enchantment creatures you control have trample.
+{4}{R}{G}: Nonenchantment creatures you control get +1/+1 until end of turn. Put a +1/+1 counter on each enchantment creature you control.
+
+Summer Outshines the Godmind
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+Put a +1/+1 counter on target creature.
+You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 3/2 blue Robot Avatar artifact creature token.
+II — Put a +1/+1 counter on target creature.
+III — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 3/2 blue Robot Avatar artifact creature token.
+Put a +1/+1 counter on target creature.
+You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 3/2 blue Robot Avatar artifact creature token.
+II — Put a +1/+1 counter on target creature.
+III — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.
+
+Breaching Roots
+rules_text: Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Thornscar
+rules_text: Enchant creature you control
+Enchanted creature gets +1/+1. If two or more Auras are attached to it, it also has double strike. => Enchant creature you control
+Enchanted creature has first strike. If two or more Auras are attached to it, it also has double strike.
+
+
+VERSION 22 CHANGELOG
 ====================
 
 No changes.
