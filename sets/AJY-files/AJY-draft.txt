@@ -693,7 +693,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/U}{G/U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "258",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/66.png"
 			}
@@ -713,7 +713,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Dryad",
-			"collector_number": "255",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/68.png"
 			}
@@ -723,17 +723,17 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Artifact Creature — Golem Cleric",
-			"collector_number": "260",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/69.png"
 			}
 		},
 		{
-			"name": "Pleading Souls",
+			"name": "Fervent Fans",
 			"rarity": "common",
 			"mana_cost": "{G/W}{G/W}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "261",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
 			}
@@ -743,7 +743,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R/W}{R/W}",
 			"type": "Creature — Elf Soldier Hero",
-			"collector_number": "253",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/71.png"
 			}
@@ -1798,7 +1798,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Legendary Creature — Bird Noble Hero",
-			"collector_number": "256",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/173.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}",
 			"type": "Legendary Creature — Elemental Hero",
-			"collector_number": "259",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/184.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "254",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/185.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "257",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/189.png"
 			}
@@ -3604,7 +3604,7 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Pleading Souls
+	8 Fervent Fans
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
@@ -3695,7 +3695,7 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Pleading Souls
+	8 Fervent Fans
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
@@ -3791,7 +3791,7 @@
 	12 Fated Figures
 	12 Innercourt Mendress
 	12 Palecast Bishop
-	12 Pleading Souls
+	12 Fervent Fans
 	12 Glamorous Herald
 	12 Solemn Standby
 	12 Vested Script
@@ -4084,7 +4084,7 @@
 	6 Fated Figures
 	6 Innercourt Mendress
 	6 Palecast Bishop
-	6 Pleading Souls
+	6 Fervent Fans
 	6 Glamorous Herald
 	6 Solemn Standby
 	6 Vested Script

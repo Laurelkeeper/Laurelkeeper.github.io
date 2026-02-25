@@ -1830,7 +1830,7 @@
     },
     {
         "card_name": "Meismos, Thundergaunt",
-        "number": 257,
+        "number": 258,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1845,8 +1845,8 @@
         "position": "187"
     },
     {
-        "card_name": "Pleading Souls",
-        "number": 261,
+        "card_name": "Fervent Fans",
+        "number": 253,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1878,7 +1878,7 @@
     },
     {
         "card_name": "Innercourt Mendress",
-        "number": 255,
+        "number": 256,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1889,7 +1889,7 @@
     },
     {
         "card_name": "Palecast Bishop",
-        "number": 260,
+        "number": 261,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2004,7 +2004,7 @@
     },
     {
         "card_name": "Lord Malcolm Amantii",
-        "number": 256,
+        "number": 257,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2028,7 +2028,7 @@
     },
     {
         "card_name": "Orrin of the Golden Feast",
-        "number": 259,
+        "number": 260,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2052,7 +2052,7 @@
     },
     {
         "card_name": "Hard-Eyed Starlet",
-        "number": 254,
+        "number": 255,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2068,7 +2068,7 @@
     },
     {
         "card_name": "Glamorous Herald",
-        "number": 253,
+        "number": 254,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2106,7 +2106,7 @@
     },
     {
         "card_name": "Mutilated Strider",
-        "number": 258,
+        "number": 259,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
