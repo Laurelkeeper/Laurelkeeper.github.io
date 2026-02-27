@@ -711,8 +711,8 @@
 		{
 			"name": "Innercourt Mendress",
 			"rarity": "common",
-			"mana_cost": "{1}{R/G}",
-			"type": "Creature — Dryad",
+			"mana_cost": "{R/G}{R/G}",
+			"type": "Creature — Human Noble Shaman",
 			"collector_number": "256",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/68.png"
@@ -729,10 +729,10 @@
 			}
 		},
 		{
-			"name": "Fervent Fans",
+			"name": "Fervent Fan",
 			"rarity": "common",
-			"mana_cost": "{G/W}{G/W}",
-			"type": "Enchantment Creature — Spirit",
+			"mana_cost": "{1}{G/W}",
+			"type": "Creature — Skeleton",
 			"collector_number": "253",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
@@ -1808,7 +1808,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Detective Hero",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/174.png"
 			}
@@ -1838,7 +1838,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Artifact Creature — Robot Hero",
-			"collector_number": "231",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/177.png"
 			}
@@ -1878,17 +1878,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/181.png"
 			}
 		},
 		{
-			"name": "Septus Jane, Turncoat",
+			"name": "Cupbearer of Spring",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}{G}",
-			"type": "Legendary Enchantment Creature — Golem",
-			"collector_number": "237",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment Creature — Spirit Elk",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/182.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Creature — Dryad Cleric",
-			"collector_number": "230",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/191.png"
 			}
@@ -2139,7 +2139,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Human Advisor Hero",
-			"collector_number": "229",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/205.png"
 			}
@@ -2436,7 +2436,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{1}{G}{W}",
 			"type": "Legendary Creature — Goblin Noble Hero",
-			"collector_number": "227",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/234.png"
 			}
@@ -2446,7 +2446,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{B}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "226",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/235.png"
 			}
@@ -2456,7 +2456,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Archer Hero",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/236.png"
 			}
@@ -2466,7 +2466,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Enchantment Creature — Avatar Wurm",
-			"collector_number": "235",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/237.png"
 			}
@@ -2486,7 +2486,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/239.png"
 			}
@@ -2496,7 +2496,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Advisor Performer",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/240.png"
 			}
@@ -2556,7 +2556,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Elemental Advisor Performer",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/246.png"
 			}
@@ -2576,7 +2576,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "234",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/248.png"
 			}
@@ -2666,7 +2666,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{U}",
 			"type": "Legendary Planeswalker — Eni",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/257.png"
 			}
@@ -2716,7 +2716,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Legendary Planeswalker — Manque",
-			"collector_number": "228",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/262.png"
 			}
@@ -2906,7 +2906,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Planeswalker — Weft",
-			"collector_number": "225",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/281.png"
 			}
@@ -3277,7 +3277,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Faerie Vampire Performer",
-			"collector_number": "233",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/316.png"
 			}
@@ -3287,7 +3287,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Elf Rebel Hero",
-			"collector_number": "232",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/317.png"
 			}
@@ -3524,7 +3524,7 @@
 	4 Sostak, Whimsical Voice
 	4 The Wakeup Call
 	4 Eni, Company Champion
-	4 Septus Jane, Turncoat
+	4 Cupbearer of Spring
 	4 A Change in Fate
 	4 Orrin of the Golden Feast
 	4 Hard-Eyed Starlet
@@ -3614,7 +3614,7 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Fervent Fans
+	8 Fervent Fan
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
@@ -3705,7 +3705,7 @@
 	8 Fated Figures
 	8 Innercourt Mendress
 	8 Palecast Bishop
-	8 Fervent Fans
+	8 Fervent Fan
 	8 Glamorous Herald
 	8 Solemn Standby
 	8 Vested Script
@@ -3801,7 +3801,7 @@
 	12 Fated Figures
 	12 Innercourt Mendress
 	12 Palecast Bishop
-	12 Fervent Fans
+	12 Fervent Fan
 	12 Glamorous Herald
 	12 Solemn Standby
 	12 Vested Script
@@ -3913,7 +3913,7 @@
 	6 The Wakeup Call
 	12 Autumn's Emissary
 	6 Eni, Company Champion
-	6 Septus Jane, Turncoat
+	6 Cupbearer of Spring
 	6 A Change in Fate
 	6 Orrin of the Golden Feast
 	6 Hard-Eyed Starlet
@@ -4094,7 +4094,7 @@
 	6 Fated Figures
 	6 Innercourt Mendress
 	6 Palecast Bishop
-	6 Fervent Fans
+	6 Fervent Fan
 	6 Glamorous Herald
 	6 Solemn Standby
 	6 Vested Script
@@ -4206,7 +4206,7 @@
 	15 The Wakeup Call
 	6 Autumn's Emissary
 	15 Eni, Company Champion
-	15 Septus Jane, Turncoat
+	15 Cupbearer of Spring
 	15 A Change in Fate
 	15 Orrin of the Golden Feast
 	15 Hard-Eyed Starlet

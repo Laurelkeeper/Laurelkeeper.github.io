@@ -1694,7 +1694,7 @@
     "a->gold",
     {
         "card_name": "Eni, Reforged Paragon",
-        "number": 221,
+        "number": 222,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1702,7 +1702,7 @@
     },
     {
         "card_name": "Passioned Pair",
-        "number": 233,
+        "number": 234,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1710,7 +1710,7 @@
     },
     {
         "card_name": "Mosa, Renegade Star",
-        "number": 232,
+        "number": 233,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1718,7 +1718,7 @@
     },
     {
         "card_name": "The Itinerant Weft",
-        "number": 225,
+        "number": 226,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1726,7 +1726,7 @@
     },
     {
         "card_name": "Lord Tyto Bons\u00edc",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1742,7 +1742,7 @@
     },
     {
         "card_name": "Dramatic Oracle",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1774,7 +1774,7 @@
     },
     {
         "card_name": "Marc Tancinium, Cameo",
-        "number": 229,
+        "number": 230,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1782,7 +1782,7 @@
     },
     {
         "card_name": "Inquisitor Tacen Flint",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1797,8 +1797,8 @@
         "position": "176"
     },
     {
-        "card_name": "Septus Jane, Turncoat",
-        "number": 237,
+        "card_name": "Cupbearer of Spring",
+        "number": 219,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Eni, Company Champion",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1845,7 +1845,7 @@
         "position": "187"
     },
     {
-        "card_name": "Fervent Fans",
+        "card_name": "Fervent Fan",
         "number": 253,
         "shape": "normal",
         "set": "AJY",
@@ -1924,7 +1924,7 @@
     },
     {
         "card_name": "Kniles, Chancellor of Thorns",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1940,7 +1940,7 @@
     },
     {
         "card_name": "Manque, Shifting Spotlight",
-        "number": 228,
+        "number": 229,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1948,7 +1948,7 @@
     },
     {
         "card_name": "Greyvale Prodigy",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1956,7 +1956,7 @@
     },
     {
         "card_name": "Physt, Company Curator",
-        "number": 234,
+        "number": 235,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1964,7 +1964,7 @@
     },
     {
         "card_name": "Mastergaunts",
-        "number": 230,
+        "number": 231,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1996,7 +1996,7 @@
     },
     {
         "card_name": "Plothole Tunneler",
-        "number": 235,
+        "number": 236,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2036,7 +2036,7 @@
     },
     {
         "card_name": "Mishet, the Escapee",
-        "number": 231,
+        "number": 232,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2153,7 +2153,7 @@
     },
     {
         "card_name": "The Everfree Thespian",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2161,7 +2161,7 @@
     },
     {
         "card_name": "Rally the Understudies",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
