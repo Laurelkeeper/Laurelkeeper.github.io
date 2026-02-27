@@ -741,7 +741,7 @@
 		{
 			"name": "Glamorous Herald",
 			"rarity": "common",
-			"mana_cost": "{2}{R/W}{R/W}",
+			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Elf Soldier Hero",
 			"collector_number": "254",
 			"image_uris": {
@@ -1814,11 +1814,11 @@
 			}
 		},
 		{
-			"name": "Premiere Night",
+			"name": "Sterling Example",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Enchantment",
-			"collector_number": "236",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment Creature — Hero",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/175.png"
 			}
@@ -1848,7 +1848,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Performer Hero",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/178.png"
 			}
@@ -1888,7 +1888,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Enchantment Creature — Golem",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/182.png"
 			}
@@ -1913,7 +1913,7 @@
 		{
 			"name": "Orrin of the Golden Feast",
 			"rarity": "uncommon",
-			"mana_cost": "{R/W}",
+			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Elemental Hero",
 			"collector_number": "260",
 			"image_uris": {
@@ -2486,7 +2486,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/239.png"
 			}
@@ -2566,7 +2566,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/247.png"
 			}
@@ -2876,7 +2876,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment Creature — Spirit Ogre",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/278.png"
 			}
@@ -2886,7 +2886,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Golem Wizard",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/279.png"
 			}
@@ -2896,7 +2896,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Horror",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/280.png"
 			}
@@ -2926,7 +2926,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Rat Soldier",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/283.png"
 			}
@@ -3063,7 +3063,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/296.png"
 			}
@@ -3113,7 +3113,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wurm Hero",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/301.png"
 			}
@@ -3160,7 +3160,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/305.png"
 			}
@@ -3170,7 +3170,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/306.png"
 			}
@@ -3180,7 +3180,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/307.png"
 			}
@@ -3190,7 +3190,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Artifact",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/308.png"
 			}
@@ -3210,7 +3210,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/310.png"
 			}
@@ -3297,7 +3297,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Enchantment — Aura",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/318.png"
 			}
@@ -3330,6 +3330,16 @@
 			"collector_number": "245",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/321.png"
+			}
+		},
+		{
+			"name": "Soldier Bard",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier Bard",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/322.png"
 			}
 		}
 	]
@@ -3508,7 +3518,7 @@
 	4 Telltale Sign
 	4 Lord Malcolm Amantii
 	4 Inquisitor Tacen Flint
-	4 Premiere Night
+	4 Sterling Example
 	4 Carmine the Brilliant
 	4 Mishet, the Escapee
 	4 Sostak, Whimsical Voice
@@ -3896,7 +3906,7 @@
 	6 Telltale Sign
 	6 Lord Malcolm Amantii
 	6 Inquisitor Tacen Flint
-	6 Premiere Night
+	6 Sterling Example
 	6 Carmine the Brilliant
 	6 Mishet, the Escapee
 	6 Sostak, Whimsical Voice
@@ -4189,7 +4199,7 @@
 	15 Telltale Sign
 	15 Lord Malcolm Amantii
 	15 Inquisitor Tacen Flint
-	15 Premiere Night
+	15 Sterling Example
 	15 Carmine the Brilliant
 	15 Mishet, the Escapee
 	15 Sostak, Whimsical Voice

@@ -1,4 +1,65 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Sterling Example added.
+Soldier Bard added.
+
+Premiere Night removed.
+
+A Star is Born
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+II — This Episode deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+II — This Episode deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero.
+
+A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Winterbreath Cantor
+rules_text: Flying
+When this creature enters, surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Flying
+When this creature enters, you may draw a card. If you do, you discard a card and lose 1 life.
+
+Glamorous Herald
+cost: {2}{RW}{RW} => {1}{RW}{RW}
+rules_text: When this creature enters or dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+When this creature dies, you may put its counters on another target creature you control.
+pt: 3/2 => 2/1
+
+Abridge
+
+Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Orrin of the Golden Feast
+cost: {RW} => {1}{RW}
+rules_text: Orrin of the Golden Feast has first strike during your turn.
+Whenever Orrin attacks, put a +1/+1 counter on another target attacking legendary creature or Hero you control. => Orrin of the Golden Feast has first strike during your turn.
+pt: 1/1 => 3/2
+
+Breaching Roots
+rules_text: Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Fervent Fans added.

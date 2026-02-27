@@ -1766,7 +1766,7 @@
     },
     {
         "card_name": "Sostak, Whimsical Voice",
-        "number": 239,
+        "number": 238,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1798,7 +1798,7 @@
     },
     {
         "card_name": "Septus Jane, Turncoat",
-        "number": 238,
+        "number": 237,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1987,8 +1987,8 @@
         "position": "242"
     },
     {
-        "card_name": "Premiere Night",
-        "number": 236,
+        "card_name": "Sterling Example",
+        "number": 240,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2161,7 +2161,7 @@
     },
     {
         "card_name": "Rally the Understudies",
-        "number": 237,
+        "number": 236,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2169,7 +2169,7 @@
     },
     {
         "card_name": "Splendid Inspiration",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2566,7 +2566,7 @@
     },
     {
         "card_name": "The Ebonwood",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2574,7 +2574,7 @@
     },
     {
         "card_name": "The Echofont",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2582,7 +2582,7 @@
     },
     {
         "card_name": "The Elderbloom",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2590,7 +2590,7 @@
     },
     {
         "card_name": "The Etherweave",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2598,7 +2598,7 @@
     },
     {
         "card_name": "The Everflame",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2606,7 +2606,7 @@
     },
     {
         "card_name": "Memorial Edge",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2709,8 +2709,16 @@
         "position": "275"
     },
     {
-        "card_name": "Thornscar",
+        "card_name": "Soldier Bard",
         "number": 14,
+        "shape": "token",
+        "set": "AJY",
+        "rotated": false,
+        "position": "322"
+    },
+    {
+        "card_name": "Thornscar",
+        "number": 15,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2718,7 +2726,7 @@
     },
     {
         "card_name": "Wurm Hero",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2726,7 +2734,7 @@
     },
     {
         "card_name": "Elemental Horror",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2734,7 +2742,7 @@
     },
     {
         "card_name": "Golem Wizard",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2742,7 +2750,7 @@
     },
     {
         "card_name": "Rat Soldier",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2750,11 +2758,23 @@
     },
     {
         "card_name": "Spirit Ogre",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
         "position": "278"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
