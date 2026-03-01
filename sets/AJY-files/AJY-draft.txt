@@ -1492,7 +1492,7 @@
 		{
 			"name": "Awoken in Ash",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Treefolk Wizard",
 			"collector_number": "131",
 			"image_uris": {
@@ -1522,7 +1522,7 @@
 		{
 			"name": "Bantrel Reveller",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{R}",
+			"mana_cost": "{4}{R}",
 			"type": "Creature — Dryad Warrior",
 			"collector_number": "132",
 			"image_uris": {
@@ -1878,7 +1878,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/181.png"
 			}
@@ -2662,11 +2662,11 @@
 			}
 		},
 		{
-			"name": "Eni, Reforged Paragon",
+			"name": "Eni, Alabaster Paragon",
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{W}{U}",
 			"type": "Legendary Planeswalker — Eni",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/257.png"
 			}
@@ -3406,7 +3406,7 @@
 	2 Grisly Scene
 	2 Heartbreaking Scene
 	2 Unfinished Draft
-	1 Eni, Reforged Paragon
+	1 Eni, Alabaster Paragon
 	1 Prince of Years
 	1 Dramaturge's Mastery
 	1 Hiemal Virtuoso
@@ -3988,7 +3988,7 @@
 	2 Grisly Scene
 	2 Heartbreaking Scene
 	2 Unfinished Draft
-	1 Eni, Reforged Paragon
+	1 Eni, Alabaster Paragon
 	1 Prince of Years
 	1 Dramaturge's Mastery
 	1 Hiemal Virtuoso
@@ -4281,7 +4281,7 @@
 	7 Grisly Scene
 	7 Heartbreaking Scene
 	7 Unfinished Draft
-	4 Eni, Reforged Paragon
+	4 Eni, Alabaster Paragon
 	4 Prince of Years
 	4 Dramaturge's Mastery
 	4 Hiemal Virtuoso

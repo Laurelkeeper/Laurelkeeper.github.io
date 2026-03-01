@@ -1,4 +1,144 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Eni, Alabaster Paragon added.
+
+Eni, Reforged Paragon removed.
+
+Light Through the Veil
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+
+A Cold Voice
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​
+
+Cindrel Wight
+rules_text: When this creature enters, create a 3/2 red and green Spirit Ogre enchantment creature token.
+Evoke {2}{R} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Menace
+When this creature enters, choose up to one target creature or planeswalker. Each enchantment creature you control deals damage equal to its power to that target.
+pt: 2/3 => 3/2
+
+Awoken in Ash
+cost: {3}{R}{R} => {1}{R}{R}
+rules_text: When this creature enters, it deals 2 damage to each other creature and each player.
+Evoke {2}{R} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => When this creature enters, it deals 2 damage to each other creature.
+{R}, Sacrifice this creature: It deals 2 damage to each player.
+pt: 4/4 => 1/1
+
+Bantrel Reveller
+cost: {5}{R} => {4}{R}
+rules_text: This spell costs {1} less to cast for each player who lost life this turn.
+This creature has first strike during your turn. => This spell costs {1} less to cast for each player who lost life this turn.
+When this creature enters, each player may discard their hand. If t
+pt: 6/4 => 5/4
+
+Wolf at the Gates
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+II, III — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Discard a card, then draw a card.
+II, III — If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Discard a card, then draw a card. Draw another if you discarded the only card in your hand this way.
+II, III — If a red source or enchantment source you control would deal damage this turn, it deals that much damage plus 1 instead.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Discard a card, then draw a card.
+II, III — If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
+​
+
+Orrin's Ordeal
+rules_text: Chronicle. When you do, target creature you control deals damage equal to its power to target creature or planeswalker you don't control. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => Chronicle. When you do, target Hero you control deals damage equal to its power to target creature or planeswalker you don't control. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+The Court's Last Hunt
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+III — Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+III — Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Discard your hand, then draw four cards. Create an X/X red and black Elemental Horror creature token with menace, where X is the number of cards discarded this way.
+Whenever a creature you control attacks this turn, create a tapped and attacking token that's a copy of it.
+​
+
+Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Sterling Example
+rules_text: When this creature enters, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other creatures you control gain that ability until end of turn. => When this creature enters, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other Heroes you control gain that ability until end of turn.
+pt: 5/4 => 5/5
+
+The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+II — Draw a card for each creature you control with counters on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+II — Draw a card for each creature you control with counters on it.
+III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+Draw a card for each creature you control with counters on it.
+II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.
+
+Polished Proofreader
+rules_text: Whenever this creature enters or attacks, draw a card, then discard a card. You may cast the discarded card without paying its mana cost if it's a spell with mana value less than or equal to the number of cards you've drawn this turn.
+Evoke {2}{U} [i](You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters.)[/i] => Whenever this creature enters or attacks, draw a card, then discard a card. You may cast the discarded card without paying its mana cost if it's a spell with mana value less than or equal to the number of cards you've drawn this turn.
+
+Spring Conquers the Cavalcade
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+II, III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+II, III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+
+
+VERSION 26 CHANGELOG
 ====================
 
 Fervent Fan added.

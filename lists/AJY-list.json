@@ -1693,8 +1693,8 @@
     },
     "a->gold",
     {
-        "card_name": "Eni, Reforged Paragon",
-        "number": 222,
+        "card_name": "Eni, Alabaster Paragon",
+        "number": 221,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -1814,7 +1814,7 @@
     },
     {
         "card_name": "Eni, Company Champion",
-        "number": 221,
+        "number": 222,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
