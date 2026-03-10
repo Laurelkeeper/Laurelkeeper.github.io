@@ -542,7 +542,7 @@
 			"name": "A Fateful Journey",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/51.png"
@@ -681,8 +681,8 @@
 		{
 			"name": "Winterbreath Cantor",
 			"rarity": "common",
-			"mana_cost": "{1}{U/B}{U/B}",
-			"type": "Creature — Spirit Bard",
+			"mana_cost": "{2}{U/B}{U/B}",
+			"type": "Creature — Spirit Warlock Bard",
 			"collector_number": "265",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/65.png"
@@ -912,7 +912,7 @@
 			"name": "Abridge",
 			"rarity": "common",
 			"mana_cost": "{5}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/88.png"
@@ -943,7 +943,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Hero",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/91.png"
 			}
@@ -1303,11 +1303,11 @@
 			}
 		},
 		{
-			"name": "Chained Flensefang",
+			"name": "Bramblebound Laborer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Horror Dog",
-			"collector_number": "96",
+			"type": "Creature — Human Horror Peasant",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/126.png"
 			}
@@ -2207,7 +2207,7 @@
 		{
 			"name": "Cunning Keepbreaker",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue Hero",
 			"collector_number": "50",
 			"image_uris": {
@@ -2916,7 +2916,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}",
 			"type": "Legendary Creature — Dryad Bringer",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/282.png"
 			}
@@ -3479,7 +3479,7 @@
 	4 Astrotechnics
 	4 Sombergaunt
 	4 Defiant Dreamer
-	4 Chained Flensefang
+	4 Bramblebound Laborer
 	4 Light-Eater Servant
 	4 Senior Editor
 	4 Nibs, Lexyrinth Keeper
@@ -3857,7 +3857,7 @@
 	6 Sombergaunt
 	12 Smelted Wight
 	6 Defiant Dreamer
-	6 Chained Flensefang
+	6 Bramblebound Laborer
 	12 Audacious Auditioner
 	6 Light-Eater Servant
 	12 Outer Court Marksman
@@ -4150,7 +4150,7 @@
 	15 Sombergaunt
 	6 Smelted Wight
 	15 Defiant Dreamer
-	15 Chained Flensefang
+	15 Bramblebound Laborer
 	6 Audacious Auditioner
 	15 Light-Eater Servant
 	6 Outer Court Marksman

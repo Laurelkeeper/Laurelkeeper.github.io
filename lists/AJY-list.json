@@ -177,7 +177,7 @@
     },
     {
         "card_name": "Bringer of a New Autumn",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -616,12 +616,12 @@
         "position": "111"
     },
     {
-        "card_name": "Brooding Star",
-        "number": 95,
+        "card_name": "Bramblebound Laborer",
+        "number": 94,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "91"
+        "position": "126"
     },
     {
         "card_name": "Bramble Bindings",
@@ -656,12 +656,12 @@
         "position": "114"
     },
     {
-        "card_name": "Chained Flensefang",
+        "card_name": "Brooding Star",
         "number": 96,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "126"
+        "position": "91"
     },
     {
         "card_name": "Caller of Adventure",
