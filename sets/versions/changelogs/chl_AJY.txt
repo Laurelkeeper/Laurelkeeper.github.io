@@ -1,4 +1,62 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+
+A Cold Voice
+cost: {1}{G} => {G}
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn.
+​
+
+Bantrel Reveller
+pt: 5/4 => 4/4
+
+Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Mill two cards. You gain 2 life.
+II — You may play lands from your graveyard this turn.
+III — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Mill two cards. You gain 2 life.
+II — You may play lands from your graveyard this turn.
+III — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+
+Spring Conquers the Cavalcade
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+
+
+VERSION 29 CHANGELOG
 ====================
 
 

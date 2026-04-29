@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-13</releasedate>
+			<releasedate>2026-04-29</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -1166,8 +1166,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Cold Voice</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-Target creature gets +1/+1 until end of turn. If it attacked this turn, instead put a +1/+1 counter on it.
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/60.png" num="170">AJY</set>
 			<prop>
@@ -1175,8 +1175,8 @@ Target creature gets +1/+1 until end of turn. If it attacked this turn, instead 
 				<side>front</side>
 				<type>Enchantment — Episode</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 			</prop>
@@ -2755,7 +2755,7 @@ Whenever a player casts their second spell each turn, put a +1/+1 counter on thi
 				<cmc>5</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>5/4</pt>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3128,9 +3128,9 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 		<card>
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Mill two cards. You gain 2 life.
-You may play lands from your graveyard this turn.
-You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
+I — Mill two cards. You gain 2 life.
+II — You may play lands from your graveyard this turn.
+III — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/167.png" num="202">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4387,9 +4387,9 @@ Creatures you control have ward {2}.</text>
 		<card>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create two 2/2 black Demon Knight creature tokens.
-Create two tokens that are copies of target creature token you control.
-Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/231.png" num="198">AJY</set>
 			<prop>
 				<layout>normal</layout>

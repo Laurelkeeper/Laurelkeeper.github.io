@@ -631,7 +631,7 @@
 		{
 			"name": "A Cold Voice",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{G}",
 			"type": "Enchantment — Episode",
 			"collector_number": "170",
 			"image_uris": {
