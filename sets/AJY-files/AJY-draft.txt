@@ -1620,7 +1620,7 @@
 			"name": "Cloverfield Crusader",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Orc Knigt Hero",
+			"type": "Creature — Orc Knight Hero",
 			"collector_number": "178",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/156.png"
