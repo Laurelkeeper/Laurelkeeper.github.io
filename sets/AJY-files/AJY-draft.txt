@@ -398,7 +398,7 @@
 			"name": "Premature End",
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "113",
 			"back": {
 				"name": "",
@@ -3122,7 +3122,7 @@
 			"name": "Kill Your Darlings",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "107",
 			"back": {
 				"name": "",

@@ -1,4 +1,25 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+
+
+Premature End
+type: Instant => Sorcery
+rules_text: Destroy target creature.
+Disturb—{1}{B}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Exile target creature.
+Disturb—{1}{B}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+Sterling Example
+rules_text: When this creature enters, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other Heroes you control gain that ability until end of turn. => At the beginning of combat on your turn, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other Heroes you control gain that ability until end of turn.
+
+Kill Your Darlings
+type: Instant => Sorcery
+rules_text: Destroy target creature or planeswalker.
+Disturb—{B}, Exile twenty other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i] => Destroy target creature or planeswalker. You lose 2 life.
+Disturb—{B}, Exile twenty other cards from your graveyard. [i](You may cast this card from your graveyard transformed for its disturb cost.)[/i]
+
+
+VERSION 32 CHANGELOG
 ====================
 
 Company Curator added.

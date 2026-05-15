@@ -726,7 +726,7 @@ Exile target creature or planeswalker with mana value 4 or less.</text>
 		</card>
 		<card>
 			<name>Premature End</name>
-			<text>Destroy target creature.
+			<text>Exile target creature.
 Disturb—{1}{B}, Exile three other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Roaming Memory</text>
@@ -734,8 +734,8 @@ Disturb—{1}{B}, Exile three other cards from your graveyard. (You may cast thi
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>3B</manacost>
 				<cmc>4</cmc>
 				<colors>B</colors>
@@ -3292,7 +3292,7 @@ At the beginning of your end step, draw a card if you performed a rite this turn
 		</card>
 		<card>
 			<name>Sterling Example</name>
-			<text>When this creature enters, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other Heroes you control gain that ability until end of turn.</text>
+			<text>At the beginning of combat on your turn, choose vigilance, lifelink, trample, or haste. Put a counter of that kind on this creature. Other Heroes you control gain that ability until end of turn.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/175.png" num="242">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5660,7 +5660,7 @@ Flashback {2}{W}{W} (You may cast this from your graveyard for its flashback cos
 		</card>
 		<card>
 			<name>Kill Your Darlings</name>
-			<text>Destroy target creature or planeswalker.
+			<text>Destroy target creature or planeswalker. You lose 2 life.
 Disturb—{B}, Exile twenty other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Conscience</text>
@@ -5668,8 +5668,8 @@ Disturb—{B}, Exile twenty other cards from your graveyard. (You may cast this 
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
