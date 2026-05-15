@@ -1,4 +1,188 @@
-﻿VERSION 31 CHANGELOG
+﻿VERSION 32 CHANGELOG
+====================
+
+Company Curator added.
+Treasure Token added.
+Havoc Cry added.
+Alder's Apologue added.
+
+Physt, Company Curator removed.
+
+Light Through the Veil
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+I, II, III — Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+I, II, III — Creatures you control get +1/+1 until end of turn.
+​
+
+Spire Echo
+pt: 2/2 => 1/3
+
+Decadent Scriptwriter
+rules_text: Flying
+When this creature enters, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => Flying
+When this creature enters, you may pay 1 life. If you do, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+Contract Concluded
+rules_text: Choose one —
+• Contract Concluded deals 2 damage to target creature. You gain 2 life.
+• You may sacrifice a creature. If you do, draw two cards. => Choose one —
+• Target creature gets -2/-2 until end of turn. You gain 2 life.
+• You may sacrifice a creature. If you do, draw two cards.
+
+Premature End
+
+Scriptkeeper
+rules_text: Menace
+When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i] => When this creature dies, chronicle. [i](Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+
+A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +2/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Innercourt Matron
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+[i]Coven[/i] — Whenever this creature attacks while you control three or more creatures with different powers, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+[i]Coven[/i] — When this creature enters, surveil 1. Then if you three or more creatures with different powers, draw a card. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Mutilated Strider
+cost: {1}{GU}{GU} => {GU}
+pt: 3/2 => 1/1
+
+Scrapped Setting
+rules_text: This land enters tapped. As it does, choose a basic land type and a nonbasic land type.
+This land is each of the chosen types. => This land enters tapped. As it does, choose a basic land type and a nonbasic land type.
+This land is each of the chosen types in addition to its other types.
+
+Brooding Star
+rules_text: When this creature dies, create a 2/2 white Human Horror creature token. Create another if its power was 3 or greater. => When this creature dies, create a 2/2 white Human Horror creature token. Create two of those tokens instead if this creature's power was 3 or greater.
+
+The Road Back
+
+Hidden Heir
+rules_text: Flying
+This creature gets +X/+0, where X is the number of card types among spells you've cast this turn.
+Whenever this creature attacks, you may tap or untap target permanent if its power is 3 or greater. => Flying
+This creature gets +X/+0, where X is the number of card types among spells you've cast this turn.
+Whenever this creature attacks, you may tap or untap target permanent if this creature's power is 3 or greater.
+
+Elca, Chancellor's Daughter
+rules_text: Whenever Elca attacks, it gets +1/+1 until end of turn if a player lost life this turn.
+At the beginning of your end step, create a red Aura enchantment token named Thornscar if two or more players lost life this turn. It has enchant creature you control and “Enchanted creature has first strike. If two or more Auras are attached to it, it has double strike.” => Whenever Elca attacks, it gains menace until end of turn if a player lost life this turn.
+At the beginning of your end step, create a red Aura enchantment token named Thornscar if two or more players lost life this turn. It has enchant creature you control and “Enchanted creature gets +1/+1. If two or more Auras are attached to it, it has double strike.”
+
+Winter Quiets the Soulsinger
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature's power. You may choose new targets for the copy.”
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value less than or equal to this creature's power. You may choose new targets for the copy.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains “Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature's power. You may choose new targets for the copy.”
+
+Bearer of Broken Things
+
+Will of the Wild
+rules_text: Choose one —
+• Destroy all artifacts and enchantments.
+• Put two +1/+1 counters on each artifact and enchantment you control. Each noncreature, non-Aura, non-Equipment permanent that had counters put on it this way becomes a 0/0 creature in addition to its other types. => Choose one —
+• Destroy all artifacts and enchantments.
+• Put two +1/+1 counters on each artifact and enchantment you control. Each noncreature, non-Aura permanent that had counters put on it this way becomes a 0/0 creature in addition to its other types.
+
+Breaching Roots
+rules_text: Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Mill two cards. You may put a permanent card from among them into your hand.
+Flashback {3}{G} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Inspiring Scene
+rules_text: This land enters tapped.
+{T}: Add {W}.
+{W}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional vigilance counter on it. => This land enters tapped unless you pay 2 life.
+{T}: Add {W}.
+{W}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional vigilance counter on it.
+
+Mysterious Scene
+rules_text: This land enters tapped.
+{T}: Add {U}.
+{U}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional ward {1} counter on it. => This land enters tapped unless you pay 2 life.
+{T}: Add {U}.
+{U}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional ward {1} counter on it.
+
+Ancient Scene
+rules_text: This land enters tapped.
+{T}: Add {G}.
+{G}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it. => This land enters tapped unless you pay 2 life.
+{T}: Add {G}.
+{G}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional +1/+1 counter on it.
+
+Grisly Scene
+rules_text: This land enters tapped.
+{T}: Add {B}.
+{B}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional menace counter on it. => This land enters tapped unless you pay 2 life.
+{T}: Add {B}.
+{B}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional menace counter on it.
+
+Heartbreaking Scene
+rules_text: This land enters tapped.
+{T}: Add {R}.
+{R}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional haste counter on it. => This land enters tapped unless you pay 2 life.
+{T}: Add {R}.
+{R}, {T}: Add one mana of any color. If this mana is spent to cast a creature spell, that creature enters with an additional haste counter on it.
+
+Alder Jane, Talewright
+rules_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Draw seven cards. Take an extra turn after this one.”
+special_text: If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Take an extra turn after this one.” => If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
+[0]: Chronicle twice. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+[-1]: Create a red Saga token named Havoc Cry with “r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.”
+[-7]: Create a blue Saga token named Alder's Apologue with hexproof and “r{3} — Draw seven cards. Take an extra turn after this one.”
+
+Endless Day of Dominion
+cost: {3}{W} => {2}{W}{W}
+
+The Etherweave
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+The Everflame
+
+Thornscar
+rules_text: Enchant creature you control
+Enchanted creature has first strike. If two or more Auras are attached to it, it also has double strike. => Enchant creature you control
+Enchanted creature gets +1/+1. If two or more Auras are attached to it, it has double strike.
+
+
+VERSION 31 CHANGELOG
 ====================
 
 
