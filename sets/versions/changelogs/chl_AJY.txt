@@ -1,4 +1,580 @@
-﻿VERSION 33 CHANGELOG
+﻿VERSION 34 CHANGELOG
+====================
+
+Robot Avatar added.
+Elk added.
+Eni, Alabaster Paragon added.
+
+
+Protector of the Ordinary
+
+Blindseer
+
+Plucky Villager
+
+Set the Stage
+
+Polygaunt
+
+Troubled Auditioner
+
+Sorrowed Cavalier
+
+Ancient Eyes
+
+Exasperated Setdresser
+
+Imperious Boon
+
+Word of Unbeing
+
+Light Through the Veil
+
+Binding Serenade
+
+Entranced Villagers
+
+Lost Ascendant
+
+Silverwing Companion
+
+Iridium Muse
+
+Derrilyn Falconer
+
+Wildwood Bonetwister
+
+Erudite Watcher
+
+Ascendant Talekeeper
+
+Cryptic Omen
+
+Refusal of the Call
+
+Out of the Puzzlebox
+
+Boreal Interdiction
+
+Outer Court Communion
+
+Wyndlepiper
+
+Blossoming Thing
+
+Spire Echo
+
+Unrelenting Pursuer
+
+Bounty of Bantrel
+
+Profaned Elder
+
+Decadent Scriptwriter
+
+Bantrel Wood Stalker
+
+Contract Concluded
+
+Long Road Home
+
+Sanguine Rupture
+
+Bottom of the Inkwell
+
+Premature End
+
+Enthralled Acolyte
+
+Bloodcaster Neophyte
+
+Scriptkeeper
+
+Rotwinder
+
+Hollowed Archetype
+
+Elder Soothsinger
+
+Flenser Mob
+
+Wickerbound Warlord
+
+Pagepyre
+
+A Star is Born
+
+Wreath of Malevolence
+
+Memory Blossom
+
+A Fateful Journey
+
+Lorn-Road Guide
+
+Innercourt Matron
+
+Auspicious Mushroom
+
+Lorn-Road Falconer
+
+Solemn Gladekeeper
+
+Untroubled Vagabond
+
+Pallid Glistener
+
+Night's Clarity
+
+A Cold Voice
+
+Court the Corrupt
+
+Burst of Mettle
+
+Witherlínd
+
+Feastkeeper
+
+Winterbreath Cantor
+
+Mutilated Strider
+
+Fated Figures
+
+Innercourt Mendress
+cost: {RG}{RG} => {1}{RG}
+pt: 2/1 => 1/1
+
+Palecast Bishop
+
+Fervent Fan
+
+Glamorous Herald
+
+Solemn Standby
+
+Vested Script
+
+Living Annals
+
+Omenstones
+
+Pallid Causeway
+
+Effaced Cove
+
+Flayed Horizon
+
+Riven Glade
+
+Untethered Pasture
+
+Trammeled Dale
+
+Tarnished Cascade
+
+Unbidden Bog
+
+Excoriated Swathe
+
+Silenced Promontory
+
+Scrapped Setting
+
+Backstage Passage
+
+Captain of Ceremony
+
+Marie, Rookery's Daughter
+
+Brooding Star
+
+Spotlight Soul
+
+Second Chances
+
+Splintered Chorus
+
+Fae Bladesinger
+
+Confident Lead
+
+Choreography Director
+
+Archon of Fettered Fate
+
+Enshrined Excellence
+
+Greyvale Township
+
+Timely Resurrection
+
+Meeting the Mentor
+
+Empty Throne
+
+Storied Deed
+
+Hurried Edit
+
+Kingslayer Sisters
+
+Shadow on the Stage
+
+Winter's Handmaiden
+
+Traveling Players
+
+Sentinel of Old Intria
+
+Doppelgaunt
+
+Peripatetic Harlequin
+
+Denouement
+
+Dulcet Harp
+
+Weight of Expectations
+
+The Road Back
+
+Hidden Heir
+
+An Unexpected Journey
+
+Quiet on Set
+
+Reject Your Creation
+
+Inkwell Monolith
+
+Astrotechnics
+
+Sombergaunt
+
+Smelted Wight
+
+Defiant Dreamer
+
+Bramblebound Laborer
+
+Audacious Auditioner
+
+Light-Eater Servant
+
+Outer Court Marksman
+
+Senior Editor
+
+Nibs, Lexyrinth Keeper
+
+Mouldering Hour
+
+Turn to Ink
+
+Cut the Curtain
+
+Return with the Elixir
+
+Festering Secrets
+
+Bantrel Vale
+
+Consumed by Branches
+
+Unlikely Compatriots
+
+Elca, Chancellor's Daughter
+
+Eager Deathless
+
+Shackled Summer Skies
+
+Cindrel Wight
+
+Awoken in Ash
+
+Steeltouched Star
+
+Until We Meet Once More
+
+Bantrel Reveller
+
+Subsumed Stagehand
+
+Fields of Astinwhay
+
+Wolf at the Gates
+
+World Made Wroth
+
+Orrin's Ordeal
+
+The Court's Last Hunt
+
+Deflagrate
+
+Blooming Aspirant
+
+Cloverfield Crusader
+
+Blossoming Archetype
+
+Living Altar
+
+Seneschal of Turnings
+
+Mottlecloth Sneak
+
+Stagework Trainers
+
+Tabula Rata
+
+Sunken Stainsucker
+
+Ageless Veteran
+
+Throne of Thorns
+
+Moment of Remembrance
+
+Taking the Plunge
+
+Vibrant Setdressing
+
+Crossing the Threshold
+
+The Elder Reaches
+
+Valor's Rest
+rules_text: Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Until end of turn, target creature you control gains “When this creature dies, draw a card.” Then it fights another target creature.
+Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} less to cast this way. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Telltale Sign
+
+Lord Malcolm Amantii
+
+Inquisitor Tacen Flint
+
+Sterling Example
+
+Carmine the Brilliant
+
+Mishet, the Escapee
+
+Sostak, Whimsical Voice
+
+The Wakeup Call
+
+Autumn's Emissary
+
+Eni, Company Champion
+
+Cupbearer of Spring
+
+A Change in Fate
+
+Orrin of the Golden Feast
+
+Hard-Eyed Starlet
+
+Chaniel, Lost in Rot
+
+Cindrel Gloamspeaker
+
+Relics of the Future
+
+Meismos, Thundergaunt
+
+Eldmetal Congregant
+
+Mastergaunts
+
+Revised Revenant
+
+Poster Child
+
+Ornate Invitation
+
+Book of Bitter Endings
+
+Vōs, Company Courier
+
+Ambitious Aspirant
+
+Beziel, Martyr of Greyvale
+
+Bringer of a New World
+
+Autumn Devours the Sunmaster
+
+Write Out
+
+Unravel the Plot
+
+Hallowed Intermission
+
+Lexyrinth Interdictor
+
+Marc Tancinium, Cameo
+
+Glassgazer
+
+Theyna, Magistrate of Salabraxas
+
+Winter Quiets the Soulsinger
+
+Bringer of a New Winter
+
+Polished Proofreader
+
+The Myriad Manse
+
+Cunning Keepbreaker
+
+Plot Armor
+
+Tormented Ghostwriter
+
+Ancient Compact
+
+The Hallowing of Bantrel Grove
+
+Climactic Moment
+
+Vision of Manque
+
+Scoremaster
+
+Seeking the Seasons
+
+Alder Jane, Leading Lady
+
+Summer Outshines the Godmind
+
+Bringer of a New Summer
+
+Contracted Duo
+
+Caller of Adventure
+
+Tendergaunt
+
+Steward of Solstices
+
+Bearer of Broken Things
+
+Vestigaunt
+
+Bringer of a New Spring
+
+Spring Conquers the Cavalcade
+
+Will of the Wild
+
+Breaching Roots
+
+Lord Tyto Bonsíc
+
+Kniles, Chancellor of Thorns
+
+Greyvale Prodigy
+
+Plothole Tunneler
+
+Bearer of Blessings
+
+Rally the Understudies
+
+The Everfree Thespian
+
+Andi and Rove, Old Hands
+
+Turner of Earth
+
+Weftheart, Vibrant Star
+
+Celos, Prince's Chamberlain
+
+Vexior, Clouds in Chains
+
+Dramatic Oracle
+
+Splendid Inspiration
+
+Company Curator
+
+The Inmost Cave
+
+Shining Stage
+
+Inspiring Scene
+
+Mysterious Scene
+
+Ancient Scene
+
+Grisly Scene
+
+Heartbreaking Scene
+
+Unfinished Draft
+
+Eni, Alabaster Paragon
+
+Prince of Years
+
+Dramaturge's Mastery
+
+Hiemal Virtuoso
+
+Kindly Winter
+
+Manque, Shifting Spotlight
+
+Sorrowgaunt
+
+Hollow Autumn
+
+Pint-Sized Penstrel
+
+Fair Summer
+
+Ablated Lineage
+
+Desire's Bitter Sting
+
+Vile Spring
+
+Alder Jane, Talewright
+
+Lexyrinth, Vault of Legends
+
+Splintereater
+
+The Itinerant Weft
+
+Bringer of a New Autumn
+
+Preserve the Script
+
+Bramble Bindings
+
+Cass and Nettles, Editors
+
+Passioned Pair
+
+Mosa, Renegade Star
+
+Eleventh Hour Entrance
+
+Archetype of Unendings
+
+
+VERSION 33 CHANGELOG
 ====================
 
 
