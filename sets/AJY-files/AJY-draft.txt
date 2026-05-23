@@ -3357,7 +3357,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Saga",
-			"collector_number": "298",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/324.png"
 			}
@@ -3367,7 +3367,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Saga",
-			"collector_number": "299",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/325.png"
 			}
@@ -3699,8 +3699,6 @@
 	8 Autumn's Emissary
 	8 Splintereater
 	8 Nourishing Shell
-	8 Havoc Cry
-	8 Alder's Apologue
 [common | masterpiece(1)]
 	8 Protector of the Ordinary
 	8 Blindseer
@@ -3792,8 +3790,6 @@
 	8 Autumn's Emissary
 	8 Splintereater
 	8 Nourishing Shell
-	8 Havoc Cry
-	8 Alder's Apologue
 [foil(1)]
 	12 Protector of the Ordinary
 	12 Blindseer
@@ -4087,8 +4083,6 @@
 	2 Eleventh Hour Entrance
 	1 Archetype of Unendings
 	1 Vyshel, Halfmortal
-	12 Havoc Cry
-	12 Alder's Apologue
 [wildcard(1)]
 	6 Protector of the Ordinary
 	6 Blindseer
@@ -4382,5 +4376,3 @@
 	7 Eleventh Hour Entrance
 	4 Archetype of Unendings
 	4 Vyshel, Halfmortal
-	6 Havoc Cry
-	6 Alder's Apologue

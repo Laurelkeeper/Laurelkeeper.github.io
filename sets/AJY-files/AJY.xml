@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-21</releasedate>
+			<releasedate>2026-05-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -224,8 +224,8 @@ If this creature would die, exile it instead.
 		<card>
 			<name>Light Through the Veil</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Draw a card.
-I, II, III — Creatures you control get +1/+1 until end of turn.
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/11.png" num="22">AJY</set>
 			<prop>
@@ -925,8 +925,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<name>A Star is Born</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 I — Create a 1/1 colorless Hero creature token.
-This Episode deals 1 damage to target player.
-II — Put a +1/+1 counter on target Hero.</text>
+II — This Episode deals 1 damage to target player.
+Put a +1/+1 counter on target Hero.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/48.png" num="128">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1165,8 +1165,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Cold Voice</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-III — Target creature gets +1/+1 until end of turn.
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/60.png" num="170">AJY</set>
 			<prop>
@@ -1264,7 +1264,7 @@ When this creature enters, you may draw two cards. If you do, you discard a card
 				<cmc>4</cmc>
 				<colors>UB</colors>
 				<coloridentity>UB</coloridentity>
-				<pt>2/3</pt>
+				<pt>2/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2633,6 +2633,7 @@ At the beginning of your end step, create a red Aura enchantment token named Tho
 				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>Tscar</related>
 		</card>
 		<card>
 			<name>Eager Deathless</name>
@@ -2798,8 +2799,8 @@ When this Stage is defeated, draw a card.</text>
 		<card>
 			<name>Wolf at the Gates</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Discard a card, then draw a card.
-I, II, III — If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
+I — Discard a card, then draw a card.
+II, III — If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/150.png" num="167">AJY</set>
 			<prop>
@@ -3127,8 +3128,8 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 		<card>
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Mill two cards. You gain 2 life.
-I — You may play lands from your graveyard this turn.
+I — Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
 II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/167.png" num="202">AJY</set>
 			<prop>
@@ -3365,8 +3366,8 @@ As long as there are two or more card types among spells you&apos;ve cast this t
 			<name>The Wakeup Call</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 I — Distribute two +1/+1 counters among any number of target creatures you control.
-II — Draw a card for each creature you control with counters on it.
-III — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.</text>
+Draw a card for each creature you control with counters on it.
+II — You may cast a spell with mana value 3 or less from your hand without paying its mana cost.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/179.png" num="241">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3431,7 +3432,7 @@ Whenever Eni deals combat damage to a player, draw a card, then discard a card.<
 				<cmc>2</cmc>
 				<colors>RG</colors>
 				<coloridentity>RG</coloridentity>
-				<pt>2/2</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3549,8 +3550,8 @@ At the beginning of your end step, put a +1/+1 counter on Chaniel if you perform
 		<card>
 			<name>Relics of the Future</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II, III — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
-If an opponent has more cards in hand than you, draw a card.
+I, II — Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
+III — If an opponent has more cards in hand than you, draw a card.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/188.png" num="262">AJY</set>
 			<prop>
@@ -3756,8 +3757,8 @@ Creatures you control have vigilance.</text>
 		<card>
 			<name>Autumn Devours the Sunmaster</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 4/4 white Samurai Warlock creature token.
-I — Put a menace counter and a deathtouch counter on target creature.
+I — Create a 4/4 white Samurai Warlock creature token.
+Put a menace counter and a deathtouch counter on target creature.
 II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/200.png" num="88">AJY</set>
 			<prop>
@@ -3946,8 +3947,8 @@ If an opponent would create one or more tokens, you may have them create that ma
 			<name>Winter Quiets the Soulsinger</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 I — Create a 1/3 red Soldier Bard creature token.
-II — Put a prowess counter on target creature.
-III — Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
+Put a prowess counter on target creature.
+II — Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/208.png" num="84">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4089,8 +4090,8 @@ Whenever a player loses life during your turn, they mill that many cards. Once e
 		<card>
 			<name>The Hallowing of Bantrel Grove</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
-Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+I, II — Draw a card. You lose 4 life unless you sacrifice a creature.
+III — Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/216.png" num="121">AJY</set>
 			<prop>
@@ -4223,9 +4224,9 @@ I, II, III, IV — Choose one that hasn&apos;t been chosen—
 		<card>
 			<name>Summer Outshines the Godmind</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 3/2 blue Robot Avatar artifact creature token.
+I — Create a 3/2 blue Robot Avatar artifact creature token.
 Put a +1/+1 counter on target creature.
-I — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
+II — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/222.png" num="163">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4387,8 +4388,8 @@ Creatures you control have ward {2}.</text>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 I — Create two 2/2 black Demon Knight creature tokens.
-II — Create two tokens that are copies of target creature token you control.
-III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+Create two tokens that are copies of target creature token you control.
+II — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/231.png" num="198">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4861,6 +4862,7 @@ Once during each of your turns, when you perform a rite, you may put a +1/+1 cou
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>EniEmblem</related>
 		</card>
 		<card>
 			<name>Prince of Years</name>
@@ -5101,6 +5103,9 @@ If a source you control would deal an amount of damage to a permanent or player 
 				<loyalty>4</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
+			<related>AJ1</related>
+			<related>AJ2</related>
+			<related></related>
 		</card>
 		<card>
 			<name>Unhallowed Coronation</name>
@@ -5520,6 +5525,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 				<pt>1/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
+			<related>MemEdge</related>
 		</card>
 		<card>
 			<name>Kos and Desidre</name>
@@ -6085,12 +6091,9 @@ When this creature dies, you may exile it. When you do, return target creature c
 			<token>1</token>
 		</card>
 		<card>
-			<name>Havoc Cry</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-III — Draw two cards. Creatures you control get +2/+0 until end of turn.
-​
-​</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/324.png" num="298">AJY</set>
+			<name>Havoc Cry AJY</name>
+			<text></text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/324.png" num="31">AJY</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -6101,15 +6104,12 @@ III — Draw two cards. Creatures you control get +2/+0 until end of turn.
 				<colors>R</colors>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
-			<name>Alder&apos;s Apologue</name>
-			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-Hexproof
-III — Draw seven cards. Take an extra turn after this one.
-​
-​</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/325.png" num="299">AJY</set>
+			<name>Alder&apos;s Apologue AJY</name>
+			<text></text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/325.png" num="32">AJY</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -6120,6 +6120,7 @@ III — Draw seven cards. Take an extra turn after this one.
 				<colors>U</colors>
 			</prop>
 			<tablerow>1</tablerow>
+			<token>1</token>
 		</card>
 		<card>
 			<name>Robot Avatar AJY</name>

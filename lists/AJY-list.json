@@ -1680,31 +1680,6 @@
         "position": "57"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Alder's Apologue",
-        "number": 299,
-        "shape": "saga",
-        "set": "AJY",
-        "rotated": false,
-        "position": "325"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Havoc Cry",
-        "number": 298,
-        "shape": "saga",
-        "set": "AJY",
-        "rotated": false,
-        "position": "324"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "er"
     },
     {
@@ -2790,6 +2765,22 @@
         "position": "301"
     },
     {
+        "card_name": "Havoc Cry",
+        "number": 31,
+        "shape": "token",
+        "set": "AJY",
+        "rotated": false,
+        "position": "324"
+    },
+    {
+        "card_name": "Alder's Apologue",
+        "number": 32,
+        "shape": "token",
+        "set": "AJY",
+        "rotated": false,
+        "position": "325"
+    },
+    {
         "card_name": "Elemental Horror",
         "number": 18,
         "shape": "token",
@@ -2820,6 +2811,15 @@
         "set": "AJY",
         "rotated": false,
         "position": "278"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
