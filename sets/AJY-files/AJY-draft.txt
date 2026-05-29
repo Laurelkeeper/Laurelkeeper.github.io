@@ -1943,7 +1943,7 @@
 		{
 			"name": "Cindrel Gloamspeaker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R/G}{R/G}{R/G}",
+			"mana_cost": "{2}{R/G}{R/G}",
 			"type": "Enchantment Creature — Spirit Ogre",
 			"collector_number": "249",
 			"image_uris": {
