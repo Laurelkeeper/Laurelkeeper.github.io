@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-05-28</releasedate>
+			<releasedate>2026-06-01</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -224,7 +224,7 @@ If this creature would die, exile it instead.
 		<card>
 			<name>Light Through the Veil</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Draw a card.
+I, II, III — Draw a card.
 Creatures you control get +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/11.png" num="22">AJY</set>
@@ -462,8 +462,8 @@ When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 
 		<card>
 			<name>Out of the Puzzlebox</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Put a flying counter on target creature.
-Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/23.png" num="68">AJY</set>
 			<prop>
@@ -674,8 +674,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Long Road Home</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Surveil 1. You lose 1 life unless you attacked this turn.
-You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/35.png" num="107">AJY</set>
 			<prop>
@@ -924,9 +924,9 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Star is Born</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 1/1 colorless Hero creature token.
+I — Create a 1/1 colorless Hero creature token.
 This Episode deals 1 damage to target player.
-Put a +1/+1 counter on target Hero.</text>
+II — Put a +1/+1 counter on target Hero.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/48.png" num="128">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3129,8 +3129,8 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Mill two cards. You gain 2 life.
-You may play lands from your graveyard this turn.
-You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/167.png" num="202">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3758,8 +3758,8 @@ Creatures you control have vigilance.</text>
 			<name>Autumn Devours the Sunmaster</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 4/4 white Samurai Warlock creature token.
-Put a menace counter and a deathtouch counter on target creature.
-When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/200.png" num="88">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4090,7 +4090,7 @@ Whenever a player loses life during your turn, they mill that many cards. Once e
 		<card>
 			<name>The Hallowing of Bantrel Grove</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Draw a card. You lose 4 life unless you sacrifice a creature.
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
 Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/216.png" num="121">AJY</set>
@@ -4128,7 +4128,7 @@ Disturb—{2}{B}{B}, Exile five other cards from your graveyard. (You may cast t
 		</card>
 		<card>
 			<name>Devourer of Disillusionment</name>
-			<text>When this creature enters, each opponent may sacrifice a creature. Put a +1/+1 counter on this creature for each opponent who doesn&apos;t.
+			<text>When this creature enters, target opponent may sacrifice a creature. If they don&apos;t, this creature gains haste until end of turn.
 ---
 (Front): Climactic Moment</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/217_back.png" num="97b">AJY</set>
@@ -4387,9 +4387,9 @@ Creatures you control have ward {2}.</text>
 		<card>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create two 2/2 black Demon Knight creature tokens.
-Create two tokens that are copies of target creature token you control.
-Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/231.png" num="198">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5435,8 +5435,8 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Endless Day of Dominion</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create two 1/1 white Warlock creature tokens.
-Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each other Treefolk you control.&quot;
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each other Treefolk you control.&quot;
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/290.png" num="13">AJY</set>
 			<prop>

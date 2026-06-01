@@ -1,4 +1,170 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 38 CHANGELOG
+====================
+
+
+
+Light Through the Veil
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card.
+Creatures you control get +1/+1 until end of turn.
+​
+
+Out of the Puzzlebox
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Put a flying counter on target creature.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+​
+
+Long Road Home
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+​
+
+A Star is Born
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+II — Put a +1/+1 counter on target Hero.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 colorless Hero creature token.
+This Episode deals 1 damage to target player.
+II — Put a +1/+1 counter on target Hero.
+
+Consumed by Branches
+
+Elca, Chancellor's Daughter
+
+Taking the Plunge
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Mill two cards. You gain 2 life.
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.
+
+Crossing the Threshold
+
+Autumn Devours the Sunmaster
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create a 4/4 white Samurai Warlock creature token.
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.
+
+Write Out
+
+The Hallowing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
+​
+
+Climactic Moment
+
+Vision of Manque
+
+Steward of Solstices
+
+Spring Conquers the Cavalcade
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.
+
+Endless Day of Dominion
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​ => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with “This creature gets +1/+1 for each other Treefolk you control.”
+​
+
+Preserve the Script
+
+
+VERSION 37 CHANGELOG
 ====================
 
 
