@@ -172,7 +172,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Performer",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/16.png"
 			}
@@ -553,7 +553,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scout",
-			"collector_number": "188",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/52.png"
 			}
@@ -563,7 +563,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "183",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/53.png"
 			}
@@ -583,7 +583,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Ranger Hero",
-			"collector_number": "187",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/55.png"
 			}
@@ -593,7 +593,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "196",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/56.png"
 			}
@@ -613,7 +613,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Enchantment Creature — Spirit Crab",
-			"collector_number": "193",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/58.png"
 			}
@@ -623,7 +623,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/59.png"
 			}
@@ -673,7 +673,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B/G}{B/G}",
 			"type": "Creature — Skeleton Wurm",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/64.png"
 			}
@@ -693,7 +693,7 @@
 			"rarity": "common",
 			"mana_cost": "{G/U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/66.png"
 			}
@@ -703,7 +703,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Enchantment Creature — Spirit",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/67.png"
 			}
@@ -713,7 +713,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/G}",
 			"type": "Creature — Human Noble Shaman",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/68.png"
 			}
@@ -723,7 +723,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Artifact Creature — Golem Cleric",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/69.png"
 			}
@@ -733,7 +733,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Creature — Skeleton",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
 			}
@@ -743,7 +743,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R/W}{R/W}",
 			"type": "Creature — Elf Soldier Hero",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/71.png"
 			}
@@ -753,7 +753,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U/R}",
 			"type": "Creature — Human Bat Hero",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/72.png"
 			}
@@ -1031,7 +1031,7 @@
 		{
 			"name": "Greyvale Township",
 			"rarity": "rare",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Battle — Stage",
 			"collector_number": "17",
 			"image_uris": {
@@ -1079,7 +1079,7 @@
 			}
 		},
 		{
-			"name": "Hurried Edit",
+			"name": "Hurried Redaction",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
@@ -1089,11 +1089,11 @@
 			}
 		},
 		{
-			"name": "Kingslayer Sisters",
+			"name": "Fluttering Flitwits",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Faerie Rogue",
-			"collector_number": "65",
+			"type": "Creature — Faerie Rogue Hero",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/106.png"
 			}
@@ -1103,7 +1103,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wraith Performer Hero",
-			"collector_number": "195",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/107.png"
 			}
@@ -1203,7 +1203,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Moth Noble Hero",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/117.png"
 			}
@@ -1248,9 +1248,9 @@
 		{
 			"name": "Inkwell Monolith",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Artifact",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/121.png"
 			}
@@ -1327,7 +1327,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Construct Warlock",
-			"collector_number": "185",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/128.png"
 			}
@@ -1641,7 +1641,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Skeleton Cleric",
-			"collector_number": "186",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/158.png"
 			}
@@ -1651,7 +1651,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Elf Spirit Noble",
-			"collector_number": "194",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/159.png"
 			}
@@ -1661,7 +1661,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Cat Rogue",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/160.png"
 			}
@@ -1681,7 +1681,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Rat Hero",
-			"collector_number": "201",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/162.png"
 			}
@@ -1691,7 +1691,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Serpent",
-			"collector_number": "200",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/163.png"
 			}
@@ -1721,7 +1721,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "189",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/166.png"
 			}
@@ -1731,7 +1731,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Episode",
-			"collector_number": "202",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/167.png"
 			}
@@ -1754,11 +1754,11 @@
 			}
 		},
 		{
-			"name": "Crossing the Threshold",
+			"name": "Threshold Walker",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment",
-			"collector_number": "180",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Human Spirit Hero",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/169.png"
 			}
@@ -1768,7 +1768,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Battle — Stage",
-			"collector_number": "181",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/170.png"
 			}
@@ -1788,7 +1788,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "203",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/172.png"
 			}
@@ -1798,7 +1798,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Legendary Creature — Bird Noble Hero",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/173.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Elemental Hero",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/184.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U/R}{U/R}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/185.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Enchantment — Episode",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/188.png"
 			}
@@ -1965,17 +1965,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B/R}{B/R}",
 			"type": "Legendary Creature — Dryad Hero",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/189.png"
 			}
 		},
 		{
-			"name": "Eldmetal Congregant",
+			"name": "Spinner of Secrets",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}{G/U}",
-			"type": "Artifact Creature — Cyborg Artificer",
-			"collector_number": "250",
+			"type": "Enchantment Creature — Spider Spirit",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/190.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U/B}{U/B}",
 			"type": "Creature — Demon Performer",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/192.png"
 			}
@@ -2149,7 +2149,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Bird Hero",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/206.png"
 			}
@@ -2356,7 +2356,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "204",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/226.png"
 			}
@@ -2366,7 +2366,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Noble Soldier",
-			"collector_number": "199",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/227.png"
 			}
@@ -2406,7 +2406,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Episode",
-			"collector_number": "198",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/231.png"
 			}
@@ -2484,7 +2484,7 @@
 		{
 			"name": "Rally the Understudies",
 			"rarity": "rare",
-			"mana_cost": "{R}{W}{B}",
+			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment",
 			"collector_number": "237",
 			"image_uris": {
@@ -2544,7 +2544,7 @@
 		{
 			"name": "Vexior, Clouds in Chains",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}{G}",
+			"mana_cost": "{4}{W}{B}",
 			"type": "Legendary Creature — Elder Bird Dragon",
 			"collector_number": "244",
 			"image_uris": {
@@ -2696,7 +2696,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Creature — Spirit Shaman",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/260.png"
 			}
@@ -2706,7 +2706,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Winter",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/261.png"
 			}
@@ -2866,7 +2866,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Demon Spirit",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/277.png"
 			}
@@ -3043,7 +3043,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Enchantment Creature — Human Horror",
-			"collector_number": "184",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/294.png"
 			}
@@ -3239,7 +3239,7 @@
 			"name": "Cass and Nettles, Editors",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Legendary Creature — Elf Cat Advisor Hero",
+			"type": "Legendary Creature — Elf Cat Advisor",
 			"collector_number": "216",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/313.png"
@@ -3260,7 +3260,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "192",
+			"collector_number": "191",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3307,7 +3307,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "182",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/319.png"
 			}
@@ -3520,8 +3520,8 @@
 	4 Meeting the Mentor
 	4 Empty Throne
 	4 Storied Deed
-	4 Hurried Edit
-	4 Kingslayer Sisters
+	4 Hurried Redaction
+	4 Fluttering Flitwits
 	4 Shadow on the Stage
 	4 Winter's Handmaiden
 	4 Traveling Players
@@ -3573,7 +3573,7 @@
 	4 Throne of Thorns
 	4 Moment of Remembrance
 	4 Taking the Plunge
-	4 Crossing the Threshold
+	4 Threshold Walker
 	4 Valor's Rest
 	4 Telltale Sign
 	4 Lord Malcolm Amantii
@@ -3592,7 +3592,7 @@
 	4 Cindrel Gloamspeaker
 	4 Relics of the Future
 	4 Meismos, Thundergaunt
-	4 Eldmetal Congregant
+	4 Spinner of Secrets
 	4 Mastergaunts
 	4 Revised Revenant
 	4 Poster Child
@@ -3896,8 +3896,8 @@
 	6 Meeting the Mentor
 	6 Empty Throne
 	6 Storied Deed
-	6 Hurried Edit
-	6 Kingslayer Sisters
+	6 Hurried Redaction
+	6 Fluttering Flitwits
 	6 Shadow on the Stage
 	6 Winter's Handmaiden
 	6 Traveling Players
@@ -3960,7 +3960,7 @@
 	6 Moment of Remembrance
 	6 Taking the Plunge
 	2 Vibrant Setdressing
-	6 Crossing the Threshold
+	6 Threshold Walker
 	2 The Elder Reaches
 	6 Valor's Rest
 	6 Telltale Sign
@@ -3981,7 +3981,7 @@
 	6 Cindrel Gloamspeaker
 	6 Relics of the Future
 	6 Meismos, Thundergaunt
-	6 Eldmetal Congregant
+	6 Spinner of Secrets
 	6 Mastergaunts
 	6 Revised Revenant
 	6 Poster Child
@@ -4189,8 +4189,8 @@
 	15 Meeting the Mentor
 	15 Empty Throne
 	15 Storied Deed
-	15 Hurried Edit
-	15 Kingslayer Sisters
+	15 Hurried Redaction
+	15 Fluttering Flitwits
 	15 Shadow on the Stage
 	15 Winter's Handmaiden
 	15 Traveling Players
@@ -4253,7 +4253,7 @@
 	15 Moment of Remembrance
 	15 Taking the Plunge
 	7 Vibrant Setdressing
-	15 Crossing the Threshold
+	15 Threshold Walker
 	7 The Elder Reaches
 	15 Valor's Rest
 	15 Telltale Sign
@@ -4274,7 +4274,7 @@
 	15 Cindrel Gloamspeaker
 	15 Relics of the Future
 	15 Meismos, Thundergaunt
-	15 Eldmetal Congregant
+	15 Spinner of Secrets
 	15 Mastergaunts
 	15 Revised Revenant
 	15 Poster Child

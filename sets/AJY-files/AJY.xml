@@ -5,13 +5,13 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-01</releasedate>
+			<releasedate>2026-06-12</releasedate>
 		</set>
 	</sets>
 	<cards>
 		<card>
 			<name>Protector of the Ordinary</name>
-			<text>{1}{W}: Chronicle. Activate only as a sorcery and only once. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>{1}{W}: Chronicle. Activate only as a sorcery and only once. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/0.png" num="29">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -62,7 +62,8 @@
 		</card>
 		<card>
 			<name>Set the Stage</name>
-			<text>Chronicle twice. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>Draw a card.
+Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/3.png" num="31">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -96,7 +97,7 @@ When you draw your second card each turn, sacrifice this creature. If you do, cr
 		</card>
 		<card>
 			<name>Troubled Auditioner</name>
-			<text>Coven — When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>Coven — When this creature enters, chronicle. Then if you control three or more creatures with different powers, draw a card. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/5.png" num="38">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -224,7 +225,7 @@ If this creature would die, exile it instead.
 		<card>
 			<name>Light Through the Veil</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II, III — Draw a card.
+Draw a card.
 Creatures you control get +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/11.png" num="22">AJY</set>
@@ -313,8 +314,8 @@ At the beginning of your end step, if there are two or more card types among spe
 		<card>
 			<name>Iridium Muse</name>
 			<text>Vigilance
-When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/16.png" num="63">AJY</set>
+When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/16.png" num="64">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -445,7 +446,7 @@ If this creature would die, exile it instead. When you do, draw a card.
 			<name>Refusal of the Call</name>
 			<text>Enchant creature
 Enchanted creature loses all abilities, can&apos;t have counters put on it, and is a white Peasant with base power and toughness 1/1.
-When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/22.png" num="74">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -462,8 +463,8 @@ When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 
 		<card>
 			<name>Out of the Puzzlebox</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Put a flying counter on target creature.
-II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+Put a flying counter on target creature.
+Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/23.png" num="68">AJY</set>
 			<prop>
@@ -565,7 +566,7 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		</card>
 		<card>
 			<name>Unrelenting Pursuer</name>
-			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 Sacrifice a creature: Put a +1/+1 counter on this creature. It can&apos;t be blocked by creatures that share a creature type with the sacrificed creature this turn.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/29.png" num="125">AJY</set>
 			<prop>
@@ -620,7 +621,7 @@ Menace, lifelink</text>
 		<card>
 			<name>Decadent Scriptwriter</name>
 			<text>Flying
-When this creature enters, you may pay 1 life. If you do, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+When this creature enters, you may pay 1 life. If you do, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/32.png" num="101">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -631,7 +632,7 @@ When this creature enters, you may pay 1 life. If you do, chronicle. (Create a t
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/2</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -674,8 +675,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Long Road Home</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II — Surveil 1. You lose 1 life unless you attacked this turn.
-III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+Surveil 1. You lose 1 life unless you attacked this turn.
+You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/35.png" num="107">AJY</set>
 			<prop>
@@ -802,7 +803,7 @@ As long as a player lost life this turn, this creature gets +1/+0. As long as tw
 		</card>
 		<card>
 			<name>Scriptkeeper</name>
-			<text>When this creature dies, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>When this creature dies, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/41.png" num="158">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -924,9 +925,9 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Star is Born</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Create a 1/1 colorless Hero creature token.
+Create a 1/1 colorless Hero creature token.
 This Episode deals 1 damage to target player.
-II — Put a +1/+1 counter on target Hero.</text>
+Put a +1/+1 counter on target Hero.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/48.png" num="128">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1020,7 +1021,7 @@ Flashback {1}{R} (You may cast this from your graveyard for its flashback cost. 
 		<card>
 			<name>Lorn-Road Guide</name>
 			<text>When this creature enters, mill three cards. You may put a land card from among them into your hand. If you don&apos;t, put a deathtouch counter on this creature.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/52.png" num="188">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/52.png" num="187">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1037,8 +1038,8 @@ Flashback {1}{R} (You may cast this from your graveyard for its flashback cost. 
 		<card>
 			<name>Innercourt Matron</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
-Coven — When this creature enters, surveil 1. Then if you three or more creatures with different powers, draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/53.png" num="183">AJY</set>
+Coven — Whenever this creature attacks while you control three or more creatures with different powers, it gets +0/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/53.png" num="182">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1048,14 +1049,14 @@ Coven — When this creature enters, surveil 1. Then if you three or more creatu
 				<cmc>3</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>3/2</pt>
+				<pt>4/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Auspicious Mushroom</name>
-			<text>When this creature enters, you gain 2 life.
-Sacrifice this creature: Chronicle. Activate only as a sorcery. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>When this creature enters, you gain 1 life and surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+Sacrifice this creature: Chronicle. Activate only as a sorcery. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/54.png" num="173">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1074,7 +1075,7 @@ Sacrifice this creature: Chronicle. Activate only as a sorcery. (To chronicle, c
 			<name>Lorn-Road Falconer</name>
 			<text>Reach
 Once during each of your turns, when you perform a rite, you may have target creature get +1/+1 until end of turn. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/55.png" num="187">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/55.png" num="186">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1093,7 +1094,7 @@ Once during each of your turns, when you perform a rite, you may have target cre
 			<text>When this creature enters, choose one—
 • Destroy target noncreature enchantment.
 • Put two +1/+1 counters on target enchantment. If it&apos;s not a creature, it becomes a 0/0 creature in addition to its other types.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/56.png" num="196">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/56.png" num="195">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1129,7 +1130,7 @@ When this creature enters, put a +1/+1 counter on each of up to three target cre
 			<name>Pallid Glistener</name>
 			<text>Vigilance, trample
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/58.png" num="193">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/58.png" num="192">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1148,8 +1149,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 			<text>Choose one —
 • Destroy target artifact.
 • Destroy target enchantment.
-• Chronicle. You gain 2 life. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/59.png" num="191">AJY</set>
+• Chronicle. You gain 2 life. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/59.png" num="190">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1165,8 +1166,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Cold Voice</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-Target creature gets +1/+1 until end of turn.
+I — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+II, III — Target creature gets +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/60.png" num="170">AJY</set>
 			<prop>
@@ -1236,7 +1237,7 @@ When this creature enters, if it&apos;s not a token, create two tokens that are 
 			<text>As an additional cost to cast this spell, exile three cards from your graveyard or pay {2}.
 Trample
 When this creature enters, if it&apos;s not a token, create a token that&apos;s a copy of it.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/64.png" num="252">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/64.png" num="251">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1271,7 +1272,7 @@ When this creature enters, you may draw two cards. If you do, you discard a card
 		<card>
 			<name>Mutilated Strider</name>
 			<text>Whenever this creature attacks, if there are two or more card types among spells you&apos;ve cast this turn, put a +1/+1 counter on it.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/66.png" num="259">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/66.png" num="258">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1290,7 +1291,7 @@ When this creature enters, you may draw two cards. If you do, you discard a card
 			<text>As an additional cost to cast this spell, pay {1} or 2 life.
 Flying
 Whenever this creature attacks, it deals 1 damage to target opponent.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/67.png" num="251">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/67.png" num="250">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1307,7 +1308,7 @@ Whenever this creature attacks, it deals 1 damage to target opponent.</text>
 		<card>
 			<name>Innercourt Mendress</name>
 			<text>At the beginning of your first main phase, add {R} or {G}. When you spend this mana to cast an enchantment spell or activate an ability of an enchantment, put a +1/+1 counter on this creature.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/68.png" num="256">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/68.png" num="255">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1324,7 +1325,7 @@ Whenever this creature attacks, it deals 1 damage to target opponent.</text>
 		<card>
 			<name>Palecast Bishop</name>
 			<text>Whenever you draw your second card each turn, target creature gets +1/+1 and gains vigilance until end of turn. Untap it.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/69.png" num="261">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/69.png" num="260">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1341,7 +1342,7 @@ Whenever this creature attacks, it deals 1 damage to target opponent.</text>
 		<card>
 			<name>Fervent Fan</name>
 			<text>At the beginning of combat on your turn, target creature gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/70.png" num="253">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/70.png" num="252">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1357,9 +1358,9 @@ Whenever this creature attacks, it deals 1 damage to target opponent.</text>
 		</card>
 		<card>
 			<name>Glamorous Herald</name>
-			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 When this creature dies, you may put its counters on another target creature you control.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/71.png" num="254">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/71.png" num="253">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1376,7 +1377,7 @@ When this creature dies, you may put its counters on another target creature you
 		<card>
 			<name>Solemn Standby</name>
 			<text>This creature enters with a flying counter on it if you control another permanent with a counter on it.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/72.png" num="264">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/72.png" num="263">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1662,7 +1663,7 @@ You may sacrifice a creature. If you do, draw a card.</text>
 		<card>
 			<name>Marie, Rookery&apos;s Daughter</name>
 			<text>Lifelink
-When this creature dies, create a 1/1 white Bird Hero creature token with flying.</text>
+When Marie dies, create a 1/1 white Bird Hero creature token with flying.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/90.png" num="23">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1748,7 +1749,7 @@ When this creature dies, create a 1/1 white Bird Hero creature token with flying
 		<card>
 			<name>Fae Bladesinger</name>
 			<text>Flying
-Whenever you draw your second card each turn, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Whenever you draw your second card each turn, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/95.png" num="16">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1765,8 +1766,8 @@ Whenever you draw your second card each turn, chronicle. (Create a tapped 1/1 He
 		</card>
 		<card>
 			<name>Confident Lead</name>
-			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
-Coven — Whenever this creature attacks while you control three or more creatures with different powers, it gets +2/+2 and gains first strike until end of turn.</text>
+			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
+Coven — Whenever this creature attacks while you control three or more creatures with different powers, it gets +2/+0 and gains first strike until end of turn.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/96.png" num="11">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1839,7 +1840,7 @@ Ward {2} (Whenever this creature becomes the target of a spell or ability an opp
 		<card>
 			<name>Greyvale Township</name>
 			<text>(An opponent protects this. It can&apos;t be attacked by more than one creature. Each attacker deals 1 damage to it and the rest to its protector.)
-Whenever this Stage enters or is dealt combat damage by a creature, put a +1/+1 counter on target creature you control.
+Whenever this Stage enters or is dealt combat damage by a creature, put a +1/+1 counter on target creature you control and untap it.
 When this Stage is defeated, draw a card.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/100.png" num="17">AJY</set>
 			<prop>
@@ -1847,8 +1848,8 @@ When this Stage is defeated, draw a card.</text>
 				<side>front</side>
 				<type>Battle — Stage</type>
 				<maintype>Battle</maintype>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<loyalty>3</loyalty>
@@ -1858,7 +1859,7 @@ When this Stage is defeated, draw a card.</text>
 		<card>
 			<name>Timely Resurrection</name>
 			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield tapped.
-Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/101.png" num="37">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1875,7 +1876,7 @@ Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a 
 		<card>
 			<name>Meeting the Mentor</name>
 			<text>Look at the top seven cards of your library. You may put a creature card with mana value 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-Chronicle twice. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Chronicle twice. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/102.png" num="24">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1925,9 +1926,9 @@ Once during each of your turns, when you perform a rite, you may draw a card. (D
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Hurried Edit</name>
-			<text>This spell costs {2} less to cast if you&apos;ve drawn two or more cards this turn.
-Exile target creature or planeswalker. Its controller chronicles. (They create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero they control.)</text>
+			<name>Hurried Redaction</name>
+			<text>This spell costs {1} less to cast for each card you&apos;ve drawn this turn.
+Exile target creature or planeswalker. Its controller chronicles. (They create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature they control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/105.png" num="19">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1942,20 +1943,20 @@ Exile target creature or planeswalker. Its controller chronicles. (They create a
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Kingslayer Sisters</name>
+			<name>Fluttering Flitwits</name>
 			<text>Flying
-Whenever you put one or more counters on a permanent you control, surveil 1. If this is the second time this ability has resolved this turn, draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/106.png" num="65">AJY</set>
+Whenever this creature attacks, target creature you control with a counter on it gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/106.png" num="59">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Faerie Rogue</type>
+				<type>Creature — Faerie Rogue Hero</type>
 				<maintype>Creature</maintype>
 				<manacost>U</manacost>
 				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>1/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1963,7 +1964,7 @@ Whenever you put one or more counters on a permanent you control, surveil 1. If 
 			<name>Shadow on the Stage</name>
 			<text>Vigilance, trample
 This creature&apos;s power is equal to the number of artifacts and/or enchantments you control.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/107.png" num="195">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/107.png" num="194">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1997,7 +1998,7 @@ As long as you&apos;ve performed a rite this turn, this creature can&apos;t be b
 		</card>
 		<card>
 			<name>Traveling Players</name>
-			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 {2}{U}, Remove a counter from a creature you control: Tap target creature and put a stun counter on it. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/109.png" num="80">AJY</set>
 			<prop>
@@ -2125,7 +2126,7 @@ If enchanted creature is a Hero you control, it gets +1/+1 and has ward {2}. Oth
 		<card>
 			<name>The Road Back</name>
 			<text>Return target nonland permanent to its owner&apos;s hand.
-Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/116.png" num="76">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2144,7 +2145,7 @@ Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a 
 			<text>Flying
 This creature gets +X/+0, where X is the number of card types among spells you&apos;ve cast this turn.
 Whenever this creature attacks, you may tap or untap target permanent if this creature&apos;s power is 3 or greater.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/117.png" num="60">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/117.png" num="61">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2237,14 +2238,14 @@ Disturb—{3}{U}, Exile four other cards from your graveyard. (You may cast this
 			<name>Inkwell Monolith</name>
 			<text>When this artifact enters, draw a card.
 Whenever you draw your second card each turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/121.png" num="62">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/121.png" num="63">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Enchantment Artifact</type>
 				<maintype>Artifact</maintype>
-				<manacost>1UU</manacost>
-				<cmc>3</cmc>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>
@@ -2385,7 +2386,7 @@ Whenever this creature deals combat damage to an opponent, mill two cards. You m
 			<name>Light-Eater Servant</name>
 			<text>Deathtouch
 Once during each of your turns, when you perform a rite, you may create a Treasure token. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/128.png" num="185">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/128.png" num="184">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2438,7 +2439,7 @@ When this creature enters, put target creature card with mana value 3 or less fr
 		<card>
 			<name>Nibs, Lexyrinth Keeper</name>
 			<text>Flying
-When this creature enters, destroy up to one target creature or planeswalker you don&apos;t control. If it had mana value 3 or less, return it to the battlefield tapped under your control.</text>
+When Nibs enters, destroy up to one target creature or planeswalker you don&apos;t control. If it had mana value 3 or less, return it to the battlefield tapped under your control.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/131.png" num="109">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2508,7 +2509,7 @@ When this creature enters, destroy up to one target creature or planeswalker you
 		<card>
 			<name>Return with the Elixir</name>
 			<text>Return up to one target creature card from your graveyard to your hand.
-Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/135.png" num="114">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2563,7 +2564,7 @@ When this Stage is defeated, draw a card.</text>
 			<text>All creatures get -2/-2 until end of turn. Creature tokens get an additional -1/-1 until end of turn.
 Disturb—{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
-(Back): Fresh Cuttergaunt</text>
+(Back): Fresh Rotgaunt</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/138_front.png" num="98a">AJY</set>
 			<prop>
 				<layout>transform</layout>
@@ -2576,12 +2577,11 @@ Disturb—{B}, Exile four other cards from your graveyard. (You may cast this ca
 				<coloridentity>B</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<related attach="transform">Fresh Cuttergaunt</related>
+			<related attach="transform">Fresh Rotgaunt</related>
 		</card>
 		<card>
-			<name>Fresh Cuttergaunt</name>
-			<text>Flying
-This creature enters with a +1/+1 counter on it for each creature that died this turn.
+			<name>Fresh Rotgaunt</name>
+			<text>This creature enters with a +1/+1 counter on it for each creature that died this turn.
 ---
 (Front): Consumed by Branches</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/138_back.png" num="98b">AJY</set>
@@ -2709,7 +2709,7 @@ When this creature enters, choose up to one target creature or planeswalker. Eac
 		<card>
 			<name>Steeltouched Star</name>
 			<text>Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
-Whenever a player loses life during your turn, chronicle. This ability triggers only once each turn. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+Whenever a player loses life during your turn, chronicle. This ability triggers only once each turn. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/145.png" num="120">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2836,7 +2836,7 @@ If a red source or enchantment source you control would deal damage to a permane
 		</card>
 		<card>
 			<name>Orrin&apos;s Ordeal</name>
-			<text>Chronicle. When you do, target Hero you control deals damage equal to its power to target creature or planeswalker you don&apos;t control. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>Chronicle. When you do, target Hero you control deals damage equal to its power to target creature or planeswalker you don&apos;t control. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/152.png" num="153">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -2968,7 +2968,7 @@ Coven — Whenever this creature attacks while you control three or more creatur
 			<name>Living Altar</name>
 			<text>{T}: Add one mana of any color.
 {T}: Add two mana of any one color. Spend this mana only to cast spells from graveyards or activate abilities of cards in graveyards.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/158.png" num="186">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/158.png" num="185">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2986,7 +2986,7 @@ Coven — Whenever this creature attacks while you control three or more creatur
 			<name>Seneschal of Turnings</name>
 			<text>Once each turn, when this creature or another enchantment you control enters, you may gain life equal to its mana value.
 At the beginning of each end step, draw a card if you&apos;ve gained life this turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/159.png" num="194">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/159.png" num="193">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3003,7 +3003,7 @@ At the beginning of each end step, draw a card if you&apos;ve gained life this t
 		<card>
 			<name>Mottlecloth Sneak</name>
 			<text>As long as there are two or more card types among spells you&apos;ve cast this turn, this creature gets +2/+0 and has vigilance and hexproof.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/160.png" num="190">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/160.png" num="189">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3039,7 +3039,7 @@ Whenever this creature attacks, put a +1/+1 counter on target creature you contr
 			<name>Tabula Rata</name>
 			<text>Tabula Rata enters with a deathtouch counter, a haste counter, and two +1/+1 counters on it.
 At the beginning of combat on your turn, Tabula Rata becomes a copy of target creature you control or creature card in your graveyard until end of turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/162.png" num="201">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/162.png" num="200">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3058,7 +3058,7 @@ At the beginning of combat on your turn, Tabula Rata becomes a copy of target cr
 			<text>Trample
 When this creature enters, search your library for a Forest card, put it onto the battlefield tapped, then shuffle.
 Evoke {2}{G} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/163.png" num="200">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/163.png" num="199">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3112,7 +3112,7 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 			<text>Choose one —
 • Target player sacrifices an artifact or enchantment of their choice.
 • Target player shuffles six cards of their choice from their graveyard into their library.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/166.png" num="189">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/166.png" num="188">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3129,9 +3129,9 @@ When this creature dies, create a 1/1 colorless Hero creature token.</text>
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Mill two cards. You gain 2 life.
-I — You may play lands from your graveyard this turn.
-II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/167.png" num="202">AJY</set>
+You may play lands from your graveyard this turn.
+You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/167.png" num="201">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3185,29 +3185,28 @@ Disturb—{4}{G}{G}, Exile four other cards from your graveyard. (You may cast t
 			<related attach="transform">Vibrant Setdressing</related>
 		</card>
 		<card>
-			<name>Crossing the Threshold</name>
-			<text>Enchantment spells you cast cost {1} less to cast if you control a creature.
-Creature spells you cast cost {1} less to cast if you control another enchantment.
-At the beginning of your end step, if there are two or more card types among spells you&apos;ve cast this turn, draw a card.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/169.png" num="180">AJY</set>
+			<name>Threshold Walker</name>
+			<text>At the beginning of combat on your turn, this creature gets +1/+0 until end of turn if you control another creature and +0/+1 until end of turn if you control another enchantment.</text>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/169.png" num="204">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment</type>
-				<maintype>Enchantment</maintype>
-				<manacost>1G</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment Creature — Human Spirit Hero</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>The Elder Reaches</name>
 			<text>(An opponent protects this. It can&apos;t be attacked by more than one creature. Each attacker deals 1 damage to it and the rest to its protector.)
 Whenever this Stage enters or is dealt combat damage by a creature, add two mana of any one color. Until end of turn, you don&apos;t lose this mana as steps and phases end.
 When this Stage is defeated, draw a card.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/170.png" num="181">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/170.png" num="180">AJY</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -3242,7 +3241,7 @@ Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} 
 			<name>Telltale Sign</name>
 			<text>Nontoken creatures you control get +1/+1.
 {3}{G}{G}, Discard this card: Copy it twice. You may cast the copies without paying their mana costs. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/172.png" num="203">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/172.png" num="202">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3259,7 +3258,7 @@ Flashback {7}{G}. If this spell targets two creatures you control, it costs {5} 
 			<name>Lord Malcolm Amantii</name>
 			<text>During your turn, Malcolm has flying and lifelink if you&apos;ve performed a rite this turn. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)
 As an additional cost to cast creature spells, you may sacrifice a creature. If you do, that spell costs {1} less to cast and that creature enters with an additional +1/+1 counter on it.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/173.png" num="257">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/173.png" num="256">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3330,7 +3329,7 @@ Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or abil
 		<card>
 			<name>Mishet, the Escapee</name>
 			<text>Trample, ward {1}
-As long as there are two or more card types among spells you&apos;ve cast this turn, this creature gets +2/+2 and has &quot;At the beginning of each end step, draw a card.&quot;</text>
+As long as there are two or more card types among spells you&apos;ve cast this turn, Mishet and other creatures you control get +2/+2.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/177.png" num="233">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3421,7 +3420,7 @@ Whenever Eni deals combat damage to a player, draw a card, then discard a card.<
 		<card>
 			<name>Cupbearer of Spring</name>
 			<text>Enchantment creatures you control have trample.
-{4}{R}{G}: Nonenchantment creatures you control get +1/+1 until end of turn. Put a +1/+1 counter on each enchantment creature you control.</text>
+{X}{R}{G}: For each of up to X target creatures, put a +1/+1 counter on it if it&apos;s an enchantment. Otherwise, it gets +1/+1 until end of turn. Activate only as a sorcery.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/182.png" num="220">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3480,7 +3479,7 @@ Staraë enters with a +1/+1 counter on it for each other creature you control.
 		<card>
 			<name>Orrin of the Golden Feast</name>
 			<text>Orrin of the Golden Feast has first strike during your turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/184.png" num="260">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/184.png" num="259">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3497,7 +3496,7 @@ Staraë enters with a +1/+1 counter on it for each other creature you control.
 		<card>
 			<name>Hard-Eyed Starlet</name>
 			<text>Once each turn, when you put one or more counters on a permanent you control, you may discard a card. If you do, draw a card and this creature gets +2/+0 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/185.png" num="255">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/185.png" num="254">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3553,7 +3552,7 @@ At the beginning of your end step, put a +1/+1 counter on Chaniel if you perform
 Create a 2/2 blue and white Golem Wizard artifact creature token with vigilance and &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
 If an opponent has more cards in hand than you, draw a card.
 ​</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/188.png" num="262">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/188.png" num="261">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3570,7 +3569,7 @@ If an opponent has more cards in hand than you, draw a card.
 			<name>Meismos, Thundergaunt</name>
 			<text>Whenever Meismos attacks, it deals 1 damage to each player.
 {2}{BR}{BR}, Sacrifice Meismos: Create an X/X red and black Elemental Horror creature token with menace, where X is the total amount of life players lost this turn. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/189.png" num="258">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/189.png" num="257">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3585,19 +3584,20 @@ If an opponent has more cards in hand than you, draw a card.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Eldmetal Congregant</name>
-			<text>Artifact creature spells and enchantment creature spells you cast cost {1} less to cast.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/190.png" num="250">AJY</set>
+			<name>Spinner of Secrets</name>
+			<text>Reach
+At the beginning of your end step, if there are two or more card types among spells you&apos;ve cast this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/190.png" num="264">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Cyborg Artificer</type>
+				<type>Enchantment Creature — Spider Spirit</type>
 				<maintype>Creature</maintype>
 				<manacost>1G/UG/U</manacost>
 				<cmc>3</cmc>
 				<colors>UG</colors>
 				<coloridentity>UG</coloridentity>
-				<pt>2/4</pt>
+				<pt>2/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3623,7 +3623,7 @@ Whenever this creature enters or attacks, if you&apos;ve performed a rite this t
 			<name>Revised Revenant</name>
 			<text>Whenever this creature enters or dies, you draw a card and you lose 1 life.
 Evoke {1}{UB}{UB} (You may cast this spell for its evoke cost. If you do, it&apos;s sacrificed when it enters.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/192.png" num="263">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/192.png" num="262">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3655,7 +3655,7 @@ When this creature dies, draw a card if it had a counter on it.</text>
 		</card>
 		<card>
 			<name>Ornate Invitation</name>
-			<text>When this artifact enters or leaves the battlefield, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>When this artifact enters or leaves the battlefield, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 {3}, {T}, Sacrifice this artifact: Search your library for a Hero card, reveal it, put it into your hand, then shuffle.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/194.png" num="271">AJY</set>
 			<prop>
@@ -3686,7 +3686,7 @@ When this creature dies, draw a card if it had a counter on it.</text>
 		<card>
 			<name>Vōs, Company Courier</name>
 			<text>When Vōs enters, draw a card if you&apos;ve gained life this turn. Otherwise, you gain 1 life.
-Whenever a player casts a spell with mana value 3 or greater, exile Vōs. If you do, return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
+Whenever a player casts a spell with mana value 4 or greater, exile Vōs. If you do, return it to the battlefield under its owner&apos;s control at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/196.png" num="41">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3758,8 +3758,8 @@ Creatures you control have vigilance.</text>
 			<name>Autumn Devours the Sunmaster</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 4/4 white Samurai Warlock creature token.
-I — Put a menace counter and a deathtouch counter on target creature.
-II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
+Put a menace counter and a deathtouch counter on target creature.
+When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/200.png" num="88">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3910,7 +3910,7 @@ Evoke {2}{W}{W}{W} (You may cast this spell for its evoke cost. If you do, it&ap
 			<name>Glassgazer</name>
 			<text>Flying, vigilance
 At the beginning of each end step, create X 2/2 blue Reflection Hero creature tokens, where X is the number of card types among spells you&apos;ve cast this turn minus one.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/206.png" num="59">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/206.png" num="60">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4018,7 +4018,7 @@ When this Stage is defeated, draw a card.</text>
 		</card>
 		<card>
 			<name>Cunning Keepbreaker</name>
-			<text>Whenever you cast a noncreature spell, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>Whenever you cast a noncreature spell, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 Remove two counters from among Heroes you control: Draw a card. This creature can&apos;t be blocked this turn.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/212.png" num="50">AJY</set>
 			<prop>
@@ -4090,7 +4090,7 @@ Whenever a player loses life during your turn, they mill that many cards. Once e
 		<card>
 			<name>The Hallowing of Bantrel Grove</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I, II, III — Draw a card. You lose 4 life unless you sacrifice a creature.
+Draw a card. You lose 4 life unless you sacrifice a creature.
 Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with reach and lifelink.
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/216.png" num="121">AJY</set>
@@ -4109,7 +4109,7 @@ Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with
 		<card>
 			<name>Climactic Moment</name>
 			<text>Target player sacrifices a creature of their choice. If they sacrificed a token this way, draw a card.
-Disturb—{2}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
+Disturb—{3}{B}{B}, Exile six other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Devourer of Disillusionment</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/217_front.png" num="97a">AJY</set>
@@ -4141,14 +4141,14 @@ Disturb—{2}{B}{B}, Exile five other cards from your graveyard. (You may cast t
 				<cmc>0</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>5/3</pt>
+				<pt>4/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<related attach="transform">Climactic Moment</related>
 		</card>
 		<card>
 			<name>Vision of Manque</name>
-			<text>When this creature enters, discard your hand. You draw two cards and lose 2 life.
+			<text>When Vision of Manque enters, discard your hand. You draw two cards and lose 2 life.
 Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/218.png" num="126">AJY</set>
 			<prop>
@@ -4166,7 +4166,7 @@ Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. 
 		</card>
 		<card>
 			<name>Scoremaster</name>
-			<text>Whenever this creature attacks, you may pay {R} and 1 life. If you do, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+			<text>Whenever this creature attacks, you may pay {R} and 1 life. If you do, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/219.png" num="157">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4297,7 +4297,7 @@ When this creature enters, creatures you control get +1/+1 and gain haste until 
 		<card>
 			<name>Tendergaunt</name>
 			<text>Once during each of your turns, when you perform a rite, you may put a +1/+1 counter on this creature. If you do, mill cards equal to its power. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/226.png" num="204">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/226.png" num="203">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4315,7 +4315,7 @@ When this creature enters, creatures you control get +1/+1 and gain haste until 
 			<name>Steward of Solstices</name>
 			<text>{T}, Discard a card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
 When this creature dies, return target land card from your graveyard to the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/227.png" num="199">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/227.png" num="198">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4332,7 +4332,7 @@ When this creature dies, return target land card from your graveyard to the batt
 		<card>
 			<name>Bearer of Broken Things</name>
 			<text>{T}: Add one mana of any color among enchantments you control.
-{1}{G}, Sacrifice this creature: Return target enchantment card from your graveyard to your hand.</text>
+{1}{G}, Sacrifice Bearer of Broken Things: Return target enchantment card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/228.png" num="174">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4387,10 +4387,10 @@ Creatures you control have ward {2}.</text>
 		<card>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Create two 2/2 black Demon Knight creature tokens.
-II — Create two tokens that are copies of target creature token you control.
-III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/231.png" num="198">AJY</set>
+Create two 2/2 black Demon Knight creature tokens.
+Create two tokens that are copies of target creature token you control.
+Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/231.png" num="197">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4458,8 +4458,8 @@ Coven — Whenever Lord Tyto Bonsíc enters or attacks, if you control three or 
 		</card>
 		<card>
 			<name>Kniles, Chancellor of Thorns</name>
-			<text>When Kniles enters, create two red artifact tokens named Rose with &quot;{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.&quot;
-During your turn, non-Aura, non-Equipment tokens you control have lifelink and are 3/1 Plant creatures in addition to their other types.</text>
+			<text>When Kniles enters, create two red artifact tokens named Rose with lifelink and &quot;{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.&quot;
+During your turn, non-Aura, non-Equipment tokens you control are 3/1 Plant creatures in addition to their other types.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/235.png" num="228">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4476,8 +4476,9 @@ During your turn, non-Aura, non-Equipment tokens you control have lifelink and a
 		</card>
 		<card>
 			<name>Greyvale Prodigy</name>
-			<text>Reach
-{T}: Add {R} or {W}. If that mana is spent on a Hero spell or legendary creature spell, it enters with an additional +1/+1 counter on it and gains haste until end of turn.</text>
+			<text>Vigilance, reach
+{T}: Add {R} or {W}.
+{3}, {T}: Chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/236.png" num="225">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4538,10 +4539,10 @@ Whenever you draw your second card each turn, you may cast a spell with mana val
 				<side>front</side>
 				<type>Enchantment</type>
 				<maintype>Enchantment</maintype>
-				<manacost>RWB</manacost>
+				<manacost>1RW</manacost>
 				<cmc>3</cmc>
-				<colors>WBR</colors>
-				<coloridentity>WBR</coloridentity>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
@@ -4638,7 +4639,7 @@ Once during each of your turns, when you perform a rite, you may copy a spell yo
 		</card>
 		<card>
 			<name>Vexior, Clouds in Chains</name>
-			<text>Flying, menace, deathtouch
+			<text>Lifelink, deathtouch
 Whenever Vexior enters or attacks, each player may sacrifice a creature. Draw a card if you did, then draw another for each opponent who didn&apos;t.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/245.png" num="244">AJY</set>
 			<prop>
@@ -4646,11 +4647,11 @@ Whenever Vexior enters or attacks, each player may sacrifice a creature. Draw a 
 				<side>front</side>
 				<type>Legendary Creature — Elder Bird Dragon</type>
 				<maintype>Creature</maintype>
-				<manacost>2WBG</manacost>
-				<cmc>5</cmc>
-				<colors>WBG</colors>
-				<coloridentity>WBG</coloridentity>
-				<pt>4/4</pt>
+				<manacost>4WB</manacost>
+				<cmc>6</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -4711,7 +4712,7 @@ Whenever you cast an artifact creature spell or enchantment creature spell, you 
 			<name>The Inmost Cave</name>
 			<text>{T}: Add {C}.
 {T}: Add one mana of any color. Spend this mana only to cast a Hero spell or legendary spell.
-{2}, {T}: Chronicle. Activate only as a sorcery and only if a Hero you control attacked this turn. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)</text>
+{2}, {T}: Chronicle. Activate only as a sorcery and only if a Hero you control attacked this turn. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/249.png" num="281">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4827,8 +4828,7 @@ Whenever you cast an artifact creature spell or enchantment creature spell, you 
 		</card>
 		<card>
 			<name>Unfinished Draft</name>
-			<text>Flying
-Once during each of your turns, when you perform a rite, you may put a +1/+1 counter on this creature. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)
+			<text>Once during each of your turns, when you perform a rite, you may put a +1/+1 counter on this creature. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)
 {2}{B}, Discard a card: Target opponent reveals their hand. You may exile a nonland card from it. Activate only as a sorcery and only once.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/256.png" num="124">AJY</set>
 			<prop>
@@ -4903,7 +4903,7 @@ Once during each of your turns, when you perform a rite, you may put a +1/+1 cou
 			<name>Hiemal Virtuoso</name>
 			<text>When this creature enters, tap up to one target creature and put a stun counter on it.
 Once each turn, when you put a stun counter on a creature, you may gain control of that creature for as long as it remains tapped.</text>
-			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/260.png" num="61">AJY</set>
+			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/260.png" num="62">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4922,7 +4922,7 @@ Once each turn, when you put a stun counter on a creature, you may gain control 
 			<text>Once during each of your turns, you may cast a spell with mana value 4 or less from your hand by exiling that many cards from your graveyard rather than paying its mana cost.
 [+1]: Tap up to two target nonland permanents. For each spell you&apos;ve cast this turn, distribute a stun counter among them.
 [-2]: Mill six cards. For each spell you&apos;ve cast this turn, you may return a noncreature, nonland card from among them to your hand.</text>
-			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/261.png" num="64">AJY</set>
+			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/261.png" num="65">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4977,7 +4977,7 @@ This creature has protection from each opponent who lost life this turn. (It can
 		<card>
 			<name>Hollow Autumn</name>
 			<text>At the beginning of your end step, target opponent loses 2 life if you performed a rite this turn. (Discarding cards, sacrificing creatures, and casting cards from your graveyard are rites.)
-[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with &quot;This creature can&apos;t attack planeswalkers.&quot;
+[+1]: Target player discards a card and creates a 2/2 black Wraith creature token with &quot;This creature can&apos;t attack planeswalkers or block creatures attacking planeswalkers.&quot;
 [-2]: Choose target creature. You may exile a number of cards from your graveyard equal to its mana value. When you do, destroy it.</text>
 			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/264.png" num="105">AJY</set>
 			<prop>
@@ -4995,7 +4995,7 @@ This creature has protection from each opponent who lost life this turn. (It can
 		</card>
 		<card>
 			<name>Pint-Sized Penstrel</name>
-			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>When this creature enters, chronicle. (Create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 Once each turn, when you put one or more counters on a permanent you control, you may exile the top card of your library. You may play it this turn.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/265.png" num="155">AJY</set>
 			<prop>
@@ -5007,7 +5007,7 @@ Once each turn, when you put one or more counters on a permanent you control, yo
 				<cmc>3</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>3/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5087,7 +5087,7 @@ If a source you control would deal an amount of damage to a permanent or player 
 		<card>
 			<name>Alder Jane, Talewright</name>
 			<text>If you would chronicle, you may put a loyalty counter on a planeswalker you control or a lore counter on an enchantment you control instead.
-[0]: Chronicle twice. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+[0]: Chronicle twice. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 [-1]: Create a red Saga token named Havoc Cry with &quot;r{3} — Draw two cards. Creatures you control get +2/+0 until end of turn.&quot;
 [-7]: Create a blue Saga token named Alder&apos;s Apologue with hexproof and &quot;r{3} — Draw seven cards. Take an extra turn after this one.&quot;</text>
 			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/270.png" num="212">AJY</set>
@@ -5161,7 +5161,7 @@ At the beginning of combat on your turn, each player who owns a card exiled with
 		</card>
 		<card>
 			<name>Wraith AJY</name>
-			<text>This creature can&apos;t attack planeswalkers.</text>
+			<text>This creature can&apos;t attack planeswalkers or block creatures attacking planeswalkers.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/274.png" num="13">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5179,7 +5179,8 @@ At the beginning of combat on your turn, each player who owns a card exiled with
 		</card>
 		<card>
 			<name>Rose AJY</name>
-			<text>{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.</text>
+			<text>Lifelink
+{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/275.png" num="14">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5215,7 +5216,7 @@ At the beginning of combat on your turn, each player who owns a card exiled with
 		<card>
 			<name>Splintereater</name>
 			<text>Whenever this creature attacks, up to one other target artifact creature or enchantment creature gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/277.png" num="197">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/277.png" num="196">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5435,8 +5436,8 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Endless Day of Dominion</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-I — Create two 1/1 white Warlock creature tokens.
-II, III — Sacrifice any number of non-Treefolk creatures. Create that many 2/2 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each other Treefolk you control.&quot;
+Create two 1/1 white Warlock creature tokens.
+Sacrifice any number of non-Treefolk creatures. Create that many 0/0 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each Treefolk you control.&quot;
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/290.png" num="13">AJY</set>
 			<prop>
@@ -5530,7 +5531,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		<card>
 			<name>Kos and Desidre</name>
 			<text>At the beginning of combat on your turn, target creature you control gets +X/+X until end of turn, where X is the number of card types among spells you&apos;ve cast this turn.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/294.png" num="184">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/294.png" num="183">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5579,7 +5580,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		</card>
 		<card>
 			<name>Treefolk Soldier AJY</name>
-			<text>This creature gets +1/+1 for each other Treefolk you control.</text>
+			<text>This creature gets +1/+1 for each Treefolk you control. (Including itself.)</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/297.png" num="6">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5590,7 +5591,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 				<cmc>0</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
-				<pt>2/2</pt>
+				<pt>0/0</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
@@ -5631,7 +5632,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		</card>
 		<card>
 			<name>Myth of Awakening</name>
-			<text>Chronicle. If this spell was cast from a graveyard, instead chronicle three times. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+			<text>Chronicle. If this spell was cast from a graveyard, instead chronicle three times. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 Flashback {2}{W}{W} (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/300.png" num="25">AJY</set>
 			<prop>
@@ -5804,7 +5805,7 @@ Ward—Pay 10 life. (Whenever that permanent becomes the target of a spell or ab
 		<card>
 			<name>Preserve the Script</name>
 			<text>Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)
-If this spell was kicked, chronicle for each time it was kicked. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a Hero you control.)
+If this spell was kicked, chronicle for each time it was kicked. (To chronicle, create a tapped 1/1 Hero creature token or put a +1/+1 counter on a creature you control.)
 Counter target spell unless its controller pays {1} for each creature you control.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/309.png" num="72">AJY</set>
 			<prop>
@@ -5872,12 +5873,12 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 		</card>
 		<card>
 			<name>Cass and Nettles, Editors</name>
-			<text>Whenever Cass and Nettles enters or attacks, you may remove a counter from a permanent you control. When you do, until end of turn, target creature gets +1/+1 and gains flying and &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;</text>
+			<text>Whenever Cass and Nettles enters or attacks, you may remove a counter from a permanent you control. When you do, until end of turn, target creature gets +1/+1 and gains &quot;Whenever this creature deals combat damage to a player, draw a card.&quot;</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/313.png" num="216">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Creature — Elf Cat Advisor Hero</type>
+				<type>Legendary Creature — Elf Cat Advisor</type>
 				<maintype>Creature</maintype>
 				<manacost>1UR</manacost>
 				<cmc>3</cmc>
@@ -5911,7 +5912,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
 Disturb—{2}{G}{G}, Exile four other cards from your graveyard. (You may cast this card from your graveyard transformed for its disturb cost.)
 ---
 (Back): Nourished Bonebiter</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/315_front.png" num="192a">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/315_front.png" num="191a">AJY</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5931,7 +5932,7 @@ Disturb—{2}{G}{G}, Exile four other cards from your graveyard. (You may cast t
 If this creature would die, exile it instead.
 ---
 (Front): Nourishing Shell</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/315_back.png" num="192b">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/315_back.png" num="191b">AJY</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6008,7 +6009,7 @@ Enchanted creature gets +1/+1. If two or more Auras are attached to it, it has d
 			<text>Enchant creature you control
 When you cast this spell, mill four cards. You may put a creature card with mana value 2 or less from among them or from your hand onto the battlefield. If you do, change this spell&apos;s target to that creature.
 Enchanted creature gets +2/+2.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/319.png" num="182">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/319.png" num="181">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6024,7 +6025,7 @@ Enchanted creature gets +2/+2.</text>
 		<card>
 			<name>Archetype of Unendings</name>
 			<text>Flash
-When this creature enters, if it was cast, put a retelling counter on each of up to seven other target permanents. For as long as those permanents have retelling counters on them, they have &quot;When this permanent leaves the battlefield, create a token that&apos;s a copy of it.&quot;</text>
+When this creature enters, put a retelling counter on each of up to seven other target permanents. For as long as those permanents have retelling counters on them, they have &quot;When this permanent leaves the battlefield, create a token that&apos;s a copy of it.&quot;</text>
 			<set rarity="mythic" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/320.png" num="172">AJY</set>
 			<prop>
 				<layout>normal</layout>
