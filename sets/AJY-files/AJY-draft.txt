@@ -1492,7 +1492,7 @@
 		{
 			"name": "Steeltouched Star",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Knight Hero",
 			"collector_number": "120",
 			"image_uris": {
@@ -1542,7 +1542,7 @@
 		{
 			"name": "Wolf at the Gates",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Episode",
 			"collector_number": "166",
 			"image_uris": {
