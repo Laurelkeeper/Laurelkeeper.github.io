@@ -642,7 +642,7 @@
 			"name": "Burst of Mettle",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "176",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/61.png"
@@ -752,7 +752,7 @@
 			"name": "Vested Script",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact — Equipment Book",
 			"collector_number": "272",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/72.png"
@@ -989,10 +989,10 @@
 			}
 		},
 		{
-			"name": "Choreography Director",
+			"name": "Choreographed Champion",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Human Spider Advisor",
+			"type": "Creature — Human Spider Hero",
 			"collector_number": "10",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/96.png"
@@ -1031,7 +1031,7 @@
 		{
 			"name": "Timely Resurrection",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{X}{W}",
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
@@ -1403,9 +1403,9 @@
 			}
 		},
 		{
-			"name": "Bantrel Vale",
+			"name": "Bantrel Valley",
 			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
+			"mana_cost": "{3}{B}{B}",
 			"type": "Battle — Stage",
 			"collector_number": "89",
 			"image_uris": {
@@ -1864,7 +1864,7 @@
 			}
 		},
 		{
-			"name": "Eni, Company Champion",
+			"name": "Eni, Company Vanguard",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Artifact Creature — Cyborg Hero",
@@ -2014,7 +2014,7 @@
 			"name": "Book of Bitter Endings",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
-			"type": "Artifact",
+			"type": "Artifact — Book",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/194.png"
@@ -2043,7 +2043,7 @@
 		{
 			"name": "Beziel, Martyr of Greyvale",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Legendary Enchantment Creature — Spirit Hero",
 			"collector_number": "5",
 			"image_uris": {
@@ -2334,7 +2334,7 @@
 		{
 			"name": "Caller of Adventure",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{R}",
+			"mana_cost": "{5}{R}",
 			"type": "Enchantment Creature — Human Advisor",
 			"collector_number": "136",
 			"image_uris": {
@@ -2554,7 +2554,7 @@
 		{
 			"name": "Splendid Inspiration",
 			"rarity": "rare",
-			"mana_cost": "{G}{U}{R}",
+			"mana_cost": "{1}{R}{G}",
 			"type": "Enchantment",
 			"collector_number": "238",
 			"image_uris": {
@@ -2704,7 +2704,7 @@
 		{
 			"name": "Manque, Shifting Spotlight",
 			"rarity": "mythic",
-			"mana_cost": "{3}{B}{G}",
+			"mana_cost": "{4}{B}{G}",
 			"type": "Legendary Planeswalker — Manque",
 			"collector_number": "229",
 			"image_uris": {
@@ -3396,7 +3396,7 @@
 
 [rare(1)]
 	2 Greyvale Township
-	2 Bantrel Vale
+	2 Bantrel Valley
 	2 Unlikely Compatriots
 	2 Elca, Chancellor's Daughter
 	2 Until We Meet Once More
@@ -3503,7 +3503,7 @@
 	4 Splintered Chorus
 	4 Fae Bladesinger
 	4 Confident Lead
-	4 Choreography Director
+	4 Choreographed Champion
 	4 Archon of Fettered Fate
 	4 Enshrined Excellence
 	4 Timely Resurrection
@@ -3573,7 +3573,7 @@
 	4 Mishet, the Escapee
 	4 Sostak, Whimsical Voice
 	4 The Wakeup Call
-	4 Eni, Company Champion
+	4 Eni, Company Vanguard
 	4 Cupbearer of Spring
 	4 A Change in Fate
 	4 Orrin of the Golden Feast
@@ -3875,7 +3875,7 @@
 	6 Splintered Chorus
 	6 Fae Bladesinger
 	6 Confident Lead
-	6 Choreography Director
+	6 Choreographed Champion
 	6 Archon of Fettered Fate
 	6 Enshrined Excellence
 	2 Greyvale Township
@@ -3915,7 +3915,7 @@
 	6 Cut the Curtain
 	6 Return with the Elixir
 	6 Festering Secrets
-	2 Bantrel Vale
+	2 Bantrel Valley
 	6 Consumed by Branches
 	2 Unlikely Compatriots
 	2 Elca, Chancellor's Daughter
@@ -3959,7 +3959,7 @@
 	6 Sostak, Whimsical Voice
 	6 The Wakeup Call
 	12 Autumn's Emissary
-	6 Eni, Company Champion
+	6 Eni, Company Vanguard
 	6 Cupbearer of Spring
 	6 A Change in Fate
 	6 Orrin of the Golden Feast
@@ -4167,7 +4167,7 @@
 	15 Splintered Chorus
 	15 Fae Bladesinger
 	15 Confident Lead
-	15 Choreography Director
+	15 Choreographed Champion
 	15 Archon of Fettered Fate
 	15 Enshrined Excellence
 	7 Greyvale Township
@@ -4207,7 +4207,7 @@
 	15 Cut the Curtain
 	15 Return with the Elixir
 	15 Festering Secrets
-	7 Bantrel Vale
+	7 Bantrel Valley
 	15 Consumed by Branches
 	7 Unlikely Compatriots
 	7 Elca, Chancellor's Daughter
@@ -4251,7 +4251,7 @@
 	15 Sostak, Whimsical Voice
 	15 The Wakeup Call
 	6 Autumn's Emissary
-	15 Eni, Company Champion
+	15 Eni, Company Vanguard
 	15 Cupbearer of Spring
 	15 A Change in Fate
 	15 Orrin of the Golden Feast

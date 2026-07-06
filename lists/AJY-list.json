@@ -136,7 +136,7 @@
         "position": "208"
     },
     {
-        "card_name": "Bantrel Vale",
+        "card_name": "Bantrel Valley",
         "number": 89,
         "shape": "battle split",
         "set": "AJY",
@@ -560,7 +560,7 @@
         "position": "232"
     },
     {
-        "card_name": "Choreography Director",
+        "card_name": "Choreographed Champion",
         "number": 10,
         "shape": "normal",
         "set": "AJY",
@@ -1752,12 +1752,12 @@
         "position": "270"
     },
     {
-        "card_name": "Weftheart, Vibrant Star",
-        "number": 245,
+        "card_name": "Splendid Inspiration",
+        "number": 238,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "242"
+        "position": "246"
     },
     {
         "card_name": "Sostak, Whimsical Voice",
@@ -1792,12 +1792,12 @@
         "position": "175"
     },
     {
-        "card_name": "Cupbearer of Spring",
-        "number": 219,
+        "card_name": "Weftheart, Vibrant Star",
+        "number": 245,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "181"
+        "position": "242"
     },
     {
         "card_name": "A Change in Fate",
@@ -1808,7 +1808,7 @@
         "position": "182"
     },
     {
-        "card_name": "Eni, Company Champion",
+        "card_name": "Eni, Company Vanguard",
         "number": 222,
         "shape": "normal",
         "set": "AJY",
@@ -1832,12 +1832,12 @@
         "position": "188"
     },
     {
-        "card_name": "Cindrel Gloamspeaker",
-        "number": 248,
+        "card_name": "Cupbearer of Spring",
+        "number": 219,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "186"
+        "position": "181"
     },
     {
         "card_name": "Fervent Fan",
@@ -1872,12 +1872,12 @@
         "position": "66"
     },
     {
-        "card_name": "Innercourt Mendress",
-        "number": 254,
+        "card_name": "Cindrel Gloamspeaker",
+        "number": 248,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "67"
+        "position": "186"
     },
     {
         "card_name": "e"
@@ -1897,7 +1897,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Innercourt Mendress",
+        "number": 254,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "67"
     },
     {
         "card_name": "e"
@@ -2165,12 +2170,7 @@
         "position": "239"
     },
     {
-        "card_name": "Splendid Inspiration",
-        "number": 238,
-        "shape": "normal",
-        "set": "AJY",
-        "rotated": false,
-        "position": "246"
+        "card_name": "e"
     },
     {
         "card_name": "er"
