@@ -1904,7 +1904,7 @@
 			"name": "Orrin of the Golden Feast",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
-			"type": "Legendary Creature — Elemental Hero",
+			"type": "Legendary Creature — Elemental Rebel Hero",
 			"collector_number": "258",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/183.png"
