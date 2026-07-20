@@ -1728,8 +1728,8 @@
         "position": "232"
     },
     {
-        "card_name": "Bearer of Blessings",
-        "number": 213,
+        "card_name": "Chosen Champion",
+        "number": 217,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1825,7 +1825,7 @@
     },
     {
         "card_name": "Carmine the Brilliant",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1977,7 +1977,7 @@
     },
     {
         "card_name": "Cass and Nettles, Editors",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1985,7 +1985,7 @@
     },
     {
         "card_name": "Chaniel, Lost in Rot",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2155,7 +2155,7 @@
     },
     {
         "card_name": "Celos, Prince's Chamberlain",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2488,7 +2488,7 @@
     },
     {
         "card_name": "Island",
-        "number": 292,
+        "number": 293,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2496,7 +2496,7 @@
     },
     {
         "card_name": "Swamp",
-        "number": 293,
+        "number": 295,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2504,7 +2504,7 @@
     },
     {
         "card_name": "Mountain",
-        "number": 294,
+        "number": 297,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -2512,11 +2512,51 @@
     },
     {
         "card_name": "Forest",
-        "number": 295,
+        "number": 299,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
         "position": "287"
+    },
+    {
+        "card_name": "Plains",
+        "number": 292,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "330"
+    },
+    {
+        "card_name": "Island",
+        "number": 294,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "331"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 296,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "332"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 298,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "333"
+    },
+    {
+        "card_name": "Forest",
+        "number": 300,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "334"
     },
     {
         "card_name": "er"
@@ -2810,6 +2850,59 @@
         "set": "AJY",
         "rotated": false,
         "position": "276"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "Plains",
+        "number": 4,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "335"
+    },
+    {
+        "card_name": "Island",
+        "number": 2,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "336"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 5,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "337"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 3,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "338"
+    },
+    {
+        "card_name": "Forest",
+        "number": 1,
+        "shape": "normal",
+        "set": "AJY",
+        "rotated": false,
+        "position": "339"
     },
     {
         "card_name": "er"
