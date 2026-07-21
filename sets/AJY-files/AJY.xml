@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-07-20</releasedate>
+			<releasedate>2026-07-21</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -224,8 +224,8 @@ If this creature would die, exile it instead.
 		<card>
 			<name>Light Through the Veil</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Draw a card.
-Creatures you control get +1/+1 until end of turn.
+I — Draw a card.
+II, III — Creatures you control get +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/11.png" num="22">AJY</set>
 			<prop>
@@ -462,8 +462,8 @@ When enchanted creature leaves the battlefield, chronicle. (Create a tapped 1/1 
 		<card>
 			<name>Out of the Puzzlebox</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Tap up to one target creature. Put a stun counter on it.
-Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
+I — Tap up to one target creature. Put a stun counter on it.
+II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/23.png" num="69">AJY</set>
 			<prop>
@@ -656,8 +656,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>Long Road Home</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Surveil 1. You lose 1 life unless you attacked this turn.
-You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
+I, II — Surveil 1. You lose 1 life unless you attacked this turn.
+III — You may cast target creature card with mana value 3 or less from your graveyard without paying its mana cost.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/34.png" num="106">AJY</set>
 			<prop>
@@ -905,9 +905,9 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Star is Born</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 1/1 colorless Hero creature token.
+I — Create a 1/1 colorless Hero creature token.
 This Episode deals 1 damage to target player.
-Put a +1/+1 counter on target Hero.</text>
+II — Put a +1/+1 counter on target Hero.</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/47.png" num="127">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -1146,8 +1146,8 @@ Basic landcycling {2} ({2}, Discard this card: Search your library for a basic l
 		<card>
 			<name>A Cold Voice</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-Target creature gets +1/+1 until end of turn.
+I, II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Target creature gets +1/+1 until end of turn.
 ​</text>
 			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/59.png" num="169">AJY</set>
 			<prop>
@@ -1452,7 +1452,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Riven Glade</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Mountain or Forest card, put it onto the battlefield tapped, then shuffle.
 {2}{RG}{RG}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/77.png" num="283">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/77.png" num="284">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1468,7 +1468,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Untethered Pasture</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Forest or Plains card, put it onto the battlefield tapped, then shuffle.
 {2}{GW}{GW}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/78.png" num="290">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/78.png" num="291">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1484,7 +1484,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Trammeled Dale</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Plains or Swamp card, put it onto the battlefield tapped, then shuffle.
 {2}{WB}{WB}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/79.png" num="288">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/79.png" num="289">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1500,7 +1500,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Tarnished Cascade</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Island or Mountain card, put it onto the battlefield tapped, then shuffle.
 {2}{UR}{UR}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/80.png" num="287">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/80.png" num="288">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1516,7 +1516,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Unbidden Bog</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Swamp or Forest card, put it onto the battlefield tapped, then shuffle.
 {2}{BG}{BG}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/81.png" num="289">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/81.png" num="290">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1548,7 +1548,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<name>Silenced Promontory</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic Forest or Island card, put it onto the battlefield tapped, then shuffle.
 {2}{GU}{GU}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/83.png" num="286">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/83.png" num="287">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1565,7 +1565,7 @@ At the beginning of your end step, if you control seven or more lands, this arti
 			<text>This land enters tapped. As it does, choose a basic land type and a nonbasic land type.
 This land is each of the chosen types in addition to its other types.
 When this land enters, scry 1.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/84.png" num="284">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/84.png" num="285">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2762,7 +2762,7 @@ When this Stage is defeated, draw a card.</text>
 			<name>Wolf at the Gates</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Discard a card, then draw two cards.
-If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
+I, II, III — If a red source or enchantment source you control would deal damage to a permanent or player this turn, it deals that much damage plus 1 to that permanent or player instead.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/148.png" num="166">AJY</set>
 			<prop>
@@ -2815,11 +2815,11 @@ If a red source or enchantment source you control would deal damage to a permane
 		<card>
 			<name>The Court&apos;s Last Hunt</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Choose one at random. Create a red creature token with those characteristics.
+I, II — Choose one at random. Create a red creature token with those characteristics.
 • 5/5 Faerie Knight with trample.
 • 5/3 Dryad Soldier with menace.
 • 3/3 Avatar Warrior with double strike.
-Whenever a creature you control attacks this turn, create a tapped and attacking token that&apos;s a copy of it.
+III — Whenever a creature you control attacks this turn, create a tapped and attacking token that&apos;s a copy of it.
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/151.png" num="163">AJY</set>
 			<prop>
@@ -3094,8 +3094,8 @@ Once during each of your turns, when you perform a rite, you may untap this arti
 			<name>Taking the Plunge</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Mill two cards. You gain 2 life.
-You may play lands from your graveyard this turn.
-You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
+I — You may play lands from your graveyard this turn.
+II — You may pay {X}. When you do, put X +1/+1 counters on target creature you control.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/165.png" num="200">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3328,9 +3328,9 @@ Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or abil
 		<card>
 			<name>The Wakeup Call</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Distribute two +1/+1 counters among any number of target creatures you control.
-Draw a card for each creature you control with counters on it.
-Untap target creature you control. After this phase, there is an additional combat phase.</text>
+I — Distribute two +1/+1 counters among any number of target creatures you control.
+II — Draw a card for each creature you control with counters on it.
+III — Untap target creature you control. After this phase, there is an additional combat phase.</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/177.png" num="240">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3513,7 +3513,7 @@ At the beginning of your end step, put a +1/+1 counter on Chaniel if you perform
 		<card>
 			<name>Relics of the Future</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 2/2 white and blue Artificer Hero creature token with &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
+I, II, III — Create a 2/2 white and blue Artificer Hero creature token with &quot;This creature gets +1/+1 for each card you&apos;ve drawn this turn.&quot;
 If an opponent has more cards in hand than you, draw a card.
 ​</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/186.png" num="260">AJY</set>
@@ -3722,8 +3722,8 @@ Creatures you control have vigilance.</text>
 			<name>Autumn Devours the Sunmaster</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 4/4 white Samurai Warlock creature token.
-Put a menace counter and a deathtouch counter on target creature.
-When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
+I — Put a menace counter and a deathtouch counter on target creature.
+II — When target creature deals combat damage to a player this turn, sacrifice it. If you do, each opponent discards two cards and loses 2 life.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/198.png" num="87">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -3911,9 +3911,9 @@ If an opponent would create one or more tokens, you may have them create that ma
 		<card>
 			<name>Winter Quiets the Soulsinger</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create a 1/3 red Soldier Bard creature token.
-Put a prowess counter on target creature.
-Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
+I — Create a 1/3 red Soldier Bard creature token.
+II — Put a prowess counter on target creature.
+III — Until end of turn, target creature gains &quot;Sacrifice this creature: Copy target instant or sorcery spell you control with mana value X or less, where X is this creature&apos;s power. You may choose new targets for the copy.&quot;</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/206.png" num="84">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4054,7 +4054,7 @@ You may cast this card from your graveyard by paying {3}{B} rather than paying i
 		<card>
 			<name>The Hallowing of Bantrel Grove</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Draw a card. You lose 3 life unless you sacrifice a creature.
+I, II, III — Draw a card. You lose 3 life unless you sacrifice a creature.
 Create a 6/6 black Treefolk Horror creature token named Daughter of Bantrel with &quot;Ward—Discard a card.&quot;
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/214.png" num="121">AJY</set>
@@ -4148,7 +4148,7 @@ Once during each of your turns, when you perform a rite, you may add {B}{B}{B}. 
 		<card>
 			<name>Seeking the Seasons</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)
-Choose one that hasn&apos;t been chosen —
+I, II, III, IV — Choose one that hasn&apos;t been chosen —
 • Add two mana of any one color.
 • Exile the top two cards of your library. You may play them this turn.
 • This Episode deals 2 damage to any target.
@@ -4190,7 +4190,7 @@ Choose one that hasn&apos;t been chosen —
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 Create a 3/2 blue Robot Avatar artifact creature token.
 Put a +1/+1 counter on target creature.
-You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
+I — You may sacrifice a creature. If you do, exile the top X cards of your library, where X is its power. You may cast a spell with mana value X or less from among them without paying its mana cost.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/220.png" num="162">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4351,9 +4351,9 @@ Creatures you control have ward {2}.</text>
 		<card>
 			<name>Spring Conquers the Cavalcade</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create two 2/2 black Demon Knight creature tokens.
-Create two tokens that are copies of target creature token you control.
-Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice any number of creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/229.png" num="196">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4693,7 +4693,7 @@ Whenever you cast an artifact creature spell or enchantment creature spell, you 
 {T}: Add {C}.
 {1}, {T}: Add one mana of any color.
 {3}, {T}: Move a lore counter from this land onto target permanent you control. Activate only as a sorcery.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/248.png" num="285">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/248.png" num="286">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5324,7 +5324,7 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/283.png" num="291">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/283.png" num="292">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5339,7 +5339,7 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/284.png" num="293">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/284.png" num="294">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5354,7 +5354,7 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/285.png" num="295">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/285.png" num="297">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5369,7 +5369,7 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/286.png" num="297">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/286.png" num="298">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5384,7 +5384,7 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/287.png" num="299">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/287.png" num="300">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5399,8 +5399,8 @@ Creatures you control have deathtouch.</text>
 		<card>
 			<name>Endless Day of Dominion</name>
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
-Create two 1/1 white Warlock creature tokens.
-Sacrifice any number of non-Treefolk creatures. Create that many 0/0 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each Treefolk you control.&quot;
+I — Create two 1/1 white Warlock creature tokens.
+II, III — Sacrifice any number of non-Treefolk creatures. Create that many 0/0 white Treefolk Soldier creature tokens with &quot;This creature gets +1/+1 for each Treefolk you control.&quot;
 ​</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/288.png" num="13">AJY</set>
 			<prop>
@@ -6194,7 +6194,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/330.png" num="292">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/330.png" num="293">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6209,7 +6209,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/331.png" num="294">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/331.png" num="295">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6239,7 +6239,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/333.png" num="298">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/333.png" num="299">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6254,7 +6254,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/334.png" num="300">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/334.png" num="301">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6338,6 +6338,22 @@ Creatures you control get +2/+2.</text>
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pallid Causeway</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic Plains or Island card, put it onto the battlefield tapped, then shuffle.
+{2}{WU}{WU}, Exile this card from your graveyard, Sacrifice a land: Draw a card.</text>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/340.png" num="283">AJY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
