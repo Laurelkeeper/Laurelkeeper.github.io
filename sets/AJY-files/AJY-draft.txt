@@ -1,11 +1,11 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Halfmortal Hearker",
+			"name": "Katabatic Paragon",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Enchantment Creature — Spirit Ferret",
-			"collector_number": "16",
+			"type": "Creature — Ferret",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/0.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scion",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/3.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/21.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Construct Bird",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/27.png"
 			}
@@ -293,7 +293,7 @@
 		{
 			"name": "Light Through the Veil",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment — Episode",
 			"collector_number": "19",
 			"image_uris": {
@@ -301,11 +301,11 @@
 			}
 		},
 		{
-			"name": "Binding Serenade",
+			"name": "Spellbinding Serenade",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "5",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/30.png"
 			}
@@ -374,7 +374,7 @@
 			"name": "Erudite Watcher",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Enchantment Creature — Spirit Bird",
+			"type": "Creature — Bird",
 			"collector_number": "57",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/37.png"
@@ -421,11 +421,11 @@
 			}
 		},
 		{
-			"name": "Outer Court Communion",
+			"name": "Peruse the Skeins",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/42.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Spirit Rogue",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/44.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Noble Hero",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/47.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/52.png"
 			}
@@ -564,7 +564,7 @@
 			"name": "Scriptkeeper",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment Creature — Elemental Hero",
+			"type": "Creature — Elemental Hero",
 			"collector_number": "158",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/56.png"
@@ -581,10 +581,10 @@
 			}
 		},
 		{
-			"name": "Hollowed Archetype",
+			"name": "Hollowheart",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature — Spirit Demon",
 			"collector_number": "147",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/58.png"
@@ -671,11 +671,11 @@
 			}
 		},
 		{
-			"name": "Inner Court Matron",
+			"name": "Springtide Matron",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "181",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/67.png"
 			}
@@ -705,7 +705,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/70.png"
 			}
@@ -721,11 +721,11 @@
 			}
 		},
 		{
-			"name": "Pallid Glistener",
+			"name": "Halfmortal Glistener",
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Enchantment Creature — Spirit Crab",
-			"collector_number": "189",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/72.png"
 			}
@@ -755,7 +755,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "179",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/75.png"
 			}
@@ -765,7 +765,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "175",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/76.png"
 			}
@@ -784,7 +784,7 @@
 			"name": "Feastkeeper",
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}{B/G}",
-			"type": "Creature — Skeleton Wurm",
+			"type": "Creature — Wurm",
 			"collector_number": "250",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/78.png"
@@ -794,7 +794,7 @@
 			"name": "Winterbreath Cantor",
 			"rarity": "common",
 			"mana_cost": "{2}{U/B}{U/B}",
-			"type": "Creature — Spirit Warlock Bard",
+			"type": "Creature — Human Warlock Bard",
 			"collector_number": "266",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/79.png"
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/102.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Spirit Wizard",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/105.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Treefolk Horror",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/107.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Demon Hero",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/109.png"
 			}
@@ -1125,17 +1125,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Knight Hero",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/112.png"
 			}
 		},
 		{
-			"name": "Timely Resurrection",
+			"name": "Halfmortality",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/113.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Artifact",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/115.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/116.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/117.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Spirit Hero",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/119.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Clown",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/124.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Construct Demon",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/135.png"
 			}
@@ -1401,11 +1401,11 @@
 			}
 		},
 		{
-			"name": "Outer Court Marksman",
+			"name": "Towering Townflenser",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Bird Archer",
-			"collector_number": "112",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/140.png"
 			}
@@ -1415,7 +1415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Vampire Advisor Warlock",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/141.png"
 			}
@@ -1465,7 +1465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/146.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Knight Hero",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/154.png"
 			}
@@ -1571,11 +1571,11 @@
 			}
 		},
 		{
-			"name": "Subsumed Stagehand",
+			"name": "Turncoat Stagehand",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "162",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/157.png"
 			}
@@ -1615,7 +1615,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/161.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Orc Knight Hero",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/163.png"
 			}
@@ -1644,7 +1644,7 @@
 			"name": "Blossoming Archetype",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment Creature — Spirit Hero",
+			"type": "Enchantment Creature — Incarnation Hero",
 			"collector_number": "47",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/164.png"
@@ -1655,17 +1655,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Skeleton Cleric",
-			"collector_number": "190",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/165.png"
 			}
 		},
 		{
-			"name": "Seneschal of Turnings",
+			"name": "Subsumed Seneschal",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Elf Spirit Noble",
-			"collector_number": "192",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/166.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "191",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/167.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Serpent",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/170.png"
 			}
@@ -1854,7 +1854,7 @@
 			"name": "Autumn's Emissary",
 			"rarity": "common",
 			"mana_cost": "{2}{B/G}",
-			"type": "Creature — Elk Spirit Horror",
+			"type": "Creature — Elk Horror",
 			"collector_number": "247",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/185.png"
@@ -1881,7 +1881,7 @@
 			}
 		},
 		{
-			"name": "Orrin, the First Golden Gaunt",
+			"name": "Orrin, the Golden Gaunt",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/W}",
 			"type": "Legendary Creature — Dryad Rebel Hero",
@@ -2021,7 +2021,7 @@
 			}
 		},
 		{
-			"name": "Beziel, Martyr of Greyvale",
+			"name": "Beziel, Intria's Hope",
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Enchantment Creature — Spirit Hero",
@@ -2035,7 +2035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Legendary Creature — Elemental Bringer",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/203.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/214.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Enchantment Creature — Spirit Advisor",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/215.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Episode",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/217.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Enchantment — Episode",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/222.png"
 			}
@@ -2275,17 +2275,17 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Noble Soldier",
-			"collector_number": "197",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/227.png"
 			}
 		},
 		{
-			"name": "The Bearer of Broken Things",
+			"name": "Hanamos, Soulweft Artisan",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Avatar Advisor",
-			"collector_number": "172",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/228.png"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Enchantment — Episode",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/230.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/232.png"
 			}
@@ -2414,7 +2414,7 @@
 			"name": "Perennia's Dragoman",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{G}",
-			"type": "Creature — Zombie Elk",
+			"type": "Creature — Elk",
 			"collector_number": "234",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/241.png"
@@ -2615,7 +2615,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Dryad Horror",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/261.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Demon Spirit",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/275.png"
 			}
@@ -2835,7 +2835,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment — Episode",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/283.png"
 			}
@@ -2864,7 +2864,7 @@
 			"name": "Kos and Desidre",
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Enchantment Creature — Human Horror",
+			"type": "Legendary Enchantment Creature — Human Spirit",
 			"collector_number": "182",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/286.png"
@@ -2955,7 +2955,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Detective",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/295.png"
 			}
@@ -3095,7 +3095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Noble Hero",
-			"collector_number": "180",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/309.png"
 			}
@@ -3104,14 +3104,14 @@
 			"name": "Unending Archetype",
 			"rarity": "mythic",
 			"mana_cost": "{7}{G}{G}",
-			"type": "Enchantment Creature — Spirit",
+			"type": "Enchantment Creature — Incarnation",
 			"collector_number": "205",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/310.png"
 			}
 		},
 		{
-			"name": "Vyshel, Halfmortal",
+			"name": "Vyshel, Halfmortal Luminary",
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Enchantment Creature — Elf Spirit",
@@ -3235,7 +3235,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/323.png"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/327.png"
 			}
@@ -3343,8 +3343,8 @@
 		{
 			"name": "Walk Inky Paths",
 			"rarity": "rare",
-			"mana_cost": "{X}{U}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/334.png"
@@ -3385,7 +3385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/338.png"
 			}
@@ -3405,7 +3405,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}{G}",
 			"type": "Legendary Creature — Human Bringer",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/340.png"
 			}
@@ -3451,11 +3451,11 @@
 			}
 		},
 		{
-			"name": "Illusory",
+			"name": "Astrotechnical",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Reminder",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/345.png"
 			}
@@ -3513,7 +3513,7 @@
 	]
 
 [rare(1)]
-	2 Halfmortal Hearker
+	2 Katabatic Paragon
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
@@ -3524,7 +3524,7 @@
 	2 The Court's Last Hunt
 	2 Vōs, Company Courier
 	2 Ambitious Aspirant
-	2 Beziel, Martyr of Greyvale
+	2 Beziel, Intria's Hope
 	2 Bringer of a New World
 	2 Autumn Devours the Sunmaster
 	2 Write Out
@@ -3545,7 +3545,7 @@
 	2 Bringer of a New Summer
 	2 Tendergaunt
 	2 Steward of Solstices
-	2 The Bearer of Broken Things
+	2 Hanamos, Soulweft Artisan
 	2 Spring Conquers the Cavalcade
 	2 Will of the Wild
 	2 Lord Tyto Bonsíc
@@ -3599,7 +3599,7 @@
 	2 Mosa, the Heartbreaker
 	2 Eleventh Hour Entrant
 	1 Unending Archetype
-	1 Vyshel, Halfmortal
+	1 Vyshel, Halfmortal Luminary
 	2 Living Refutation
 	2 A World All His Own
 	2 Walk Inky Paths
@@ -3625,7 +3625,7 @@
 	4 Meticulous Choreographer
 	4 Archon of Fettered Fate
 	4 Enshrined Excellence
-	4 Timely Resurrection
+	4 Halfmortality
 	4 Meeting the Mentor
 	4 Empty Throne
 	4 Storied Deed
@@ -3662,7 +3662,7 @@
 	4 Faceless Flamecaller
 	4 Steelbrace Star
 	4 Celebrant of Bantrel
-	4 Subsumed Stagehand
+	4 Turncoat Stagehand
 	4 Wolf at the Gates
 	4 World Made Wroth
 	4 Orrin's Ordeal
@@ -3670,7 +3670,7 @@
 	4 Cloverfield Crusader
 	4 Blossoming Archetype
 	4 Petrified Disciple
-	4 Seneschal of Turnings
+	4 Subsumed Seneschal
 	4 Sanctuary-Bound Invoker
 	4 Stagework Trainers
 	4 Tabula Rata
@@ -3691,7 +3691,7 @@
 	4 The Wakeup Call
 	4 Eni, Child of Steel
 	4 Spring's Cupbearer
-	4 Orrin, the First Golden Gaunt
+	4 Orrin, the Golden Gaunt
 	4 Hard-Eyed Starlet
 	4 Chaniel, Patient and Penitent
 	4 Cindrel Gloamspeaker
@@ -3728,7 +3728,7 @@
 	8 Exasperated Setdresser
 	8 Word of Unbeing
 	8 Light Through the Veil
-	8 Binding Serenade
+	8 Spellbinding Serenade
 	8 Entranced Villagers
 	8 Lost Ascendant
 	8 Silverwing Companion
@@ -3739,7 +3739,7 @@
 	8 Ascendant Talekeeper
 	8 Refusal of the Call
 	8 Ebbing Essence
-	8 Outer Court Communion
+	8 Peruse the Skeins
 	8 Spire Echo
 	8 Profaned Elder
 	8 Decadent Scriptwriter
@@ -3752,7 +3752,7 @@
 	8 Bloodcaster Neophyte
 	8 Scriptkeeper
 	8 Rotwinder
-	8 Hollowed Archetype
+	8 Hollowheart
 	8 Elder Soothsinger
 	8 Flenser Mob
 	8 Wickerbound Warlord
@@ -3761,12 +3761,12 @@
 	8 Memory Blossom
 	8 A Fateful Journey
 	8 Lorn-Road Guide
-	8 Inner Court Matron
+	8 Springtide Matron
 	8 Auspicious Mushroom
 	8 Lorn-Road Falconer
 	8 Solemn Gladekeeper
 	8 Untroubled Vagabond
-	8 Pallid Glistener
+	8 Halfmortal Glistener
 	8 Night's Clarity
 	8 A Cold Voice
 	8 Court the Corrupt
@@ -3797,7 +3797,7 @@
 	8 An Unexpected Journey
 	8 Smelted Wight
 	8 Audacious Auditioner
-	8 Outer Court Marksman
+	8 Towering Townflenser
 	8 Autumn's Emissary
 	8 Splintereater
 	8 Pallid Causeway
@@ -3818,7 +3818,7 @@
 	8 Exasperated Setdresser
 	8 Word of Unbeing
 	8 Light Through the Veil
-	8 Binding Serenade
+	8 Spellbinding Serenade
 	8 Entranced Villagers
 	8 Lost Ascendant
 	8 Silverwing Companion
@@ -3829,7 +3829,7 @@
 	8 Ascendant Talekeeper
 	8 Refusal of the Call
 	8 Ebbing Essence
-	8 Outer Court Communion
+	8 Peruse the Skeins
 	8 Spire Echo
 	8 Profaned Elder
 	8 Decadent Scriptwriter
@@ -3842,7 +3842,7 @@
 	8 Bloodcaster Neophyte
 	8 Scriptkeeper
 	8 Rotwinder
-	8 Hollowed Archetype
+	8 Hollowheart
 	8 Elder Soothsinger
 	8 Flenser Mob
 	8 Wickerbound Warlord
@@ -3851,12 +3851,12 @@
 	8 Memory Blossom
 	8 A Fateful Journey
 	8 Lorn-Road Guide
-	8 Inner Court Matron
+	8 Springtide Matron
 	8 Auspicious Mushroom
 	8 Lorn-Road Falconer
 	8 Solemn Gladekeeper
 	8 Untroubled Vagabond
-	8 Pallid Glistener
+	8 Halfmortal Glistener
 	8 Night's Clarity
 	8 A Cold Voice
 	8 Court the Corrupt
@@ -3887,7 +3887,7 @@
 	8 An Unexpected Journey
 	8 Smelted Wight
 	8 Audacious Auditioner
-	8 Outer Court Marksman
+	8 Towering Townflenser
 	8 Autumn's Emissary
 	8 Splintereater
 	8 Pallid Causeway
@@ -3898,7 +3898,7 @@
 	8 Impart Strength
 	8 Nourishing Shell
 [foil(1)]
-	2 Halfmortal Hearker
+	2 Katabatic Paragon
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
@@ -3913,7 +3913,7 @@
 	12 Exasperated Setdresser
 	12 Word of Unbeing
 	12 Light Through the Veil
-	12 Binding Serenade
+	12 Spellbinding Serenade
 	12 Entranced Villagers
 	12 Lost Ascendant
 	12 Silverwing Companion
@@ -3925,7 +3925,7 @@
 	12 Refusal of the Call
 	6 Out of the Puzzlebox
 	12 Ebbing Essence
-	12 Outer Court Communion
+	12 Peruse the Skeins
 	6 Bound Blossom
 	12 Spire Echo
 	6 Mournful Pursuer
@@ -3941,7 +3941,7 @@
 	12 Bloodcaster Neophyte
 	12 Scriptkeeper
 	12 Rotwinder
-	12 Hollowed Archetype
+	12 Hollowheart
 	12 Elder Soothsinger
 	12 Flenser Mob
 	12 Wickerbound Warlord
@@ -3950,12 +3950,12 @@
 	12 Memory Blossom
 	12 A Fateful Journey
 	12 Lorn-Road Guide
-	12 Inner Court Matron
+	12 Springtide Matron
 	12 Auspicious Mushroom
 	12 Lorn-Road Falconer
 	12 Solemn Gladekeeper
 	12 Untroubled Vagabond
-	12 Pallid Glistener
+	12 Halfmortal Glistener
 	12 Night's Clarity
 	12 A Cold Voice
 	12 Court the Corrupt
@@ -3996,7 +3996,7 @@
 	6 Meticulous Choreographer
 	6 Archon of Fettered Fate
 	6 Enshrined Excellence
-	6 Timely Resurrection
+	6 Halfmortality
 	6 Meeting the Mentor
 	6 Empty Throne
 	6 Storied Deed
@@ -4023,7 +4023,7 @@
 	6 Bramblebound Laborer
 	12 Audacious Auditioner
 	6 Light-Eater Servant
-	12 Outer Court Marksman
+	12 Towering Townflenser
 	6 Senior Editor
 	6 Lexyrinth Keeper
 	6 Moldering Hour
@@ -4040,7 +4040,7 @@
 	6 Steelbrace Star
 	2 Until We Meet Once More
 	6 Celebrant of Bantrel
-	6 Subsumed Stagehand
+	6 Turncoat Stagehand
 	6 Wolf at the Gates
 	6 World Made Wroth
 	6 Orrin's Ordeal
@@ -4049,7 +4049,7 @@
 	6 Cloverfield Crusader
 	6 Blossoming Archetype
 	6 Petrified Disciple
-	6 Seneschal of Turnings
+	6 Subsumed Seneschal
 	6 Sanctuary-Bound Invoker
 	6 Stagework Trainers
 	6 Tabula Rata
@@ -4071,7 +4071,7 @@
 	12 Autumn's Emissary
 	6 Eni, Child of Steel
 	6 Spring's Cupbearer
-	6 Orrin, the First Golden Gaunt
+	6 Orrin, the Golden Gaunt
 	6 Hard-Eyed Starlet
 	6 Chaniel, Patient and Penitent
 	6 Cindrel Gloamspeaker
@@ -4085,7 +4085,7 @@
 	6 Book of Bitter Endings
 	2 Vōs, Company Courier
 	2 Ambitious Aspirant
-	2 Beziel, Martyr of Greyvale
+	2 Beziel, Intria's Hope
 	2 Bringer of a New World
 	2 Autumn Devours the Sunmaster
 	2 Write Out
@@ -4111,7 +4111,7 @@
 	6 Caller of Adventure
 	2 Tendergaunt
 	2 Steward of Solstices
-	2 The Bearer of Broken Things
+	2 Hanamos, Soulweft Artisan
 	6 Tenacious Bonehost
 	2 Spring Conquers the Cavalcade
 	2 Will of the Wild
@@ -4169,7 +4169,7 @@
 	2 Mosa, the Heartbreaker
 	2 Eleventh Hour Entrant
 	1 Unending Archetype
-	1 Vyshel, Halfmortal
+	1 Vyshel, Halfmortal Luminary
 	12 Pallid Causeway
 	12 Branches' Benevolence
 	2 Living Refutation
@@ -4191,7 +4191,7 @@
 	6 Clean Fate
 	1 Kindly Winter
 [wildcard(1)]
-	7 Halfmortal Hearker
+	7 Katabatic Paragon
 	7 In Servitude Sublime
 	7 Fevered Fancy
 	7 Coronation Candidate
@@ -4206,7 +4206,7 @@
 	6 Exasperated Setdresser
 	6 Word of Unbeing
 	6 Light Through the Veil
-	6 Binding Serenade
+	6 Spellbinding Serenade
 	6 Entranced Villagers
 	6 Lost Ascendant
 	6 Silverwing Companion
@@ -4218,7 +4218,7 @@
 	6 Refusal of the Call
 	15 Out of the Puzzlebox
 	6 Ebbing Essence
-	6 Outer Court Communion
+	6 Peruse the Skeins
 	15 Bound Blossom
 	6 Spire Echo
 	15 Mournful Pursuer
@@ -4234,7 +4234,7 @@
 	6 Bloodcaster Neophyte
 	6 Scriptkeeper
 	6 Rotwinder
-	6 Hollowed Archetype
+	6 Hollowheart
 	6 Elder Soothsinger
 	6 Flenser Mob
 	6 Wickerbound Warlord
@@ -4243,12 +4243,12 @@
 	6 Memory Blossom
 	6 A Fateful Journey
 	6 Lorn-Road Guide
-	6 Inner Court Matron
+	6 Springtide Matron
 	6 Auspicious Mushroom
 	6 Lorn-Road Falconer
 	6 Solemn Gladekeeper
 	6 Untroubled Vagabond
-	6 Pallid Glistener
+	6 Halfmortal Glistener
 	6 Night's Clarity
 	6 A Cold Voice
 	6 Court the Corrupt
@@ -4289,7 +4289,7 @@
 	15 Meticulous Choreographer
 	15 Archon of Fettered Fate
 	15 Enshrined Excellence
-	15 Timely Resurrection
+	15 Halfmortality
 	15 Meeting the Mentor
 	15 Empty Throne
 	15 Storied Deed
@@ -4316,7 +4316,7 @@
 	15 Bramblebound Laborer
 	6 Audacious Auditioner
 	15 Light-Eater Servant
-	6 Outer Court Marksman
+	6 Towering Townflenser
 	15 Senior Editor
 	15 Lexyrinth Keeper
 	15 Moldering Hour
@@ -4333,7 +4333,7 @@
 	15 Steelbrace Star
 	7 Until We Meet Once More
 	15 Celebrant of Bantrel
-	15 Subsumed Stagehand
+	15 Turncoat Stagehand
 	15 Wolf at the Gates
 	15 World Made Wroth
 	15 Orrin's Ordeal
@@ -4342,7 +4342,7 @@
 	15 Cloverfield Crusader
 	15 Blossoming Archetype
 	15 Petrified Disciple
-	15 Seneschal of Turnings
+	15 Subsumed Seneschal
 	15 Sanctuary-Bound Invoker
 	15 Stagework Trainers
 	15 Tabula Rata
@@ -4364,7 +4364,7 @@
 	6 Autumn's Emissary
 	15 Eni, Child of Steel
 	15 Spring's Cupbearer
-	15 Orrin, the First Golden Gaunt
+	15 Orrin, the Golden Gaunt
 	15 Hard-Eyed Starlet
 	15 Chaniel, Patient and Penitent
 	15 Cindrel Gloamspeaker
@@ -4378,7 +4378,7 @@
 	15 Book of Bitter Endings
 	7 Vōs, Company Courier
 	7 Ambitious Aspirant
-	7 Beziel, Martyr of Greyvale
+	7 Beziel, Intria's Hope
 	7 Bringer of a New World
 	7 Autumn Devours the Sunmaster
 	7 Write Out
@@ -4404,7 +4404,7 @@
 	15 Caller of Adventure
 	7 Tendergaunt
 	7 Steward of Solstices
-	7 The Bearer of Broken Things
+	7 Hanamos, Soulweft Artisan
 	15 Tenacious Bonehost
 	7 Spring Conquers the Cavalcade
 	7 Will of the Wild
@@ -4462,7 +4462,7 @@
 	7 Mosa, the Heartbreaker
 	7 Eleventh Hour Entrant
 	4 Unending Archetype
-	4 Vyshel, Halfmortal
+	4 Vyshel, Halfmortal Luminary
 	6 Pallid Causeway
 	6 Branches' Benevolence
 	7 Living Refutation

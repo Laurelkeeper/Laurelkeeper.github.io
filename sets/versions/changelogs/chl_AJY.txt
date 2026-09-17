@@ -1,4 +1,136 @@
-﻿VERSION 49 CHANGELOG
+﻿VERSION 50 CHANGELOG
+====================
+
+Katabatic Paragon added.
+Spellbinding Serenade added.
+Peruse the Skeins added.
+Hollowheart added.
+Springtide Matron added.
+Halfmortal Glistener added.
+Halfmortality added.
+Towering Townflenser added.
+Turncoat Stagehand added.
+Subsumed Seneschal added.
+Orrin, the Golden Gaunt added.
+Beziel, Intria's Hope added.
+Hanamos, Soulweft Artisan added.
+Vyshel, Halfmortal Luminary added.
+Astrotechnical added.
+
+Halfmortal Hearker removed.
+Binding Serenade removed.
+Outer Court Communion removed.
+Hollowed Archetype removed.
+Inner Court Matron removed.
+Pallid Glistener removed.
+Timely Resurrection removed.
+Outer Court Marksman removed.
+Subsumed Stagehand removed.
+Seneschal of Turnings removed.
+Orrin, the First Golden Gaunt removed.
+Beziel, Martyr of Greyvale removed.
+The Bearer of Broken Things removed.
+Vyshel, Halfmortal removed.
+Illusory removed.
+
+Speculative Scriptwriting
+rules_text: Enchant you or a creature you control
+Whenever you scry or surveil, if this Aura is attached to a creature, put a +1/+1 counter that creature, then attach this Aura to you.
+Whenever you scry or surveil, if this Aura is attached to a player, create a 1/1 blue Reflection Hero creature token, then attach this Aura to a creature you control. => Enchant you or a creature you control
+Whenever you scry or surveil, if this Aura is attached to a creature, put a +1/+1 counter on that creature, then attach this Aura to you.
+Whenever you scry or surveil, if this Aura is attached to a player, create a 1/1 blue Reflection Hero creature token, then attach this Aura to a creature you control.
+
+Light Through the Veil
+cost: {1}{W} => {W}
+
+Iridium Muse
+rules_text: Vigilance
+When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](You may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i] => When this creature enters, draw a card, then discard a card. If you discarded a nonland card this way, chronicle. [i](You may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+pt: 2/3 => 3/2
+
+Erudite Watcher
+type: Enchantment Creature — Spirit Bird => Creature — Bird
+
+Ebbing Essence
+
+Bound Blossom
+
+Spire Echo
+
+Scriptkeeper
+type: Enchantment Creature — Elemental Hero => Creature — Elemental Hero
+
+Rotwinder
+
+Feastkeeper
+type: Creature — Skeleton Wurm => Creature — Wurm
+
+Winterbreath Cantor
+type: Creature — Spirit Warlock Bard => Creature — Human Warlock Bard
+
+Summer's Castellan
+
+Astrotechnics
+rules_text: Create a token that's a copy of target permanent you control with mana value 3 or less, except it's a 3/3 blue Illusion Bird enchantment creature with flying in addition to its other colors and types. => Create a token that's a copy of target permanent you control with mana value 3 or less, except it's a 3/3 blue Illusion Bird creature with flying in addition to its other colors and types.
+
+Cindrel Wight
+
+Blossoming Archetype
+type: Enchantment Creature — Spirit Hero => Enchantment Creature — Incarnation Hero
+
+Autumn's Emissary
+type: Creature — Elk Spirit Horror => Creature — Elk Horror
+
+Scoremaster
+rules_text: Whenever this creature enters or dies, choose a counter on target permanent you control. Put an additional counter of that kind on that permanent. => When this creature enters or dies, choose a counter on target permanent you control. Put an additional counter of that kind on that permanent.
+pt: 1/1 => 1/2
+
+Spring Conquers the Cavalcade
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice two creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — You may sacrifice two creatures. If you do, search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield. Shuffle.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — Sacrifice two creatures. Search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield, then shuffle. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create two 2/2 black Demon Knight creature tokens.
+II — Create two tokens that are copies of target creature token you control.
+III — You may sacrifice two creatures. If you do, search your library for a creature card with mana value less than or equal to their total power and put it onto the battlefield. Shuffle.
+
+Rally the Understudies
+
+Perennia's Dragoman
+type: Creature — Zombie Elk => Creature — Elk
+
+Vexior, Clouds in Chains
+
+Kos and Desidre
+type: Legendary Enchantment Creature — Human Horror => Legendary Enchantment Creature — Human Spirit
+
+Unending Archetype
+type: Enchantment Creature — Spirit => Enchantment Creature — Incarnation
+
+Branches' Benevolence
+rules_text: Put a +1/+1 counter on target creature.
+{W}, Exile this card from your graveyard: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Put a +1/+1 counter on up to one target creature.
+Target player surveils 1. [i](They look at the top card of their library, and may put it into their graveyard.)[/i]
+
+Wicker Vanguard
+
+Walk Inky Paths
+type: Sorcery => Instant
+cost: {X}{U} => {1}{U}{U}
+rules_text: Surveil X, draw X cards, then discard X cards. [i](To surveil X, look at the top X cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Surveil 4. When you put one or more land cards into your graveyard this way, tap target creature and put that many stun counters on it. When you put one or more nonland cards into your graveyard this way, untap target creature and put that many +1/+1 counters on it.
+Draw a card.
+
+Branch Command
+
+
+VERSION 49 CHANGELOG
 ====================
 
 Walk Inky Paths added.
