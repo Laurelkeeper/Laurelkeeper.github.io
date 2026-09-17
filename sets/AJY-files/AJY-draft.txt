@@ -45,7 +45,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/4.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Peasant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Warlock Hero",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Faerie Dragon",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Robot Bard",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Ranger Hero",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/35.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Enchantment Creature — Spirit Bird",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/37.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Episode",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/42.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Faerie Rogue Hero",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/118.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Faerie Bard Hero",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Robot Wizard",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/122.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Clown",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/124.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/126.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Moth Noble Hero",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/129.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/130.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Artifact",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/132.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Bird Hero",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/208.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Human Noble",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/209.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Skeleton Advisor",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/212.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Enchantment Creature — Avatar Wizard",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Enchantment Creature — Spirit Shaman",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/259.png"
 			}
@@ -3005,7 +3005,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/300.png"
 			}
@@ -3103,7 +3103,7 @@
 		{
 			"name": "Unending Archetype",
 			"rarity": "mythic",
-			"mana_cost": "{5}{G}{G}",
+			"mana_cost": "{7}{G}{G}",
 			"type": "Enchantment Creature — Spirit",
 			"collector_number": "205",
 			"image_uris": {
@@ -3341,11 +3341,11 @@
 			}
 		},
 		{
-			"name": "The Darkest Hour",
+			"name": "Walk Inky Paths",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{X}{U}",
 			"type": "Sorcery",
-			"collector_number": "53",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/334.png"
 			}
@@ -3495,7 +3495,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Planeswalker — Winter",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/349.png"
 			}
@@ -3602,7 +3602,7 @@
 	1 Vyshel, Halfmortal
 	2 Living Refutation
 	2 A World All His Own
-	2 The Darkest Hour
+	2 Walk Inky Paths
 	2 Kill Your Darlings
 	2 Branch Command
 	2 Bringer of a New Spring
@@ -4182,7 +4182,7 @@
 	2 A World All His Own
 	6 A Threnody for Truth
 	6 Climactic Moment
-	2 The Darkest Hour
+	2 Walk Inky Paths
 	2 Kill Your Darlings
 	12 Nourishing Shell
 	6 Hallowed Intermission
@@ -4475,7 +4475,7 @@
 	7 A World All His Own
 	15 A Threnody for Truth
 	15 Climactic Moment
-	7 The Darkest Hour
+	7 Walk Inky Paths
 	7 Kill Your Darlings
 	6 Nourishing Shell
 	15 Hallowed Intermission

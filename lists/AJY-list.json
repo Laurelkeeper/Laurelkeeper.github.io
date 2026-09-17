@@ -9,7 +9,7 @@
     },
     {
         "card_name": "Dramaturge's Masterwork",
-        "number": 55,
+        "number": 54,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -49,7 +49,7 @@
     },
     {
         "card_name": "Hiemal Virtuoso",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -89,7 +89,7 @@
     },
     {
         "card_name": "Kindly Winter",
-        "number": 65,
+        "number": 64,
         "shape": "planeswalker",
         "set": "AJY",
         "rotated": false,
@@ -208,12 +208,12 @@
         "position": "0"
     },
     {
-        "card_name": "The Darkest Hour",
-        "number": 53,
+        "card_name": "Glassgazer",
+        "number": 59,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "334"
+        "position": "208"
     },
     {
         "card_name": "In Servitude Sublime",
@@ -248,12 +248,12 @@
         "position": "206"
     },
     {
-        "card_name": "Glassgazer",
-        "number": 60,
+        "card_name": "Polished Proofreader",
+        "number": 69,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "208"
+        "position": "212"
     },
     {
         "card_name": "Kill Your Darlings",
@@ -288,12 +288,12 @@
         "position": "324"
     },
     {
-        "card_name": "Polished Proofreader",
+        "card_name": "Preserve the Script",
         "number": 70,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "212"
+        "position": "300"
     },
     {
         "card_name": "Plot Armor",
@@ -328,12 +328,12 @@
         "position": "292"
     },
     {
-        "card_name": "Preserve the Script",
-        "number": 71,
+        "card_name": "Speculative Scriptwriting",
+        "number": 77,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "300"
+        "position": "4"
     },
     {
         "card_name": "The Hallowing of Bantrel Grove",
@@ -368,12 +368,12 @@
         "position": "148"
     },
     {
-        "card_name": "Speculative Scriptwriting",
+        "card_name": "Theyna, Magistrate of Salabraxas",
         "number": 78,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "4"
+        "position": "209"
     },
     {
         "card_name": "Tormented Ghostwriter",
@@ -408,12 +408,12 @@
         "position": "200"
     },
     {
-        "card_name": "Theyna, Magistrate of Salabraxas",
-        "number": 79,
+        "card_name": "Walk Inky Paths",
+        "number": 81,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "209"
+        "position": "334"
     },
     {
         "card_name": "Unfinished Draft",
@@ -689,7 +689,7 @@
     },
     {
         "card_name": "Fluttering Flitwits",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Hidden Heir",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -769,7 +769,7 @@
     },
     {
         "card_name": "Inkwell Monolith",
-        "number": 63,
+        "number": 62,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -809,7 +809,7 @@
     },
     {
         "card_name": "Out of the Puzzlebox",
-        "number": 67,
+        "number": 66,
         "shape": "saga",
         "set": "AJY",
         "rotated": false,
@@ -849,7 +849,7 @@
     },
     {
         "card_name": "Peripatetic Harlequin",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Quiet on Set",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -929,7 +929,7 @@
     },
     {
         "card_name": "The Road Back",
-        "number": 74,
+        "number": 73,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -969,7 +969,7 @@
     },
     {
         "card_name": "Sentinel of Old Intria",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Shard of Revelation",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1049,7 +1049,7 @@
     },
     {
         "card_name": "Traveling Players",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1249,7 +1249,7 @@
     },
     {
         "card_name": "Derrilyn Falconer",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1289,7 +1289,7 @@
     },
     {
         "card_name": "Ebbing Essence",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1329,7 +1329,7 @@
     },
     {
         "card_name": "Entranced Villagers",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1369,7 +1369,7 @@
     },
     {
         "card_name": "Erudite Watcher",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1409,7 +1409,7 @@
     },
     {
         "card_name": "Iridium Muse",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1449,7 +1449,7 @@
     },
     {
         "card_name": "Lost Ascendant",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1489,7 +1489,7 @@
     },
     {
         "card_name": "Outer Court Communion",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1529,7 +1529,7 @@
     },
     {
         "card_name": "Refusal of the Call",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1569,7 +1569,7 @@
     },
     {
         "card_name": "Silverwing Companion",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1609,7 +1609,7 @@
     },
     {
         "card_name": "An Unexpected Journey",
-        "number": 81,
+        "number": 80,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,

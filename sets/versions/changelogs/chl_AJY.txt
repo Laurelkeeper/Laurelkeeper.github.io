@@ -1,4 +1,23 @@
-﻿VERSION 48 CHANGELOG
+﻿VERSION 49 CHANGELOG
+====================
+
+Walk Inky Paths added.
+
+The Darkest Hour removed.
+
+Blossoming Archetype
+
+Dramaturge's Masterwork
+rules_text: You may have this creature enter as a copy of any nonland permanent on the battlefield, except it's an enchantment creature in addition to its other types, enters with a number of additional +1/+1 counters on it equal to that permanent's mana value, and has vigilance if that permanent is white, flying if it's blue, lifelink if it's black, trample if it's red, and ward {2} if it's green. => You may have this creature enter as a copy of any nonland permanent on the battlefield, except it's an enchantment creature in addition to its other types, it enters with a number of additional +1/+1 counters on it equal to that permanent's mana value, and has vigilance if that permanent is white, flying if it's blue, lifelink if it's black, trample if it's red, and ward {2} if it's green.
+
+Unending Archetype
+cost: {5}{G}{G} => {7}{G}{G}
+rules_text: Flash
+When this creature enters, if it was cast, put a retelling counter on each of up to seven target permanents. For as long as those permanents have retelling counters on them, they have “When this permanent leaves the battlefield, create a token that's a copy of it.” => Indestructible
+When this creature enters, if it was cast, put your graveyard on the bottom of your library in a random order. Then reveal that many cards from the top of your library, put all permanent cards from among them onto the battlefield, and put the rest on the bottom of your library in a random order.
+
+
+VERSION 48 CHANGELOG
 ====================
 
 Halfmortal Hearker added.
