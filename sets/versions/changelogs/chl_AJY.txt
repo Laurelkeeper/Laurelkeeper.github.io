@@ -1,4 +1,9 @@
-﻿VERSION 51 CHANGELOG
+﻿VERSION 52 CHANGELOG
+====================
+
+No changes.
+
+VERSION 51 CHANGELOG
 ====================
 
 Katabatic Archivist added.
