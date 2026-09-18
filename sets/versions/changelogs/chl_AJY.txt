@@ -1,4 +1,188 @@
-﻿VERSION 50 CHANGELOG
+﻿VERSION 51 CHANGELOG
+====================
+
+Katabatic Archivist added.
+Subservient Echo added.
+Mournful Melodist added.
+Regent of Bantrel added.
+Legends Never Die added.
+Capture the Craft added.
+The Fall of Cindrel Forge added.
+The Hewing of Bantrel Grove added.
+Hana, Kindly Sempster added.
+The Endless Bright Crusades added.
+Graveborn Soldier added.
+Stars Painted Anew added.
+Every Eye on You added.
+Halfmortal added.
+
+Katabatic Paragon removed.
+Spire Echo removed.
+Mournful Pursuer removed.
+Bounty of Bantrel removed.
+Halfmortality removed.
+Astrotechnics removed.
+Wolf at the Gates removed.
+The Hallowing of Bantrel Grove removed.
+Hanamos, Soulweft Artisan removed.
+Endless Day of Dominion removed.
+Treefolk Soldier removed.
+Unending Archetype removed.
+Climactic Moment removed.
+Astrotechnical removed.
+
+Sorrowed Cavalier
+rules_text: Occlude {3}, Sacrifice this creature: Destroy target artifact or enchantment. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i] => Occlude {2}, Sacrifice this creature: Destroy target artifact or enchantment. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i]
+
+Light Through the Veil
+type: Enchantment — Episode => Enchantment — Script
+cost: {W} => {1}{W}
+
+Out of the Puzzlebox
+type: Enchantment — Episode => Enchantment — Script
+
+Contract Concluded
+type: Sorcery => Instant
+rules_text: Choose one —
+• Target creature gets -2/-2 until end of turn. You gain 2 life.
+• You may sacrifice a creature. If you do, draw two cards. => Choose one —
+• Target creature gets -2/-0 until end of turn. You gain 2 life.
+• You may sacrifice a creature. If you do, draw two cards.
+
+Long Road Home
+type: Enchantment — Episode => Enchantment — Script
+
+Enthralled Acolyte
+
+Bloodcaster Neophyte
+rules_text: {1}{R}, Sacrifice another creature: This creature deals 1 damage to each opponent and gains flying until end of turn. => Occlude {4}: This creature deals 1 damage to each opponent and gains flying until end of turn. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i]
+pt: 3/3 => 3/2
+
+Hollowheart
+
+Pagepyre
+
+A Star is Born
+type: Enchantment — Episode => Enchantment — Script
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 red Peasant Hero creature token.
+II — This Episode deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 red Peasant Hero creature token.
+II — This Script deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 red Peasant Hero creature token.
+II — This Episode deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Create a 1/1 red Peasant Hero creature token.
+II — This Script deals 1 damage to target player.
+III — Put a +1/+1 counter on target Hero.
+
+A Cold Voice
+type: Enchantment — Episode => Enchantment — Script
+
+Burst of Mettle
+
+Summer's Castellan
+type: Enchantment Creature — Spirit Wolf => Enchantment Creature — Spirit Cat
+
+Storied Deed
+cost: {W} => {4}{W}
+rules_text: Choose one. You may choose both if each targets the same Hero or legendary creature.
+• Target creature gets +1/+0 and gains flying and first strike until end of turn.
+• Target creature gets +0/+1 and gains hexproof and lifelink until end of turn. => Chronicle. [i](You may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Each creature you control with counters on it gains double strike until end of turn.
+
+Defiant Dreamer
+
+Towering Townflenser
+type: Creature — Bird Archer => Creature — Beast
+
+Moldering Hour
+
+Close the Curtain
+
+Cindrel Wight
+
+The Court's Last Hunt
+type: Enchantment — Episode => Enchantment — Script
+
+Tabula Rata
+rules_text: Trample
+Whenever this creature attacks, you may cast target permanent card with mana value 4 or less from your graveyard.
+As long as you're captivated, double all damage this creature would deal. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Haste
+Whenever Tabula Rata attacks, you may cast target permanent card with mana value 4 or less from your graveyard. [i](You still pay its costs.)[/i]
+During your turn, Tabula Rata gets +2/+0 and has trample if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+pt: 6/6 => 4/6
+
+Taking the Plunge
+type: Enchantment — Episode => Enchantment — Script
+
+The Wakeup Call
+type: Enchantment — Episode => Enchantment — Script
+
+Relics of the Future
+type: Enchantment — Episode => Enchantment — Script
+
+Autumn Devours the Sunmaster
+type: Enchantment — Episode => Enchantment — Script
+
+Winter Quiets the Soulsinger
+type: Enchantment — Episode => Enchantment — Script
+
+Vision of Manque
+rules_text: When Manque enters, you may pay 2 life. If you do, draw a card.
+Whenever you draw your second card each turn, you may discard a card. If you do, add {B}{B}. => When Manque enters, you may pay 2 life. If you do, draw a card.
+Whenever you draw your second card each turn, you may discard a card. If you do, add two mana of any one color.
+
+Seeking the Seasons
+type: Enchantment — Episode => Enchantment — Script
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen —
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen —
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Script deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen —
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Episode deals 2 damage to any target.
+• Put two +1/+1 counters on target creature. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 4.)[/i]
+I, II, III, IV — Choose one that hasn't been chosen —
+• Add two mana of any one color.
+• Exile the top two cards of your library. You may play them this turn.
+• This Script deals 2 damage to any target.
+• Put two +1/+1 counters on target creature.
+
+Summer Outshines the Godmind
+type: Enchantment — Episode => Enchantment — Script
+
+Spring Conquers the Cavalcade
+type: Enchantment — Episode => Enchantment — Script
+
+The Lady Bantrel
+rules_text: Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i] => Ward—Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless they discard a card.)[/i]
+
+Bringer of a New Autumn
+rules_text: You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+Whenever an opponent casts a spell, they may pay 2 life. If they don't, you draw a card and gain 2 life.
+Artifacts and artifact spells you control have the preceding abilities. => You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+When this permanent enters, it deals 2 damage to any target and you gain 2 life.
+Artifacts and artifact spells you control have the preceding abilities.
+
+Impart Strength
+
+Nourishing Shell
+
+
+VERSION 50 CHANGELOG
 ====================
 
 Katabatic Paragon added.

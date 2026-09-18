@@ -1,11 +1,11 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Katabatic Paragon",
+			"name": "Katabatic Archivist",
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Ferret",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/1.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/20.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Peasant Hero",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/23.png"
 			}
@@ -255,7 +255,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "32",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/25.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Construct Bird",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/27.png"
 			}
@@ -293,9 +293,9 @@
 		{
 			"name": "Light Through the Veil",
 			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Enchantment — Episode",
-			"collector_number": "19",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Script",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
-			"collector_number": "33",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/30.png"
 			}
@@ -404,7 +404,7 @@
 			"name": "Out of the Puzzlebox",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/40.png"
@@ -441,31 +441,31 @@
 			}
 		},
 		{
-			"name": "Spire Echo",
+			"name": "Subservient Echo",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment Creature — Spirit Rogue",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/44.png"
 			}
 		},
 		{
-			"name": "Mournful Pursuer",
+			"name": "Mournful Melodist",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Wolf Hero",
-			"collector_number": "111",
+			"type": "Creature — Human Bard Hero",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/45.png"
 			}
 		},
 		{
-			"name": "Bounty of Bantrel",
+			"name": "Regent of Bantrel",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Skeleton Elk",
-			"collector_number": "92",
+			"type": "Enchantment Creature — Spirit Elk",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Zombie Noble Hero",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Advisor",
-			"collector_number": "101",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/48.png"
 			}
@@ -504,8 +504,8 @@
 			"name": "Contract Concluded",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "99",
+			"type": "Instant",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/50.png"
 			}
@@ -514,8 +514,8 @@
 			"name": "Long Road Home",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Enchantment — Episode",
-			"collector_number": "109",
+			"type": "Enchantment — Script",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/51.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
 			"type": "Creature — Demon Warrior",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/61.png"
 			}
@@ -634,7 +634,7 @@
 			"name": "A Star is Born",
 			"rarity": "common",
 			"mana_cost": "{R}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "127",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/63.png"
@@ -744,7 +744,7 @@
 			"name": "A Cold Voice",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "169",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/74.png"
@@ -824,7 +824,7 @@
 			"name": "Summer's Castellan",
 			"rarity": "common",
 			"mana_cost": "{4}{R/G}{R/G}",
-			"type": "Enchantment Creature — Spirit Wolf",
+			"type": "Enchantment Creature — Spirit Cat",
 			"collector_number": "263",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/82.png"
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Human Noble Hero",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Hero",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Spirit Wizard",
-			"collector_number": "35",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "28",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Treefolk Horror",
-			"collector_number": "34",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Faerie Warrior Hero",
-			"collector_number": "30",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/108.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Elf Spider Advisor",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/110.png"
 			}
@@ -1125,17 +1125,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Construct Knight Hero",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/112.png"
 			}
 		},
 		{
-			"name": "Halfmortality",
+			"name": "Legends Never Die",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{X}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/114.png"
 			}
@@ -1163,9 +1163,9 @@
 		{
 			"name": "Storied Deed",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/116.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/117.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Dryad Wizard Warrior",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/123.png"
 			}
@@ -1331,11 +1331,11 @@
 			}
 		},
 		{
-			"name": "Astrotechnics",
+			"name": "Capture the Craft",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/133.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dryad Cleric",
-			"collector_number": "31",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/134.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Hero",
-			"collector_number": "102",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/136.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Horror Peasant",
-			"collector_number": "93",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/137.png"
 			}
@@ -1404,7 +1404,7 @@
 			"name": "Towering Townflenser",
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Bird Archer",
+			"type": "Creature — Beast",
 			"collector_number": "124",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/140.png"
@@ -1425,7 +1425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Artifact Creature — Construct Bird",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/142.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/143.png"
 			}
@@ -1455,7 +1455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "97",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/145.png"
 			}
@@ -1475,7 +1475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/147.png"
 			}
@@ -1545,7 +1545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Knight Hero",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/154.png"
 			}
@@ -1555,7 +1555,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/155.png"
 			}
@@ -1575,17 +1575,17 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/157.png"
 			}
 		},
 		{
-			"name": "Wolf at the Gates",
+			"name": "The Fall of Cindrel Forge",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Enchantment — Episode",
-			"collector_number": "167",
+			"type": "Enchantment — Script",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/158.png"
 			}
@@ -1614,7 +1614,7 @@
 			"name": "The Court's Last Hunt",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "163",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/161.png"
@@ -1645,7 +1645,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment Creature — Incarnation Hero",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/164.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Elf Spirit Noble",
-			"collector_number": "197",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/166.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Rat Hero",
-			"collector_number": "198",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/169.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Artifact",
-			"collector_number": "204",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/172.png"
 			}
@@ -1744,8 +1744,8 @@
 			"name": "Taking the Plunge",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Enchantment — Episode",
-			"collector_number": "199",
+			"type": "Enchantment — Script",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Human Spirit Hero",
-			"collector_number": "203",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/175.png"
 			}
@@ -1775,7 +1775,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "200",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/177.png"
 			}
@@ -1844,7 +1844,7 @@
 			"name": "The Wakeup Call",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "242",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/184.png"
@@ -1924,7 +1924,7 @@
 			"name": "Relics of the Future",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "259",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/192.png"
@@ -2044,7 +2044,7 @@
 			"name": "Autumn Devours the Sunmaster",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "88",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/204.png"
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}{W}",
 			"type": "Artifact",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/206.png"
 			}
@@ -2104,7 +2104,7 @@
 			"name": "Winter Quiets the Soulsinger",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "84",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/210.png"
@@ -2115,7 +2115,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{U}",
 			"type": "Legendary Creature — Demon Bringer",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/211.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/214.png"
 			}
@@ -2165,16 +2165,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "100",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/216.png"
 			}
 		},
 		{
-			"name": "The Hallowing of Bantrel Grove",
+			"name": "The Hewing of Bantrel Grove",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/217.png"
@@ -2204,7 +2204,7 @@
 			"name": "Seeking the Seasons",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "159",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/220.png"
@@ -2224,7 +2224,7 @@
 			"name": "Summer Outshines the Godmind",
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "162",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/222.png"
@@ -2265,7 +2265,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "202",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/226.png"
 			}
@@ -2275,13 +2275,13 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Noble Soldier",
-			"collector_number": "196",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/227.png"
 			}
 		},
 		{
-			"name": "Hanamos, Soulweft Artisan",
+			"name": "Hana, Kindly Sempster",
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Legendary Creature — Avatar Advisor",
@@ -2295,7 +2295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Fungus Horror",
-			"collector_number": "201",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/229.png"
 			}
@@ -2304,7 +2304,7 @@
 			"name": "Spring Conquers the Cavalcade",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Enchantment — Episode",
+			"type": "Enchantment — Script",
 			"collector_number": "194",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/230.png"
@@ -2575,7 +2575,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{W}{W}",
 			"type": "Legendary Planeswalker — Perennia",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/257.png"
 			}
@@ -2625,7 +2625,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Legendary Planeswalker — Autumn",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/262.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Horror Noble",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/271.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wraith",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/272.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/273.png"
 			}
@@ -2775,7 +2775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Artificer Hero",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/277.png"
 			}
@@ -2785,7 +2785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Horror",
-			"collector_number": "26",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/278.png"
 			}
@@ -2805,7 +2805,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}{B}",
 			"type": "Legendary Creature — Dryad Bringer",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/280.png"
 			}
@@ -2831,11 +2831,11 @@
 			}
 		},
 		{
-			"name": "Endless Day of Dominion",
+			"name": "The Endless Bright Crusades",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Enchantment — Episode",
-			"collector_number": "11",
+			"type": "Enchantment — Script",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/283.png"
 			}
@@ -2845,7 +2845,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/284.png"
 			}
@@ -2875,7 +2875,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Reflection Hero",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/287.png"
 			}
@@ -2891,11 +2891,11 @@
 			}
 		},
 		{
-			"name": "Treefolk Soldier",
+			"name": "Graveborn Soldier",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Treefolk Soldier",
-			"collector_number": "7",
+			"type": "Token Creature — Graveborn Soldier",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/289.png"
 			}
@@ -2915,7 +2915,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warlock",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/291.png"
 			}
@@ -2925,7 +2925,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/292.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Detective",
-			"collector_number": "10",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/295.png"
 			}
@@ -3055,7 +3055,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Demon Knight",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/305.png"
 			}
@@ -3085,7 +3085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Enchantment — Aura",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/308.png"
 			}
@@ -3101,11 +3101,11 @@
 			}
 		},
 		{
-			"name": "Unending Archetype",
+			"name": "Stars Painted Anew",
 			"rarity": "mythic",
 			"mana_cost": "{7}{G}{G}",
-			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "205",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/310.png"
 			}
@@ -3125,7 +3125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier Bard",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/312.png"
 			}
@@ -3165,7 +3165,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Robot Avatar",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/316.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elk",
-			"collector_number": "27",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/317.png"
 			}
@@ -3195,7 +3195,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Avatar Warrior",
-			"collector_number": "17",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/319.png"
 			}
@@ -3205,7 +3205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Knight",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/320.png"
 			}
@@ -3215,7 +3215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dryad Soldier",
-			"collector_number": "18",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/321.png"
 			}
@@ -3245,7 +3245,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/324.png"
 			}
@@ -3275,7 +3275,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Sorcery",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/327.png"
 			}
@@ -3295,7 +3295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/329.png"
 			}
@@ -3331,11 +3331,11 @@
 			}
 		},
 		{
-			"name": "Climactic Moment",
+			"name": "Every Eye on You",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "96",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/333.png"
 			}
@@ -3355,7 +3355,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/335.png"
 			}
@@ -3365,7 +3365,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Enchantment Creature — Incarnation",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/336.png"
 			}
@@ -3385,7 +3385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "16",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/338.png"
 			}
@@ -3425,7 +3425,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Peasant Hero",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/342.png"
 			}
@@ -3435,7 +3435,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "25",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/343.png"
 			}
@@ -3451,7 +3451,7 @@
 			}
 		},
 		{
-			"name": "Astrotechnical",
+			"name": "Halfmortal",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Reminder",
@@ -3513,7 +3513,7 @@
 	]
 
 [rare(1)]
-	2 Katabatic Paragon
+	2 Katabatic Archivist
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
@@ -3538,14 +3538,14 @@
 	2 Cunning Keepbreaker
 	2 Plot Armor
 	2 Tormented Ghostwriter
-	2 The Hallowing of Bantrel Grove
+	2 The Hewing of Bantrel Grove
 	2 Vision of Manque
 	2 Alder Jane, Leading Lady
 	2 Summer Outshines the Godmind
 	2 Bringer of a New Summer
 	2 Tendergaunt
 	2 Steward of Solstices
-	2 Hanamos, Soulweft Artisan
+	2 Hana, Kindly Sempster
 	2 Spring Conquers the Cavalcade
 	2 Will of the Wild
 	2 Lord Tyto Bonsíc
@@ -3588,7 +3588,7 @@
 	2 Lexyrinth, Vault of Legends
 	1 The Itinerant Weft
 	2 Bringer of a New Autumn
-	2 Endless Day of Dominion
+	2 The Endless Bright Crusades
 	2 Drown in Dread
 	2 Jane's Opus
 	2 Kos and Desidre
@@ -3598,7 +3598,7 @@
 	1 Passioned Pair
 	2 Mosa, the Heartbreaker
 	2 Eleventh Hour Entrant
-	1 Unending Archetype
+	1 Stars Painted Anew
 	1 Vyshel, Halfmortal Luminary
 	2 Living Refutation
 	2 A World All His Own
@@ -3610,8 +3610,8 @@
 [uncommon(3)]
 	4 Out of the Puzzlebox
 	4 Bound Blossom
-	4 Mournful Pursuer
-	4 Bounty of Bantrel
+	4 Mournful Melodist
+	4 Regent of Bantrel
 	4 Feastkeeper
 	4 Scrapped Setting
 	4 Captain of Ceremony
@@ -3625,7 +3625,7 @@
 	4 Meticulous Choreographer
 	4 Archon of Fettered Fate
 	4 Enshrined Excellence
-	4 Halfmortality
+	4 Legends Never Die
 	4 Meeting the Mentor
 	4 Empty Throne
 	4 Storied Deed
@@ -3644,7 +3644,7 @@
 	4 Hidden Heir
 	4 Quiet on Set
 	4 Inkwell Monolith
-	4 Astrotechnics
+	4 Capture the Craft
 	4 Sombergaunt
 	4 Defiant Dreamer
 	4 Bramblebound Laborer
@@ -3663,7 +3663,7 @@
 	4 Steelbrace Star
 	4 Celebrant of Bantrel
 	4 Turncoat Stagehand
-	4 Wolf at the Gates
+	4 The Fall of Cindrel Forge
 	4 World Made Wroth
 	4 Orrin's Ordeal
 	4 Blooming Aspirant
@@ -3714,7 +3714,7 @@
 	4 Consumed by Branches
 	4 Malefic Vision
 	4 A Threnody for Truth
-	4 Climactic Moment
+	4 Every Eye on You
 	4 Hallowed Intermission
 	4 Clean Fate
 [common(6)]
@@ -3740,7 +3740,7 @@
 	8 Refusal of the Call
 	8 Ebbing Essence
 	8 Peruse the Skeins
-	8 Spire Echo
+	8 Subservient Echo
 	8 Profaned Elder
 	8 Decadent Scriptwriter
 	8 Bantrel Wood Stalker
@@ -3830,7 +3830,7 @@
 	8 Refusal of the Call
 	8 Ebbing Essence
 	8 Peruse the Skeins
-	8 Spire Echo
+	8 Subservient Echo
 	8 Profaned Elder
 	8 Decadent Scriptwriter
 	8 Bantrel Wood Stalker
@@ -3898,7 +3898,7 @@
 	8 Impart Strength
 	8 Nourishing Shell
 [foil(1)]
-	2 Katabatic Paragon
+	2 Katabatic Archivist
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
@@ -3927,9 +3927,9 @@
 	12 Ebbing Essence
 	12 Peruse the Skeins
 	6 Bound Blossom
-	12 Spire Echo
-	6 Mournful Pursuer
-	6 Bounty of Bantrel
+	12 Subservient Echo
+	6 Mournful Melodist
+	6 Regent of Bantrel
 	12 Profaned Elder
 	12 Decadent Scriptwriter
 	12 Bantrel Wood Stalker
@@ -3996,7 +3996,7 @@
 	6 Meticulous Choreographer
 	6 Archon of Fettered Fate
 	6 Enshrined Excellence
-	6 Halfmortality
+	6 Legends Never Die
 	6 Meeting the Mentor
 	6 Empty Throne
 	6 Storied Deed
@@ -4016,7 +4016,7 @@
 	12 An Unexpected Journey
 	6 Quiet on Set
 	6 Inkwell Monolith
-	6 Astrotechnics
+	6 Capture the Craft
 	6 Sombergaunt
 	12 Smelted Wight
 	6 Defiant Dreamer
@@ -4041,7 +4041,7 @@
 	2 Until We Meet Once More
 	6 Celebrant of Bantrel
 	6 Turncoat Stagehand
-	6 Wolf at the Gates
+	6 The Fall of Cindrel Forge
 	6 World Made Wroth
 	6 Orrin's Ordeal
 	2 The Court's Last Hunt
@@ -4100,7 +4100,7 @@
 	2 Plot Armor
 	2 Tormented Ghostwriter
 	6 Deathless Promise
-	2 The Hallowing of Bantrel Grove
+	2 The Hewing of Bantrel Grove
 	2 Vision of Manque
 	6 Scoremaster
 	6 Seeking the Seasons
@@ -4111,7 +4111,7 @@
 	6 Caller of Adventure
 	2 Tendergaunt
 	2 Steward of Solstices
-	2 Hanamos, Soulweft Artisan
+	2 Hana, Kindly Sempster
 	6 Tenacious Bonehost
 	2 Spring Conquers the Cavalcade
 	2 Will of the Wild
@@ -4157,7 +4157,7 @@
 	12 Splintereater
 	1 The Itinerant Weft
 	2 Bringer of a New Autumn
-	2 Endless Day of Dominion
+	2 The Endless Bright Crusades
 	2 Drown in Dread
 	2 Jane's Opus
 	2 Kos and Desidre
@@ -4168,7 +4168,7 @@
 	1 Passioned Pair
 	2 Mosa, the Heartbreaker
 	2 Eleventh Hour Entrant
-	1 Unending Archetype
+	1 Stars Painted Anew
 	1 Vyshel, Halfmortal Luminary
 	12 Pallid Causeway
 	12 Branches' Benevolence
@@ -4181,7 +4181,7 @@
 	6 Malefic Vision
 	2 A World All His Own
 	6 A Threnody for Truth
-	6 Climactic Moment
+	6 Every Eye on You
 	2 Walk Inky Paths
 	2 Kill Your Darlings
 	12 Nourishing Shell
@@ -4191,7 +4191,7 @@
 	6 Clean Fate
 	1 Kindly Winter
 [wildcard(1)]
-	7 Katabatic Paragon
+	7 Katabatic Archivist
 	7 In Servitude Sublime
 	7 Fevered Fancy
 	7 Coronation Candidate
@@ -4220,9 +4220,9 @@
 	6 Ebbing Essence
 	6 Peruse the Skeins
 	15 Bound Blossom
-	6 Spire Echo
-	15 Mournful Pursuer
-	15 Bounty of Bantrel
+	6 Subservient Echo
+	15 Mournful Melodist
+	15 Regent of Bantrel
 	6 Profaned Elder
 	6 Decadent Scriptwriter
 	6 Bantrel Wood Stalker
@@ -4289,7 +4289,7 @@
 	15 Meticulous Choreographer
 	15 Archon of Fettered Fate
 	15 Enshrined Excellence
-	15 Halfmortality
+	15 Legends Never Die
 	15 Meeting the Mentor
 	15 Empty Throne
 	15 Storied Deed
@@ -4309,7 +4309,7 @@
 	6 An Unexpected Journey
 	15 Quiet on Set
 	15 Inkwell Monolith
-	15 Astrotechnics
+	15 Capture the Craft
 	15 Sombergaunt
 	6 Smelted Wight
 	15 Defiant Dreamer
@@ -4334,7 +4334,7 @@
 	7 Until We Meet Once More
 	15 Celebrant of Bantrel
 	15 Turncoat Stagehand
-	15 Wolf at the Gates
+	15 The Fall of Cindrel Forge
 	15 World Made Wroth
 	15 Orrin's Ordeal
 	7 The Court's Last Hunt
@@ -4393,7 +4393,7 @@
 	7 Plot Armor
 	7 Tormented Ghostwriter
 	15 Deathless Promise
-	7 The Hallowing of Bantrel Grove
+	7 The Hewing of Bantrel Grove
 	7 Vision of Manque
 	15 Scoremaster
 	15 Seeking the Seasons
@@ -4404,7 +4404,7 @@
 	15 Caller of Adventure
 	7 Tendergaunt
 	7 Steward of Solstices
-	7 Hanamos, Soulweft Artisan
+	7 Hana, Kindly Sempster
 	15 Tenacious Bonehost
 	7 Spring Conquers the Cavalcade
 	7 Will of the Wild
@@ -4450,7 +4450,7 @@
 	6 Splintereater
 	4 The Itinerant Weft
 	7 Bringer of a New Autumn
-	7 Endless Day of Dominion
+	7 The Endless Bright Crusades
 	7 Drown in Dread
 	7 Jane's Opus
 	7 Kos and Desidre
@@ -4461,7 +4461,7 @@
 	4 Passioned Pair
 	7 Mosa, the Heartbreaker
 	7 Eleventh Hour Entrant
-	4 Unending Archetype
+	4 Stars Painted Anew
 	4 Vyshel, Halfmortal Luminary
 	6 Pallid Causeway
 	6 Branches' Benevolence
@@ -4474,7 +4474,7 @@
 	15 Malefic Vision
 	7 A World All His Own
 	15 A Threnody for Truth
-	15 Climactic Moment
+	15 Every Eye on You
 	7 Walk Inky Paths
 	7 Kill Your Darlings
 	6 Nourishing Shell
