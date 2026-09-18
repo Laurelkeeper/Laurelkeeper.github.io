@@ -3895,7 +3895,7 @@
             "number": 199,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "Haste\nWhenever Tabula Rata attacks, you may cast target permanent card with mana value 4 or less from your graveyard. [i](You still pay its costs.)[/i]\nDuring your turn, Tabula Rata gets +2/+0 and has trample if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]",
+            "rules_text": "Trample\nWhen Tabula Rata enters, return target permanent card with mana value 4 or less from your graveyard to your hand.\nDuring your turn, Tabula Rata gets +2/+0 and has haste if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/6",
             "special_text": "",

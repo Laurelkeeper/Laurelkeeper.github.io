@@ -2917,9 +2917,9 @@ Whenever this creature attacks, put a +1/+1 counter on another target creature y
 		</card>
 		<card>
 			<name>Tabula Rata</name>
-			<text>Haste
-Whenever Tabula Rata attacks, you may cast target permanent card with mana value 4 or less from your graveyard. (You still pay its costs.)
-During your turn, Tabula Rata gets +2/+0 and has trample if you&apos;re captivated. (You&apos;re captivated if a creature left your graveyard or your battlefield this turn.)</text>
+			<text>Trample
+When Tabula Rata enters, return target permanent card with mana value 4 or less from your graveyard to your hand.
+During your turn, Tabula Rata gets +2/+0 and has haste if you&apos;re captivated. (You&apos;re captivated if a creature left your graveyard or your battlefield this turn.)</text>
 			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/169.png" num="199">AJY</set>
 			<prop>
 				<layout>normal</layout>

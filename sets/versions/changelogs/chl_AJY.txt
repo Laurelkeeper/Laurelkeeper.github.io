@@ -1,4 +1,17 @@
-﻿VERSION 53 CHANGELOG
+﻿VERSION 54 CHANGELOG
+====================
+
+
+
+Tabula Rata
+rules_text: Haste
+Whenever Tabula Rata attacks, you may cast target permanent card with mana value 4 or less from your graveyard. [i](You still pay its costs.)[/i]
+During your turn, Tabula Rata gets +2/+0 and has trample if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Trample
+When Tabula Rata enters, return target permanent card with mana value 4 or less from your graveyard to your hand.
+During your turn, Tabula Rata gets +2/+0 and has haste if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+
+
+VERSION 53 CHANGELOG
 ====================
 
 No changes.
