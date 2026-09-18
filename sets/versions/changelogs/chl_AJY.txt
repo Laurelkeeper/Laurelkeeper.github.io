@@ -1,4 +1,20 @@
-﻿VERSION 54 CHANGELOG
+﻿VERSION 55 CHANGELOG
+====================
+
+
+
+Hana, Kindly Sempster
+rules_text: {T}: Add one mana of any color among enchantments you control.
+{1}{G}, Sacrifice Hanamos: Return target enchantment card from your graveyard to your hand. => {T}: Add one mana of any color among enchantments you control.
+{1}{G}, Sacrifice Hana: Return target enchantment card from your graveyard to your hand.
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 54 CHANGELOG
 ====================
 
 

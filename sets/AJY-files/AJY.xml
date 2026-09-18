@@ -3973,7 +3973,7 @@ When this creature dies, return target land card from your graveyard to the batt
 		<card>
 			<name>Hana, Kindly Sempster</name>
 			<text>{T}: Add one mana of any color among enchantments you control.
-{1}{G}, Sacrifice Hanamos: Return target enchantment card from your graveyard to your hand.</text>
+{1}{G}, Sacrifice Hana: Return target enchantment card from your graveyard to your hand.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/228.png" num="181">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -5116,7 +5116,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		<card>
 			<name>Myth of Awakening</name>
 			<text>Chronicle. If this spell was cast from a graveyard, instead chronicle three times. (To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don&apos;t control one, or put a +1/+1 counter on a Hero you control.)
-Flashback {2}{W}{W} (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback {2}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/292.png" num="23">AJY</set>
 			<prop>
 				<layout>normal</layout>
