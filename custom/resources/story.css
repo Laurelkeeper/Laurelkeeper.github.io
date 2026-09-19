@@ -3,6 +3,17 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital,wght@0,400;1,400&family=IM+Fell+DW+Pica:ital@0;1&display=swap');
 
+/* Dark page behind the article, a shade off the header bar (#171717) so the
+   bar still reads as a bar. This stylesheet loads after the page's own, so a
+   plain body rule wins. */
+body {
+	background-color: #1c1d21;
+}
+
+.article-container {
+	box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+}
+
 /* Header banner standing in for the title text */
 .article-content h1.story-header {
 	margin: -10px 0 20px 0;
