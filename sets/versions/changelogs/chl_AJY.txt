@@ -1,4 +1,80 @@
-﻿VERSION 56 CHANGELOG
+﻿VERSION 57 CHANGELOG
+====================
+
+Lost in Atrament added.
+Telltale Sign Token added.
+Contracted Duo added.
+Passioned Pair added.
+
+
+Speculative Scriptwriting
+pt: 2/2 => 
+
+Atramentate
+
+Telltale Sign
+
+The Wakeup Call
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among up to two target creatures you control.
+II — Draw a card.
+III — Untap target creature you control. After this phase, there is an additional combat phase. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among up to two target creatures you control.
+II — Draw a card.
+III — Untap target creature you control. If it's your main phase, there is an additional combat phase after this phase.
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among up to two target creatures you control.
+II — Draw a card.
+III — Untap target creature you control. After this phase, there is an additional combat phase. => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I — Distribute two +1/+1 counters among up to two target creatures you control.
+II — Draw a card.
+III — Untap target creature you control. If it's your main phase, there is an additional combat phase after this phase.
+
+Bringer of a New World
+rules_text: You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+Flying, lifelink, ward {2}
+Creatures and creature spells you control have the preceding abilities. => You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+Flying, lifelink, ward {2}
+Other creatures and creature spells you control have the preceding abilities.
+
+Contracted Duo
+type: Creature — Human Peasant Hero => Token Creature — Human Peasant Hero
+
+Eni, Alabaster Paragon
+loyalty: 4 => 5
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Passioned Pair
+pt: 3/1 => 2/1
+
+Stars Painted Anew
+rules_text: Indestructible
+When this creature enters, if it was cast, put your graveyard on the bottom of your library in a random order. Then reveal that many cards from the top of your library, put all permanent cards from among them onto the battlefield, and put the rest on the bottom of your library in a random order. => When this creature enters, if it was cast, put your graveyard on the bottom of your library in a random order. Then reveal that many cards from the top of your library, put all permanent cards from among them onto the battlefield, and put the rest on the bottom of your library in a random order.
+pt: 7/7 => 9/9
+
+A World All His Own
+rules_text: When this enchantment enters, each player creates a tapped colorless land token named Everywhere that is every basic land type.
+At the beginning of your upkeep, gain control of each land you don't control named Everywhere until end of turn. Untap them. => When this enchantment enters, each player creates a tapped colorless land token named Everywhere that is every basic land type.
+At the beginning of your upkeep, gain control of each land named Everywhere you don't control until end of turn. Untap them.
+
+Kill Your Darlings
+rules_text: Destroy target creature or planeswalker.
+{B}, Exile this card and seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token with indestructible named Conscience. Activate only as a sorcery. => Destroy target creature or planeswalker.
+{B}, Exile this card and seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token named Conscience. Activate only as a sorcery.
+
+Branch Command
+
+Holoform
+rules_text:  => [i](This token has an additional creature type of your choice.)[/i]
+
+Rallied
+
+
+VERSION 56 CHANGELOG
 ====================
 
 No changes.
