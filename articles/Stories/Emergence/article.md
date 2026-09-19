@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../resources/story.css">
 
-<h1 class="story-header"><img src="header.jpg" alt="Emergence"></h1>
+# Emergence
 
 ## An unofficial *Stirrings in Goldport* Story
 
@@ -92,7 +92,11 @@ Wordlessly, I walk back up the gangway, onto the deck, and watch the stars get c
 
 I don’t think I’m making it to morning.
 
-<table class="story-table"><tr><td>MEDICAL CERTIFICATE OF DEATH<br>&nbsp;<br>Name of Deceased:      Andrew Licent<br>Age:                   Nineteen years<br>Residence:             Room 204, 115 Vane Street<br>Date of Death:         13th o. Jadian’s Fall, 1201<br>Time of Death:         5:38 AM (approx.)<br>Place of Death:        Lionel Clanston Memorial Medical Center<br>&nbsp;<br>Cause of Death:<br>You are not yours to keep.<br>    Our promise is fulfilled..<br>&nbsp;<br>Duration of final illness:  3 hours, 14 minutes (approx.)<br>&nbsp;<br>I hereby certify that I attended the deceased<br>during his last illness, and that the cause of<br>death was as stated above.<br>&nbsp;<br>U. E. Konstantin, T.I.<br>14th o. Jadian’s Fall, 1201</td></tr></table>
+<div class="story-gap" style="height: 12em;"></div>
+
+<table class="story-table"><tr><td>MEDICAL CERTIFICATE OF DEATH<br>&nbsp;<br>Name of Deceased:      Andrew Licent<br>Age:                   Nineteen years<br>Residence:             Room 204, 115 Vane Street<br>Date of Death:         13th o. Jadian’s Fall, 1201<br>Time of Death:         5:38 AM (approx.)<br>Place of Death:        Lionel Clanston Memorial Medical Center<br>&nbsp;<br>Cause of Death:<br>    <span class="redacted">You are not yours to keep.</span><br>    <span class="redacted">Our promise is fulfilled.</span><span class="redacted">.</span><br>&nbsp;<br>Duration of final illness:  3 hours, 14 minutes (approx.)<br>&nbsp;<br>I hereby certify that I attended the deceased<br>during his last illness, and that the cause of<br>death was as stated above.<br>&nbsp;<br>                    U. E. Konstantin, T.I.<br>                    14th o. Jadian’s Fall, 1201</td></tr></table>
+
+<div class="story-gap" style="height: 53em;"></div>
 
 The stars are very bright now.
 
