@@ -3,7 +3,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital,wght@0,400;1,400&family=IM+Fell+DW+Pica:ital@0;1&display=swap');
 
-/* Title: IM Fell DW Pica, as in the documents */
+/* Header banner standing in for the title text */
+.article-content h1.story-header {
+	margin: -10px 0 20px 0;
+	line-height: 0;
+}
+
+.article-content h1.story-header img {
+	width: 100%;
+	height: auto;
+	display: block;
+	border-radius: 4px;
+}
+
+/* Title: IM Fell DW Pica, as in the documents (for articles without a banner) */
 .article-content h1 {
 	font-family: 'IM Fell DW Pica', Georgia, serif;
 	font-weight: 400;

@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../resources/story.css">
 
-# Emergence
+<h1 class="story-header"><img src="header.jpg" alt="Emergence"></h1>
 
 ## An unofficial *Stirrings in Goldport* Story
 
