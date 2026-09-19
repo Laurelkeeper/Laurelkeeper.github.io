@@ -194,7 +194,9 @@
 				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
 			</div>
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
-			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
@@ -203,8 +205,22 @@
 			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
-			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
 		});
 
 		function goToSearch() {
@@ -239,7 +255,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\118_X'Vol, Violet Leykeeper.png" id="SOV_118_XVol, Violet Leykeeper" data-flag="@X" onclick="openSidebar('SOV_118_XVol, Violet Leykeeper',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\123_Bloodring Novice.png" id="SOV_123_Bloodring Novice" data-flag="@X" onclick="openSidebar('SOV_123_Bloodring Novice',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\157_Aberrant Cultivator.png" id="SOV_157_Aberrant Cultivator" data-flag="@X" onclick="openSidebar('SOV_157_Aberrant Cultivator',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\6_Dunland Campaign.png" id="SOV_6_Dunland Campaign" data-flag="@X" onclick="openSidebar('SOV_6_Dunland Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\6_Dunland Campaign.png" id="SOV_6_Dunland Campaign" data-flag="@X" onclick="openSidebar('SOV_6_Dunland Campaign',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\40_Adroit Scrapjacker.png" id="SOV_40_Adroit Scrapjacker" data-flag="@X" onclick="openSidebar('SOV_40_Adroit Scrapjacker',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\85_Blanched Steelblade.png" id="SOV_85_Blanched Steelblade" data-flag="@X" onclick="openSidebar('SOV_85_Blanched Steelblade',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\126_Cera, Skycaptain.png" id="SOV_126_Cera, Skycaptain" data-flag="@X" onclick="openSidebar('SOV_126_Cera, Skycaptain',false)"></div>
@@ -257,8 +273,8 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\16_Leygrid Railracer.png" id="SOV_16_Leygrid Railracer" data-flag="@X" onclick="openSidebar('SOV_16_Leygrid Railracer',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\47_Era Window.png" id="SOV_47_Era Window" data-flag="@X" onclick="openSidebar('SOV_47_Era Window',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\97_Kai'Ji, Legion Conscript.png" id="SOV_97_KaiJi, Legion Conscript" data-flag="@X" onclick="openSidebar('SOV_97_KaiJi, Legion Conscript',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\131_Foundry Campaign.png" id="SOV_131_Foundry Campaign" data-flag="@X" onclick="openSidebar('SOV_131_Foundry Campaign',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\180_Sanctuary Campaign.png" id="SOV_180_Sanctuary Campaign" data-flag="@X" onclick="openSidebar('SOV_180_Sanctuary Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\131_Foundry Campaign.png" id="SOV_131_Foundry Campaign" data-flag="@X" onclick="openSidebar('SOV_131_Foundry Campaign',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\180_Sanctuary Campaign.png" id="SOV_180_Sanctuary Campaign" data-flag="@X" onclick="openSidebar('SOV_180_Sanctuary Campaign',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\18_Oldsteel Exarch.png" id="SOV_18_Oldsteel Exarch" data-flag="@X" onclick="openSidebar('SOV_18_Oldsteel Exarch',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\53_Leyspark Curator.png" id="SOV_53_Leyspark Curator" data-flag="@X" onclick="openSidebar('SOV_53_Leyspark Curator',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\102_Legion Potentate.png" id="SOV_102_Legion Potentate" data-flag="@X" onclick="openSidebar('SOV_102_Legion Potentate',false)"></div>
@@ -276,16 +292,16 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\188_Savage Sandthresher.png" id="SOV_188_Savage Sandthresher" data-flag="@X" onclick="openSidebar('SOV_188_Savage Sandthresher',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\34_Visage of the Core.png" id="SOV_34_Visage of the Core" data-flag="@X" onclick="openSidebar('SOV_34_Visage of the Core',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\66_Sanctuary Surgefin.png" id="SOV_66_Sanctuary Surgefin" data-flag="@X" onclick="openSidebar('SOV_66_Sanctuary Surgefin',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\112_Ruins Campaign.png" id="SOV_112_Ruins Campaign" data-flag="@X" onclick="openSidebar('SOV_112_Ruins Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\112_Ruins Campaign.png" id="SOV_112_Ruins Campaign" data-flag="@X" onclick="openSidebar('SOV_112_Ruins Campaign',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\143_Raider's Lesson.png" id="SOV_143_Raiders Lesson" data-flag="@X" onclick="openSidebar('SOV_143_Raiders Lesson',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\192_Than, Desolate Scavenger.png" id="SOV_192_Than, Desolate Scavenger" data-flag="@X" onclick="openSidebar('SOV_192_Than, Desolate Scavenger',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\37_Weathered Wayfarer.png" id="SOV_37_Weathered Wayfarer" data-flag="@X" onclick="openSidebar('SOV_37_Weathered Wayfarer',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\72_Steelflow Shoalweaver.png" id="SOV_72_Steelflow Shoalweaver" data-flag="@X" onclick="openSidebar('SOV_72_Steelflow Shoalweaver',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\115_Steelskin Magnate.png" id="SOV_115_Steelskin Magnate" data-flag="@X" onclick="openSidebar('SOV_115_Steelskin Magnate',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\120_Arcstrike Ambush.png" id="SOV_120_Arcstrike Ambush" data-flag="@X" onclick="openSidebar('SOV_120_Arcstrike Ambush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\120_Arcstrike Ambush.png" id="SOV_120_Arcstrike Ambush" data-flag="@X" onclick="openSidebar('SOV_120_Arcstrike Ambush',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\193_Verdant Rupture.png" id="SOV_193_Verdant Rupture" data-flag="@X" onclick="openSidebar('SOV_193_Verdant Rupture',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\2_Arcflare.png" id="SOV_2_Arcflare" data-flag="@X" onclick="openSidebar('SOV_2_Arcflare',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\73_Subsurface Campaign.png" id="SOV_73_Subsurface Campaign" data-flag="@X" onclick="openSidebar('SOV_73_Subsurface Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\73_Subsurface Campaign.png" id="SOV_73_Subsurface Campaign" data-flag="@X" onclick="openSidebar('SOV_73_Subsurface Campaign',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\80_Air-Squad Marshal.png" id="SOV_80_Air-Squad Marshal" data-flag="@X" onclick="openSidebar('SOV_80_Air-Squad Marshal',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\124_Breachblade Gladiator.png" id="SOV_124_Breachblade Gladiator" data-flag="@X" onclick="openSidebar('SOV_124_Breachblade Gladiator',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\160_Armored Sandscraper.png" id="SOV_160_Armored Sandscraper" data-flag="@X" onclick="openSidebar('SOV_160_Armored Sandscraper',false)"></div>
@@ -293,7 +309,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\45_Dune-Quartz Drake.png" id="SOV_45_Dune-Quartz Drake" data-flag="@X" onclick="openSidebar('SOV_45_Dune-Quartz Drake',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\81_Alloyed Devotee.png" id="SOV_81_Alloyed Devotee" data-flag="@X" onclick="openSidebar('SOV_81_Alloyed Devotee',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\125_Catastrophic Infusion.png" id="SOV_125_Catastrophic Infusion" data-flag="@X" onclick="openSidebar('SOV_125_Catastrophic Infusion',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\161_Awakening Site.png" id="SOV_161_Awakening Site" data-flag="@X" onclick="openSidebar('SOV_161_Awakening Site',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\161_Awakening Site.png" id="SOV_161_Awakening Site" data-flag="@X" onclick="openSidebar('SOV_161_Awakening Site',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\4_Coordinated Salvo.png" id="SOV_4_Coordinated Salvo" data-flag="@X" onclick="openSidebar('SOV_4_Coordinated Salvo',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\49_Flamboyant Refurbisher.png" id="SOV_49_Flamboyant Refurbisher" data-flag="@X" onclick="openSidebar('SOV_49_Flamboyant Refurbisher',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\83_Augmented Ascent.png" id="SOV_83_Augmented Ascent" data-flag="@X" onclick="openSidebar('SOV_83_Augmented Ascent',false)"></div>
@@ -309,7 +325,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\86_Calamity Cascade.png" id="SOV_86_Calamity Cascade" data-flag="@X" onclick="openSidebar('SOV_86_Calamity Cascade',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\136_Leycharged Ravager.png" id="SOV_136_Leycharged Ravager" data-flag="@X" onclick="openSidebar('SOV_136_Leycharged Ravager',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\167_Dustborn Leytracer.png" id="SOV_167_Dustborn Leytracer" data-flag="@X" onclick="openSidebar('SOV_167_Dustborn Leytracer',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\12_Ketriff Valley Blockade.png" id="SOV_12_Ketriff Valley Blockade" data-flag="@X" onclick="openSidebar('SOV_12_Ketriff Valley Blockade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\12_Ketriff Valley Blockade.png" id="SOV_12_Ketriff Valley Blockade" data-flag="@X" onclick="openSidebar('SOV_12_Ketriff Valley Blockade',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\52_Leyscoured Aberrant.png" id="SOV_52_Leyscoured Aberrant" data-flag="@X" onclick="openSidebar('SOV_52_Leyscoured Aberrant',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\90_Dunland Pioneer.png" id="SOV_90_Dunland Pioneer" data-flag="@X" onclick="openSidebar('SOV_90_Dunland Pioneer',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\137_Leygrid Mutation.png" id="SOV_137_Leygrid Mutation" data-flag="@X" onclick="openSidebar('SOV_137_Leygrid Mutation',false)"></div>
@@ -320,7 +336,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\139_Market's Bustle.png" id="SOV_139_Markets Bustle" data-flag="@X" onclick="openSidebar('SOV_139_Markets Bustle',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\169_Forlorn Scavenger.png" id="SOV_169_Forlorn Scavenger" data-flag="@X" onclick="openSidebar('SOV_169_Forlorn Scavenger',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\14_Legion Skirmisher.png" id="SOV_14_Legion Skirmisher" data-flag="@X" onclick="openSidebar('SOV_14_Legion Skirmisher',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\57_Oldsteel Foundry Expedition.png" id="SOV_57_Oldsteel Foundry Expedition" data-flag="@X" onclick="openSidebar('SOV_57_Oldsteel Foundry Expedition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\57_Oldsteel Foundry Expedition.png" id="SOV_57_Oldsteel Foundry Expedition" data-flag="@X" onclick="openSidebar('SOV_57_Oldsteel Foundry Expedition',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\100_Legion Commander.png" id="SOV_100_Legion Commander" data-flag="@X" onclick="openSidebar('SOV_100_Legion Commander',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\140_Oldsteel Exhortationer.png" id="SOV_140_Oldsteel Exhortationer" data-flag="@X" onclick="openSidebar('SOV_140_Oldsteel Exhortationer',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\175_Oldsteel Aberrant.png" id="SOV_175_Oldsteel Aberrant" data-flag="@X" onclick="openSidebar('SOV_175_Oldsteel Aberrant',false)"></div>
@@ -351,14 +367,14 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\185_Sanctuary Rotlurker.png" id="SOV_185_Sanctuary Rotlurker" data-flag="@X" onclick="openSidebar('SOV_185_Sanctuary Rotlurker',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\38_Winged Retriever.png" id="SOV_38_Winged Retriever" data-flag="@X" onclick="openSidebar('SOV_38_Winged Retriever',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\75_Tinkerer's Bracers.png" id="SOV_75_Tinkerers Bracers" data-flag="@X" onclick="openSidebar('SOV_75_Tinkerers Bracers',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\114_Skora Dunes Hunt.png" id="SOV_114_Skora Dunes Hunt" data-flag="@X" onclick="openSidebar('SOV_114_Skora Dunes Hunt',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\114_Skora Dunes Hunt.png" id="SOV_114_Skora Dunes Hunt" data-flag="@X" onclick="openSidebar('SOV_114_Skora Dunes Hunt',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\119_Ambling Safe.png" id="SOV_119_Ambling Safe" data-flag="@X" onclick="openSidebar('SOV_119_Ambling Safe',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\190_Steelskin Coreguard.png" id="SOV_190_Steelskin Coreguard" data-flag="@X" onclick="openSidebar('SOV_190_Steelskin Coreguard',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\1_Ambitious Scrapglider.png" id="SOV_1_Ambitious Scrapglider" data-flag="@X" onclick="openSidebar('SOV_1_Ambitious Scrapglider',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\78_Whirler Rogue.png" id="SOV_78_Whirler Rogue" data-flag="@X" onclick="openSidebar('SOV_78_Whirler Rogue',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\82_Ancient Uplink.png" id="SOV_82_Ancient Uplink" data-flag="@X" onclick="openSidebar('SOV_82_Ancient Uplink',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\121_Arcweld Armorer.png" id="SOV_121_Arcweld Armorer" data-flag="@X" onclick="openSidebar('SOV_121_Arcweld Armorer',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\159_Across the Desolate Wild.png" id="SOV_159_Across the Desolate Wild" data-flag="@X" onclick="openSidebar('SOV_159_Across the Desolate Wild',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\159_Across the Desolate Wild.png" id="SOV_159_Across the Desolate Wild" data-flag="@X" onclick="openSidebar('SOV_159_Across the Desolate Wild',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\8_Dunland Vigilante.png" id="SOV_8_Dunland Vigilante" data-flag="@X" onclick="openSidebar('SOV_8_Dunland Vigilante',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\42_Brightmind Raider.png" id="SOV_42_Brightmind Raider" data-flag="@X" onclick="openSidebar('SOV_42_Brightmind Raider',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\87_Canny Auxiliary.png" id="SOV_87_Canny Auxiliary" data-flag="@X" onclick="openSidebar('SOV_87_Canny Auxiliary',false)"></div>
@@ -367,7 +383,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\11_Heraldic Effigy.png" id="SOV_11_Heraldic Effigy" data-flag="@X" onclick="openSidebar('SOV_11_Heraldic Effigy',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\44_Disruption Pulse.png" id="SOV_44_Disruption Pulse" data-flag="@X" onclick="openSidebar('SOV_44_Disruption Pulse',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\89_Dunland Escort.png" id="SOV_89_Dunland Escort" data-flag="@X" onclick="openSidebar('SOV_89_Dunland Escort',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\130_Dune Drake Ambush.png" id="SOV_130_Dune Drake Ambush" data-flag="@X" onclick="openSidebar('SOV_130_Dune Drake Ambush',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\130_Dune Drake Ambush.png" id="SOV_130_Dune Drake Ambush" data-flag="@X" onclick="openSidebar('SOV_130_Dune Drake Ambush',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\164_Curious Cactail.png" id="SOV_164_Curious Cactail" data-flag="@X" onclick="openSidebar('SOV_164_Curious Cactail',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\19_Oldsteel Judge.png" id="SOV_19_Oldsteel Judge" data-flag="@X" onclick="openSidebar('SOV_19_Oldsteel Judge',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\46_Dynamic Repulsion.png" id="SOV_46_Dynamic Repulsion" data-flag="@X" onclick="openSidebar('SOV_46_Dynamic Repulsion',false)"></div>
@@ -381,7 +397,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\171_Mandiblade Scuttler.png" id="SOV_171_Mandiblade Scuttler" data-flag="@X" onclick="openSidebar('SOV_171_Mandiblade Scuttler',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\23_Ruinguard Captain.png" id="SOV_23_Ruinguard Captain" data-flag="@X" onclick="openSidebar('SOV_23_Ruinguard Captain',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\60_Oldsteel Progenitor.png" id="SOV_60_Oldsteel Progenitor" data-flag="@X" onclick="openSidebar('SOV_60_Oldsteel Progenitor',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\96_In the Shadow of Desolation.png" id="SOV_96_In the Shadow of Desolation" data-flag="@X" onclick="openSidebar('SOV_96_In the Shadow of Desolation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\96_In the Shadow of Desolation.png" id="SOV_96_In the Shadow of Desolation" data-flag="@X" onclick="openSidebar('SOV_96_In the Shadow of Desolation',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\144_Reckless Racers.png" id="SOV_144_Reckless Racers" data-flag="@X" onclick="openSidebar('SOV_144_Reckless Racers',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\172_Mutalist Vizier.png" id="SOV_172_Mutalist Vizier" data-flag="@X" onclick="openSidebar('SOV_172_Mutalist Vizier',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\24_Rumblehorn Division.png" id="SOV_24_Rumblehorn Division" data-flag="@X" onclick="openSidebar('SOV_24_Rumblehorn Division',false)"></div>
@@ -399,13 +415,13 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\103_Oldsteel Imperator.png" id="SOV_103_Oldsteel Imperator" data-flag="@X" onclick="openSidebar('SOV_103_Oldsteel Imperator',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\148_Scavenger's Spark.png" id="SOV_148_Scavengers Spark" data-flag="@X" onclick="openSidebar('SOV_148_Scavengers Spark',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\182_Sanctuary Fervor.png" id="SOV_182_Sanctuary Fervor" data-flag="@X" onclick="openSidebar('SOV_182_Sanctuary Fervor',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\30_Steelbound Standoff.png" id="SOV_30_Steelbound Standoff" data-flag="@X" onclick="openSidebar('SOV_30_Steelbound Standoff',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\30_Steelbound Standoff.png" id="SOV_30_Steelbound Standoff" data-flag="@X" onclick="openSidebar('SOV_30_Steelbound Standoff',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\69_Scrappy Arcslinger.png" id="SOV_69_Scrappy Arcslinger" data-flag="@X" onclick="openSidebar('SOV_69_Scrappy Arcslinger',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\104_Oldsteel Prophet.png" id="SOV_104_Oldsteel Prophet" data-flag="@X" onclick="openSidebar('SOV_104_Oldsteel Prophet',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\150_Scrapyard Patrol.png" id="SOV_150_Scrapyard Patrol" data-flag="@X" onclick="openSidebar('SOV_150_Scrapyard Patrol',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\186_Sanctuary Sanctifier.png" id="SOV_186_Sanctuary Sanctifier" data-flag="@X" onclick="openSidebar('SOV_186_Sanctuary Sanctifier',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\33_Timely Tune-Up.png" id="SOV_33_Timely Tune-Up" data-flag="@X" onclick="openSidebar('SOV_33_Timely Tune-Up',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\70_Scrapyard Detour.png" id="SOV_70_Scrapyard Detour" data-flag="@X" onclick="openSidebar('SOV_70_Scrapyard Detour',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\70_Scrapyard Detour.png" id="SOV_70_Scrapyard Detour" data-flag="@X" onclick="openSidebar('SOV_70_Scrapyard Detour',true)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\107_Oldsteel Whispers.png" id="SOV_107_Oldsteel Whispers" data-flag="@X" onclick="openSidebar('SOV_107_Oldsteel Whispers',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\151_Slag Meltdown.png" id="SOV_151_Slag Meltdown" data-flag="@X" onclick="openSidebar('SOV_151_Slag Meltdown',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\187_Sandwoken Brute.png" id="SOV_187_Sandwoken Brute" data-flag="@X" onclick="openSidebar('SOV_187_Sandwoken Brute',false)"></div>
@@ -513,7 +529,7 @@
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\251_Anodized Pilgrim.png" id="SOV_251_Anodized Pilgrim" data-flag="@X" onclick="openSidebar('SOV_251_Anodized Pilgrim',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\252_Dormant Harvester.png" id="SOV_252_Dormant Harvester" data-flag="@X" onclick="openSidebar('SOV_252_Dormant Harvester',false)"></div>
 				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\258_Ruined Colossus.png" id="SOV_258_Ruined Colossus" data-flag="@X" onclick="openSidebar('SOV_258_Ruined Colossus',false)"></div>
-				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\0_A Delicate Deal.png" id="SOV_0_A Delicate Deal" data-flag="@X" onclick="openSidebar('SOV_0_A Delicate Deal',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\SOV-files\img\0_A Delicate Deal.png" id="SOV_0_A Delicate Deal" data-flag="@X" onclick="openSidebar('SOV_0_A Delicate Deal',true)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="SOV_er" data-flag="@E" onclick="openSidebar('SOV_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="SOV_er" data-flag="@E" onclick="openSidebar('SOV_er',false)"></div>
 				<div class="container"><img loading="lazy" alt="img\er.png" id="SOV_er" data-flag="@E" onclick="openSidebar('SOV_er',false)"></div>
@@ -630,7 +646,7 @@
 					if (card.notes) {
 						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
 						for (const match of tagMatches) {
-							all_tags.add(match[1]);
+							all_tags.add(match[1].toLowerCase());
 						}
 					}
 				});

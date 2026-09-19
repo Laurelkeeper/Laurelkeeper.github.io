@@ -124,7 +124,7 @@
         "number": 6,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -268,7 +268,7 @@
         "number": 131,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -276,7 +276,7 @@
         "number": 180,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -420,7 +420,7 @@
         "number": 112,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -468,7 +468,7 @@
         "number": 120,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -492,7 +492,7 @@
         "number": 73,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -556,7 +556,7 @@
         "number": 161,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -684,7 +684,7 @@
         "number": 12,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -772,7 +772,7 @@
         "number": 57,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1020,7 +1020,7 @@
         "number": 114,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1076,7 +1076,7 @@
         "number": 159,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1148,7 +1148,7 @@
         "number": 130,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1260,7 +1260,7 @@
         "number": 96,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1404,7 +1404,7 @@
         "number": 30,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -1452,7 +1452,7 @@
         "number": 70,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
@@ -2157,7 +2157,7 @@
         "number": 0,
         "shape": "normal split",
         "set": "SOV",
-        "rotated": false,
+        "rotated": true,
         "position": ""
     },
     {
