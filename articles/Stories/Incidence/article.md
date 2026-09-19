@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="../../resources/story.css">
 
-# Incidence
+<h1 class="story-header"><img src="header.jpg" alt="Incidence"></h1>
 
 ## An unofficial *Stirrings in Goldport* Story
 

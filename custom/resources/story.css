@@ -67,11 +67,7 @@
 	text-indent: 0;
 }
 
-/* White-on-black highlight, as in the documents */
-.article-content .redacted {
-	background-color: #000000;
-	color: #ffffff;
-}
+/* The black highlight carries its colours inline, in the markup. */
 
 /* Deliberate blank space: page breaks and the fake-out ending */
 .article-content .story-gap {
