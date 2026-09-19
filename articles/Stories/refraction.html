@@ -1,0 +1,284 @@
+<html>
+<head>
+    <title>REFRACTION</title>
+    <link rel="icon" type="image/x-icon" href="../../img/articles.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../resources/mana.css">
+    <link rel="stylesheet" href="../../resources/header.css">
+    <link rel="stylesheet" href="../../resources/card-text.css">
+</head>
+<script title="root">
+    const rootPath = "../..";
+</script>
+<style>
+    @font-face {
+        font-family: 'Beleren Small Caps';
+        src: url('../../resources/beleren-caps.ttf');
+    }
+    @font-face {
+        font-family: Beleren;
+        src: url('../../resources/beleren.ttf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Black';
+        src: url('../../resources/gotham-narrow-black.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Bold';
+        src: url('../../resources/gotham-narrow-bold.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Medium';
+        src: url('../../resources/gotham-narrow-medium.otf');
+    }
+    body {
+        font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+        overscroll-behavior: none;
+        margin: 0px;
+        background-color: #ffffff;
+    }
+    .article-container {
+        width: 80%;
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 40px;
+        background-color: rgba(255, 255, 255, 0.95);
+        border: 1px solid #d5d9d9;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow-x: auto;
+    }
+    .article-content img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0;
+        object-fit: contain;
+        flex: 0 1 auto;
+        min-width: 0;
+    }
+    .article-content p.image-paragraph {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        width: 80%;
+        margin: 20px auto;
+    }
+    /* Only hide BR tags that are immediately between images in a flex row */
+    .article-content p.image-paragraph img + br {
+        display: none;
+    }
+    h4 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: right;
+        width: 80%;
+        margin: -15px auto 30px auto;
+        color: #666;
+        font-style: italic;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    h1 {
+        font-family: "Gotham Narrow Bold", Arial, serif;
+        font-size: 36px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-family: "Gotham Narrow Medium", Arial, serif;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    p {
+        line-height: 1.6;
+        font-size: 16px;
+    }
+    hr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 0;
+        border-top: 1px solid #d5d9d9;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #d5d9d9;
+        padding: 12px;
+        text-align: center;
+    }
+    th {
+        background-color: #f8f8f8;
+        font-family: "Gotham Narrow Bold", Arial, serif;
+    }
+    td img {
+        display: inline-block !important;
+        float: none !important;
+        vertical-align: middle;
+    }
+</style>
+<body>
+    <div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+    <div class="article-container">
+        <div class="article-content">
+            <h1>Refraction</h1>
+<h2>An unofficial <em>Stirrings in Goldport</em> Story</h2>
+<h4><em>continued from</em> <a href="incidence.html"><em>Incidence</em></a></h4>
+<p>The last thing I remember clearly is crawling to the door and managing to lift my hand enough to bang on it. After that it gets muddy. Faye found me. I can recall that much. There’s a physician by the docks. A deft hand with a needle, who can usually deal with the sorts of injuries we get on the trawlers. I recognize his place by the nearness of the beating wavesound.</p>
+<p>He’s useless. He forces a foul-tasting ichor down my throat. Faye gave me water, I preferred that. I still can’t see. After no apparent change, he gives me something else.</p>
+<p>That one works quickly. I fall asleep on one of his beds.</p>
+<p>I can tell I’m somewhere else when I wake. The air is colder.</p>
+<p>On instinct, I try to blink, and the pain of my eyelids is unbelievable. I squeeze them closed, resolving not to try again. I still can’t see.</p>
+<p>There are two voices, muffled by something. One I almost recognize, another I don’t even slightly. After a brief exchange in angry tones, they disperse, and then I hear the second again, close this time, painfully loud. I try to flinch away, but I’m impossibly weak.</p>
+<p>It’s a woman’s voice. On the older side, if I had to guess, and measured. Kind, for lack of a better word, but noticeably professional. “How are you feeling?”</p>
+<p>I try to form a response. “Et hrah.”</p>
+<p>Again. “...hurts.”</p>
+<p>There’s scratching. She’s writing something down. “Drink this.”<br />
+        A thin metal cup is pressed into my hand. I can feel writing on it, though I can’t read by touch. With difficulty, my cramped arm lifts it to my lips. It feels like nothing going down, which is a marked improvement.</p>
+<p>In seconds, the pain diminishes. My eyes, throat, even that awful, all-smothering smell of rotting fire is quiet. I gasp in relief, and feel a surge of happiness as that gasp provokes no further pain.</p>
+<p>I still can’t see, but this is a marked improvement.</p>
+<p>I miss her next question. Her voice is diminished too.<br />
+        “...say it again?” At least it doesn’t hurt to speak.</p>
+<p>She clears her throat. “Andrew, what happened to you? When did it start?”</p>
+<p>Collecting my memories is a struggle. “Yesterday evening. The docks. I was unloading a trawler and this <em>abhorrent</em> smell was in the catch. Like nothing I’d ever experienced.”</p>
+<p>More scratching.</p>
+<p>“I got off the vessel. I looked down and… I don’t remember. I woke up a second later, but I don’t remember.” I shouldn’t be saying this. I’m not mad, I know for <em>certain</em> I’m not mad, I don’t need an asylum… but what else could it be?</p>
+<p>“And that’s when you… hurt your eyes?” More scratching.</p>
+<p>“No. That was later, I went… home, I was looking out the window. I looked up at the moon, and something broke the glass.”</p>
+<p>The scratching stops. “Up at the moon?”</p>
+<p>I reply with a weak affirmative. There is the grating sound of a chair being pushed aside over rough tile. I hear footsteps for a moment, and then I am entirely alone.</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Refraction/images/image1.png" /></p>
+<p>I manage after a few laborious minutes to sit up. The medicine is in full effect now. I can feel almost nothing, even from my eyelids.</p>
+<p>I savor the requiem for a pair of heartbeats, until an odd itching from my cheeks breaks the absence of feeling. It crawls to my tongue, and even through the medicine’s fog, I taste tears.</p>
+<p><em>What if my vision never comes back?</em> I had spent so many nights poring over that book. Reading, rereading, quietly berating myself as I tried to decipher its riddlesome diagrams. <em>What use could Goldport possibly have for an optician who cannot see?</em> My breath quickens, and I feel the tears falling faster. I try to remember the last page I read, or the last sentence on the letter I left unfinished, but the words and illustrations flicker and swim, dancing like insects of atrament before coalescing in shapes that resemble nothing so little as human speech.</p>
+<p>I hear footsteps again. The woman is back.</p>
+<p>“Thank you. I apologize for the sudden disappearance—it’s hospital policy to document any patients describing phenomena of lunar origin immediately.” Her voice changes, the register shifting to one of concern. “Are you alright? I promise, you’re not in any trouble.”</p>
+<p>I lift a sleeve to rub the tears out of mercifully unfeeling eyes. “Sorry. Hospital policy? What hospital?”</p>
+<p>She laughs, a bubbling sound. “Why, the only hospital worth the name. You’re in the Lionel Clanston Memorial Medical Center.”</p>
+<p>I take my time before the next question. “Why can’t I see?”</p>
+<p>There’s the sound of rustling papers. “We’re not entirely sure. You show signs of mild exposure keratopathy, but it shouldn’t be enough to render you entirely blind from our current understanding of similar cases. Externally, you’re merely injured, not broken—whatever’s stopping your sight is something else.”</p>
+<p>She hums before continuing. “Could be neurological, ocular nerve damage, any number of things. We’d have to open you up to find out, and that’s rather challenging while you’re still alive.” Another laugh. Perhaps I’m not cut out for physicians’ humor. <br />
+“Unless… you can tell us any more about what happened?”</p>
+<p>I shake my head, choking back another upwelling of tears. “Past that, I don’t remember.” The page appears in my head again, its not-script forming jagged patterns on the crisply-printed paper. “I don’t remember.” The second repetition is for me.</p>
+<p>After a moment, the vision fades enough for me to focus. “I—I am curious, though. Why am I here, at… the clan… this hospital.”<br />
+        More rustling papers. “You were checked in by one Marion Rull. He’s waiting in the lower annex, though it’s <em>Clanston Memorial</em> hospital policy to finish a patient screening before allowing visitors.”</p>
+<p><em>Marion</em>? <em>How did he afford a place like this?</em> I open my lips to voice the question, but think better of it. <em>I’ll just ask him</em>.</p>
+<p>She continues.</p>
+<p>“However… I think we’re about done here. We’ve a few things we can try for your vision, but our best specialist in that area is away on a prolonged house call, and as you seem to be stable I’d advise not settling for inferior treatment. He shouldn’t be more than a few days. Y—”<br />
+        “I think I would.” The idea of returning to my room, to that window, to that book I can’t read anymore and the letter in the desk, makes me sick.</p>
+<p>“—ou are welcome to remain here for that interim period, if you’d prefer.”</p>
+<p>“Please do.”</p>
+<p>“Shall I send for mister Rull, then? Very well.”</p>
+<p>Her footsteps echo away, and I take a deep breath. <em>What do I even say to him</em>?</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Refraction/images/image3.png" /></p>
+<p>The first words I let out when Marion enters are an apology, a miserable <em>sorry</em> that might as well have fallen from my mouth alongside a dead fish for all the cheer in it. It doesn’t slow the approach of his gait—and it is <em>his,</em> I can tell for certain—before he takes a seat on the side of my bed. I feel the contours of the <em>remarkably</em> soft mattress shift as he settles.</p>
+<p>“Sadly, they won’t let me set up a fire to sit by. All bulbs here, something about ‘risk to fragile records’ and ‘basic accommodations of modernity’.” He can’t hide his melancholy, even through the lighthearted words. “H—</p>
+<p>My voice is quiet. “Well enough. I still can’t see.” <em>He remembered.</em> “Thank you.”</p>
+<p>“—ow are you holding up, Ann?”</p>
+<p>I bristle, embarrassed. “Just… yeah, you could say favorite. I’m studying, wanted to try for a position as an optics engineer. I don’t mind the docks, but nothing there is <em>for</em> me, not really.” I lean back. “Hopefully the specialist they have can fix whatever’s wrong with my vision. In the meantime… I think I’d like that.” I smile. “Maybe it’ll make more sense in your voice.”</p>
+<p>He taps my hand, prompting a gasp. “They told me that much. Which is why—” There’s a sound of something weighty being set on a chair. ”—I brought these. I should be able to stay for awhile, and…” Marion’s tone goes sheepish. “...I figured I could read. Either another story, like at the inn, or… I brought this book from your room. <em>Foundations and Practicalities of the</em> <em>Runfel</em> <em>Process.</em> A favorite of yours?” I’ve missed that voice.</p>
+<p>“Alright. Come back soon?” I sigh. “I—oh, fathoms, I never asked. How on earth could you afford to have me taken here? And why did you bother?”</p>
+<p>“...will be made clear, so to speak, in section IV.” He closes the book and lets out a yawn. “The science, I can handle. The quips may do me in.” His weight leaves the bed. “I’ve almost exhausted your visiting hours. The nurse should be back to help you get food and give you another dose of absentia.”</p>
+<p>“Secondly, for how I paid… wizard’s way, and all that.”</p>
+<p>“First of all, you’re a friend.”</p>
+<p>He sweeps me up in a hug.</p>
+<p>Something is—</p>
+<p>His footsteps echo down the hall.</p>
+<p>—horribly wrong.</p>
+<p style="text-align: center;">—</p>
+
+<p>Two floors down, a nurse’s tidy handwriting about a “patient of potential interest” is tucked into an envelope marked Urgent and Top Secret, addressed to the Institute, and left in the desk for outgoing post. Twenty-seven seconds later, a wholly coincidental fault in the room’s wiring lets loose sparks, and within a minute the desk is in flames. Within two more, the excellent automated suppression system engages, leaving behind only an inconvenient swathe of wet ash for the custodian to manage and an unpleasantly large bill for the replacement of the fine Ivenglade mahogany.</p>
+<p>The nurse, whose shift just ended, does not return to her post tomorrow, courtesy of a new employment opportunity both lucrative and time-sensitive.</p>
+<p>Apparently they allow fires in the hospital after all.</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Refraction/images/image2.png" /></p>
+<p style="text-align: center;"><em>concluded in</em> <a href="emergence.html"><em>Emergence</em></a></p>
+        </div>
+    </div>
+    <script>
+        document.getElementById("search").addEventListener("keypress", function(event) {
+          if (event.key === "Enter") {
+                event.preventDefault();
+                search();
+          }
+        });
+
+        function search() {
+            const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+            url.searchParams.append('search', document.getElementById("search").value);
+            window.location.href = url.pathname + url.search;
+        }
+
+        function randomCard() {
+            fetch(rootPath + '/lists/all-cards.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cards = data.cards;
+                    const random_card = cards[Math.floor(Math.random() * cards.length)];
+                    const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+                    const params = {
+                        set: random_card.set,
+                        num: random_card.number,
+                        name: random_card.card_name
+                    }
+                    for (const key in params) {
+                        url.searchParams.append(key, params[key]);
+                    }
+                    window.location.href = url.pathname + url.search;
+                }).catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

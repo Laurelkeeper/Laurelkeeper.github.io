@@ -1,0 +1,271 @@
+<html>
+<head>
+    <title>INCIDENCE</title>
+    <link rel="icon" type="image/x-icon" href="../../img/articles.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../resources/mana.css">
+    <link rel="stylesheet" href="../../resources/header.css">
+    <link rel="stylesheet" href="../../resources/card-text.css">
+</head>
+<script title="root">
+    const rootPath = "../..";
+</script>
+<style>
+    @font-face {
+        font-family: 'Beleren Small Caps';
+        src: url('../../resources/beleren-caps.ttf');
+    }
+    @font-face {
+        font-family: Beleren;
+        src: url('../../resources/beleren.ttf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Black';
+        src: url('../../resources/gotham-narrow-black.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Bold';
+        src: url('../../resources/gotham-narrow-bold.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Medium';
+        src: url('../../resources/gotham-narrow-medium.otf');
+    }
+    body {
+        font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+        overscroll-behavior: none;
+        margin: 0px;
+        background-color: #ffffff;
+    }
+    .article-container {
+        width: 80%;
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 40px;
+        background-color: rgba(255, 255, 255, 0.95);
+        border: 1px solid #d5d9d9;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow-x: auto;
+    }
+    .article-content img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0;
+        object-fit: contain;
+        flex: 0 1 auto;
+        min-width: 0;
+    }
+    .article-content p.image-paragraph {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        width: 80%;
+        margin: 20px auto;
+    }
+    /* Only hide BR tags that are immediately between images in a flex row */
+    .article-content p.image-paragraph img + br {
+        display: none;
+    }
+    h4 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: right;
+        width: 80%;
+        margin: -15px auto 30px auto;
+        color: #666;
+        font-style: italic;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    h1 {
+        font-family: "Gotham Narrow Bold", Arial, serif;
+        font-size: 36px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-family: "Gotham Narrow Medium", Arial, serif;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    p {
+        line-height: 1.6;
+        font-size: 16px;
+    }
+    hr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 0;
+        border-top: 1px solid #d5d9d9;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #d5d9d9;
+        padding: 12px;
+        text-align: center;
+    }
+    th {
+        background-color: #f8f8f8;
+        font-family: "Gotham Narrow Bold", Arial, serif;
+    }
+    td img {
+        display: inline-block !important;
+        float: none !important;
+        vertical-align: middle;
+    }
+</style>
+<body>
+    <div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+    <div class="article-container">
+        <div class="article-content">
+            <h1>Incidence</h1>
+<h2>An unofficial <em>Stirrings in Goldport</em> Story</h2>
+<h4><em>with gratitude to Kattalist for</em> <a href="https://escapefromlimbo.github.io/previews/SGP"><em>SGP</em></a> <a href="https://docs.google.com/document/d/1IAACVGOKW2UpoqgSUMworWOBiQiyV-aje9zp76f4xEw/edit?tab=t.0"><em>and</em></a> <a href="https://docs.google.com/document/d/1S-9Ezn_ixEHyWI58hoMcfUQuYUnDlv5Vr1q6mMfElMI/edit?tab=t.0"><em>its</em></a> <a href="https://docs.google.com/document/d/1HjnDsiMzu_BW-7Dk0GZK4MwB8_nDm6BqeVQibdbK22k/edit?tab=t.0"><em>canon</em></a></h4>
+<p>The smell burns. I would breathe through my mouth, except it’s strong enough to taste. I’d hold my breath, but it stings my eyes, which I’d shut if it didn’t scorch the eyelids just as cruelly. Absent relief, I make do by trying to ignore it, and lift the basket. It’s the last one.</p>
+<p>It passes through the hatch, and only the chill, faintly fishy air of the ice-hold remains. I take a moment to bask in it. There’s a smell still, but one I don’t mind. My hand grazes the railing and its rust-specked surface as I make my own way up, onto the gangway, and towards the captain, who’s currently engaged in a spirited debate with the winch operator for our catch. His gesticulating hand scatters twisted patterns through the bright early moonlight.</p>
+<p>“And I don’t particularly care. I come to you because you work for rates <em>better</em> than hers.” A space is beginning to open around the argument, passers-by steering clear as tempers visibly rise.</p>
+<p>The operator smiles with a smug helplessness stolen off a bureaucrat’s face. “I do the job in half her time with twice the skill. All that changed is my contract <em>recognizes</em> it now.”</p>
+<p>I don’t catch the captain’s reply. I’m looking down to keep my footing off the lip at the gangway’s edge, and my boot lands in a shallow puddle, mercifully disturbing the reflection of my face, scattering it into—</p>
+<p>It’s darker, suddenly. The captain has a hand on my shoulder, and the other—calloused, but gentle—is lifting my chin. I gasp, taking air into suddenly-empty lungs, and I can taste the burning again. His voice is impossibly loud, and the bright eyes in his mottled face are shot through with worry.</p>
+<p>“I said, are you <em>all right</em>, boy?”</p>
+<p>It takes me a moment to navigate sensation back to my lips. I choke out an “enough.”</p>
+<p>He releases me and steps back, still tense. “You were just standing there. Staring at your boots.”</p>
+<p>I look around. There’s no sign of the winch operator, and the streets are sparser. “Sorry.”</p>
+<p>His face softens. “Just because the job’s hard is no cause to be sleeping on your feet. If you need a day’s respite, I can find another—”</p>
+<p>“No!” It comes with more force than I intend. “It won’t happen again. I need the work.” With effort, I smile. “Thank you for the concern.”</p>
+<p>He raises a skeptical eyebrow, but—praise be—doesn’t press the issue. He proffers the day’s pay, muttering something about uppity winchmen before saying farewell. The burning smell from the day’s catch follows me all the way to the Stedwin.</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Incidence/images/image1.png" /></p>
+<p>By the time I arrive, Marion is already halfway through a story. He’s in his chair by the hearth, one arm carelessly leaning on a barstool while the other holds a heavy tome, the warm red firelight shading to gold through the turning pages and his tousled hair. His eyes snap to me the moment I enter, and a brief smile touches his lips, though it doesn’t slow the cadence of his speech.</p>
+<p>“. . . seeing this, Telítan held aloft his silver staff for the third time, for in those days all wonderful things came in threes. He roared at the sky, and behind his words was a tide of warm summer air that rolled across the land like a hurricane in reverse. The dark clouds let loose their heaviest rain yet—but Telítan smiled, for he knew the tongue of the seas and skies, and knew this rain was <em>tears</em>, of penitence and of terror.”</p>
+<p>With an impish grin, Marion flicks his hand and a flurry of brilliant sparks twist into the air about him, bright and beautiful. They hang above, drifting in the eddies of the tavern air as Marion pitches his voice lower to deliver the challenge of the Good Wizard Telítan.</p>
+<p>“Run all you like, he cried, for I shall not stop until I chase you and the Whittle-Witch from the face of Calloran itself. And he stepped onto the wind he called as easily as you or I might board a carriage, and was borne away on it as it chased the storm-front, scattering in his wake diamonds and rubies which sank into the earth and grew to towering harvests of food, the finest the townsfolk had ever known. And they feasted until they had forgotten the famine, and then feasted again for the joy of it, and no dark clouds ever fell upon that land again.”</p>
+<p>The audience—a busy one, at this hour—is rapt as Marion speaks, sparing only the occasional glance to beckon a refill from the barmaid. A few children are among them—unusual, for an establishment like this, but a common sight at the Stedwin, for they love to listen to Marion. I meet his eyes again as his hand claps the book closed, the soft <em>thud</em> of it scattering the motes of light, which dim to stillness. He tucks it under his arm.</p>
+<p>I can’t say why we like his stories so. Perhaps because they’re classics—everyone hears the tales of the Good Wizard Telítan and Alice’s Green Parlor and the City in a Cauldron before they’re old enough to learn the words those tales are made of. Perhaps it’s because he never seems to run out of them—I got a look in his big book once, and I don’t think he’s actually reading from it. Perhaps it’s all the kids’ doing—an evening one can dangle as promise or punishment for an excited child, a valuable tool for a parent working long factory shifts. Perhaps it’s just the quality of the recital—I know at least three times that he’s been approached and asked to join some actors’ troupe, and he told me in private that one of the scouts had offered a position with Mertin-LaCloff, wanted him to replace the lead for <em>A Bottle of Time</em>.</p>
+<p>I can’t speak for anyone else. For me, it’s because he’s happy.</p>
+<p>I wind my way past the bustling patrons as he leans back, taking a moment’s break between tales. Outside, I hear a window shatter. The Crown and Collar’s having another of its usual nights. Dice bring in more coin than Marion, but on the other hand, we never get those sounds.</p>
+<p>He waves as I approach. “Andrew! Lovely to see you.”</p>
+<p>I slump to the ground up against the fireplace wall, breathing a sigh of relief at the warmth after a long day of cold and wet. “Couldn’t have put it better myself. How’d you pull off the trick with the sparkles?”</p>
+<p>He grins. “As our friend Telítan says, a wizard’s way can’t be given away.”</p>
+<p>I roll my eyes. “Proper archmage, you.”</p>
+<p>He loves his special effects. I’ve never managed to figure out how he pulls them off.</p>
+<p>I rest for the next few stories, letting the twin warmths of Marion’s voice and the fire take me. Somewhere in the middle of it all, I secure a sandwich and a mug. The taste washes out the last dregs of that horrible smell in the catch, though the memory of it is slower to fade. I make some progress as the firelight dims, exchanged for an ever-brightening moonlight through the Stedwin’s windows.</p>
+<p>Fine glass, those windows. After a few months of dithering over it, Faye Stedwin had replaced them only half a week ago. With the advent of the Runfel process, prices for glassware had plunged dramatically, and I have to admit that the light in the main room has never looked so clear as it does through Wickel and Sons’ Pristine Panes. I am embarrassed by how profoundly fascinating I find this.</p>
+<p>Marion finishes his last story for the evening, and the room is emptier now. He thumbs through his book, exchanging the occasional cheery glance with me, as the guests who remain turn to rumor. I roll my eyes as I hear the topic of Faye and Captain Tames broached for what must be the fiftieth time. He’d spent an off-duty evening helping install the new windows here—a favor for an establishment he frequented, as gentlemanly charity requires—and suddenly the whole place is awash with rumors of secretive liaisons between him and the owner. The fact that he’s not been seen in two days has done his otherwise-sterling reputation no favors.</p>
+<p>I ask Marion about the sparkles again.</p>
+<p>“Just magic.”</p>
+<p>I groan and let the subject drop.</p>
+<p>The clockwork chronometer on the wall sounds midnight. Closing time. The few who remain make for the door if they don’t room here, or the stairs up if they do. The former group includes Marion, the latter me.</p>
+<p>As he’s about to leave, I work up the nerve to catch him in a hug. He tenses with surprise at first, but in a moment he returns the gesture with the arm not holding his book. I pull back after a moment.</p>
+<p>He’s still smiling. “And a fond farewell to you too. What’s the occasion?”</p>
+<p>I look down, embarrassed. “Been out of sorts today. You helped.”</p>
+<p>“Well, Andr—”</p>
+<p>I interrupt, still not looking up. “—Ann. Um, for short. You can call me Ann.”</p>
+<p>“Well. Ann, it is my highest honor to have done so.” He doesn’t miss a beat.</p>
+<p>I don’t respond for a moment, and he steps away, but as the door swings closed behind him, I hear one more reply.</p>
+<p>“I’ll be in tomorrow evening!”</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Incidence/images/image2.png" /></p>
+<p>There’s candlelight in my room. By it, I turn the pages of a ponderous tome of my own: <em>Foundations and Practicalities of the</em> <em>Runfel</em> <em>Process, as Explicated by Her Own Hand.</em> A dry work, to be sure—a meticulous overview of the chemical and industrial principles that made modern glassware possible. I’ve always been fascinated by it—the beauty of refraction and reflection, the fiery dance of molten material, even the slow grind of polishing that made it function.</p>
+<p>No positions in it for me, though. The industry was in upheaval, the bosses on the lookout for those with expertise on the latest automation, who could understand the great wheels that etched to exacting specifications the eye-lenses of golden automata. Very well. <em>Foundations and Practicalities</em> is a few years out of date, but it’s in wide print, and would make me a <em>fine</em> sight more qualified than the average neophyte.</p>
+<p>So I study most nights, this no exception. Ceyla Runfel is an exacting taskmaster, but her book is well laid-out, and I’m making progress. It’s my second read, slower this time, and I understand things that stumped me the first. I flick my vision between the page and the pristine window on the other side of the room, connecting at long last the theory and the practice.</p>
+<p>There’s a letter in the desk, a request for apprenticeship addressed to Helmi Wickel, abandoned halfway through a sentence of my best pensmanship. When I finish this reread, I think I’ll return to it.</p>
+<p>It’s begun to rain outside. Fingers of water tap on the glass, and pebbles and debris roll in a rising wind. I disregard it.</p>
+<p>A faintly heard chime calls two in the morning from the main room. I set the book down and walk up to the window, wincing at my reflection in the candlelight off it, attempting to make the page I’m on make sense. I bend down to get closer to the upper edge, trying to get a better look at how the glazing sprigs are seated.</p>
+<p>I can see the moon again at this angle. I blink its light out of my eyes.</p>
+<p>It happens rather swiftly. The wind picks up for just a moment. A roof tile, poorly maintained, slips loose from a building high above. The shattering launches a sharp ceramic shard at a particular angle, and the glass of my window takes the impact, spiderwebbing into a fractal of—</p>
+<p>My head hurts. My head hurts like hell. Through the muddying of everything, I perceive, very faintly, the chime for nine in the morning.</p>
+<p>I can’t see. I lift my hands to my face and flinch back, the faintest touch revealing that my eyelids are rubbed raw. I feel like an open wound. Out of instinct, I blink, and the pain wracks me with a sob. It’s through this I discover that my throat is impossibly dry. I can’t let out more than half a sound.</p>
+<p>The smell is back. Whatever we brought in with the catch, it’s everywhere in my head now. I still can’t see. I stumble, and knees locked stiff for seven hours collapse under me, sending me tumbling. The wooden bedframe scores my head a glancing blow. I barely feel it over everything else. I still can’t see.</p>
+<p style="text-align: center;"><em>continued in</em> <a href="refraction.html"><em>Refraction</em></a></p>
+        </div>
+    </div>
+    <script>
+        document.getElementById("search").addEventListener("keypress", function(event) {
+          if (event.key === "Enter") {
+                event.preventDefault();
+                search();
+          }
+        });
+
+        function search() {
+            const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+            url.searchParams.append('search', document.getElementById("search").value);
+            window.location.href = url.pathname + url.search;
+        }
+
+        function randomCard() {
+            fetch(rootPath + '/lists/all-cards.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cards = data.cards;
+                    const random_card = cards[Math.floor(Math.random() * cards.length)];
+                    const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+                    const params = {
+                        set: random_card.set,
+                        num: random_card.number,
+                        name: random_card.card_name
+                    }
+                    for (const key in params) {
+                        url.searchParams.append(key, params[key]);
+                    }
+                    window.location.href = url.pathname + url.search;
+                }).catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>

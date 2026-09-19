@@ -1,0 +1,277 @@
+<html>
+<head>
+    <title>EMERGENCE</title>
+    <link rel="icon" type="image/x-icon" href="../../img/articles.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../../resources/mana.css">
+    <link rel="stylesheet" href="../../resources/header.css">
+    <link rel="stylesheet" href="../../resources/card-text.css">
+</head>
+<script title="root">
+    const rootPath = "../..";
+</script>
+<style>
+    @font-face {
+        font-family: 'Beleren Small Caps';
+        src: url('../../resources/beleren-caps.ttf');
+    }
+    @font-face {
+        font-family: Beleren;
+        src: url('../../resources/beleren.ttf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Black';
+        src: url('../../resources/gotham-narrow-black.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Bold';
+        src: url('../../resources/gotham-narrow-bold.otf');
+    }
+    @font-face {
+        font-family: 'Gotham Narrow Medium';
+        src: url('../../resources/gotham-narrow-medium.otf');
+    }
+    body {
+        font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+        overscroll-behavior: none;
+        margin: 0px;
+        background-color: #ffffff;
+    }
+    .article-container {
+        width: 80%;
+        max-width: 900px;
+        margin: 40px auto;
+        padding: 40px;
+        background-color: rgba(255, 255, 255, 0.95);
+        border: 1px solid #d5d9d9;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        overflow-x: auto;
+    }
+    .article-content img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0;
+        object-fit: contain;
+        flex: 0 1 auto;
+        min-width: 0;
+    }
+    .article-content p.image-paragraph {
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 15px;
+        width: 80%;
+        margin: 20px auto;
+    }
+    /* Only hide BR tags that are immediately between images in a flex row */
+    .article-content p.image-paragraph img + br {
+        display: none;
+    }
+    h4 {
+        font-family: 'Open Sans', sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        text-align: right;
+        width: 80%;
+        margin: -15px auto 30px auto;
+        color: #666;
+        font-style: italic;
+    }
+    h1, h2 {
+        margin: 0;
+    }
+    h1 {
+        font-family: "Gotham Narrow Bold", Arial, serif;
+        font-size: 36px;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-family: "Gotham Narrow Medium", Arial, serif;
+        font-size: 32px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    p {
+        line-height: 1.6;
+        font-size: 16px;
+    }
+    hr {
+        margin-top: 30px;
+        margin-bottom: 30px;
+        border: 0;
+        border-top: 1px solid #d5d9d9;
+    }
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    th, td {
+        border: 1px solid #d5d9d9;
+        padding: 12px;
+        text-align: center;
+    }
+    th {
+        background-color: #f8f8f8;
+        font-family: "Gotham Narrow Bold", Arial, serif;
+    }
+    td img {
+        display: inline-block !important;
+        float: none !important;
+        vertical-align: middle;
+    }
+</style>
+<body>
+    <div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+    <div class="article-container">
+        <div class="article-content">
+            <h1>Emergence</h1>
+<h2>An unofficial <em>Stirrings in Goldport</em> Story</h2>
+<h4><em>continued from</em> <a href="refraction.html"><em>Refraction</em></a></h4>
+<p>Sleep does not come easily.</p>
+<p>I stumble my way through a meal offered to me by the hospital staff—good fare, though my second dose of the medicine—absentia, they had called it—ruined any hope of tasting it. I hear murmurs about fire damage, though I’m assured it poses no structural risk. I’m too weary to argue.</p>
+<p>Finally, I’m returned to my room. I can tell by the absence of a previously-omnipresent low <em>hum</em> that the lights have been put out.</p>
+<p>I toss and turn for what feels like hours, though this place has no chronometer where I can hear it. I see the book again, same incomprehensible gibberish taunting me, laughing at me. Though I can’t read a word of it, I feel as though it’s telling me with tittering laughter that <em>you’ll never see again.</em></p>
+<p>I push it away with memories of Marion reading the chapter. I will get better, and even in the meantime I can study.</p>
+<p>Finally, I drift off.</p>
+<p style="text-align: center;">—</p>
+
+<p>Apparently I can see just fine in my dreams.</p>
+<p>I’m on the gangway again, fresh out of the ship’s hold. There are two figures arguing on the dock, though both are indistinct, their voices incomprehensible.</p>
+<p>I’m barefoot, wearing some thin silk robe—<em>dress?—</em>that I’ve never in my life seen, a cream-colored thing embroidered with shimmering geometric patterns that look like… crowns? Horns, perhaps? A few feet ahead of me, at the foot of the wooden walkway, is a puddle still as ice.</p>
+<p>The sky is dark, a full dome blacker than ink, without moon or stars. Nevertheless, my surroundings are lit with a flickering green-blue light that ebbs and flows, following an almost musical rhythm, though there is no sound.</p>
+<p>I walk down, careful not to incur splinters. Carefully, I try to step over the puddle, and a hand clasps my shoulder from behind, cutting my stride short, my feet making contact with the surface of the water, scattering it into—</p>
+<p>—<em>a whirl of impossibly beautiful light. I remember now.</em></p>
+<p><em>I learned how to see. It just takes a while to get used to.</em></p>
+<p><em>I see Goldport, in all its imperfect majesty. I’m atop the envelope of a ponderous airship, the canvas surface deforming beneath me and creating a soft cradle from which to stare down. I see the buildings, like doll’s houses, the Hall of Dominion like an intricate cog, a pivot on which history spun. I see the people, like ants and universes, who make this city their home. I look closer, and I see them split and fracture, histories spinning into futures across dimensions I will learn to name, falls into darkness and pivots from the least of the least into heroes whose names the city sings. I flit from life to life, witnessing shining moments again and again.</em></p>
+<p><em>I remember it all. It had come so naturally to me. I thought motes of lead oxide into the glassy time, and watched as history bent at sharper angles, heirlooms lost for centuries rediscovered by a tripping child, an esteemed thespian choking to death on a falling rose petal.</em></p>
+<p><em>I watched from the sky for hours.</em></p>
+<p><em>I piece the last evening back together. Marion, reading books to his pitifully blinded friend. A part of</em> <em>me trying</em> <em>to push out of time, and mostly only succeeding at driving me mad, answering questions before they’re asked and feeling whiplash as the moments reassemble themselves.</em></p>
+<p><em>To think all I needed was some sleep to set me right.</em></p>
+<p><em>One question nags at me, though. Why did I forget?</em></p>
+<p><em>No sooner do I form the thought than it all goes wrong.</em></p>
+<p><em>I remember playing across a future of a handsome youth of sixteen, fiery-eyed and full of passion, exploring a refraction where he joins the West District Union. He’s face-to-face with a hired thug—consequence, though he knows it not, of some untoward word around a particularly unscrupulous shift manager—when his eyes go slack, the sturdy cane he favors slipping from suddenly numb hands, and something that’s been burgeoning inside takes him off like an evening gown.</em></p>
+<p><em>A lance of obsidian from a direction that doesn’t exist skewers the thug in an instant. Satisfied, the thing-that-was-young turns—</em></p>
+<p>and meets my eyes directly, and I come face to face with the thing behind it.</p>
+<p>A future occludes my view across the seven dimensions I can see and ten orders of magnitude more I cannot.</p>
+<p>Agony.</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Emergence/images/image1.png" /></p>
+<p>The world dies cold. Stars wink out as tendrils from the heavens sweep cities off the map, and I feel the weight of every fractal life snuffed out in an instant, no path stretching beyond this moment. Wind tears the earth asunder, and the ebbing few who survive turn on each other for the scraps that remain, until they too are gone.</p>
+<p>In the middle of it all, I can feel <em>something</em> inside of me screaming, a tether trying to pull me out, a nomad made of radiance shed from a brilliant sun trying to become real, <em>me</em> truer than <em>me</em> trying to take this moment of terror and <em>rise</em> from it. Its howls reach a crescendo, until finally there’s a <em>pull</em>, a twisting step through a door that was inside of me from the very start.</p>
+<p>I’m in a prestigious lecture hall. Granted, I’d never seen a prestigious lecture hall until my dance through futures a moment ago, but I’m confident this is what one looks like, a towering space of elegant marble with seats set with velvet cushions. Empty, except for me and one other.</p>
+<p>At the head of the room is a woman—middle-aged, dressed in a sharp black coat and wearing thick, gold-rimmed spectacles. Her greying hair is tied back and held in place by a pin that looks sharp enough to kill.</p>
+<p>I recognize that face. A little older, but I would have to be mad not to know the appearance of Ceyla Runfel, featured as it is on the back cover of the book that shares her process’s name.</p>
+<p>She clears her throat and begins to speak.</p>
+<p><em>Before my work, the practice of optics was governed as much by selection as by design. A lens could be calculated precisely and still fail because the glass itself would rebel against the mathematics: one batch clouded, another warped, a third bent blue light differently from red and drove automata fitted with its</em> <em>product mad</em><em>.</em></p>
+<p><em>What is now flatteringly dubbed the Runfel process is not merely a way to make better glass, but a way to dispense with that uncertainty. A transformation of the optician’s art from a game of chance into a science that can define initial conditions, prepare ingredients, and upon completion, declare with authority that</em></p>
+<p class="image-paragraph"><img alt="It could not have ended any other way." src="../../articles/Stories/Emergence/images/image3.png" /></p>
+<p>Ceyla stares directly at me and <em>shatters</em>, and I feel the light within me slamming into a wall of flesh around Calloran, a wall of chalk around Goldport, a wall of shimmering black obsidian around me, trying frantically to ignite. With each impact, the pain intensifies, the smell grows louder, brighter, sharper, and I finally have a name for it.</p>
+<p>It’s the smell of the friction-burns as my soul dies.</p>
+<p>I remember why I forgot.</p>
+<p>No time at all has passed. My foot is wet. I’m back on the empty black docks. Very distantly, in the sky, I see three stars.</p>
+<p>There’s a hand on my shoulder, the one that pulled me into the puddle. I turn around to see its bearer, and there was never a hand at all.</p>
+<p>Wordlessly, I walk back up the gangway, onto the deck, and watch the stars get closer. I take a seat on the gunwale. The crowns embroidered on my dress are starting to glow.</p>
+<p>I don’t think I’m making it to morning.</p>
+<table class="story-table"><tr><td>MEDICAL CERTIFICATE OF DEATH<br>&nbsp;<br>Name of Deceased:      Andrew Licent<br>Age:                   Nineteen years<br>Residence:             Room 204, 115 Vane Street<br>Date of Death:         13th o. Jadian’s Fall, 1201<br>Time of Death:         5:38 AM (approx.)<br>Place of Death:        Lionel Clanston Memorial Medical Center<br>&nbsp;<br>Cause of Death:<br>You are not yours to keep.<br>    Our promise is fulfilled..<br>&nbsp;<br>Duration of final illness:  3 hours, 14 minutes (approx.)<br>&nbsp;<br>I hereby certify that I attended the deceased<br>during his last illness, and that the cause of<br>death was as stated above.<br>&nbsp;<br>U. E. Konstantin, T.I.<br>14th o. Jadian’s Fall, 1201</td></tr></table>
+
+<p>The stars are very bright now.</p>
+<p>I shake a drop of water off my fingers into the silent sea, and watch the ripples in their light. No futures worth finding in that reflection.</p>
+<p>Something other than a future, maybe. I pull a match from the gunwale beside me and strike it. I contemplate the fire for a second.</p>
+<p>I toss the match onto the deck of the boat, which quickly spreads across a puddle of oil dripped by an inoperative winch, gnawing hungrily against the rest of the boat. The warmth is nice, and I breathe a slow sigh of relief as the tension in my back unspools.</p>
+<p>The firelight reflects in the water too. I pull myself into the reflection, and peer around a corner of time—not to the future, where They wait, but to another present. A slightly different flavor of the end.</p>
+<p>Marion’s hand settles in mine.</p>
+<p>I stare into the water as the flame spreads further across the deck. “Can I get an answer for the magic, Marion?”</p>
+<p>He squeezes my hand, and I can feel his fingers—smooth and fragile, like glass. “The pyrotechnics in the Stedwin? Just a trick. My parents are both chemists, and quite well-to-do for it. Mostly industrial stuff, but they make the occasional plaything for novelty, and I take a couple down to the Stedwin. Break the package, scatter the powder with a little sleight,” He smiles. “It adds wonderfully to the atmosphere.”</p>
+<p>I pull something from a pocket in the air. One last little light, dancing between the fire and the stars. My spark that might have been.</p>
+<p>“How did you do it? Just a flick of the wrist?”</p>
+<p>“Pretty much. The hard part’s keeping it secret. No more need for that now.”</p>
+<p>I toss it, and it diverges into a ribbon, a tide, a thousand darting threads of gold and violet, coiling over the dream sea. Each twinkle reflects in the shallow waves, and in each facet of the water I see a me that was possible.</p>
+<p>The fire has almost engulfed me, but it’s only warm. In the distance, the threads begin to bend, gathered up into the orbit of three merciless stars to play the part of a bargaining chip.</p>
+<p>I linger on the last reflection for a very long time.</p>
+<p class="image-paragraph"><img alt="All cards in these stories are purely decorative, and do not feature in Stirrings in Goldport or any other set." src="../../articles/Stories/Emergence/images/image2.png" /></p>
+        </div>
+    </div>
+    <script>
+        document.getElementById("search").addEventListener("keypress", function(event) {
+          if (event.key === "Enter") {
+                event.preventDefault();
+                search();
+          }
+        });
+
+        function search() {
+            const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+            url.searchParams.append('search', document.getElementById("search").value);
+            window.location.href = url.pathname + url.search;
+        }
+
+        function randomCard() {
+            fetch(rootPath + '/lists/all-cards.json')
+                .then(response => response.json())
+                .then(data => {
+                    const cards = data.cards;
+                    const random_card = cards[Math.floor(Math.random() * cards.length)];
+                    const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+                    const params = {
+                        set: random_card.set,
+                        num: random_card.number,
+                        name: random_card.card_name
+                    }
+                    for (const key in params) {
+                        url.searchParams.append(key, params[key]);
+                    }
+                    window.location.href = url.pathname + url.search;
+                }).catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+</html>
