@@ -1,0 +1,72 @@
+/* Typography for the Goldport stories, matching the source documents.
+   Scoped to .article-content so the site header keeps its own font. */
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Courier+Prime:ital,wght@0,400;1,400&family=IM+Fell+DW+Pica:ital@0;1&display=swap');
+
+/* Title: IM Fell DW Pica, as in the documents */
+.article-content h1 {
+	font-family: 'IM Fell DW Pica', Georgia, serif;
+	font-weight: 400;
+	font-size: 42px;
+	letter-spacing: 0.02em;
+	margin-top: 10px;
+	margin-bottom: 8px;
+}
+
+/* Subtitle and the credit / continuation line: centered, not right-aligned */
+.article-content h2 {
+	font-family: 'Libre Baskerville', Georgia, serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 19px;
+	color: #3a3a3a;
+	margin-bottom: 4px;
+}
+
+.article-content h4 {
+	font-family: 'Libre Baskerville', Georgia, serif;
+	font-size: 14px;
+	text-align: center;
+	width: auto;
+	margin: 0 auto 34px auto;
+}
+
+.article-content h4 a {
+	color: #6d9eeb;
+}
+
+/* Body: Libre Baskerville with the documents' first-line indent */
+.article-content p {
+	font-family: 'Libre Baskerville', Georgia, serif;
+	font-size: 16px;
+	line-height: 1.7;
+	text-indent: 3em;
+	margin: 0 0 14px 0;
+}
+
+/* Centered scene breaks and closing links are not indented */
+.article-content p[style*="center"] {
+	text-indent: 0;
+	margin: 26px 0;
+}
+
+.article-content p.image-paragraph {
+	text-indent: 0;
+}
+
+/* The death certificate in Emergence is set in Courier Prime */
+.article-content table.story-table {
+	font-family: 'Courier Prime', 'Courier New', monospace;
+	font-size: 14px;
+	line-height: 1.45;
+	width: 85%;
+	margin: 30px auto;
+	border-collapse: collapse;
+}
+
+.article-content table.story-table td {
+	border: 3px solid #171717;
+	padding: 18px 22px;
+	text-align: left;
+	white-space: pre-wrap;
+}
