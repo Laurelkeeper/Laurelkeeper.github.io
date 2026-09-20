@@ -3,6 +3,14 @@ import json
 import markdown
 import re
 
+CATEGORY_MARKER = '<!--mse-hub category page-->'
+
+def slugify(text, keep_case=False):
+    t = text if keep_case else text.lower()
+    pattern = r'[^a-zA-Z0-9\s-]' if keep_case else r'[^a-z0-9\s-]'
+    slug = re.sub(pattern, '', t)
+    return re.sub(r'\s+', '-', slug).strip('-')
+
 def generateHTML():
     articles_dir = 'articles'
     if not os.path.exists(articles_dir):
@@ -16,12 +24,6 @@ def generateHTML():
             header_snippet = f.read()
 
     article_data = {} # Category -> [Article Info]
-
-    def slugify(text, keep_case=False):
-        t = text if keep_case else text.lower()
-        pattern = r'[^a-zA-Z0-9\s-]' if keep_case else r'[^a-z0-9\s-]'
-        slug = re.sub(pattern, '', t)
-        return re.sub(r'\s+', '-', slug).strip('-')
 
     def process_article(article_path, category, rel_base_path):
         md_path = os.path.join(article_path, 'article.md')
@@ -337,11 +339,28 @@ def generateHTML():
 
     # Generate all-articles.html (Top level)
     if len(article_data) > 0:
-        generate_index_html(article_data, header_snippet)
+        # CE: one standalone page per category, linkable on its own
+        for entry in os.scandir('.'):
+            if entry.is_file() and entry.name.endswith('.html'):
+                try:
+                    with open(entry.path, encoding='utf-8') as f:
+                        if CATEGORY_MARKER in f.read(400):
+                            os.remove(entry.path)
+                except Exception:
+                    pass
+
+        category_pages = {c: slugify(c) + '.html' for c in article_data}
+        generate_index_html(article_data, header_snippet, category_links=category_pages)
+        for category, articles in article_data.items():
+            generate_index_html({category: articles}, header_snippet,
+                                out_file=category_pages[category],
+                                page_title=category, is_category_page=True)
         return True
     return False
 
-def generate_index_html(article_data, header_snippet):
+def generate_index_html(article_data, header_snippet, out_file='all-articles.html',
+                        page_title='Articles', category_links=None,
+                        is_category_page=False):
     # CSS for scrollable gallery
     # Cards inspired by MTG cards or similar aesthetics? 
     # User said: "cards in a scrollable gallery (left to right, groups stacked top to bottom)"
@@ -367,17 +386,25 @@ def generate_index_html(article_data, header_snippet):
                 </div>
             </a>'''
         
+        if category_links and category in category_links:
+            heading = ('<a href="./{0}" style="color: inherit; text-decoration: none;">'
+                       '{1}</a>').format(category_links[category], category)
+        else:
+            heading = category
+
         galleries_html += f'''
         <div class="gallery-section">
-            <h2 class="gallery-category">{category}</h2>
+            <h2 class="gallery-category">{heading}</h2>
             <div class="gallery-scroll">
                 {articles_html}
             </div>
         </div>'''
 
-    index_html = f'''<html>
+    marker = CATEGORY_MARKER + '\n' if is_category_page else ''
+
+    index_html = f'''{marker}<html>
 <head>
-    <title>Articles</title>
+    <title>{page_title}</title>
     <link rel="icon" type="image/x-icon" href="./img/articles.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -529,9 +556,9 @@ def generate_index_html(article_data, header_snippet):
 </body>
 </html>'''
 
-    with open('all-articles.html', 'w', encoding='utf-8') as f:
+    with open(out_file, 'w', encoding='utf-8') as f:
         f.write(index_html)
-    print("Generated all-articles.html")
+    print("Generated " + out_file)
 
 if __name__ == "__main__":
     generateHTML()
