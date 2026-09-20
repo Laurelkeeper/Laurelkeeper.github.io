@@ -560,7 +560,7 @@
         "position": "232"
     },
     {
-        "card_name": "Confident Lead",
+        "card_name": "Confident Dramaturge",
         "number": 9,
         "shape": "normal",
         "set": "AJY",
@@ -2636,8 +2636,16 @@
         "position": "354"
     },
     {
+        "card_name": "Refuted",
+        "number": 4,
+        "shape": "token",
+        "set": "AJY",
+        "rotated": false,
+        "position": "355"
+    },
+    {
         "card_name": "The Ebonwood",
-        "number": 37,
+        "number": 38,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2645,7 +2653,7 @@
     },
     {
         "card_name": "The Echofont",
-        "number": 38,
+        "number": 39,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2653,7 +2661,7 @@
     },
     {
         "card_name": "The Elderbloom",
-        "number": 39,
+        "number": 40,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2661,7 +2669,7 @@
     },
     {
         "card_name": "The Etherweave",
-        "number": 40,
+        "number": 41,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2669,7 +2677,7 @@
     },
     {
         "card_name": "The Everflame",
-        "number": 41,
+        "number": 42,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2677,7 +2685,7 @@
     },
     {
         "card_name": "Memorial Edge",
-        "number": 42,
+        "number": 43,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2685,7 +2693,7 @@
     },
     {
         "card_name": "Treasure Token",
-        "number": 43,
+        "number": 44,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2693,7 +2701,7 @@
     },
     {
         "card_name": "Everywhere",
-        "number": 44,
+        "number": 45,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2701,7 +2709,7 @@
     },
     {
         "card_name": "Eni, Alabaster Paragon",
-        "number": 45,
+        "number": 46,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2709,7 +2717,7 @@
     },
     {
         "card_name": "Contracted Duo",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2717,7 +2725,7 @@
     },
     {
         "card_name": "Telltale Sign Token",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2725,7 +2733,7 @@
     },
     {
         "card_name": "Bird Hero",
-        "number": 4,
+        "number": 5,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2733,7 +2741,7 @@
     },
     {
         "card_name": "Human Horror",
-        "number": 5,
+        "number": 6,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2741,7 +2749,7 @@
     },
     {
         "card_name": "Noble",
-        "number": 6,
+        "number": 7,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2749,7 +2757,7 @@
     },
     {
         "card_name": "Samurai Warlock",
-        "number": 7,
+        "number": 8,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2757,7 +2765,7 @@
     },
     {
         "card_name": "Warlock",
-        "number": 8,
+        "number": 9,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2765,7 +2773,7 @@
     },
     {
         "card_name": "Detective",
-        "number": 9,
+        "number": 10,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2773,7 +2781,7 @@
     },
     {
         "card_name": "Halfmortal",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2781,7 +2789,7 @@
     },
     {
         "card_name": "Reflection Hero",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2789,7 +2797,7 @@
     },
     {
         "card_name": "Robot Avatar",
-        "number": 12,
+        "number": 13,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2797,7 +2805,7 @@
     },
     {
         "card_name": "Conscience",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2805,7 +2813,7 @@
     },
     {
         "card_name": "Demon Knight",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2813,7 +2821,7 @@
     },
     {
         "card_name": "The Lady Bantrel",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2821,7 +2829,7 @@
     },
     {
         "card_name": "Wraith",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2829,7 +2837,7 @@
     },
     {
         "card_name": "Avatar Warrior",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2837,7 +2845,7 @@
     },
     {
         "card_name": "Dryad Soldier",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2845,7 +2853,7 @@
     },
     {
         "card_name": "Faerie Knight",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2853,7 +2861,7 @@
     },
     {
         "card_name": "Peasant Hero",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2861,7 +2869,7 @@
     },
     {
         "card_name": "Rose",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2869,7 +2877,7 @@
     },
     {
         "card_name": "Soldier Bard",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2877,7 +2885,7 @@
     },
     {
         "card_name": "Thornscar",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2885,7 +2893,7 @@
     },
     {
         "card_name": "Graveborn Soldier",
-        "number": 30,
+        "number": 31,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2893,7 +2901,7 @@
     },
     {
         "card_name": "Wurm Hero",
-        "number": 35,
+        "number": 36,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2901,7 +2909,7 @@
     },
     {
         "card_name": "Havoc Cry",
-        "number": 46,
+        "number": 47,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2909,7 +2917,7 @@
     },
     {
         "card_name": "Alder's Apologue",
-        "number": 47,
+        "number": 48,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2917,7 +2925,7 @@
     },
     {
         "card_name": "Passioned Pair",
-        "number": 32,
+        "number": 33,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2925,7 +2933,7 @@
     },
     {
         "card_name": "Artificer Hero",
-        "number": 26,
+        "number": 27,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2933,7 +2941,7 @@
     },
     {
         "card_name": "Bird",
-        "number": 27,
+        "number": 28,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2941,7 +2949,7 @@
     },
     {
         "card_name": "Elemental Horror",
-        "number": 28,
+        "number": 29,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2949,7 +2957,7 @@
     },
     {
         "card_name": "Elk Horror",
-        "number": 29,
+        "number": 30,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2957,7 +2965,7 @@
     },
     {
         "card_name": "Holoform",
-        "number": 31,
+        "number": 32,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2965,7 +2973,7 @@
     },
     {
         "card_name": "Rat Soldier",
-        "number": 33,
+        "number": 34,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2973,7 +2981,7 @@
     },
     {
         "card_name": "Spirit Ogre",
-        "number": 34,
+        "number": 35,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2981,14 +2989,11 @@
     },
     {
         "card_name": "Wurm Horror",
-        "number": 36,
+        "number": 37,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
         "position": "348"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

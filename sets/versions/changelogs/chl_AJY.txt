@@ -1,4 +1,99 @@
-﻿VERSION 57 CHANGELOG
+﻿VERSION 58 CHANGELOG
+====================
+
+Confident Dramaturge added.
+Refuted added.
+
+Confident Lead removed.
+
+Protector of the Ordinary
+
+Set the Stage
+
+Uneasy Auditioner
+
+Iridium Muse
+
+Refusal of the Call
+
+Mournful Melodist
+
+Scriptkeeper
+
+Auspicious Mushroom
+
+Night's Clarity
+
+Glamorous Herald
+
+Skywright Bladesinger
+
+Meeting the Mentor
+
+Storied Deed
+
+Traveling Players
+
+The Road Back
+
+Return with the Elixir
+
+Steelbrace Star
+
+Orrin's Ordeal
+
+The Court's Last Hunt
+
+Meismos, Thundergaunt
+rules_text: Whenever Meismos attacks, it deals 1 damage to each player.
+{2}{BR}{BR}, Sacrifice Meismos: Create an 3/3 red and black Elemental Horror creature token. Create another for each player who has 10 life or less. Activate only as a sorcery. => Whenever Meismos attacks, it deals 1 damage to each player.
+{2}{BR}{BR}, Sacrifice Meismos: Create an 3/3 red and black Elemental Horror creature token with menace. Create another for each player who has 10 life or less. Activate only as a sorcery.
+
+Ornate Invitation
+
+Cunning Keepbreaker
+
+The Hewing of Bantrel Grove
+rules_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create the Lady Bantrel, a legendary 6/6 black Horror Noble creature token with “Ward—Discard a card.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create The Lady Bantrel, a legendary 6/6 black Horror Noble creature token with “Ward—Discard a card.”
+special_text: [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create the Lady Bantrel, a legendary 6/6 black Horror Noble creature token with “Ward—Discard a card.” => [i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]
+I, II — Draw a card. You lose 3 life unless you sacrifice a creature.
+III — Create The Lady Bantrel, a legendary 6/6 black Horror Noble creature token with “Ward—Discard a card.”
+
+The Inmost Cave
+
+Pint-Sized Penstrel
+
+Lexyrinth, Vault of Legends
+
+Elemental Horror
+pt: ★/★ => 3/3
+
+Lead
+
+Myth of Awakening
+
+Elk Horror
+type: Token Creature — Elk => Token Creature — Elk Horror
+
+Avatar Warrior
+
+Faerie Knight
+
+Dryad Soldier
+
+Living Refutation
+
+Lost in Atrament
+rules_text: [i]This card's owner may cast it by paying life equal to its mana value in addition to its mana cost. When they do, Atramentate's caster gains that much life.[/i] => [i]This card's owner may cast it from exile by paying life equal to its mana value in addition to its mana cost. When they do, Atramentate's caster gains that much life.[/i]
+
+
+VERSION 57 CHANGELOG
 ====================
 
 Lost in Atrament added.

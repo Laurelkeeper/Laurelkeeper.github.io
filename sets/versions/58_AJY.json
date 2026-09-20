@@ -446,7 +446,7 @@
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": "CW01"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Blindseer",
@@ -509,7 +509,7 @@
             "alias": "",
             "position": "23",
             "rotated": false,
-            "notes": "CW04"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Uneasy Auditioner",
@@ -530,7 +530,7 @@
             "alias": "",
             "position": "24",
             "rotated": false,
-            "notes": "CW06"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Sorrowed Cavalier",
@@ -740,7 +740,7 @@
             "alias": "",
             "position": "34",
             "rotated": false,
-            "notes": "CU04"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Derrilyn Falconer",
@@ -845,7 +845,7 @@
             "alias": "",
             "position": "39",
             "rotated": false,
-            "notes": "CU10"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Out of the Puzzlebox",
@@ -971,7 +971,7 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": "CB04"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Regent of Bantrel",
@@ -1202,7 +1202,7 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": "CR03"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Rotwinder",
@@ -1454,7 +1454,7 @@
             "alias": "",
             "position": "68",
             "rotated": false,
-            "notes": "CG04"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Lorn-Road Falconer",
@@ -1559,7 +1559,7 @@
             "alias": "",
             "position": "73",
             "rotated": false,
-            "notes": "CG10"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "A Cold Voice",
@@ -1811,7 +1811,7 @@
             "alias": "",
             "position": "85",
             "rotated": false,
-            "notes": "CZ09"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Solemn Standby",
@@ -2294,10 +2294,10 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": "UW07"
+            "notes": "!addtoken Lead;1;"
         },
         {
-            "card_name": "Confident Lead",
+            "card_name": "Confident Dramaturge",
             "color": "W",
             "rarity": "uncommon",
             "type": "Creature \u2014 Demon Hero",
@@ -2315,7 +2315,7 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": "UW08"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Meticulous Choreographer",
@@ -2420,7 +2420,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": "UW14"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Empty Throne",
@@ -2462,7 +2462,7 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": "UW16"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Take a Bow",
@@ -2567,7 +2567,7 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": "UU04"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Sentinel of Old Intria",
@@ -2714,7 +2714,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": "UU11"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Hidden Heir",
@@ -3092,7 +3092,7 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": "UB13"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Festering Pearl",
@@ -3260,7 +3260,7 @@
             "alias": "",
             "position": "154",
             "rotated": false,
-            "notes": "UR06"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Until We Meet Once More",
@@ -3386,7 +3386,7 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": "UR15"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "The Court's Last Hunt",
@@ -3407,7 +3407,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": "UR16"
+            "notes": "!addtoken LH1;1;LH2;1;LH3;1;"
         },
         {
             "card_name": "Blooming Aspirant",
@@ -4068,7 +4068,7 @@
             "number": 255,
             "color_identity": "BR",
             "cost": "{BR}{BR}",
-            "rules_text": "Whenever Meismos attacks, it deals 1 damage to each player.\n{2}{BR}{BR}, Sacrifice Meismos: Create an 3/3 red and black Elemental Horror creature token. Create another for each player who has 10 life or less. Activate only as a sorcery.",
+            "rules_text": "Whenever Meismos attacks, it deals 1 damage to each player.\n{2}{BR}{BR}, Sacrifice Meismos: Create an 3/3 red and black Elemental Horror creature token with menace. Create another for each player who has 10 life or less. Activate only as a sorcery.",
             "flavor_text": "[i]\u201cTime to learn your place in the world.\u201d[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -4184,7 +4184,7 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "UA02"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Book of Bitter Endings",
@@ -4499,7 +4499,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": "RU08"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Plot Armor",
@@ -4572,10 +4572,10 @@
             "number": 122,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 3 life unless you sacrifice a creature.\nIII \u2014 Create the Lady Bantrel, a legendary 6/6 black Horror Noble creature token with \u201cWard\u2014Discard a card.\u201d",
+            "rules_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 3 life unless you sacrifice a creature.\nIII \u2014 Create The Lady Bantrel, a legendary 6/6 black Horror Noble creature token with \u201cWard\u2014Discard a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 3 life unless you sacrifice a creature.\nIII \u2014 Create the Lady Bantrel, a legendary 6/6 black Horror Noble creature token with \u201cWard\u2014Discard a card.\u201d",
+            "special_text": "[i](Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)[/i]\nI, II \u2014 Draw a card. You lose 3 life unless you sacrifice a creature.\nIII \u2014 Create The Lady Bantrel, a legendary 6/6 black Horror Noble creature token with \u201cWard\u2014Discard a card.\u201d",
             "shape": "saga",
             "set": "AJY",
             "loyalty": "",
@@ -4716,7 +4716,7 @@
             "color": "R",
             "rarity": "uncommon",
             "type": "Token Creature \u2014 Human Peasant Hero",
-            "number": 18,
+            "number": 19,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "When this creature enters, if it's not a token, create a token that's a copy of it.\nWhen this creature dies, put a +1/+1 counter on up to one target Hero.",
@@ -5234,7 +5234,7 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": "RL01"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Shining Stage",
@@ -5549,7 +5549,7 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": "MR02"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Fair Summer",
@@ -5696,14 +5696,14 @@
             "alias": "",
             "position": "270",
             "rotated": false,
-            "notes": "MA02"
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "The Lady Bantrel",
             "color": "B",
             "rarity": "common",
             "type": "Token Legendary Creature \u2014 Horror Noble",
-            "number": 15,
+            "number": 16,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Ward\u2014Discard a card. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless they discard a card.)[/i]",
@@ -5724,7 +5724,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Wraith",
-            "number": 16,
+            "number": 17,
             "color_identity": "B",
             "cost": "",
             "rules_text": "This creature can't attack planeswalkers or block creatures attacking planeswalkers.",
@@ -5745,7 +5745,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Artifact",
-            "number": 22,
+            "number": 23,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Lifelink\n{2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.",
@@ -5766,7 +5766,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Human Horror",
-            "number": 5,
+            "number": 6,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -5808,7 +5808,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Token Enchantment Creature \u2014 Spirit Ogre",
-            "number": 34,
+            "number": 35,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "",
@@ -5829,7 +5829,7 @@
             "color": "WU",
             "rarity": "common",
             "type": "Token Creature \u2014 Artificer Hero",
-            "number": 26,
+            "number": 27,
             "color_identity": "WU",
             "cost": "",
             "rules_text": "",
@@ -5850,12 +5850,12 @@
             "color": "BR",
             "rarity": "common",
             "type": "Token Creature \u2014 Elemental Horror",
-            "number": 28,
+            "number": 29,
             "color_identity": "BR",
             "cost": "",
             "rules_text": "Menace",
             "flavor_text": "[i][/i]",
-            "pt": "\u2605/\u2605",
+            "pt": "3/3",
             "special_text": "",
             "shape": "token",
             "set": "AJY",
@@ -5913,7 +5913,7 @@
             "color": "BG",
             "rarity": "common",
             "type": "Token Creature \u2014 Rat Soldier",
-            "number": 33,
+            "number": 34,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "",
@@ -5934,7 +5934,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Bird Hero",
-            "number": 4,
+            "number": 5,
             "color_identity": "W",
             "cost": "",
             "rules_text": "Flying",
@@ -6039,7 +6039,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Reflection Hero",
-            "number": 11,
+            "number": 12,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -6060,7 +6060,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact",
-            "number": 40,
+            "number": 41,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Target creature gets +3/+3 and gains lifelink until end of turn.",
@@ -6081,7 +6081,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Graveborn Soldier",
-            "number": 30,
+            "number": 31,
             "color_identity": "B",
             "cost": "",
             "rules_text": "This creature gets +1/+1 for each Graveborn you control. [i](Including itself.)[/i]",
@@ -6116,14 +6116,14 @@
             "alias": "",
             "position": "290",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokentag Lead"
         },
         {
             "card_name": "Warlock",
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Warlock",
-            "number": 8,
+            "number": 9,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -6158,14 +6158,14 @@
             "alias": "",
             "position": "292",
             "rotated": false,
-            "notes": ""
+            "notes": "!addtoken Lead;1;"
         },
         {
             "card_name": "Wurm Hero",
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Wurm Hero",
-            "number": 35,
+            "number": 36,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -6186,7 +6186,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Samurai Warlock",
-            "number": 7,
+            "number": 8,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -6207,7 +6207,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Token Creature \u2014 Detective",
-            "number": 9,
+            "number": 10,
             "color_identity": "U",
             "cost": "",
             "rules_text": "Whenever this creature attacks, target nontoken creature can't be blocked this turn.",
@@ -6228,7 +6228,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact",
-            "number": 37,
+            "number": 38,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Each opponent loses 3 life unless they sacrifice a nonland, nontoken permanent. You gain life equal to the life lost this way.",
@@ -6249,7 +6249,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact",
-            "number": 38,
+            "number": 39,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Copy target noncreature spell you control with mana value 3 or less. You may choose new targets for the copy.",
@@ -6270,7 +6270,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact",
-            "number": 39,
+            "number": 40,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Add three mana of any one color.",
@@ -6291,7 +6291,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Legendary Artifact",
-            "number": 41,
+            "number": 42,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}: Exile the top three cards of target player's library. You may play one of them this turn.",
@@ -6333,7 +6333,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
-            "number": 42,
+            "number": 43,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Equipped creature gets +1/+1 for each counter on this Equipment.\nEquip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]",
@@ -6354,7 +6354,7 @@
             "color": "W",
             "rarity": "common",
             "type": "Token Creature \u2014 Noble",
-            "number": 6,
+            "number": 7,
             "color_identity": "W",
             "cost": "",
             "rules_text": "This creature can't attack or block unless you pay {2}.",
@@ -6417,7 +6417,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Demon Knight",
-            "number": 14,
+            "number": 15,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -6480,7 +6480,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 24,
+            "number": 25,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Enchant creature you control\nEnchanted creature gets +1/+1. If two or more Auras are attached to it, it has double strike.",
@@ -6564,7 +6564,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Soldier Bard",
-            "number": 23,
+            "number": 24,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -6585,7 +6585,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Artifact \u2014 Treasure",
-            "number": 43,
+            "number": 44,
             "color_identity": "C",
             "cost": "",
             "rules_text": "{T}, Sacrifice this token: Add one mana of any color.",
@@ -6606,7 +6606,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Saga",
-            "number": 46,
+            "number": 47,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -6627,7 +6627,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Token Enchantment \u2014 Saga",
-            "number": 47,
+            "number": 48,
             "color_identity": "C",
             "cost": "",
             "rules_text": "",
@@ -6648,7 +6648,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Token Artifact Creature \u2014 Robot Avatar",
-            "number": 12,
+            "number": 13,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -6668,8 +6668,8 @@
             "card_name": "Elk Horror",
             "color": "BG",
             "rarity": "common",
-            "type": "Token Creature \u2014 Elk",
-            "number": 29,
+            "type": "Token Creature \u2014 Elk Horror",
+            "number": 30,
             "color_identity": "BG",
             "cost": "",
             "rules_text": "",
@@ -6690,7 +6690,7 @@
             "color": "",
             "rarity": "common",
             "type": "Emblem",
-            "number": 45,
+            "number": 46,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Artifacts you control have indestructible.\nCreatures you control get +2/+2.",
@@ -6711,7 +6711,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Avatar Warrior",
-            "number": 17,
+            "number": 18,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Double strike",
@@ -6725,14 +6725,14 @@
             "alias": "",
             "position": "319",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokentag LH3"
         },
         {
             "card_name": "Faerie Knight",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Faerie Knight",
-            "number": 20,
+            "number": 21,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Trample",
@@ -6746,14 +6746,14 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokentag LH1"
         },
         {
             "card_name": "Dryad Soldier",
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Dryad Soldier",
-            "number": 19,
+            "number": 20,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Menace",
@@ -6767,7 +6767,7 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokentag LH2"
         },
         {
             "card_name": "Pallid Causeway",
@@ -6830,7 +6830,7 @@
             "alias": "",
             "position": "324",
             "rotated": false,
-            "notes": ""
+            "notes": "!addtoken RefReminder;1;"
         },
         {
             "card_name": "Wicker Vanguard",
@@ -7068,7 +7068,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Enchantment Creature \u2014 Incarnation",
-            "number": 13,
+            "number": 14,
             "color_identity": "B",
             "cost": "",
             "rules_text": "Indestructible",
@@ -7194,7 +7194,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Token Creature \u2014 Peasant Hero",
-            "number": 21,
+            "number": 22,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -7215,7 +7215,7 @@
             "color": "UB",
             "rarity": "common",
             "type": "Token Creature \u2014 Bird",
-            "number": 27,
+            "number": 28,
             "color_identity": "UB",
             "cost": "",
             "rules_text": "Flying\nWhenever this creature attacks, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]",
@@ -7236,7 +7236,7 @@
             "color": "RG",
             "rarity": "common",
             "type": "Token Enchantment Creature \u2014 Illusion",
-            "number": 31,
+            "number": 32,
             "color_identity": "RG",
             "cost": "",
             "rules_text": "[i](This token has an additional creature type of your choice.)[/i]",
@@ -7257,7 +7257,7 @@
             "color": "U",
             "rarity": "common",
             "type": "Reminder",
-            "number": 10,
+            "number": 11,
             "color_identity": "U",
             "cost": "",
             "rules_text": "[i]This permanent is also a 4/4 blue Spirit enchantment creature.[/i]",
@@ -7302,7 +7302,7 @@
             "number": 2,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "[i]This card's owner may cast it by paying life equal to its mana value in addition to its mana cost. When they do, Atramentate's caster gains that much life.[/i]",
+            "rules_text": "[i]This card's owner may cast it from exile by paying life equal to its mana value in addition to its mana cost. When they do, Atramentate's caster gains that much life.[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -7320,7 +7320,7 @@
             "color": "WB",
             "rarity": "common",
             "type": "Token Creature \u2014 Wurm Horror",
-            "number": 36,
+            "number": 37,
             "color_identity": "WB",
             "cost": "",
             "rules_text": "",
@@ -7362,7 +7362,7 @@
             "color": "",
             "rarity": "common",
             "type": "Token Land",
-            "number": 44,
+            "number": 45,
             "color_identity": "C",
             "cost": "",
             "rules_text": "This land is a Plains, Island, Swamp, Mountain, and Forest. [i]({T}: Add {W}, {U}, {B}, {R}, or {G}.)[/i]",
@@ -7383,7 +7383,7 @@
             "color": "G",
             "rarity": "uncommon",
             "type": "Token Enchantment",
-            "number": 25,
+            "number": 26,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Nontoken creatures you control get +1/+1.\n{3}{G}{G}, Discard this card: Copy it twice. You may cast the copies without paying their mana costs. Activate only as a sorcery.",
@@ -7425,7 +7425,7 @@
             "color": "UB",
             "rarity": "mythic",
             "type": "Token Creature \u2014 Faerie Vampire Performer",
-            "number": 32,
+            "number": 33,
             "color_identity": "UB",
             "cost": "{2}{U}{B}",
             "rules_text": "When this creature enters, if it's not a token, create a token that's a copy of it.\nWhenever you draw your second card each turn, choose flying, lifelink, or +1/+1. Put a counter of the chosen kind on this creature.\nEach +1/+1 counter or keyword counter on this creature also grants +1/+1 or its keyword to other Performers you control.",
@@ -7461,6 +7461,27 @@
             "position": "354",
             "rotated": false,
             "notes": "!tokentag RallyReminder"
+        },
+        {
+            "card_name": "Refuted",
+            "color": "",
+            "rarity": "common",
+            "type": "",
+            "number": 4,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "[i]This card's owner may\nplay it from exile.[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "AJY",
+            "loyalty": "",
+            "artist": "Erskine Designs",
+            "alias": "",
+            "position": "355",
+            "rotated": false,
+            "notes": "!tokentag RefReminder"
         }
     ]
 }
