@@ -2717,7 +2717,7 @@
     },
     {
         "card_name": "Contracted Duo",
-        "number": 19,
+        "number": 20,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2725,7 +2725,7 @@
     },
     {
         "card_name": "Telltale Sign Token",
-        "number": 26,
+        "number": 27,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2820,8 +2820,16 @@
         "position": "305"
     },
     {
-        "card_name": "The Lady Bantrel",
+        "card_name": "Graveborn Soldier",
         "number": 16,
+        "shape": "token",
+        "set": "AJY",
+        "rotated": false,
+        "position": "289"
+    },
+    {
+        "card_name": "The Lady Bantrel",
+        "number": 17,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2829,7 +2837,7 @@
     },
     {
         "card_name": "Wraith",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2837,7 +2845,7 @@
     },
     {
         "card_name": "Avatar Warrior",
-        "number": 18,
+        "number": 19,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2845,7 +2853,7 @@
     },
     {
         "card_name": "Dryad Soldier",
-        "number": 20,
+        "number": 21,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2853,7 +2861,7 @@
     },
     {
         "card_name": "Faerie Knight",
-        "number": 21,
+        "number": 22,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2861,7 +2869,7 @@
     },
     {
         "card_name": "Peasant Hero",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2869,7 +2877,7 @@
     },
     {
         "card_name": "Rose",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2877,7 +2885,7 @@
     },
     {
         "card_name": "Soldier Bard",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2885,19 +2893,11 @@
     },
     {
         "card_name": "Thornscar",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
         "position": "308"
-    },
-    {
-        "card_name": "Graveborn Soldier",
-        "number": 31,
-        "shape": "token",
-        "set": "AJY",
-        "rotated": false,
-        "position": "289"
     },
     {
         "card_name": "Wurm Hero",
@@ -2933,7 +2933,7 @@
     },
     {
         "card_name": "Artificer Hero",
-        "number": 27,
+        "number": 28,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2941,7 +2941,7 @@
     },
     {
         "card_name": "Bird",
-        "number": 28,
+        "number": 29,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2949,7 +2949,7 @@
     },
     {
         "card_name": "Elemental Horror",
-        "number": 29,
+        "number": 30,
         "shape": "token",
         "set": "AJY",
         "rotated": false,
@@ -2957,7 +2957,7 @@
     },
     {
         "card_name": "Elk Horror",
-        "number": 30,
+        "number": 31,
         "shape": "token",
         "set": "AJY",
         "rotated": false,

@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-20</releasedate>
+			<releasedate>2026-09-23</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -3949,7 +3949,7 @@ Enchantments and enchantment spells you control have the preceding abilities.</t
 			<name>Contracted Duo AJY</name>
 			<text>When this creature enters, if it&apos;s not a token, create a token that&apos;s a copy of it.
 When this creature dies, put a +1/+1 counter on up to one target Hero.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/224.png" num="19">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/224.png" num="20">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4763,7 +4763,7 @@ If a source you control would deal an amount of damage to a permanent or player 
 		<card>
 			<name>Coronation Festivities</name>
 			<text>Each player sacrifices two creatures, discards two cards, and loses 2 life.
-At the beginning of your upkeep, if your life total plus the number of cards in your hand plus the number of nonland permanents you control is 7 or less, you may exile this card from your graveyard. If you do, you draw seven cards and your life total becomes 7.</text>
+If your life total plus the number of cards in your hand plus the number of nonland permanents you control is 7 or less, you may exile this spell. If you do, you return a creature card from your graveyard to the battlefield, draw a card, and gain 1 life.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/269.png" num="219">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -4797,7 +4797,7 @@ At the beginning of your upkeep, if your life total plus the number of cards in 
 		<card>
 			<name>The Lady Bantrel AJY</name>
 			<text>Ward—Discard a card. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless they discard a card.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/271.png" num="16">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/271.png" num="17">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4815,7 +4815,7 @@ At the beginning of your upkeep, if your life total plus the number of cards in 
 		<card>
 			<name>Wraith AJY</name>
 			<text>This creature can&apos;t attack planeswalkers or block creatures attacking planeswalkers.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/272.png" num="17">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/272.png" num="18">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4834,7 +4834,7 @@ At the beginning of your upkeep, if your life total plus the number of cards in 
 			<name>Rose AJY</name>
 			<text>Lifelink
 {2}, Sacrifice this artifact: It deals 1 damage to each opponent. Draw a card.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/273.png" num="23">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/273.png" num="24">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4904,7 +4904,7 @@ At the beginning of your upkeep, if your life total plus the number of cards in 
 		<card>
 			<name>Artificer Hero AJY</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/277.png" num="27">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/277.png" num="28">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4922,7 +4922,7 @@ At the beginning of your upkeep, if your life total plus the number of cards in 
 		<card>
 			<name>Elemental Horror AJY</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/278.png" num="29">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/278.png" num="30">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5118,7 +5118,7 @@ When this creature dies, create a colorless Equipment artifact token named Memor
 		<card>
 			<name>Graveborn Soldier AJY</name>
 			<text>This creature gets +1/+1 for each Graveborn you control. (Including itself.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/289.png" num="31">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/289.png" num="16">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5445,7 +5445,7 @@ Whenever Mosa attacks a permanent or player, gain control of up to one target cr
 			<name>Thornscar AJY</name>
 			<text>Enchant creature you control
 Enchanted creature gets +1/+1. If two or more Auras are attached to it, it has double strike.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/308.png" num="25">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/308.png" num="26">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5515,7 +5515,7 @@ When this creature dies, you may exile it. When you do, return target creature c
 		<card>
 			<name>Soldier Bard AJY</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/312.png" num="24">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/312.png" num="25">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5598,7 +5598,7 @@ When this creature dies, you may exile it. When you do, return target creature c
 		<card>
 			<name>Elk Horror AJY</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/317.png" num="30">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/317.png" num="31">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5632,7 +5632,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Avatar Warrior AJY</name>
 			<text>Double strike</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/319.png" num="18">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/319.png" num="19">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5650,7 +5650,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Faerie Knight AJY</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/320.png" num="21">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/320.png" num="22">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5668,7 +5668,7 @@ Creatures you control get +2/+2.</text>
 		<card>
 			<name>Dryad Soldier AJY</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/321.png" num="20">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/321.png" num="21">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5906,20 +5906,20 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Kill Your Darlings</name>
-			<text>Destroy target creature or planeswalker.
-{B}, Exile this card and seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token named Conscience. Activate only as a sorcery.</text>
+			<text>When this enchantment enters, destroy up to one target creature or planeswalker.
+{B}, Exile this enchantment, Exile seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token named Conscience. Activate only as a sorcery.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/335.png" num="106">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
 				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Conscience AJY</name>
@@ -5994,7 +5994,7 @@ Exile the top X cards of your library. Until the end of your next turn, you may 
 			<name>Bringer of a New Spring</name>
 			<text>You may pay {W}{U}{B}{R}{G} rather than pay this spell&apos;s mana cost.
 {T}: Add three mana of any one color.
-Lands you control have the preceding abilities.</text>
+Planeswalkers and planeswalker spells you control have the preceding abilities.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/340.png" num="173">AJY</set>
 			<prop>
 				<layout>normal</layout>
@@ -6031,7 +6031,7 @@ Lands you control have the preceding abilities.</text>
 		<card>
 			<name>Peasant Hero AJY</name>
 			<text></text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/342.png" num="22">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/342.png" num="23">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6050,7 +6050,7 @@ Lands you control have the preceding abilities.</text>
 			<name>Bird AJY</name>
 			<text>Flying
 Whenever this creature attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/343.png" num="28">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/343.png" num="29">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6186,7 +6186,7 @@ Whenever this creature attacks, surveil 1. (Look at the top card of your library
 			<name>Telltale Sign Token AJY</name>
 			<text>Nontoken creatures you control get +1/+1.
 {3}{G}{G}, Discard this card: Copy it twice. You may cast the copies without paying their mana costs. Activate only as a sorcery.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/351.png" num="26">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/351.png" num="27">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>

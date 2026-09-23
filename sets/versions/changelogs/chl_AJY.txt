@@ -1,4 +1,28 @@
-﻿VERSION 58 CHANGELOG
+﻿VERSION 59 CHANGELOG
+====================
+
+
+
+Coronation Festivities
+rules_text: Each player sacrifices two creatures, discards two cards, and loses 2 life.
+At the beginning of your upkeep, if your life total plus the number of cards in your hand plus the number of nonland permanents you control is 7 or less, you may exile this card from your graveyard. If you do, you draw seven cards and your life total becomes 7. => Each player sacrifices two creatures, discards two cards, and loses 2 life.
+If your life total plus the number of cards in your hand plus the number of nonland permanents you control is 7 or less, you may exile this spell. If you do, you return a creature card from your graveyard to the battlefield, draw a card, and gain 1 life.
+
+Kill Your Darlings
+type: Sorcery => Enchantment
+rules_text: Destroy target creature or planeswalker.
+{B}, Exile this card and seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token named Conscience. Activate only as a sorcery. => When this enchantment enters, destroy up to one target creature or planeswalker.
+{B}, Exile this enchantment, Exile seven legendary cards with different names from your graveyard: Create a 10/10 black Incarnation enchantment creature token named Conscience. Activate only as a sorcery.
+
+Bringer of a New Spring
+rules_text: You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+{T}: Add three mana of any one color.
+Lands you control have the preceding abilities. => You may pay {W}{U}{B}{R}{G} rather than pay this spell's mana cost.
+{T}: Add three mana of any one color.
+Planeswalkers and planeswalker spells you control have the preceding abilities.
+
+
+VERSION 58 CHANGELOG
 ====================
 
 Confident Dramaturge added.

@@ -2245,7 +2245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Token Creature — Human Peasant Hero",
-			"collector_number": "19",
+			"collector_number": "20",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/224.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Legendary Creature — Horror Noble",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/271.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wraith",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/272.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/273.png"
 			}
@@ -2775,7 +2775,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Artificer Hero",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/277.png"
 			}
@@ -2785,7 +2785,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental Horror",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/278.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Graveborn Soldier",
-			"collector_number": "31",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/289.png"
 			}
@@ -3085,7 +3085,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Enchantment — Aura",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/308.png"
 			}
@@ -3125,7 +3125,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Soldier Bard",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/312.png"
 			}
@@ -3175,7 +3175,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elk Horror",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/317.png"
 			}
@@ -3195,7 +3195,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Avatar Warrior",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/319.png"
 			}
@@ -3205,7 +3205,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie Knight",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/320.png"
 			}
@@ -3215,7 +3215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dryad Soldier",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/321.png"
 			}
@@ -3354,7 +3354,7 @@
 			"name": "Kill Your Darlings",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
+			"type": "Enchantment",
 			"collector_number": "106",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/335.png"
@@ -3425,7 +3425,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Peasant Hero",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/342.png"
 			}
@@ -3435,7 +3435,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/343.png"
 			}
@@ -3515,7 +3515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Token Enchantment",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/351.png"
 			}
