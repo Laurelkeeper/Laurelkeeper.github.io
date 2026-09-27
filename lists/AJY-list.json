@@ -248,12 +248,12 @@
         "position": "324"
     },
     {
-        "card_name": "Polished Proofreader",
-        "number": 69,
+        "card_name": "Offending Shadows",
+        "number": 66,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "212"
+        "position": "4"
     },
     {
         "card_name": "Kill Your Darlings",
@@ -288,12 +288,12 @@
         "position": "292"
     },
     {
-        "card_name": "Preserve the Script",
+        "card_name": "Polished Proofreader",
         "number": 70,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "300"
+        "position": "212"
     },
     {
         "card_name": "Plot Armor",
@@ -328,12 +328,12 @@
         "position": "283"
     },
     {
-        "card_name": "Speculative Scriptwriting",
-        "number": 77,
+        "card_name": "Preserve the Script",
+        "number": 71,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
-        "position": "4"
+        "position": "300"
     },
     {
         "card_name": "The Hewing of Bantrel Grove",
@@ -809,7 +809,7 @@
     },
     {
         "card_name": "Out of the Puzzlebox",
-        "number": 66,
+        "number": 67,
         "shape": "saga",
         "set": "AJY",
         "rotated": false,
@@ -849,7 +849,7 @@
     },
     {
         "card_name": "Peripatetic Harlequin",
-        "number": 67,
+        "number": 68,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -889,7 +889,7 @@
     },
     {
         "card_name": "Quiet on Set",
-        "number": 71,
+        "number": 72,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -929,7 +929,7 @@
     },
     {
         "card_name": "The Road Back",
-        "number": 73,
+        "number": 74,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -969,7 +969,7 @@
     },
     {
         "card_name": "Sentinel of Old Intria",
-        "number": 74,
+        "number": 75,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1009,7 +1009,7 @@
     },
     {
         "card_name": "Shard of Revelation",
-        "number": 75,
+        "number": 76,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1489,7 +1489,7 @@
     },
     {
         "card_name": "Peruse the Skeins",
-        "number": 68,
+        "number": 69,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1529,7 +1529,7 @@
     },
     {
         "card_name": "Refusal of the Call",
-        "number": 72,
+        "number": 73,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,
@@ -1569,7 +1569,7 @@
     },
     {
         "card_name": "Silverwing Companion",
-        "number": 76,
+        "number": 77,
         "shape": "normal",
         "set": "AJY",
         "rotated": false,

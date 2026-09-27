@@ -1,4 +1,15 @@
-﻿VERSION 59 CHANGELOG
+﻿VERSION 60 CHANGELOG
+====================
+
+Offending Shadows added.
+
+Speculative Scriptwriting removed.
+
+Light Through the Veil
+cost: {1}{W} => {W}
+
+
+VERSION 59 CHANGELOG
 ====================
 
 

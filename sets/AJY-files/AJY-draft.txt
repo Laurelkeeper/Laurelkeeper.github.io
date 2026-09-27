@@ -41,11 +41,11 @@
 			}
 		},
 		{
-			"name": "Speculative Scriptwriting",
+			"name": "Offending Shadows",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "77",
+			"type": "Creature — Nightmare",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/4.png"
 			}
@@ -293,7 +293,7 @@
 		{
 			"name": "Light Through the Veil",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{W}",
 			"type": "Enchantment — Script",
 			"collector_number": "18",
 			"image_uris": {
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment Creature — Faerie Dragon",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/33.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Script",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/40.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/42.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Robot Wizard",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/122.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Human Clown",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/124.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/126.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/128.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/131.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Skeleton Advisor",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/212.png"
 			}
@@ -3005,7 +3005,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{U}",
 			"type": "Instant",
-			"collector_number": "70",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/300.png"
 			}
@@ -3567,7 +3567,7 @@
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
-	2 Speculative Scriptwriting
+	2 Offending Shadows
 	2 Unlikely Compatriots
 	2 Elca, Chancellor's Daughter
 	2 Until We Meet Once More
@@ -3952,7 +3952,7 @@
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
-	2 Speculative Scriptwriting
+	2 Offending Shadows
 	12 Protector of the Ordinary
 	12 Blindseer
 	12 Plucky Villager
@@ -4245,7 +4245,7 @@
 	7 In Servitude Sublime
 	7 Fevered Fancy
 	7 Coronation Candidate
-	7 Speculative Scriptwriting
+	7 Offending Shadows
 	6 Protector of the Ordinary
 	6 Blindseer
 	6 Plucky Villager

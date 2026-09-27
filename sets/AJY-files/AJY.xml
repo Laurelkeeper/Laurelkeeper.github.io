@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-23</releasedate>
+			<releasedate>2026-09-27</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -81,22 +81,23 @@ Occlude {8}: If this creature is a Treefolk, it becomes a God Scion with base po
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Speculative Scriptwriting</name>
-			<text>Enchant you or a creature you control
-Whenever you scry or surveil, if this Aura is attached to a creature, put a +1/+1 counter on that creature, then attach this Aura to you.
-Whenever you scry or surveil, if this Aura is attached to a player, create a 1/1 blue Reflection Hero creature token, then attach this Aura to a creature you control.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/4.png" num="77">AJY</set>
+			<name>Offending Shadows</name>
+			<text>When this creature enters, exile the top three cards of your library face down. (You can&apos;t look at them.)
+As you scry or surveil, also look at one card exiled with this creature. (Put it anywhere you could put the scried or surveilled cards.)
+This creature can&apos;t attack or block as long as there are cards exiled with it.</text>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/4.png" num="66">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Enchantment — Aura</type>
-				<maintype>Enchantment</maintype>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
 				<manacost>2U</manacost>
 				<cmc>3</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
+				<pt>7/6</pt>
 			</prop>
-			<tablerow>1</tablerow>
+			<tablerow>2</tablerow>
 		</card>
 		<card>
 			<name>Plains</name>
@@ -495,8 +496,8 @@ III — When you next cast a creature spell this turn, draw a card.</text>
 				<side>front</side>
 				<type>Enchantment — Script</type>
 				<maintype>Enchantment</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -558,7 +559,7 @@ As long as you&apos;re captivated, this creature can attack as though it didn&ap
 			<name>Silverwing Companion</name>
 			<text>Flying
 At the beginning of your end step, if there are two or more card types among spells you&apos;ve cast this turn, untap a permanent you control.</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/33.png" num="76">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/33.png" num="77">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -668,7 +669,7 @@ When this creature enters, draw a card.</text>
 			<text>Enchant creature
 Enchanted creature loses all abilities, can&apos;t have counters put on it, and is a white Peasant with base power and toughness 1/1.
 When enchanted creature leaves the battlefield, chronicle. (You may create a tapped legendary 1/1 Hero named Lead if you don&apos;t control one, or put a +1/+1 counter on a Hero you control.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/39.png" num="72">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/39.png" num="73">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -688,7 +689,7 @@ When enchanted creature leaves the battlefield, chronicle. (You may create a tap
 			<text>(Once each turn as a sorcery, you may add a lore counter. Sacrifice after 3.)
 I — Tap up to one target creature. Put a stun counter on it.
 II, III — Draw a card. Then discard a card unless a creature you control dealt combat damage to a player this turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/40.png" num="66">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/40.png" num="67">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -722,7 +723,7 @@ The owner of target creature or planeswalker puts it into their library second f
 			<name>Peruse the Skeins</name>
 			<text>Surveil 2, then draw two cards. (To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
-			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/42.png" num="68">AJY</set>
+			<set rarity="common" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/42.png" num="69">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2121,7 +2122,7 @@ Whenever this creature deals combat damage to a player or battle, draw a card. T
 			<name>Sentinel of Old Intria</name>
 			<text>This spell costs {1} less to cast if you control an artifact and {1} less to cast if you control an enchantment.
 When this creature enters, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/122.png" num="74">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/122.png" num="75">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2156,7 +2157,7 @@ When this creature enters, surveil 1, then draw a card. (To surveil 1, look at t
 			<name>Peripatetic Harlequin</name>
 			<text>Whenever this creature enters or attacks, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 Whenever you scry or surveil during your turn, tap up to one target creature.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/124.png" num="67">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/124.png" num="68">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2192,7 +2193,7 @@ When Abarrachon enters, return another target nonland permanent to its owner&apo
 			<name>Shard of Revelation</name>
 			<text>Equipped creature gets +2/+2 and has vigilance.
 Equip {3}. This ability costs {2} less to activate if you&apos;ve scried or surveilled this turn.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/126.png" num="75">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/126.png" num="76">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2227,7 +2228,7 @@ If enchanted creature is a Hero you control, it gets +1/+1 and has ward {1}. Oth
 			<name>The Road Back</name>
 			<text>Return target nonland permanent to its owner&apos;s hand.
 Chronicle. (You may create a tapped legendary 1/1 Hero named Lead if you don&apos;t control one, or put a +1/+1 counter on a Hero you control.)</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/128.png" num="73">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/128.png" num="74">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2282,7 +2283,7 @@ Flashback {1}{U} (You may cast this from your graveyard for its flashback cost. 
 			<name>Quiet on Set</name>
 			<text>Counter target artifact, enchantment, or planeswalker spell.
 Draw a card.</text>
-			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/131.png" num="71">AJY</set>
+			<set rarity="uncommon" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/131.png" num="72">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3728,7 +3729,7 @@ Instant and sorcery spells you control have the preceding abilities.</text>
 		<card>
 			<name>Polished Proofreader</name>
 			<text>Whenever this creature enters or attacks, draw a card, then discard a card. You may cast the discarded card without paying its mana cost if it&apos;s a spell with mana value less than or equal to the number of cards you&apos;ve drawn this turn.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/212.png" num="69">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/212.png" num="70">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5304,7 +5305,7 @@ Flashback {2}{W}{W} (You may cast this from your graveyard for its flashback cos
 			<name>Preserve the Script</name>
 			<text>You may pay {U} and tap an untapped Hero or legendary creature you control with power X rather than pay this spell&apos;s mana cost.
 Counter target spell unless its controller pays {X}.</text>
-			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/300.png" num="70">AJY</set>
+			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/300.png" num="71">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
