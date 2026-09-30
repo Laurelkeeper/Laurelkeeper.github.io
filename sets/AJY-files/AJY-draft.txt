@@ -41,7 +41,7 @@
 			}
 		},
 		{
-			"name": "Offending Shadows",
+			"name": "Offending Shadow",
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Nightmare",
@@ -3343,8 +3343,8 @@
 		{
 			"name": "Walk Inky Paths",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
 				"en": "https://laurelkeeper.github.io/sets/AJY-files/img/334.png"
@@ -3567,7 +3567,7 @@
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
-	2 Offending Shadows
+	2 Offending Shadow
 	2 Unlikely Compatriots
 	2 Elca, Chancellor's Daughter
 	2 Until We Meet Once More
@@ -3952,7 +3952,7 @@
 	2 In Servitude Sublime
 	2 Fevered Fancy
 	2 Coronation Candidate
-	2 Offending Shadows
+	2 Offending Shadow
 	12 Protector of the Ordinary
 	12 Blindseer
 	12 Plucky Villager
@@ -4245,7 +4245,7 @@
 	7 In Servitude Sublime
 	7 Fevered Fancy
 	7 Coronation Candidate
-	7 Offending Shadows
+	7 Offending Shadow
 	6 Protector of the Ordinary
 	6 Blindseer
 	6 Plucky Villager

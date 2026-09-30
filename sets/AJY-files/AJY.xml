@@ -5,7 +5,7 @@
 			<name>AJY</name>
 			<longname>Alder Jane in: The Prince of Years</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-09-27</releasedate>
+			<releasedate>2026-09-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -81,7 +81,7 @@ Occlude {8}: If this creature is a Treefolk, it becomes a God Scion with base po
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Offending Shadows</name>
+			<name>Offending Shadow</name>
 			<text>When this creature enters, exile the top three cards of your library face down. (You can&apos;t look at them.)
 As you scry or surveil, also look at one card exiled with this creature. (Put it anywhere you could put the scried or surveilled cards.)
 This creature can&apos;t attack or block as long as there are cards exiled with it.</text>
@@ -2167,7 +2167,7 @@ Whenever you scry or surveil during your turn, tap up to one target creature.</t
 				<cmc>5</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
-				<pt>4/5</pt>
+				<pt>5/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -5890,16 +5890,16 @@ As long as you control three or more creatures with different powers, A Threnody
 		</card>
 		<card>
 			<name>Walk Inky Paths</name>
-			<text>Surveil 4. When you put one or more land cards into your graveyard this way, tap target creature and put that many stun counters on it. When you put one or more nonland cards into your graveyard this way, untap target creature and put that many +1/+1 counters on it.
-Draw a card.</text>
+			<text>As an additional cost to cast this spell, occlude {X}. (For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)
+Draw X cards, then discard three cards.</text>
 			<set rarity="rare" picurl="https://laurelkeeper.github.io/sets/AJY-files/img/334.png" num="81">AJY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>1UU</manacost>
-				<cmc>3</cmc>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 			</prop>

@@ -1,4 +1,22 @@
-﻿VERSION 60 CHANGELOG
+﻿VERSION 61 CHANGELOG
+====================
+
+Offending Shadow added.
+
+Offending Shadows removed.
+
+Peripatetic Harlequin
+pt: 4/5 => 5/4
+
+Walk Inky Paths
+type: Instant => Sorcery
+cost: {1}{U}{U} => {U}
+rules_text: Surveil 4. When you put one or more land cards into your graveyard this way, tap target creature and put that many stun counters on it. When you put one or more nonland cards into your graveyard this way, untap target creature and put that many +1/+1 counters on it.
+Draw a card. => As an additional cost to cast this spell, occlude {X}. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i]
+Draw X cards, then discard three cards.
+
+
+VERSION 60 CHANGELOG
 ====================
 
 Offending Shadows added.
