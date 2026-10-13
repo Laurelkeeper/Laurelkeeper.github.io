@@ -1,4 +1,178 @@
-﻿VERSION 61 CHANGELOG
+﻿VERSION 62 CHANGELOG
+====================
+
+A Restless Realm's Woe added.
+Moment of Uncertainty added.
+Wakeup Call added.
+The Sunmaster Devoured added.
+The Soulsinger Rendered Silent added.
+The Godmind Outshone added.
+The Cavalcade Conquered added.
+Stage Wight added.
+Zombie added.
+Branch Directive added.
+Everywhere Else added.
+
+Fated Figures removed.
+Close the Curtain removed.
+The Wakeup Call removed.
+Autumn Devours the Sunmaster removed.
+Winter Quiets the Soulsinger removed.
+Summer Outshines the Godmind removed.
+Spring Conquers the Cavalcade removed.
+Unfinished Draft removed.
+Human Horror removed.
+Branch Command removed.
+
+Coronation Candidate
+
+Etched Oathwing
+rules_text: Flying, lifelink
+At the beginning of your end step, if you're captivated, surveil 1. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Flying, vigilance, lifelink
+At the beginning of your end step, if you're captivated, surveil 1. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+
+A Fateful Journey
+rules_text: Put a journey counter on target creature.
+Creatures you control with journey counters on them get +1/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Put a journey counter on target creature.
+Creatures you control with journey counters on them get +1/+1 and gain trample until end of turn.
+Flashback {1}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Lorn-Road Falconer
+pt: 2/4 => 3/3
+
+Brooding Star
+rules_text: When this creature dies, create a 2/2 white Human Horror creature token. Create two of those tokens instead if this creature's power was 3 or greater. => When this creature dies, create a 2/2 white Zombie creature token. Create two of those tokens instead if this creature's power was 3 or greater.
+
+Towering Townflenser
+pt: 7/5 => 6/5
+
+Senior Editor
+
+Festering Pearl
+cost: {2}{B} => {1}{B}
+rules_text: {T}: Put a +1/+1 counter on target creature. It gains menace until end of turn. Activate only as a sorcery and only if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => When this artifact enters, you gain 1 life and surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+Occlude {3}, {T}: Put a +1/+1 counter on target creature. It gains menace until end of turn. Activate only as a sorcery. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i]
+
+Elca, Chancellor's Daughter
+
+Shattering Scenery
+cost: {1}{R} => {3}{R}
+rules_text: Whenever another enchantment you control enters, put a +1/+1 counter on this enchantment. If that enchantment has mana value 4 or greater, put two +1/+1 counters on this enchantment instead.
+As long as this enchantment has three or more counters on it, it's a 0/0 Spirit Elk creature in addition to its other types. => When this enchantment enters, it deals 2 damage to each of up to two targets.
+Whenever you cast an enchantment spell, this enchantment becomes a 4/4 Spirit Elk creature with trample and haste in addition to its other types until end of turn.
+
+Steelbrace Star
+pt: 2/2 => 3/2
+
+Until We Meet Once More
+
+Turncoat Stagehand
+rules_text: The first enchantment spell you cast each turn costs {R} [i](or {1})[/i] less to cast. => Whenever you cast an enchantment spell, this creature deals 1 damage to each opponent. It deals 2 damage instead if that spell's mana value is 4 or greater.
+
+Tabula Rata
+rules_text: Trample
+When Tabula Rata enters, return target permanent card with mana value 4 or less from your graveyard to your hand.
+During your turn, Tabula Rata gets +2/+0 and has haste if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Haste
+When Tabula Rata enters, return target permanent card with mana value 4 or less from your graveyard to your hand.
+During your turn, Tabula Rata gets +2/+0 and has trample if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+
+Ageless Veteran
+cost: {2}{G} => {2}{G}{G}
+rules_text: Vigilance
+When this creature enters, it fights up to one target artifact creature, enchantment creature, or creature with flying. => When this creature enters, it fights up to one target artifact creature, enchantment creature, or creature with flying.
+pt: 4/3 => 5/5
+
+Throne of Thorns
+cost: {1}{G}{G} => {1}{G}
+rules_text: {T}: Target creature gains “Whenever this creature deals 4 or more combat damage to an opponent, draw a card” until end of turn. If you're captivated, it also gets +2/+2 and gains trample until end of turn. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => {T}: Target creature gains “Whenever this creature deals 4 or more combat damage to an opponent, draw a card” until end of turn. If you're captivated, it also gets +2/+0 and gains trample until end of turn. Activate only as a sorcery. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+
+Sterling Example
+rules_text: When this creature enters, search your library for a creature card with mana value 1 or less, put it onto the battlefield, then shuffle.
+At the beginning of combat on your turn, another target Hero or legendary creature gains haste until end of turn. => When this creature enters, search your library for a creature card with mana value 1 or less, put it onto the battlefield, then shuffle.
+At the beginning of combat on your turn, up to one other target Hero or legendary creature gains haste until end of turn.
+
+Sostak, Whimsical Voice
+pt: 4/3 => 4/2
+
+Orrin, the Golden Gaunt
+rules_text: Orrin, the Golden Gaunt has first strike during your turn. => Orrin has first strike during your turn.
+
+Meismos, Thundergaunt
+cost: {BR}{BR} => {1}{BR}{BR}
+rules_text: Whenever Meismos attacks, it deals 1 damage to each player.
+{2}{BR}{BR}, Sacrifice Meismos: Create an 3/3 red and black Elemental Horror creature token with menace. Create another for each player who has 10 life or less. Activate only as a sorcery. => Haste
+Whenever Meismos attacks, it deals 1 damage to each player with more than half their starting life total. 
+Meismos gets +1/+1 for each player who has half their starting life total or less.
+pt: 2/3 => 3/2
+
+Beziel, Intria's Hope
+pt: 5/4 => 6/6
+
+Write Out
+
+Glassgazer
+rules_text: Flying
+At the beginning of your end step, create X 1/1 blue Reflection Hero creature tokens, where X is the number of card types among spells you've cast this turn minus one. => Flying
+At the beginning of your end step, look at the top X cards of your library, where X is the number of card types among spells you've cast this turn minus one. Put one of them into your hand and the rest on the bottom in any order.
+pt: 3/3 => 2/4
+
+Cunning Keepbreaker
+
+Vision of Manque
+cost: {2}{B}{B} => {1}{B}
+rules_text: When Manque enters, you may pay 2 life. If you do, draw a card.
+Whenever you draw your second card each turn, you may discard a card. If you do, add two mana of any one color. => Whenever you draw your second card each turn, each opponent loses 1 life and you gain 1 life.
+Pay 1 life, Discard a legendary card: Draw a card.
+pt: 3/3 => 2/2
+
+Steward of Solstices
+
+Tenacious Bonehost
+rules_text: Reach, trample
+Whenever this creature enters or attacks, you may mill two cards. => Vigilance, reach, trample
+Whenever this creature enters or attacks, you may mill two cards.
+pt: 3/3 => 4/3
+
+Piercing Portent
+cost: {W}{U} => {2}{W}{U}
+rules_text: Whenever a nontoken creature you control enters, surveil 1. Put a +1/+1 counter on this enchantment. [i](To surveil 1, look at the top card of your library. You may put it into your graveyard.)[/i]
+Whenever a creature token you control enters, you may move any number of counters from this enchantment onto that creature. => Flash
+When this enchantment enters, counter up to one target spell unless its controller pays {2}.
+Whenever a creature you control enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+Celos, Prince's Chamberlain
+rules_text: Deathtouch
+Abilities of other permanents you control trigger an additional time if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i] => Deathtouch
+Abilities of permanents you control trigger an additional time if you're captivated. [i](You're captivated if a creature left your graveyard or your battlefield this turn.)[/i]
+pt: 3/5 => 4/5
+
+Splendid Inspiration
+cost: {1}{R}{G} => {1}{G}{W}
+
+Manque, Shifting Spotlight
+
+Myth of Awakening
+rules_text: Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Chronicle. If this spell was cast from a graveyard, instead chronicle three times. [i](To chronicle, you may create a tapped legendary 1/1 Hero named Lead if you don't control one, or put a +1/+1 counter on a Hero you control.)[/i]
+Flashback {2}{W}{W} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Preserve the Script
+
+Wicker Vanguard
+pt: 3/2 => 3/3
+
+Consumed by Branches
+rules_text: As an additional cost to cast this spell, you may occlude {3}. [i](For each card type, you may exile a card of that type from your graveyard rather than pay {1} of an occlude cost.)[/i]
+All creatures get -2/-2 until end of turn. If this spell's additional cost was paid, whenever a creature dies this turn, you gain 1 life. => All creatures get -2/-2 until end of turn. Whenever a creature token dies this turn, you gain 1 life.
+
+A Threnody for Truth
+rules_text: Create a 2/2 white Human Horror creature token, then put a +1/+1 counter on a creature you control.
+As long as you control three or more creatures with different powers, A Threnody for Truth has flashback {1}{GW}. [i](You may cast this from your graveyard for its flashback cost. Then exile it.)[/i] => Create a 2/2 white Zombie creature token, then put a +1/+1 counter on a creature you control.
+As long as you control three or more creatures with different powers, A Threnody for Truth has flashback {1}{GW}. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+
+VERSION 61 CHANGELOG
 ====================
 
 Offending Shadow added.
