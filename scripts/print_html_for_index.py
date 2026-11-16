@@ -216,6 +216,7 @@ def generateHTML():
 			<div class="button-grid">
 				<button onclick="goToSets()"><img src="img/sets.png" class="btn-img">All Sets</button>
 				<button id="home-articles-btn" onclick="goToArticles()" style="display: none;"><img src="img/articles.png" class="btn-img">Articles</button>
+				<button onclick="goToTools()"><img src="img/tools.png" class="btn-img">Tools</button>
 				<button id="home-decks-btn" onclick="goToDecks()" style="display: none;"><img src="img/deck.png" class="btn-img">Decks</button>
 				<button onclick="goToDeckbuilder()"><img src="img/deckbuilder.png" class="btn-img">Deckbuilder</button>
 				<button onclick="randomCard()"><img src="img/random.png" class="btn-img">Random</button>
@@ -443,6 +444,10 @@ def generateHTML():
 
 			function goToArticles() {
 				window.location = (rootPath + "/all-articles");
+			}
+
+			function goToTools() {
+				window.location = (rootPath + "/all-tools");
 			}
 
 			function goToDecks() {

@@ -18,6 +18,7 @@ import print_html_for_deckbuilder
 import print_html_for_deck_page
 import print_html_for_articles
 import print_html_for_decks_page
+import print_html_for_tools
 
 import markdown
 
@@ -317,6 +318,8 @@ print_html_for_index.generateHTML()
 has_articles = print_html_for_articles.generateHTML()
 if not has_articles:
 	print("No articles found; skipping all-articles.html")
+
+print_html_for_tools.generateHTML()
 
 # Only generate Decks if decks exist in Supabase for this hub
 def check_for_decks():

@@ -676,6 +676,7 @@ def generateHTML(codes):
 			<img class="sg-icon" id="header-search" onclick="goToSearch()">
 			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
 			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a onclick="window.location.href = rootPath + '/all-tools'"><img id="header-tools" class="sg-icon">Tools</a>
 			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
 			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
 			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
@@ -687,6 +688,7 @@ def generateHTML(codes):
 			document.getElementById("header-search").src = rootPath + "/img/search.png";
 			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
 			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-tools").src = rootPath + "/img/tools.png";
 			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
 			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
 			document.getElementById("header-random").src = rootPath + "/img/random.png";

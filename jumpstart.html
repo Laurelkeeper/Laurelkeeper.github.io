@@ -1,0 +1,257 @@
+<html>
+<head>
+	<title>Jumpstart</title>
+	<link rel="icon" type="image/x-icon" href="./img/tools.png">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="./resources/header.css">
+</head>
+<script title="root">
+	const rootPath = ".";
+</script>
+<style>
+	@font-face {
+		font-family: Beleren;
+		src: url('./resources/beleren.ttf');
+	}
+	@font-face {
+		font-family: 'Gotham Narrow Medium';
+		src: url('./resources/gotham-narrow-medium.otf');
+	}
+	body {
+		font-family: 'Open Sans', 'Helvetica', 'Arial', sans-serif;
+		overscroll-behavior: none;
+		margin: 0px;
+		background-color: #f3f3f3;
+	}
+	.tools-container {
+		width: 80%;
+		max-width: 900px;
+		margin: 40px auto;
+	}
+	h1 {
+		font-family: Beleren;
+		font-size: 32px;
+		font-weight: normal;
+		margin: 0 0 20px 0;
+		border-bottom: 2px solid #171717;
+		padding-bottom: 10px;
+	}
+	.panel {
+		background-color: white;
+		border: 1px solid #d5d9d9;
+		border-radius: 8px;
+		padding: 20px;
+		margin-bottom: 20px;
+	}
+	a.tool-link {
+		display: block;
+		color: inherit;
+		text-decoration: none;
+	}
+	a.tool-link:hover .tool-title {
+		text-decoration: underline;
+	}
+	.tool-title {
+		font-family: 'Gotham Narrow Medium', sans-serif;
+		font-size: 20px;
+	}
+	.tool-desc {
+		color: #666;
+		font-size: 14px;
+	}
+	button {
+		font-family: inherit;
+		font-size: 14px;
+		background-color: #171717;
+		color: #f3f3f3;
+		border: none;
+		border-radius: 2px;
+		padding: 8px 16px;
+		cursor: pointer;
+	}
+	button:hover {
+		background-color: #333333;
+	}
+	label {
+		display: block;
+		margin-bottom: 8px;
+	}
+	.headers {
+		display: flex;
+		gap: 20px;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.headers figure {
+		margin: 0;
+		text-align: center;
+	}
+	.headers img {
+		width: 250px;
+		border-radius: 12px;
+		display: block;
+	}
+	.headers figcaption {
+		margin-top: 8px;
+		font-family: 'Gotham Narrow Medium', sans-serif;
+	}
+	.list-bar {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 10px;
+	}
+	pre {
+		margin: 0;
+		font-family: inherit;
+		font-size: 15px;
+		line-height: 1.5;
+		white-space: pre-wrap;
+	}
+</style>
+<body>
+	<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a onclick="window.location.href = rootPath + '/all-tools'"><img id="header-tools" class="sg-icon">Tools</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-tools").src = rootPath + "/img/tools.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+	<div class="tools-container">
+		<h1>Jumpstart</h1>
+		<div class="panel">
+			<label><input type="checkbox" class="js-source" value="J22.json" checked> Jumpstart 2022 (J22, 121 packs)</label>
+			<button onclick="generate()">Generate deck</button>
+		</div>
+		<div id="result" style="display: none;">
+			<div class="panel headers" id="headers"></div>
+			<div class="panel">
+				<div class="list-bar">
+					<span class="tool-title">Decklist</span>
+					<button id="copy-btn" onclick="copyList()">Copy</button>
+				</div>
+				<pre id="decklist"></pre>
+			</div>
+		</div>
+	</div>
+	<script>
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+			url.searchParams.append('search', document.getElementById("search").value);
+			window.location.href = url.pathname + url.search;
+		}
+	});
+
+	function randomCard() {
+		fetch(rootPath + '/lists/all-cards.json')
+			.then(response => response.json())
+			.then(data => {
+				const card = data.cards[Math.floor(Math.random() * data.cards.length)];
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				url.searchParams.append('set', card.set);
+				url.searchParams.append('num', card.number);
+				url.searchParams.append('name', card.card_name);
+				window.location.href = url.pathname + url.search;
+			}).catch(error => console.error('Error:', error));
+	}
+
+	const BASICS = [ 'Plains', 'Island', 'Swamp', 'Mountain', 'Forest', 'Wastes' ];
+	const loaded = {};
+
+	async function loadSource(file) {
+		if (!loaded[file]) {
+			const data = await fetch(rootPath + '/resources/jumpstart/' + file).then(r => r.json());
+			data.packs.forEach(p => p.code = data.code);
+			loaded[file] = data;
+		}
+		return loaded[file];
+	}
+
+	async function generate() {
+		const files = [...document.querySelectorAll('.js-source:checked')].map(c => c.value);
+		const pool = (await Promise.all(files.map(loadSource))).flatMap(d => d.packs);
+		if (pool.length == 0) return;
+
+		// Normal Jumpstart: open two random boosters and shuffle them together.
+		const packs = [ pool[Math.floor(Math.random() * pool.length)], pool[Math.floor(Math.random() * pool.length)] ];
+
+		const merged = new Map();
+		for (const pack of packs) {
+			for (const [qty, name, num] of pack.cards) {
+				const key = name + '|' + pack.code + '|' + num;
+				if (merged.has(key)) merged.get(key).qty += qty;
+				else merged.set(key, { qty, name, code: pack.code, num });
+			}
+		}
+		const lines = [...merged.values()]
+			.sort((a, b) => BASICS.includes(a.name) - BASICS.includes(b.name))
+			.map(c => `${c.qty} ${c.name} (${c.code})${c.num ? ' ' + c.num : ''}`);
+
+		const headers = document.getElementById('headers');
+		headers.innerHTML = '';
+		for (const pack of packs) {
+			const fig = document.createElement('figure');
+			if (pack.header) {
+				const img = document.createElement('img');
+				img.src = pack.header;
+				img.alt = pack.theme;
+				fig.appendChild(img);
+			}
+			const cap = document.createElement('figcaption');
+			cap.textContent = pack.name;
+			fig.appendChild(cap);
+			headers.appendChild(fig);
+		}
+		document.getElementById('decklist').textContent = lines.join('\n');
+		document.getElementById('copy-btn').textContent = 'Copy';
+		document.getElementById('result').style.display = 'block';
+	}
+
+	function copyList() {
+		navigator.clipboard.writeText(document.getElementById('decklist').textContent)
+			.then(() => document.getElementById('copy-btn').textContent = 'Copied!');
+	}
+</script>
+</body>
+</html>
