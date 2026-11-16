@@ -160,6 +160,8 @@
 		<h1>Jumpstart</h1>
 		<div class="panel">
 			<label><input type="checkbox" class="js-source" value="J22.json" checked> Jumpstart 2022 (J22, 121 packs)</label>
+			<label><input type="checkbox" class="js-source" value="J25.json" checked> Foundations Jumpstart (J25, 121 packs)</label>
+			<label><input type="checkbox" class="js-source" value="JMP.json" checked> Jumpstart (JMP, 121 packs)</label>
 			<button onclick="generate()">Generate deck</button>
 		</div>
 		<div id="result" style="display: none;">
@@ -218,10 +220,11 @@
 
 		const merged = new Map();
 		for (const pack of packs) {
-			for (const [qty, name, num] of pack.cards) {
-				const key = name + '|' + pack.code + '|' + num;
+			for (const [qty, name, num, set] of pack.cards) {
+				const code = set || pack.code;
+				const key = name + '|' + code + '|' + num;
 				if (merged.has(key)) merged.get(key).qty += qty;
-				else merged.set(key, { qty, name, code: pack.code, num });
+				else merged.set(key, { qty, name, code, num });
 			}
 		}
 		const lines = [...merged.values()]

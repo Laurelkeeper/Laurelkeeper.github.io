@@ -2,7 +2,8 @@ import os
 import json
 
 #CE: Tools tab. Jumpstart sources are JSON files in resources/jumpstart, one per product:
-#CE: { "code": "J22", "name": "...", "packs": [ { "name", "theme", "header", "cards": [[qty, name, number], ...] } ] }
+#CE: { "code": "J22", "name": "...", "packs": [ { "name", "theme", "header", "cards": [[qty, name, number, set?], ...] } ] }
+#CE: the optional 4th card field overrides the set code for cards printed in another set (e.g. M21 cards in JMP packs)
 
 PAGE_JS = '''
 	document.getElementById("search").addEventListener("keypress", function(event) {
@@ -210,10 +211,11 @@ def generateJumpstart():
 
 		const merged = new Map();
 		for (const pack of packs) {
-			for (const [qty, name, num] of pack.cards) {
-				const key = name + '|' + pack.code + '|' + num;
+			for (const [qty, name, num, set] of pack.cards) {
+				const code = set || pack.code;
+				const key = name + '|' + code + '|' + num;
 				if (merged.has(key)) merged.get(key).qty += qty;
-				else merged.set(key, { qty, name, code: pack.code, num });
+				else merged.set(key, { qty, name, code, num });
 			}
 		}
 		const lines = [...merged.values()]
